@@ -78,7 +78,6 @@ El estado global de sus metadatos es {CORRECTO|INCORRECTO según DataJson.is_val
 Los metadatos a nivel catálogo son {CORRECTOS|INCORRECTOS según DataJson.validate_catalog["error"]["catalog"]["status"]}. 
 
 ## Datasets
-### Resumen
 - {título del dataset 1}:
   - Estado de metadatos: {CORECTO|INCORRECTO según DataJson.validate_catalog["error"]["dataset"][0]["status"]}
   - ID: {identifier del dataset 1}
