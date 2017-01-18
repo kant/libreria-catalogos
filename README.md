@@ -18,8 +18,15 @@ Cuando la cantidad organismos externos participantes del PAD crezca lo suficient
 Construir una **librería de catálogos**, en la que el operador del Portal Nacional tenga a su disposición **localmente**, por cada organismo participante,
 1. `data.XXX`: la última versión del archivo de metadatos mantenido por el organismo, en su formato original,
 2. `data.json`: (cuando (1) no esté en formato JSON), el archivo de metadatos en formato JSON que se deriva de procesar (1),
-3. `validacion.json`: el resultado _completo_ de la validación del archivo de metadatos (2), según `DataJson.validate_catalog`, y
-4. `resumen.md`: un resumen humanamente legible con los títulos y cantidad de datasets del catálogo, y la cantidad y títulos de distribuciones por dataset.
+
+Adicionalmente, y en función de los requerimientos delineados por el operador y su discusión con la dirección del equipo, se agregarán por cada catálogo una serie de reportes auxiliares que faciliten la tarea de decidir qué datasets cosechar. Algunos posibles son:
+1. `validacion.json`: el resultado _completo_ de la validación del archivo de metadatos (2), según `DataJson.validate_catalog`, y
+2. `errores.csv`: un informe en formato tabular con la lista completa de errores surgidos de `DataJson.validate_catalog`
+3. `README.md`: un resumen humanamente legible con la metadata a nivel catálogo, y la cantidad de datasets y distribuciones presentes en el catálogo,
+4. `datasets.csv`: un informe en formato tabular que incluya, junto con algunos valores claves de la metadata de cada dataset, estadísticas básicas sobre:
+  - cantidad de distribuciones
+  - resultado de la validación de sus metadatos
+  - una bandera (*flag*) que indique si el dataset es nuevo (i.e., fue incluido en el catálogo en la última actualización).
 
 ### Estructura
 Esta librería de catálogos consiste en un directorio bajo control de versiones (a través de `git`, en un repositorio remoto o local, público o privado según se decida), con la siguiente estructura de archivos y carpetas:
@@ -61,26 +68,5 @@ Todas las mañanas, en un horario predeterminado antes del comienzo de la jornad
 1. Crea en `archivo/` una nueva carpeta con la fecha corriente, y la usa como directorio de trabajo.
 2. Por cada `organismo` presente en `indice.yaml`, genera una carpeta a su nombre, y descarga a ella el catálogo mantenido externamente por el organismo, según especifiquen las variables "url", "formato" y "metodo". El archivo se guardará con el nombre `data.XXX`, donde "XXX" es la extensión especificada en "formato".
 3. Por cada `organismo` presente en `indice.yaml` cuyo "formato" es distinto a JSON, se ejecutará la rutina adecuada del módulo `pydatajson` para tansformar `data.XXX` a formato JSON. Su resultado será guardado con el nombre `data.json`.
-4. Sobre los catálogos en formato JSON de cada organismo, se ejecutará la rutina `DataJson.validate_catalog()`, y su resultado será guardado con el nombre `validacion.json`.
-5. Utilizando como inputs `data.json` y `validacion.json`, se generará un resumen en formato Markdown (apropiadamente nombreado `resumen.md`), con el siguiente formato:
-```
-# {Título del Catálogo}
-- {organismo responsable}
-- {fecha de generación del resumen}
-
-## Resumen general
-{título del catálogo} contiene {cantidad de datasets} datasets.
-El estado global de sus metadatos es {CORRECTO|INCORRECTO según DataJson.is_valid_catalog()}.
-Los metadatos a nivel catálogo son {CORRECTOS|INCORRECTOS según DataJson.validate_catalog["error"]["catalog"]["status"]}. 
-
-## Datasets
-### Resumen
-- {título del dataset 1}:
-  - Estado de metadatos: {CORECTO|INCORRECTO según DataJson.validate_catalog["error"]["dataset"][0]["status"]}
-  - ID: {identifier del dataset 1}
-  - Número de distribuciones: {cantidad de distribuciones}
-- {título del dataset 1}:
- - {...}
-```
-
+4. Sobre los catálogos en formato JSON de cada organismo, se ejecutarán las rutinas necesarias para generar los informes auxiliares que el operador requiera.
 6. Para cada organismo, los contenidos de `archivo/fecha-corriente/organismoX` se copiarán en su totalidad a la carpeta bajo control de versiones correspondiente al organismo en la raíz del repositorio. De haber algún cambio según `git status`, dichos cambios se "commitearán" al control de versiones, de manera que el operador pueda revisar los cambios entre la última versión y la actual de manera sucinta, utilizando, según le convenga al nivel de desagregación buscado, `data.json`, `validacion.json` o `resumen.md`.
