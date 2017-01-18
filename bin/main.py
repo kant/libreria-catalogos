@@ -67,7 +67,7 @@ def descargar_catalogo(alias_organismo):
     config = ORGANISMOS[alias_organismo]
     archivo_local = nombre_catalogo(alias_organismo)
 
-    metodo = config["metodo"]
+    metodo = config.get("metodo")
     if metodo is None or metodo == "get":
         guardar_resultado_get(config["url"], archivo_local)
     else:
@@ -165,10 +165,12 @@ def rutina_diaria():
             catalogo = read_catalog(nombre_catalogo(organismo))
             write_json_catalog(catalogo, "data.json")
 
+        os.chdir("..")
+
     os.chdir(DIR_RAIZ)
 
     # Actualizo las carpetas bajo control de versiones
-    archivos_del_dia = glob.glob("{}/*/*".format(DIR_RAIZ))
+    archivos_del_dia = glob.glob("{}/*/*".format(DIR_HOY))
     for archivo in archivos_del_dia:
         actualizar_versionado(archivo)
 
