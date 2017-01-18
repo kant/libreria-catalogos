@@ -21,6 +21,7 @@ Construir una **librería de catálogos**, en la que el operador del Portal Naci
 2. `data.json`: (cuando (1) no esté en formato JSON), el archivo de metadatos en formato JSON que se deriva de procesar (1),
 
 Adicionalmente, y en función de los requerimientos delineados por el operador y su discusión con la dirección del equipo, se agregarán por cada catálogo una serie de reportes auxiliares que faciliten la tarea de decidir qué datasets cosechar. Algunos posibles son:
+
 1. `validacion.json`: el resultado _completo_ de la validación del archivo de metadatos (2), según `DataJson.validate_catalog`, y
 2. `errores.csv`: un informe en formato tabular con la lista completa de errores surgidos de `DataJson.validate_catalog`
 3. `README.md`: un resumen humanamente legible con la metadata a nivel catálogo, y la cantidad de datasets y distribuciones presentes en el catálogo,
