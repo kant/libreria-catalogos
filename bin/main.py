@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """Rutina de actualización diaria del repositorio libreria-catalogos."""
 import os
+import sys
 import warnings
 import glob
 import filecmp
@@ -101,9 +102,9 @@ def asistente_versionado(archivo_diario):
     """
     lista = archivo_diario.split("/")
 
-    archivo_versionado = "/".join(lista[2:])
-    organismo = lista[2]
-    fecha = lista[1]
+    archivo_versionado = "/".join(lista[-2:])
+    organismo = lista[-2]
+    fecha = lista[-3]
 
     return archivo_versionado, organismo, fecha
 
@@ -127,7 +128,7 @@ def actualizar_versionado(archivo_diario):
 
     if not os.path.isfile(archivo_versionado):
         # El archivo no existe bajo control de versiones.
-        commit_msg = " Agrego archivo {} encontrado el {}".format(
+        commit_msg = "Agrego archivo {} encontrado el {}".format(
             archivo_versionado, fecha)
     elif not filecmp.cmp(archivo_diario, archivo_versionado):
         # Las variante diaria y la versionada difieren en su contenido.
@@ -178,4 +179,10 @@ def rutina_diaria():
     GIT.push("origin", "master")
 
 if __name__ == "__main__":
-    rutina_diaria()
+    args = sys.argv[1:]
+    if args:
+        rutina = args.pop(0)
+        if rutina == "rutina_diaria":
+            rutina_diaria()
+        else:
+            warnings.warn("No se reconoce el argumento {}".format(rutina))
