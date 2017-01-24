@@ -1,47 +1,6 @@
 {
     "dataset": [
         {
-            "issued": "2016-09-19T17:30:38.744175",
-            "superTheme": [
-                "JUST"
-            ],
-            "title": "Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional",
-            "theme": [
-                "derechos-humanos"
-            ],
-            "description": "El registro analiza las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en la Secretaría de Derechos Humanos.",
-            "contactPoint": {
-                "hasEmail": "dnpcvi@jus.gov.ar",
-                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional"
-            },
-            "landingPage": "http://datos.jus.gob.ar/dataset/base-de-datos-legislativos-infoleg",
-            "publisher": {
-                "mbox": "dnpcvi@jus.gov.ar",
-                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional"
-            },
-            "keyword": [
-                "denuncias",
-                "derechos humanos",
-                "violación a los derechos humanos",
-                "violencia institucional"
-            ],
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "modified": "2016-11-30T18:17:22.710496",
-            "accrualPeriodicity": "R/P3M",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/unidad-de-registro-sistematizacion-y-seguimiento-de-hechos-de-violencia-institucional/archivo/56dbd545-f102-4fbd-be48-0edb9b1f846c",
-                    "description": "Seguimientos de hechos de violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos.",
-                    "title": "Seguimiento de hechos de violencia institucional",
-                    "issued": "2016-09-30T10:34:17.459968",
-                    "format": "CSV",
-                    "modified": "2016-09-30T16:02:40.545302",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/c64b3899-65df-4024-afe8-bdf971f30dd8/resource/56dbd545-f102-4fbd-be48-0edb9b1f846c/download/violencia-institucional.csv"
-                }
-            ],
-            "identifier": "c64b3899-65df-4024-afe8-bdf971f30dd8"
-        },
-        {
             "issued": "2016-09-05T18:25:21.249967",
             "superTheme": [
                 "JUST"
@@ -55,7 +14,7 @@
                 "hasEmail": "datosabiertos@saij.gob.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/centros-de-acceso-a-la-justicia",
+            "landingPage": "http://datos.jus.gob.ar/dataset/base-de-datos-legislativos-infoleg",
             "publisher": {
                 "mbox": "datosabiertos@saij.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
@@ -78,32 +37,32 @@
                     "accessURL": "http://datos.jus.gob.ar/dataset/base-de-datos-legislativos-infoleg/archivo/8db246a2-48dd-4f2f-b08e-ab6293747882",
                     "field": [
                         {
-                            "description": 1,
+                            "description": "Identificador único de la norma dentro de la base de datos.",
                             "title": "id_norma",
                             "type": "integer"
                         },
                         {
-                            "description": 2,
+                            "description": "Tipo legal de la norma (Ley, Decreto, etc.).",
                             "title": "tipo_norma",
                             "type": "string"
                         },
                         {
-                            "description": 3,
+                            "description": "Número de norma.",
                             "title": "numero_norma",
                             "type": "string"
                         },
                         {
-                            "description": 4,
+                            "description": "indica la clase de la norma.",
                             "title": "clase_norma",
                             "type": "string"
                         },
                         {
-                            "description": 5,
+                            "description": "Organismo de origen. Organismo que dictó/ sancionó la norma.",
                             "title": "organismo_origen",
                             "type": "string"
                         },
                         {
-                            "description": 6,
+                            "description": "Número de boletin oficial en el que se publicó la norma.",
                             "title": "numero_boletin",
                             "type": "string"
                         },
@@ -281,15 +240,6 @@
                     "format": "CSV",
                     "modified": "2016-12-19T14:47:21.330355",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/f9170086-6538-44f1-8c7e-3e193c1fea7f/download/basecomplementariainfolegnormasmodificatorias.csv"
-                },
-                {
-                    "accessURL": "dsa",
-                    "description": "dsa",
-                    "title": "dsa",
-                    "issued": "dsa",
-                    "format": "dsa",
-                    "modified": "das",
-                    "downloadURL": "dsa"
                 }
             ],
             "identifier": "d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23"
@@ -308,7 +258,7 @@
                 "hasEmail": "rcoutenceau@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/conarc",
+            "landingPage": "http://datos.jus.gob.ar/dataset/centros-de-acceso-a-la-justicia",
             "publisher": {
                 "mbox": "rcoutenceau@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia"
@@ -394,7 +344,7 @@
                 "hasEmail": "mpolimeni@dnrec.jus.gov.ar",
                 "fn": "Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Direccion Nacional Registro Nacional de Reincidencia"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/declaraciones-juradas-patrimoniales-integrales",
+            "landingPage": "http://datos.jus.gob.ar/dataset/conarc",
             "publisher": {
                 "mbox": "fmichele@dnrec.jus.gov.ar",
                 "name": "Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Direccion Nacional Registro Nacional de Reincidencia"
@@ -486,7 +436,7 @@
                 "hasEmail": "uniddjjoa@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción."
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/entidades-constituidas-en-la-inspeccion-general-de-justicia-igj",
+            "landingPage": "http://datos.jus.gob.ar/dataset/declaraciones-juradas-patrimoniales-integrales",
             "publisher": {
                 "mbox": "uniddjjoa@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción."
@@ -557,7 +507,7 @@
                 "hasEmail": "dmiralles@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/inscripciones-iniciales-de-automotores-y-motovehiculos",
+            "landingPage": "http://datos.jus.gob.ar/dataset/entidades-constituidas-en-la-inspeccion-general-de-justicia-igj",
             "publisher": {
                 "mbox": "dmiralles@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia"
@@ -571,7 +521,7 @@
                 "personas jurídicas",
                 "sociedades"
             ],
-            "license": "Creative Commons Attribution",
+            "license": "Open Data Commons Open Database License (ODbL)",
             "modified": "2016-12-07T16:01:29.898326",
             "accrualPeriodicity": "R/P1M",
             "distribution": [
@@ -727,7 +677,7 @@
                 "hasEmail": "accesobd@dnrpa.gov.ar",
                 "fn": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/internos-del-servicio-penitenciario-federal-spf",
+            "landingPage": "http://datos.jus.gob.ar/dataset/inscripciones-iniciales-de-automotores-y-motovehiculos",
             "publisher": {
                 "mbox": "accesobd@dnrpa.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
@@ -742,7 +692,7 @@
                 "registración",
                 "transferencias"
             ],
-            "license": "Open Data Commons Open Database License (ODbL)",
+            "license": "Creative Commons Attribution",
             "modified": "2016-12-05T18:13:17.429300",
             "accrualPeriodicity": "R/P1M",
             "distribution": [
@@ -767,7 +717,7 @@
             "contactPoint": {
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/listado-de-registros-seccionales-de-la-dnrnpa",
+            "landingPage": "http://datos.jus.gob.ar/dataset/internos-del-servicio-penitenciario-federal-spf",
             "publisher": {
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal"
             },
@@ -783,6 +733,7 @@
                 "procesal"
             ],
             "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Internos del Servicio Penitenciario Federal - SPF",
             "modified": "2016-12-13T19:39:06.569020",
             "theme": [
                 "sistema-penitenciario"
@@ -860,7 +811,7 @@
                 "hasEmail": "accesobd@dnrpa.gov.ar",
                 "fn": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/magistrados-justicia-federal-y-de-la-justicia-nacional",
+            "landingPage": "http://datos.jus.gob.ar/dataset/listado-de-registros-seccionales-de-la-dnrnpa",
             "publisher": {
                 "mbox": "accesobd@dnrpa.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
@@ -903,7 +854,7 @@
                 "hasEmail": "oficinadecretos@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/mediaciones-prejudiciales-y-judiciales",
+            "landingPage": "http://datos.jus.gob.ar/dataset/magistrados-justicia-federal-y-de-la-justicia-nacional",
             "publisher": {
                 "mbox": "oficinadecretos@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
@@ -922,7 +873,7 @@
                 "vacante",
                 "órgano"
             ],
-            "license": "Creative Commons Attribution",
+            "license": "Open Data Commons Open Database License (ODbL)",
             "modified": "2016-12-07T20:43:07.256061",
             "accrualPeriodicity": "eventual",
             "distribution": [
@@ -970,7 +921,7 @@
                 "hasEmail": "allamosa@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos."
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/registro-sistematizacion-y-seguimiento-de-femicidios-y-homicidios-agravados-por-el-genero",
+            "landingPage": "http://datos.jus.gob.ar/dataset/mediaciones-prejudiciales-y-judiciales",
             "publisher": {
                 "mbox": "allamosa@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos."
@@ -980,7 +931,7 @@
                 "prejudicial",
                 "resolución alternativa de conflictos"
             ],
-            "license": "Open Data Commons Open Database License (ODbL)",
+            "license": "Creative Commons Attribution",
             "modified": "2016-12-05T20:09:47.885628",
             "accrualPeriodicity": "R/P1M",
             "distribution": [
@@ -1010,7 +961,7 @@
                 "hasEmail": "registro_femicidios@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Dirección Nacional de Asuntos Jurídicos en materia de Derechos Humanos. Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/registro-unificado-de-victimas-del-terrorismo-de-estado-ruvte",
+            "landingPage": "http://datos.jus.gob.ar/dataset/registro-sistematizacion-y-seguimiento-de-femicidios-y-homicidios-agravados-por-el-genero",
             "publisher": {
                 "mbox": "registro_femicidios@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Dirección Nacional de Asuntos Jurídicos en materia de Derechos Humanos. Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género"
@@ -1051,7 +1002,7 @@
                 "hasEmail": "addhh@jus.gob.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Registro Unificado de Víctimas del Terrorismo de Estado"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/sneep",
+            "landingPage": "http://datos.jus.gob.ar/dataset/registro-unificado-de-victimas-del-terrorismo-de-estado-ruvte",
             "publisher": {
                 "mbox": "addhh@jus.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Registro Unificado de Víctimas del Terrorismo de Estado"
@@ -1102,7 +1053,7 @@
                 "hasEmail": "CGonzalezGuerra@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal."
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/solicitudes-condicion-legitimo-usuario-armas-fuego",
+            "landingPage": "http://datos.jus.gob.ar/dataset/sneep",
             "publisher": {
                 "mbox": "CGonzalezGuerra@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal."
@@ -1264,7 +1215,7 @@
                 "hasEmail": "informatica@anmac.gob.ar",
                 "fn": "Agencia Nacional de materiales Controlados - Coordinación de Sistemas"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/solicitudes-de-autorizacion-de-portacion-de-armas-de-fuego",
+            "landingPage": "http://datos.jus.gob.ar/dataset/solicitudes-condicion-legitimo-usuario-armas-fuego",
             "publisher": {
                 "mbox": "informatica@anmac.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de materiales Controlados - Coordinación de Sistemas"
@@ -1306,7 +1257,7 @@
                 "hasEmail": "informatica@anmac.gob.ar",
                 "fn": "Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas."
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/unidad-de-registro-sistematizacion-y-seguimiento-de-hechos-de-violencia-institucional",
+            "landingPage": "http://datos.jus.gob.ar/dataset/solicitudes-de-autorizacion-de-portacion-de-armas-de-fuego",
             "publisher": {
                 "mbox": "informatica@anmac.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas."
@@ -1332,6 +1283,47 @@
                 }
             ],
             "identifier": "35278d98-c274-4612-9d1d-72d0d0923368"
+        },
+        {
+            "issued": "2016-09-19T17:30:38.744175",
+            "superTheme": [
+                "JUST"
+            ],
+            "title": "Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional",
+            "theme": [
+                "derechos-humanos"
+            ],
+            "description": "El registro analiza las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en la Secretaría de Derechos Humanos.",
+            "contactPoint": {
+                "hasEmail": "dnpcvi@jus.gov.ar",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional"
+            },
+            "landingPage": "http://datos.jus.gob.ar/dataset/unidad-de-registro-sistematizacion-y-seguimiento-de-hechos-de-violencia-institucional",
+            "publisher": {
+                "mbox": "dnpcvi@jus.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional"
+            },
+            "keyword": [
+                "denuncias",
+                "derechos humanos",
+                "violación a los derechos humanos",
+                "violencia institucional"
+            ],
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "modified": "2016-11-30T18:17:22.710496",
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/unidad-de-registro-sistematizacion-y-seguimiento-de-hechos-de-violencia-institucional/archivo/56dbd545-f102-4fbd-be48-0edb9b1f846c",
+                    "description": "Seguimientos de hechos de violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos.",
+                    "title": "Seguimiento de hechos de violencia institucional",
+                    "issued": "2016-09-30T10:34:17.459968",
+                    "format": "CSV",
+                    "modified": "2016-09-30T16:02:40.545302",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/c64b3899-65df-4024-afe8-bdf971f30dd8/resource/56dbd545-f102-4fbd-be48-0edb9b1f846c/download/violencia-institucional.csv"
+                }
+            ],
+            "identifier": "c64b3899-65df-4024-afe8-bdf971f30dd8"
         }
     ],
     "publisher": {
