@@ -12,6 +12,7 @@ import yaml
 import sh
 from pydatajson.pydatajson import read_catalog
 from pydatajson.xlsx_to_json import write_json_catalog
+from pydatajson import DataJson
 
 DIR_RAIZ = os.getcwd()
 DIR_ARCHIVO = os.path.join(DIR_RAIZ, "archivo/")
@@ -147,6 +148,8 @@ def actualizar_versionado(archivo_diario):
 
 def rutina_diaria():
     """Rutina a ser ejecutada cada mañana por cron."""
+    # Creo un objeto DataJson para ejecutar validaciones por organismo:
+    dj = DataJson()
 
     # Si un organismo no tiene directorio bajo control de versiones, lo creo
     crear_dirs_organismos()
@@ -166,6 +169,11 @@ def rutina_diaria():
             catalogo = read_catalog(nombre_catalogo(organismo))
             write_json_catalog(catalogo, "data.json")
 
+        # Genero el README y los reportes auxiliares
+        dj.generate_catalog_readme(catalogo, export_path="README.md")
+        dj.generate_datasets_summary(catalogo, export_path="datasets.csv")
+
+        # Retorno a la raíz antes de comenzar con el siguiente organismo
         os.chdir("..")
 
     os.chdir(DIR_RAIZ)
