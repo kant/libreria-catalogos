@@ -1,0 +1,5 @@
+ROOT_DIR=/home/gonzalo/datosgobar/libreria-catalogos
+PYTHON=/home/gonzalo/anaconda2/envs/lib_catalogos/bin/python
+
+# m h  dom mon dow   command
+00 6 * * * cd $ROOT_DIR && $PYTHON main.py rutina_diaria
