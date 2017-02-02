@@ -10,8 +10,8 @@ import arrow
 import requests
 import yaml
 import sh
-from pydatajson.pydatajson import read_catalog
-from pydatajson.xlsx_to_json import write_json_catalog
+from pydatajson.readers import read_catalog
+from pydatajson.writers import write_json_catalog
 from pydatajson import DataJson
 
 DIR_RAIZ = os.getcwd()
