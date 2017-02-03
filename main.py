@@ -6,6 +6,7 @@ import sys
 import warnings
 import glob
 import filecmp
+import logging
 import arrow
 import requests
 import yaml
@@ -13,6 +14,7 @@ import sh
 from pydatajson.readers import read_catalog
 from pydatajson.writers import write_json_catalog
 from pydatajson import DataJson
+
 
 DIR_RAIZ = os.getcwd()
 DIR_ARCHIVO = os.path.join(DIR_RAIZ, "archivo/")
@@ -148,43 +150,67 @@ def actualizar_versionado(archivo_diario):
 
 def rutina_diaria():
     """Rutina a ser ejecutada cada mañana por cron."""
+
+    # Configuro logging de la sesión
+    HOY = arrow.now().format('YYYY-MM-DD')
+    logger = logging.getLogger()
+    logger.setLevel(logging.INFO)
+    logging.basicConfig(format='%(asctime)s [%(levelname)s]: %(message)s',
+                        datefmt='%m/%d/%Y %I:%M:%S',
+                        filename='logs/{}-rutina_diaria.log'.format(HOY))
+
+    logging.info("COMIENZO de la rutina.")
+
     # Creo un objeto DataJson para ejecutar validaciones por organismo:
+    logging.info('Instancio DataJson')
     dj = DataJson()
 
     # Si un organismo no tiene directorio bajo control de versiones, lo creo
+    logging.info('Creo carpetas versionadas por organismo de ser necesario.')
     crear_dirs_organismos()
 
     # Creo el archivo para el día de hoy, con sus directorios por organismo
+    logging.info('Creo el archivo para el día de hoy.')
     crear_dir_hoy()
     os.chdir(DIR_HOY)
     crear_dirs_organismos()
 
-    # Descargo los catálogos de cada organismo
+    logging.info('Procesamiento de cada organismo:')
     for (organismo, config) in ORGANISMOS.iteritems():
+        # Descargo el catálogo del organismo
+        logging.info("=== {} ===".format(organismo.upper()))
+        logging.info("- CD y descarga de catálogo")
         os.chdir(organismo)
         descargar_catalogo(organismo)
 
         # Para los catálogos en formato XLSX, genero el JSON correspondiente
         if config["formato"] == "xlsx":
+            logging.info("- Transformación de XLSX a JSON")
             catalogo = read_catalog(nombre_catalogo(organismo))
             write_json_catalog(catalogo, "data.json")
 
         # Genero el README y los reportes auxiliares
+
+        logging.info("- Generación de reportes")
         dj.generate_catalog_readme(catalogo, export_path="README.md")
         dj.generate_datasets_summary(catalogo, export_path="datasets.csv")
-
+        raise AssertionError
         # Retorno a la raíz antes de comenzar con el siguiente organismo
         os.chdir("..")
+        logging.info("Fin procesamiento {}".format(organismo.upper()))
 
     os.chdir(DIR_RAIZ)
 
-    # Actualizo las carpetas bajo control de versiones
+    logging.info("Actualizo los archivos bajo control de versiones:")
     archivos_del_dia = glob.glob("{}/*/*".format(DIR_HOY))
     for archivo in archivos_del_dia:
+        logging.debug("- {}".format(archivo))
         actualizar_versionado(archivo)
 
-    # Pusheo los cambios encontrados.
+    logging.info("Pusheo los cambios encontrados.")
     GIT.push("origin", "master")
+
+    logging.info("FIN de la rutina.")
 
 if __name__ == "__main__":
     args = sys.argv[1:]
