@@ -194,7 +194,6 @@ def rutina_diaria():
         logging.info("- Generación de reportes")
         dj.generate_catalog_readme(catalogo, export_path="README.md")
         dj.generate_datasets_summary(catalogo, export_path="datasets.csv")
-        raise AssertionError
         # Retorno a la raíz antes de comenzar con el siguiente organismo
         os.chdir("..")
         logging.info("Fin procesamiento {}".format(organismo.upper()))
