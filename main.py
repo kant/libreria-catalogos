@@ -28,8 +28,8 @@ GIT = sh.git.bake(_cwd=DIR_RAIZ)
 
 
 def crear_dirs_organismos():
-    """Para cada organismo del indice, crear un directorio si no existe."""
-    for organismo in ORGANISMOS.keys():
+    """Para cada organismo del índice, crear un directorio si no existe."""
+    for organismo in ORGANISMOS:
         if not os.path.isdir(organismo):
             os.mkdir(organismo)
 
