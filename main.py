@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """Rutina de actualización diaria del repositorio libreria-catalogos."""
 import os
+import sys
 import warnings
 import glob
 import filecmp
@@ -15,33 +16,28 @@ from pydatajson.writers import write_json_catalog
 from pydatajson import DataJson
 
 
-DIR_RAIZ = os.getcwd()
-DIR_ARCHIVO = os.path.join(DIR_RAIZ, "archivo/")
-HOY = arrow.now()
-FECHA_HOY = HOY.format("YYYY-MM-DD")
-DIR_HOY = os.path.join(DIR_ARCHIVO, FECHA_HOY)
-INDICE = os.path.join(DIR_RAIZ, "indice.yml")
-with open(INDICE) as config_file:
-    ORGANISMOS = yaml.load(config_file)
-GIT = sh.git.bake(_cwd=DIR_RAIZ)
+ROOT_DIR = os.getcwd()
+ARCHIVO_DIR = "archivo"
+TODAY = arrow.now()
+DATE_TODAY = TODAY.format("YYYY-MM-DD")
+TODAY_DIR = os.path.join(ARCHIVO_DIR, DATE_TODAY)
+INDEX = os.path.join(ROOT_DIR, "indice.yml")
+with open(INDEX) as config_file:
+    ORGANISMS = yaml.load(config_file)
+
+GIT = sh.git.bake(_cwd=ROOT_DIR)
 
 
-def crear_dirs_organismos():
-    """Para cada organismo del índice, crear un directorio si no existe."""
-    for organismo in ORGANISMOS:
-        if not os.path.isdir(organismo):
-            os.mkdir(organismo)
+def ensure_dir_exists(target_dir):
+    start_dir = os.getcwd()
 
+    if not os.path.isdir(target_dir):
+        for dirr in target_dir.split(os.path.sep):
+            if not os.path.isdir(dirr):
+                os.mkdir(dirr)
+            os.chdir(dirr)
 
-def crear_dir_hoy():
-    """Creo el directorio para descargar los archivos diarios."""
-    if not os.path.isdir(DIR_ARCHIVO):
-        os.mkdir(DIR_ARCHIVO)
-
-    os.chdir(DIR_ARCHIVO)
-
-    if not os.path.isdir(FECHA_HOY):
-        os.mkdir(FECHA_HOY)
+    os.chdir(start_dir)
 
 
 def guardar_resultado_get(url, nombre_archivo=None):
@@ -55,7 +51,7 @@ def guardar_resultado_get(url, nombre_archivo=None):
 def nombre_catalogo(alias_organismo):
     """Devuelve el nombre local dado al catálogo de un organismo. Puede ser
     'data.xlsx' o 'data.json', según sea su 'formato'."""
-    formato = ORGANISMOS[alias_organismo].get("formato")
+    formato = ORGANISMS[alias_organismo].get("formato")
     assert_msg = """
 ERROR: {} no define un 'formato' para su catálogo""".format(alias_organismo)
     assert formato is not None, assert_msg
@@ -67,7 +63,7 @@ ERROR: {} no define un 'formato' para su catálogo""".format(alias_organismo)
 def descargar_catalogo(alias_organismo):
     """Descarga el catálogo de un organismo según especifican sus variables de
     configuración."""
-    config = ORGANISMOS[alias_organismo]
+    config = ORGANISMS[alias_organismo]
     archivo_local = nombre_catalogo(alias_organismo)
 
     metodo = config.get("metodo")
@@ -124,7 +120,7 @@ def actualizar_versionado(archivo_diario):
     NOTA: Esta función debe ejecutarse desde la raíz del repositorio.
     """
     # Me aseguro estar ubicado en la raíz del repositorio.
-    os.chdir(DIR_RAIZ)
+    os.chdir(ROOT_DIR)
 
     archivo_versionado, _, fecha = asistente_versionado(archivo_diario)
 
@@ -151,37 +147,41 @@ def rutina_diaria():
     """Rutina a ser ejecutada cada mañana por cron."""
 
     # Configuro logging de la sesión
-    HOY = arrow.now().format('YYYY-MM-DD')
+    TODAY = arrow.now().format('YYYY-MM-DD')
     logger = logging.getLogger()
     logger.setLevel(logging.INFO)
     logging.basicConfig(format='%(asctime)s [%(levelname)s]: %(message)s',
                         datefmt='%m/%d/%Y %I:%M:%S',
-                        filename='logs/{}-rutina_diaria.log'.format(HOY))
+                        filename='logs/{}-rutina_diaria.log'.format(TODAY))
+
+    def my_handler(type, value, tb):
+        logger.exception("Uncaught exception: {0}".format(str(value)))
+
+    # Install exception handler
+    sys.excepthook = my_handler
 
     logging.info("COMIENZO de la rutina.")
 
     # Creo un objeto DataJson para ejecutar validaciones por organismo:
-    logging.info('Instancio DataJson')
+    logging.info('Instanciación DataJson')
     dj = DataJson()
 
-    # Si un organismo no tiene directorio bajo control de versiones, lo creo
-    logging.info('Creo carpetas versionadas por organismo de ser necesario.')
-    crear_dirs_organismos()
-
-    # Creo el archivo para el día de hoy, con sus directorios por organismo
-    logging.info('Creo el archivo para el día de hoy.')
-    crear_dir_hoy()
-    os.chdir(DIR_HOY)
-    crear_dirs_organismos()
+    logging.info('Creación de carpetas necesarias (de archivo y versionadas).')
+    for organismo in ORGANISMS:
+        ensure_dir_exists(organismo)
+        ensure_dir_exists(os.path.join(TODAY_DIR, organismo))
 
     logging.info('Procesamiento de cada organismo:')
-    for (organismo, config) in ORGANISMOS.iteritems():
+    os.chdir(TODAY_DIR)
+
+    for (organismo, config) in ORGANISMS.iteritems():
         # Descargo el catálogo del organismo
         logging.info("=== {} ===".format(organismo.upper()))
-        logging.info("- CD y descarga de catálogo")
+        logging.info("- Descarga de catálogo")
         os.chdir(organismo)
         descargar_catalogo(organismo)
-
+        if organismo == "justicia":
+            raise AssertionError
         # Para los catálogos en formato XLSX, genero el JSON correspondiente
         if config["formato"] == "xlsx":
             logging.info("- Transformación de XLSX a JSON")
@@ -195,12 +195,11 @@ def rutina_diaria():
         dj.generate_datasets_summary(catalogo, export_path="datasets.csv")
         # Retorno a la raíz antes de comenzar con el siguiente organismo
         os.chdir("..")
-        logging.info("Fin procesamiento {}".format(organismo.upper()))
 
-    os.chdir(DIR_RAIZ)
+    os.chdir(ROOT_DIR)
 
     logging.info("Actualizo los archivos bajo control de versiones:")
-    archivos_del_dia = glob.glob("{}/*/*".format(DIR_HOY))
+    archivos_del_dia = glob.glob("{}/*/*".format(TODAY_DIR))
     for archivo in archivos_del_dia:
         logging.debug("- {}".format(archivo))
         actualizar_versionado(archivo)
