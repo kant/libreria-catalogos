@@ -211,6 +211,7 @@ def rutina_diaria():
 
     logging.info("FIN de la rutina.")
 
+
 if __name__ == "__main__":
     args = sys.argv[1:]
     if args:
