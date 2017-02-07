@@ -28,8 +28,8 @@ GIT = sh.git.bake(_cwd=DIR_RAIZ)
 
 
 def crear_dirs_organismos():
-    """Para cada organismo del indice, crear un directorio si no existe."""
-    for organismo in ORGANISMOS.keys():
+    """Para cada organismo del índice, crear un directorio si no existe."""
+    for organismo in ORGANISMOS:
         if not os.path.isdir(organismo):
             os.mkdir(organismo)
 
@@ -194,7 +194,6 @@ def rutina_diaria():
         logging.info("- Generación de reportes")
         dj.generate_catalog_readme(catalogo, export_path="README.md")
         dj.generate_datasets_summary(catalogo, export_path="datasets.csv")
-        raise AssertionError
         # Retorno a la raíz antes de comenzar con el siguiente organismo
         os.chdir("..")
         logging.info("Fin procesamiento {}".format(organismo.upper()))
@@ -211,6 +210,7 @@ def rutina_diaria():
     GIT.push("origin", "master")
 
     logging.info("FIN de la rutina.")
+
 
 if __name__ == "__main__":
     args = sys.argv[1:]
