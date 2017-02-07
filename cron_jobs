@@ -1,0 +1,2 @@
+# m h  dom mon dow   command
+05 15 * * * cd $ROOTDIR && $PYTHON main.py rutina_diaria
