@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """Rutina de actualización diaria del repositorio libreria-catalogos."""
 import os
-import sys
 import warnings
 import glob
 import filecmp
@@ -213,10 +212,4 @@ def rutina_diaria():
 
 
 if __name__ == "__main__":
-    args = sys.argv[1:]
-    if args:
-        rutina = args.pop(0)
-        if rutina == "rutina_diaria":
-            rutina_diaria()
-        else:
-            warnings.warn("No se reconoce el argumento {}".format(rutina))
+    rutina_diaria()
