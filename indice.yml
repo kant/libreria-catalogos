@@ -6,7 +6,3 @@ justicia:
 datosgobar:
   url: "http://datos.gob.ar/data.json"
   formato: "json"
-
-ejemplo:
-  url: "https://github.com/datosgobar/pydatajson/raw/master/tests/samples/full_data.json"
-  formato: "json"
