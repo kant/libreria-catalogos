@@ -71,7 +71,8 @@ def download_catalog(org_alias):
     """Descarga el catálogo de un organismo según especifican sus variables de
     configuración."""
     config = ORGANISMS[org_alias]
-    local_file = catalog_name(org_alias)
+    file_ext = config["formato"]
+    local_file = "data.{}".format(file_ext)
 
     method = config.get('metodo')
     if method is None or method == 'get':
@@ -144,25 +145,30 @@ def update_versioning(daily_file):
 
 def process_catalog(org, config, datajson):
     """Descarga y procesa el catálogo correspondiente a la organización."""
-    logging.info('=== {} ==='.format(org.upper()))
+    logging.info('=== Catálogo %s ===', org.upper())
     os.chdir(org)
     try:
-        download_catalog(org)
         logging.info('- Descarga de catálogo')
-        if org == 'justicia':
-            raise AssertionError
+        download_catalog(org)
         # For XLSX catalogs, creates corresponding JSON
-        if config['formato'] == 'xlsx':
+        file_ext = config["formato"]
+        if file_ext == 'xlsx':
             logging.info('- Transformación de XLSX a JSON')
-            catalog = read_catalog(catalog_name(org))
+            catalog = read_catalog('data.xlsx')
             write_json_catalog(catalog, 'data.json')
+        elif file_ext == 'json':
+            catalog = read_catalog('data.json')
+        else:
+            raise ValueError(
+                '%s no es una extension valida para un catalogo.', file_ext)
 
         # Creates README and auxiliary reports
         logging.info('- Generación de reportes')
         datajson.generate_catalog_readme(catalog, export_path='README.md')
         datajson.generate_datasets_summary(catalog, export_path='datasets.csv')
     except:
-        logging.error('Error al procesar el catálogo de %s', org, exc_info=True)
+        logging.error(
+            'Error al procesar el catálogo de %s', org, exc_info=True)
     finally:
         os.chdir('..')  # Returns to parent dir.
 
