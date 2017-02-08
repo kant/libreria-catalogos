@@ -28,7 +28,7 @@ with open(INDEX) as config_file:
 GIT = sh.git.bake(_cwd=ROOT_DIR)
 # Logging config
 logger = logging.getLogger()
-logger.setLevel(logging.DEBUG)
+logger.setLevel(logging.INFO)
 logging.basicConfig(format='%(asctime)s [%(levelname)s]: %(message)s',
                     datefmt='%m/%d/%Y %I:%M:%S',
                     filename='logs/{}-rutina_diaria.log'.format(DATE_TODAY))
@@ -162,7 +162,7 @@ def process_catalog(org, config, datajson):
         datajson.generate_catalog_readme(catalog, export_path='README.md')
         datajson.generate_datasets_summary(catalog, export_path='datasets.csv')
     except:
-        logging.error('Error al procesar el catálogo de %s', org)
+        logging.error('Error al procesar el catálogo de %s', org, exc_info=True)
     finally:
         os.chdir('..')  # Returns to parent dir.
 
