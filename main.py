@@ -27,12 +27,11 @@ with open(INDEX) as config_file:
 
 GIT = sh.git.bake(_cwd=ROOT_DIR)
 # Logging config
-TODAY = arrow.now().format('YYYY-MM-DD')
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 logging.basicConfig(format='%(asctime)s [%(levelname)s]: %(message)s',
                     datefmt='%m/%d/%Y %I:%M:%S',
-                    filename='logs/{}-rutina_diaria.log'.format(TODAY))
+                    filename='logs/{}-rutina_diaria.log'.format(DATE_TODAY))
 
 
 def ensure_dir_exists(target_dir):
