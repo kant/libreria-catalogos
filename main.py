@@ -73,15 +73,6 @@ def download_catalog(org_alias):
         warnings.warn('{} no es un `metodo` valido.'.format(method))
 
 
-# TODO: delete this function.
-def generar_json(catalogo_xlsx):
-    """ Toma un catálogo en formato XLSX y genera un catálogo con el mismo
-    nombre y ubicación, pero extensión y formato JSON."""
-    catalogo = read_catalog(catalogo_xlsx)
-    with open(catalogo_xlsx.replace('xls', 'json'), 'w') as catalogo_json:
-        write_json_catalog(catalogo, catalogo_json)
-
-
 def versioning_assistant(daily_file):
     """Devuelve la información de un archivo diario necesaria para actualizar
     las carpetas bajo control de versiones.
