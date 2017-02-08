@@ -143,6 +143,32 @@ def update_versioning(daily_file):
         GIT.commit(m=commit_msg)
 
 
+def process_catalog(org, config):
+    """Descarga y procesa el catálogo correspondiente a la organización."""
+    logging.info('=== {} ==='.format(org.upper()))
+    os.chdir(org)
+    try:        
+        download_catalog(org)
+        logging.info('- Descarga de catálogo')
+        if org == 'justicia':
+            raise AssertionError
+        # For XLSX catalogs, creates corresponding JSON
+        if config['formato'] == 'xlsx':
+            logging.info('- Transformación de XLSX a JSON')
+            catalog = read_catalog(catalog_name(org))
+            write_json_catalog(catalog, 'data.json')
+
+        # Creates README and auxiliary reports
+        logging.info('- Generación de reportes')
+        dj.generate_catalog_readme(catalog, export_path='README.md')
+        dj.generate_datasets_summary(catalog, export_path='datasets.csv')
+    except:
+        logging.error('Error al procesar el catálogo de {}'.format(org))
+    finally:
+        os.chdir('..') # Returns to parent dir.
+
+
+
 def daily_routine():
     """Rutina a ser ejecutada cada mañana por cron."""
 
@@ -154,7 +180,7 @@ def daily_routine():
 
     logging.info('COMIENZO de la rutina.')
 
-    # Creo un objeto DataJson para ejecutar validaciones por organismo:
+    # Creates DataJson object to validate oragnisms
     logging.info('Instanciación DataJson')
     dj = DataJson()
 
@@ -167,34 +193,17 @@ def daily_routine():
     os.chdir(TODAY_DIR)
 
     for org, config in ORGANISMS.iteritems():
-        logging.info('=== {} ==='.format(org.upper()))
-        logging.info('- Descarga de catálogo')
-        os.chdir(org)
-        download_catalog(org)
-        if org == 'justicia':
-            raise AssertionError
-        # For XLSX catalogs, create corresponding JSON
-        if config['formato'] == 'xlsx':
-            logging.info('- Transformación de XLSX a JSON')
-            catalog = read_catalog(catalog_name(org))
-            write_json_catalog(catalog, 'data.json')
-
-        # Create README and auxiliary reports
-        logging.info('- Generación de reportes')
-        dj.generate_catalog_readme(catalogo, export_path='README.md')
-        dj.generate_datasets_summary(catalogo, export_path='datasets.csv')
-        # Return to root path before procesing next org.
-        os.chdir('..')
+        process_catalog(org, config)
 
     os.chdir(ROOT_DIR)
 
     logging.info('Actualizo los archivos bajo control de versiones:')
-    archivos_del_dia = glob.glob('{}/*/*'.format(TODAY_DIR))
-    for archivo in archivos_del_dia:
-        logging.debug('- {}'.format(archivo))
-        update_versioning(archivo)
+    files_of_day = glob.glob('{}/*/*'.format(TODAY_DIR))
+    for catalog in files_of_day:
+        logging.debug('- {}'.format(catalog))
+        update_versioning(catalog)
 
-    logging.info('Pusheo los cambios encontrados.')
+    logging.info('Push de los cambios encontrados.')
     GIT.push('origin', 'master')
 
     logging.info('FIN de la rutina.')
