@@ -142,7 +142,7 @@ def update_versioning(daily_file):
         GIT.commit(m=commit_msg)
 
 
-def process_catalog(org, config):
+def process_catalog(org, config, datajson):
     """Descarga y procesa el catálogo correspondiente a la organización."""
     logging.info('=== {} ==='.format(org.upper()))
     os.chdir(org)
@@ -159,8 +159,8 @@ def process_catalog(org, config):
 
         # Creates README and auxiliary reports
         logging.info('- Generación de reportes')
-        dj.generate_catalog_readme(catalog, export_path='README.md')
-        dj.generate_datasets_summary(catalog, export_path='datasets.csv')
+        datajson.generate_catalog_readme(catalog, export_path='README.md')
+        datajson.generate_datasets_summary(catalog, export_path='datasets.csv')
     except:
         logging.error('Error al procesar el catálogo de {}'.format(org))
     finally:
@@ -180,7 +180,7 @@ def daily_routine():
 
     # Creates DataJson object to validate oragnisms
     logging.info('Instanciación DataJson')
-    dj = DataJson()
+    datajson = DataJson()
 
     logging.info('Creación de carpetas necesarias (de archivo y versionadas).')
     for org in ORGANISMS:
@@ -191,7 +191,7 @@ def daily_routine():
     os.chdir(TODAY_DIR)
 
     for org, config in ORGANISMS.iteritems():
-        process_catalog(org, config)
+        process_catalog(org, config, datajson)
 
     os.chdir(ROOT_DIR)
 
