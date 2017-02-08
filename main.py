@@ -26,9 +26,17 @@ with open(INDEX) as config_file:
     ORGANISMS = yaml.load(config_file)
 
 GIT = sh.git.bake(_cwd=ROOT_DIR)
+# Logging config
+TODAY = arrow.now().format('YYYY-MM-DD')
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
+logging.basicConfig(format='%(asctime)s [%(levelname)s]: %(message)s',
+                    datefmt='%m/%d/%Y %I:%M:%S',
+                    filename='logs/{}-rutina_diaria.log'.format(TODAY))
 
 
 def ensure_dir_exists(target_dir):
+    """Crea el directorio que llega como parámetro si no existe."""
     start_dir = os.getcwd()
 
     if not os.path.isdir(target_dir):
@@ -41,7 +49,7 @@ def ensure_dir_exists(target_dir):
 
 
 def save_get_result(url, file_name=None):
-    """Guardo el resultado de un request GET a disco."""
+    """Guarda el resultado de un request GET a disco."""
     file_name = file_name or url.split('/')[-1]
     res = requests.get(url)
     with open(file_name, 'w') as file:
@@ -81,10 +89,10 @@ def versioning_assistant(daily_file):
         daily_file (str): Versión descargada diariamente de un archivo.
 
     Returns:
-        archivo_versionado (str): Ubicación bajo control de versiones de ese
+        version_file (str): Ubicación bajo control de versiones de ese
             mismo archivo.
-        organismo (str): Nombre del organismo al que pertenece el archivo.
-        fecha (str): Fecha en la que se generó el archivo diario.
+        organism (str): Nombre del organismo al que pertenece el archivo.
+        file_date (str): Fecha en la que se generó el archivo diario.
 
     Examples:
         ubicacion_versionada("archivo/2020-12-25/justicia/data.xlsx")
@@ -137,14 +145,6 @@ def update_versioning(daily_file):
 
 def daily_routine():
     """Rutina a ser ejecutada cada mañana por cron."""
-
-    # Logging config
-    TODAY = arrow.now().format('YYYY-MM-DD')
-    logger = logging.getLogger()
-    logger.setLevel(logging.INFO)
-    logging.basicConfig(format='%(asctime)s [%(levelname)s]: %(message)s',
-                        datefmt='%m/%d/%Y %I:%M:%S',
-                        filename='logs/{}-rutina_diaria.log'.format(TODAY))
 
     def my_handler(type, value, tb):
         logger.exception('Uncaught exception: {0}'.format(str(value)))
