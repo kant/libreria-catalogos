@@ -74,7 +74,7 @@ def download_catalog(org_alias):
     local_file = catalog_name(org_alias)
 
     method = config.get('metodo')
-    if metodo is None or method == 'get':
+    if method is None or method == 'get':
         save_get_result(config['url'], local_file)
     else:
         warnings.warn('{} no es un `metodo` valido.'.format(method))
