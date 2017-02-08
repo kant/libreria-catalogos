@@ -146,7 +146,7 @@ def process_catalog(org, config):
     """Descarga y procesa el catálogo correspondiente a la organización."""
     logging.info('=== {} ==='.format(org.upper()))
     os.chdir(org)
-    try:        
+    try:
         download_catalog(org)
         logging.info('- Descarga de catálogo')
         if org == 'justicia':
@@ -164,8 +164,7 @@ def process_catalog(org, config):
     except:
         logging.error('Error al procesar el catálogo de {}'.format(org))
     finally:
-        os.chdir('..') # Returns to parent dir.
-
+        os.chdir('..')  # Returns to parent dir.
 
 
 def daily_routine():
