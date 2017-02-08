@@ -17,11 +17,11 @@ from pydatajson import DataJson
 
 
 ROOT_DIR = os.getcwd()
-ARCHIVO_DIR = "archivo"
+ARCHIVO_DIR = 'archivo'
 TODAY = arrow.now()
-DATE_TODAY = TODAY.format("YYYY-MM-DD")
+DATE_TODAY = TODAY.format('YYYY-MM-DD')
 TODAY_DIR = os.path.join(ARCHIVO_DIR, DATE_TODAY)
-INDEX = os.path.join(ROOT_DIR, "indice.yml")
+INDEX = os.path.join(ROOT_DIR, 'indice.yml')
 with open(INDEX) as config_file:
     ORGANISMS = yaml.load(config_file)
 
@@ -42,7 +42,7 @@ def ensure_dir_exists(target_dir):
 
 def guardar_resultado_get(url, nombre_archivo=None):
     """Guardo el resultado de un request GET a disco."""
-    nombre_archivo = nombre_archivo or url.split("/")[-1]
+    nombre_archivo = nombre_archivo or url.split('/')[-1]
     res = requests.get(url)
     with open(nombre_archivo, 'w') as archivo:
         archivo.write(res.content)
@@ -51,11 +51,11 @@ def guardar_resultado_get(url, nombre_archivo=None):
 def nombre_catalogo(alias_organismo):
     """Devuelve el nombre local dado al catálogo de un organismo. Puede ser
     'data.xlsx' o 'data.json', según sea su 'formato'."""
-    formato = ORGANISMS[alias_organismo].get("formato")
+    formato = ORGANISMS[alias_organismo].get('formato')
     assert_msg = """
 ERROR: {} no define un 'formato' para su catálogo""".format(alias_organismo)
     assert formato is not None, assert_msg
-    nombre = "data.{}".format(formato)
+    nombre = 'data.{}'.format(formato)
 
     return nombre
 
@@ -66,18 +66,18 @@ def descargar_catalogo(alias_organismo):
     config = ORGANISMS[alias_organismo]
     archivo_local = nombre_catalogo(alias_organismo)
 
-    metodo = config.get("metodo")
-    if metodo is None or metodo == "get":
-        guardar_resultado_get(config["url"], archivo_local)
+    metodo = config.get('metodo')
+    if metodo is None or metodo == 'get':
+        guardar_resultado_get(config['url'], archivo_local)
     else:
-        warnings.warn("{} no es un `metodo` valido.".format(metodo))
+        warnings.warn('{} no es un `metodo` valido.'.format(metodo))
 
 
 def generar_json(catalogo_xlsx):
     """ Toma un catálogo en formato XLSX y genera un catálogo con el mismo
     nombre y ubicación, pero extensión y formato JSON."""
     catalogo = read_catalog(catalogo_xlsx)
-    with open(catalogo_xlsx.replace("xlsx", "json"), 'w') as catalogo_json:
+    with open(catalogo_xlsx.replace('xls', 'json'), 'w') as catalogo_json:
         write_json_catalog(catalogo, catalogo_json)
 
 
@@ -98,9 +98,9 @@ def asistente_versionado(archivo_diario):
         ubicacion_versionada("archivo/2020-12-25/justicia/data.xlsx")
         > "justicia/data.xlsx"
     """
-    lista = archivo_diario.split("/")
+    lista = archivo_diario.split('/')
 
-    archivo_versionado = "/".join(lista[-2:])
+    archivo_versionado = '/'.join(lista[-2:])
     organismo = lista[-2]
     fecha = lista[-3]
 
@@ -126,11 +126,11 @@ def actualizar_versionado(archivo_diario):
 
     if not os.path.isfile(archivo_versionado):
         # El archivo no existe bajo control de versiones.
-        commit_msg = "Agrego archivo {} encontrado el {}".format(
+        commit_msg = 'Agrego archivo {} encontrado el {}'.format(
             archivo_versionado, fecha)
     elif not filecmp.cmp(archivo_diario, archivo_versionado):
         # Las variante diaria y la versionada difieren en su contenido.
-        commit_msg = "Modifico archivo {} según cambios del {}".format(
+        commit_msg = 'Modifico archivo {} según cambios del {}'.format(
             archivo_versionado, fecha)
     else:
         # No hay cambios entre el archivo diario y el versionado.
@@ -155,12 +155,12 @@ def rutina_diaria():
                         filename='logs/{}-rutina_diaria.log'.format(TODAY))
 
     def my_handler(type, value, tb):
-        logger.exception("Uncaught exception: {0}".format(str(value)))
+        logger.exception('Uncaught exception: {0}'.format(str(value)))
 
     # Install exception handler
     sys.excepthook = my_handler
 
-    logging.info("COMIENZO de la rutina.")
+    logging.info('COMIENZO de la rutina.')
 
     # Creo un objeto DataJson para ejecutar validaciones por organismo:
     logging.info('Instanciación DataJson')
@@ -174,41 +174,41 @@ def rutina_diaria():
     logging.info('Procesamiento de cada organismo:')
     os.chdir(TODAY_DIR)
 
-    for (organismo, config) in ORGANISMS.iteritems():
+    for organismo, config in ORGANISMS.iteritems():
         # Descargo el catálogo del organismo
-        logging.info("=== {} ===".format(organismo.upper()))
-        logging.info("- Descarga de catálogo")
+        logging.info('=== {} ==='.format(organismo.upper()))
+        logging.info('- Descarga de catálogo')
         os.chdir(organismo)
         descargar_catalogo(organismo)
-        if organismo == "justicia":
+        if organismo == 'justicia':
             raise AssertionError
         # Para los catálogos en formato XLSX, genero el JSON correspondiente
-        if config["formato"] == "xlsx":
-            logging.info("- Transformación de XLSX a JSON")
+        if config['formato'] == 'xlsx':
+            logging.info('- Transformación de XLSX a JSON')
             catalogo = read_catalog(nombre_catalogo(organismo))
-            write_json_catalog(catalogo, "data.json")
+            write_json_catalog(catalogo, 'data.json')
 
         # Genero el README y los reportes auxiliares
 
-        logging.info("- Generación de reportes")
-        dj.generate_catalog_readme(catalogo, export_path="README.md")
-        dj.generate_datasets_summary(catalogo, export_path="datasets.csv")
+        logging.info('- Generación de reportes')
+        dj.generate_catalog_readme(catalogo, export_path='README.md')
+        dj.generate_datasets_summary(catalogo, export_path='datasets.csv')
         # Retorno a la raíz antes de comenzar con el siguiente organismo
-        os.chdir("..")
+        os.chdir('..')
 
     os.chdir(ROOT_DIR)
 
-    logging.info("Actualizo los archivos bajo control de versiones:")
-    archivos_del_dia = glob.glob("{}/*/*".format(TODAY_DIR))
+    logging.info('Actualizo los archivos bajo control de versiones:')
+    archivos_del_dia = glob.glob('{}/*/*'.format(TODAY_DIR))
     for archivo in archivos_del_dia:
-        logging.debug("- {}".format(archivo))
+        logging.debug('- {}'.format(archivo))
         actualizar_versionado(archivo)
 
-    logging.info("Pusheo los cambios encontrados.")
-    GIT.push("origin", "master")
+    logging.info('Pusheo los cambios encontrados.')
+    GIT.push('origin', 'master')
 
-    logging.info("FIN de la rutina.")
+    logging.info('FIN de la rutina.')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     rutina_diaria()
