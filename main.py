@@ -1,9 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """Rutina de actualización diaria del repositorio libreria-catalogos."""
+from __future__ import unicode_literals
+from __future__ import print_function
+from __future__ import with_statement
+
 import os
 import sys
-import warnings
 import glob
 import filecmp
 import logging
@@ -11,7 +14,8 @@ import arrow
 import requests
 import yaml
 import sh
-from pydatajson.readers import read_catalog
+
+from pydatajson.readers import read_catalog, read_ckan_catalog
 from pydatajson.writers import write_json_catalog
 from pydatajson import DataJson
 
@@ -29,7 +33,7 @@ GIT = sh.git.bake(_cwd=ROOT_DIR)
 # Logging config
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
-logging.basicConfig(format='%(asctime)s [%(levelname)s]: %(message)s',
+logging.basicConfig(format=u'%(asctime)s [%(levelname)s]: %(message)s',
                     datefmt='%m/%d/%Y %I:%M:%S',
                     filename='logs/{}-rutina_diaria.log'.format(DATE_TODAY))
 
@@ -47,14 +51,6 @@ def ensure_dir_exists(target_dir):
     os.chdir(start_dir)
 
 
-def save_get_result(url, file_name=None):
-    """Guarda el resultado de un request GET a disco."""
-    file_name = file_name or url.split('/')[-1]
-    res = requests.get(url)
-    with open(file_name, 'w') as file:
-        file.write(res.content)
-
-
 def catalog_name(org_alias):
     """Devuelve el nombre local dado al catálogo de un organismo. Puede ser
     'data.xlsx' o 'data.json', según sea su 'formato'."""
@@ -65,20 +61,6 @@ ERROR: {} no define un 'formato' para su catálogo""".format(org_alias)
     name = 'data.{}'.format(extension)
 
     return name
-
-
-def download_catalog(org_alias):
-    """Descarga el catálogo de un organismo según especifican sus variables de
-    configuración."""
-    config = ORGANISMS[org_alias]
-    file_ext = config["formato"]
-    local_file = "data.{}".format(file_ext)
-
-    method = config.get('metodo')
-    if method is None or method == 'get':
-        save_get_result(config['url'], local_file)
-    else:
-        warnings.warn('{} no es un `metodo` valido.'.format(method))
 
 
 def versioning_assistant(daily_file):
@@ -143,24 +125,35 @@ def update_versioning(daily_file):
         GIT.commit(m=commit_msg)
 
 
-def process_catalog(org, config, datajson):
+def process_catalog(org, datajson):
     """Descarga y procesa el catálogo correspondiente a la organización."""
     logging.info('=== Catálogo %s ===', org.upper())
     os.chdir(org)
     try:
-        logging.info('- Descarga de catálogo')
-        download_catalog(org)
+        config = ORGANISMS[org]
+
+        logging.info('- Lectura de catálogo')
         # For XLSX catalogs, creates corresponding JSON
         file_ext = config["formato"]
         if file_ext == 'xlsx':
+            res = requests.get(config['url'])
+            with open('data.xlsx', 'w') as xlsx_file:
+                xlsx_file.write(res.content)
             logging.info('- Transformación de XLSX a JSON')
             catalog = read_catalog('data.xlsx')
-            write_json_catalog(catalog, 'data.json')
+
         elif file_ext == 'json':
-            catalog = read_catalog('data.json')
+            catalog = read_catalog(config['url'])
+
+        elif file_ext == 'ckan':
+            catalog = read_ckan_catalog(config['url'])
+
         else:
             raise ValueError(
                 '%s no es una extension valida para un catalogo.', file_ext)
+
+        logging.info('- Escritura de catálogo')
+        write_json_catalog(catalog, 'data.json')
 
         # Creates README and auxiliary reports
         logging.info('- Generación de reportes')
@@ -182,7 +175,7 @@ def daily_routine():
     # Install exception handler
     sys.excepthook = my_handler
 
-    logging.info('COMIENZO de la rutina.')
+    logging.info('>>> COMIENZO DE LA RUTINA <<<')
 
     # Creates DataJson object to validate oragnisms
     logging.info('Instanciación DataJson')
@@ -196,8 +189,8 @@ def daily_routine():
     logging.info('Procesamiento de cada organismo:')
     os.chdir(TODAY_DIR)
 
-    for org, config in ORGANISMS.iteritems():
-        process_catalog(org, config, datajson)
+    for org in ORGANISMS:
+        process_catalog(org, datajson)
 
     os.chdir(ROOT_DIR)
 
@@ -210,7 +203,7 @@ def daily_routine():
     logging.info('Push de los cambios encontrados.')
     GIT.push('origin', 'master')
 
-    logging.info('FIN de la rutina.')
+    logging.info('>>> FIN DE LA RUTINA <<<')
 
 
 if __name__ == '__main__':
