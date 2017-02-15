@@ -1,5 +1,14 @@
 # librería de catálogos
 
+## Setup
+
+En el servidor donde vaya a correr regularmente la rutina principal de `libreria-catalogos`, clonar este repositorio, y ejecutar:
+```bash
+make setup
+```
+
+Si se desea correr la rutina a voluntad, ejecutar desde la raíz el comando `python main.py`, asegurándose de tener instaladas las dependencias especificadas en requirements.txt, ya sea vía `pip install -r requirements.txt` o con `make venv` y activando el entorno virtual creado.
+
 ## Contexto
 El Plan de Apertura de Datos (PAD) contempla que los datasets relevantes de Portales de datos de la Administración Pública Nacional (APN) sean federados en el Portal Nacional de Datos Abiertos ("portal nacional", o "datos.gob.ar"). 
 A tal fin, el mantenedor del Portal Nacional debe contar con versiones actualizadas de los catálogos de todos los portales externos en formato JSON, que es el estándar común que entienden todas las herramientas de manipulación de datasets enmarcadas en el PAD.
