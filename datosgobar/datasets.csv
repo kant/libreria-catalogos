@@ -1,19 +1,29 @@
 indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
-0,Base de datos legislativos Infoleg,d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23,OK,0,3
-1,Centros de Acceso a la Justicia -CAJ-,9775fcdf-99b9-47f6-87ae-6d46cfd15b40,OK,0,1
-2,Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.,e042c362-ff39-476f-9328-056a9de753f0,OK,0,1
-3,Declaración Jurada Patrimonial Integral de carácter público,4680199f-6234-4262-8a2a-8f7993bf784d,OK,0,4
-4,Entidades constituidas en la Inspección General de Justicia,da045e06-35cb-4bdd-9b5e-ddee6712c86c,OK,0,25
-5,Estadística de Inscripciones Iniciales de Automotores y Motovehículos,de4560f4-8620-4cb5-a3a5-e3e5684c0e45,OK,0,1
-6,Internos del Servicio Penitenciario Federal - SPF,6d0e08b3-041c-40c1-9ea6-962db3747677,OK,0,9
-7,Listado de Registros Seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios,bbdac295-c88e-4e2d-8f74-a845a2e93a61,OK,0,1
-8,Magistrados de la Justicia Federal y de la Justicia Nacional,3c18d46e-729e-4973-8efd-f54cab18b7e3,OK,0,3
-9,Estadística de mediaciones prejudiciales y judiciales,a9767469-d903-4158-aa76-b21dd37e8aff,OK,0,1
-10,"Registro, Sistematización y Seguimiento de Femicidios y Homicidios Agravados por el Género",27bb9b2c-521b-406c-bdf9-98110ef73f34,OK,0,1
-11,Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-,d43fa140-f43f-4cc2-8491-b1d8bb899de4,OK,0,2
-12,Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP,6c03af36-6a1d-4306-b2a8-dd39ad73afb3,OK,0,14
-13,Solicitudes de Condición de Legítimo Usuario de Armas de Fuego,0a0c3def-3d81-4850-854c-7af25831250b,OK,0,1
-14,Solicitudes de Autorización de Portación de Armas de Fuego,35278d98-c274-4612-9d1d-72d0d0923368,OK,0,1
-15,"Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional",c64b3899-65df-4024-afe8-bdf971f30dd8,OK,0,1
-16,Base SAIJ de Normativa Provincial,d59c2d29-d561-4ad2-a032-cc82b40db2d3,OK,0,1
-17,Tesauro SAIJ de Derecho Argentino,e41e8224-f868-4688-9fae-94d320f8ee5e,OK,0,1
+0,Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-,6a36b5be-bb95-482d-b5d1-5ddbdaaa4959,ERROR,1,2
+1,"Registro, Sistematización y Seguimiento de Femicidios y Homicidios Agravados por el Género",f1b84bd8-e06b-4827-9adc-c105dd53d1aa,ERROR,1,1
+2,Entidades constituidas en la Inspección General de Justicia,647cdfe3-7a18-447b-bd26-bf2d5a0fc308,ERROR,1,25
+3,Estadística de Inscripciones Iniciales de Automotores y Motovehículos,e3412bfd-eecd-4aeb-af15-ee534792c561,ERROR,1,1
+4,Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP,58c06280-e18e-467f-aa8b-dd7a17b776e1,ERROR,1,14
+5,Magistrados de la Justicia Federal y de la Justicia Nacional,53ee9284-3460-4415-9c1f-ab0e8764a918,ERROR,1,3
+6,Listado de Registros Seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios,968f79ad-0876-4eea-aef0-25df6310df7d,ERROR,1,1
+7,Solicitudes de Condición de Legítimo Usuario de Armas de Fuego,cc28cdc5-8466-48cd-bf54-eca9dd3ba255,ERROR,1,1
+8,Solicitudes de Autorización de Portación de Armas de Fuego,65d9b4de-7af3-47be-a9f3-9a187a17fc45,ERROR,1,1
+9,Base de datos legislativos Infoleg,938ff3e4-b067-4ecd-8ff8-720ca468dfa5,ERROR,1,3
+10,"Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional",7527cd1b-dfc4-4a23-873d-0dc5101d34d8,ERROR,1,1
+11,Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.,c8a18170-0d50-4155-ade0-490913218da2,ERROR,1,1
+12,Centros de Acceso a la Justicia -CAJ-,69414249-b2c9-4b06-bc28-9a4ee6f989da,ERROR,1,1
+13,Base SAIJ de Normativa Provincial,82c12a46-8e0c-4796-bcb2-8b93a33cfa1f,ERROR,1,1
+14,Tesauro SAIJ de Derecho Argentino,8e6c3d4a-9859-4d46-a81b-95e787ce012e,ERROR,1,1
+15,Ejecución Presupuestaria de la Administración Pública Nacional,89f1a2dd-ad79-4211-87b4-44661d81ac0d,ERROR,2,2
+16,Estadística de mediaciones prejudiciales y judiciales,d197a9dc-bdb7-497e-9e28-bedc9a1f2fbc,ERROR,1,1
+17,Internos del Servicio Penitenciario Federal - SPF,0647b5bc-62f6-49fa-ae24-bcd8541d03c8,ERROR,1,9
+18,Declaración Jurada Patrimonial Integral de carácter público,8273f1ba-d0b9-4064-9158-64937cf44462,ERROR,1,4
+19,Planes de Apertura de Datos,43c2e6ae-f0a7-4688-b5aa-2aa6f4811a9c,ERROR,2,1
+20,Contratos de Alquiler del Estado Nacional como Locador,b9602e2a-163f-4d12-adcb-c0c92f3a49f0,ERROR,2,1
+21,Estructura Orgánica y Autoridades del Poder Ejecutivo Nacional,ad5b0e15-a9ed-40d5-9827-33a0ece12433,ERROR,2,1
+22,Pauta Oficial,122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4,ERROR,3,4
+23,Sistema de Contrataciones Electrónicas  (Argentina Compra),069b5833-e57d-4d7a-859b-67a80cfdff20,ERROR,2,4
+24,Asignación Salarial de las Autoridades Superiores del Poder Ejecutivo Nacional,431381cc-3c5b-49ba-bf77-47bf658cd640,ERROR,4,1
+25,Registro Único de Audiencias de Gestión de Intereses,2889b09e-31ca-4f90-912e-2a50db874e33,ERROR,3,2
+26,Solicitudes de Acceso a la Información Pública,8bc053c8-efc2-485d-97d3-915c476d2741,ERROR,3,1
+27,Registro Central de Personas Contratadas,becaceb2-dbd0-4879-93bd-5f02bd3b8ca2,ERROR,2,1

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """Rutina de actualización diaria del repositorio libreria-catalogos."""
 import os
+import sys
 import warnings
 import glob
 import filecmp
@@ -15,103 +16,98 @@ from pydatajson.writers import write_json_catalog
 from pydatajson import DataJson
 
 
-DIR_RAIZ = os.getcwd()
-DIR_ARCHIVO = os.path.join(DIR_RAIZ, "archivo/")
-HOY = arrow.now()
-FECHA_HOY = HOY.format("YYYY-MM-DD")
-DIR_HOY = os.path.join(DIR_ARCHIVO, FECHA_HOY)
-INDICE = os.path.join(DIR_RAIZ, "indice.yml")
-with open(INDICE) as config_file:
-    ORGANISMOS = yaml.load(config_file)
-GIT = sh.git.bake(_cwd=DIR_RAIZ)
+ROOT_DIR = os.getcwd()
+ARCHIVE_DIR = 'archivo'
+TODAY = arrow.now()
+DATE_TODAY = TODAY.format('YYYY-MM-DD')
+TODAY_DIR = os.path.join(ARCHIVE_DIR, DATE_TODAY)
+INDEX = os.path.join(ROOT_DIR, 'indice.yml')
+with open(INDEX) as config_file:
+    ORGANISMS = yaml.load(config_file)
+
+GIT = sh.git.bake(_cwd=ROOT_DIR)
+# Logging config
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
+logging.basicConfig(format='%(asctime)s [%(levelname)s]: %(message)s',
+                    datefmt='%m/%d/%Y %I:%M:%S',
+                    filename='logs/{}-rutina_diaria.log'.format(DATE_TODAY))
 
 
-def crear_dirs_organismos():
-    """Para cada organismo del índice, crear un directorio si no existe."""
-    for organismo in ORGANISMOS:
-        if not os.path.isdir(organismo):
-            os.mkdir(organismo)
+def ensure_dir_exists(target_dir):
+    """Crea el directorio que llega como parámetro si no existe."""
+    start_dir = os.getcwd()
+
+    if not os.path.isdir(target_dir):
+        for dirr in target_dir.split(os.path.sep):
+            if not os.path.isdir(dirr):
+                os.mkdir(dirr)
+            os.chdir(dirr)
+
+    os.chdir(start_dir)
 
 
-def crear_dir_hoy():
-    """Creo el directorio para descargar los archivos diarios."""
-    if not os.path.isdir(DIR_ARCHIVO):
-        os.mkdir(DIR_ARCHIVO)
-
-    os.chdir(DIR_ARCHIVO)
-
-    if not os.path.isdir(FECHA_HOY):
-        os.mkdir(FECHA_HOY)
-
-
-def guardar_resultado_get(url, nombre_archivo=None):
-    """Guardo el resultado de un request GET a disco."""
-    nombre_archivo = nombre_archivo or url.split("/")[-1]
+def save_get_result(url, file_name=None):
+    """Guarda el resultado de un request GET a disco."""
+    file_name = file_name or url.split('/')[-1]
     res = requests.get(url)
-    with open(nombre_archivo, 'w') as archivo:
-        archivo.write(res.content)
+    with open(file_name, 'w') as file:
+        file.write(res.content)
 
 
-def nombre_catalogo(alias_organismo):
+def catalog_name(org_alias):
     """Devuelve el nombre local dado al catálogo de un organismo. Puede ser
     'data.xlsx' o 'data.json', según sea su 'formato'."""
-    formato = ORGANISMOS[alias_organismo].get("formato")
+    extension = ORGANISMS[org_alias].get('formato')
     assert_msg = """
-ERROR: {} no define un 'formato' para su catálogo""".format(alias_organismo)
-    assert formato is not None, assert_msg
-    nombre = "data.{}".format(formato)
+ERROR: {} no define un 'formato' para su catálogo""".format(org_alias)
+    assert extension is not None, assert_msg
+    name = 'data.{}'.format(extension)
 
-    return nombre
+    return name
 
 
-def descargar_catalogo(alias_organismo):
+def download_catalog(org_alias):
     """Descarga el catálogo de un organismo según especifican sus variables de
     configuración."""
-    config = ORGANISMOS[alias_organismo]
-    archivo_local = nombre_catalogo(alias_organismo)
+    config = ORGANISMS[org_alias]
+    file_ext = config["formato"]
+    local_file = "data.{}".format(file_ext)
 
-    metodo = config.get("metodo")
-    if metodo is None or metodo == "get":
-        guardar_resultado_get(config["url"], archivo_local)
+    method = config.get('metodo')
+    if method is None or method == 'get':
+        save_get_result(config['url'], local_file)
     else:
-        warnings.warn("{} no es un `metodo` valido.".format(metodo))
+        warnings.warn('{} no es un `metodo` valido.'.format(method))
 
 
-def generar_json(catalogo_xlsx):
-    """ Toma un catálogo en formato XLSX y genera un catálogo con el mismo
-    nombre y ubicación, pero extensión y formato JSON."""
-    catalogo = read_catalog(catalogo_xlsx)
-    with open(catalogo_xlsx.replace("xlsx", "json"), 'w') as catalogo_json:
-        write_json_catalog(catalogo, catalogo_json)
-
-
-def asistente_versionado(archivo_diario):
+def versioning_assistant(daily_file):
     """Devuelve la información de un archivo diario necesaria para actualizar
     las carpetas bajo control de versiones.
 
     Args:
-        archivo_diario (str): Versión descargada diariamente de un archivo.
+        daily_file (str): Versión descargada diariamente de un archivo.
 
     Returns:
-        archivo_versionado (str): Ubicación bajo control de versiones de ese
+        version_file (str): Ubicación bajo control de versiones de ese
             mismo archivo.
-        organismo (str): Nombre del organismo al que pertenece el archivo.
-        fecha (str): Fecha en la que se generó el archivo diario.
+        organism (str): Nombre del organismo al que pertenece el archivo.
+        file_date (str): Fecha en la que se generó el archivo diario.
 
     Examples:
         ubicacion_versionada("archivo/2020-12-25/justicia/data.xlsx")
         > "justicia/data.xlsx"
     """
-    lista = archivo_diario.split("/")
+    parts = daily_file.split('/')
 
-    archivo_versionado = "/".join(lista[-2:])
-    organismo = lista[-2]
-    fecha = lista[-3]
+    version_file = '/'.join(parts[-2:])
+    organism = parts[-2]
+    file_date = parts[-3]
 
-    return archivo_versionado, organismo, fecha
+    return version_file, organism, file_date
 
 
-def actualizar_versionado(archivo_diario):
+def update_versioning(daily_file):
     """Actualiza las carpetas bajo control de versiones a partir de los cambios
     existentes entre éstas y el archivo_diario entregado.
 
@@ -124,92 +120,98 @@ def actualizar_versionado(archivo_diario):
     NOTA: Esta función debe ejecutarse desde la raíz del repositorio.
     """
     # Me aseguro estar ubicado en la raíz del repositorio.
-    os.chdir(DIR_RAIZ)
+    os.chdir(ROOT_DIR)
 
-    archivo_versionado, _, fecha = asistente_versionado(archivo_diario)
+    version_file, _, file_date = versioning_assistant(daily_file)
 
-    if not os.path.isfile(archivo_versionado):
-        # El archivo no existe bajo control de versiones.
-        commit_msg = "Agrego archivo {} encontrado el {}".format(
-            archivo_versionado, fecha)
-    elif not filecmp.cmp(archivo_diario, archivo_versionado):
-        # Las variante diaria y la versionada difieren en su contenido.
-        commit_msg = "Modifico archivo {} según cambios del {}".format(
-            archivo_versionado, fecha)
+    if not os.path.isfile(version_file):
+        # File is not on version control.
+        commit_msg = 'Agrego archivo {} encontrado el {}'.format(
+            version_file, file_date)
+    elif not filecmp.cmp(daily_file, version_file):
+        # daily_file and version_file differ.
+        commit_msg = 'Modifico archivo {} según cambios del {}'.format(
+            version_file, file_date)
     else:
-        # No hay cambios entre el archivo diario y el versionado.
+        # No changes between daily_file and version_file.
         commit_msg = None
 
-    # Si corresponde, genero un commit.
+    # Commit if appropriate.
     if commit_msg:
-        sh.cp(archivo_diario, archivo_versionado)
-        GIT.add(archivo_versionado)
+        sh.cp(daily_file, version_file)
+        GIT.add(version_file)
         GIT.commit(m=commit_msg)
 
 
-def rutina_diaria():
+def process_catalog(org, config, datajson):
+    """Descarga y procesa el catálogo correspondiente a la organización."""
+    logging.info('=== Catálogo %s ===', org.upper())
+    os.chdir(org)
+    try:
+        logging.info('- Descarga de catálogo')
+        download_catalog(org)
+        # For XLSX catalogs, creates corresponding JSON
+        file_ext = config["formato"]
+        if file_ext == 'xlsx':
+            logging.info('- Transformación de XLSX a JSON')
+            catalog = read_catalog('data.xlsx')
+            write_json_catalog(catalog, 'data.json')
+        elif file_ext == 'json':
+            catalog = read_catalog('data.json')
+        else:
+            raise ValueError(
+                '%s no es una extension valida para un catalogo.', file_ext)
+
+        # Creates README and auxiliary reports
+        logging.info('- Generación de reportes')
+        datajson.generate_catalog_readme(catalog, export_path='README.md')
+        datajson.generate_datasets_summary(catalog, export_path='datasets.csv')
+    except:
+        logging.error(
+            'Error al procesar el catálogo de %s', org, exc_info=True)
+    finally:
+        os.chdir('..')  # Returns to parent dir.
+
+
+def daily_routine():
     """Rutina a ser ejecutada cada mañana por cron."""
 
-    # Configuro logging de la sesión
-    HOY = arrow.now().format('YYYY-MM-DD')
-    logger = logging.getLogger()
-    logger.setLevel(logging.INFO)
-    logging.basicConfig(format='%(asctime)s [%(levelname)s]: %(message)s',
-                        datefmt='%m/%d/%Y %I:%M:%S',
-                        filename='logs/{}-rutina_diaria.log'.format(HOY))
+    def my_handler(type, value, tb):
+        logger.exception('Uncaught exception: {0}'.format(str(value)))
 
-    logging.info("COMIENZO de la rutina.")
+    # Install exception handler
+    sys.excepthook = my_handler
 
-    # Creo un objeto DataJson para ejecutar validaciones por organismo:
-    logging.info('Instancio DataJson')
-    dj = DataJson()
+    logging.info('COMIENZO de la rutina.')
 
-    # Si un organismo no tiene directorio bajo control de versiones, lo creo
-    logging.info('Creo carpetas versionadas por organismo de ser necesario.')
-    crear_dirs_organismos()
+    # Creates DataJson object to validate oragnisms
+    logging.info('Instanciación DataJson')
+    datajson = DataJson()
 
-    # Creo el archivo para el día de hoy, con sus directorios por organismo
-    logging.info('Creo el archivo para el día de hoy.')
-    crear_dir_hoy()
-    os.chdir(DIR_HOY)
-    crear_dirs_organismos()
+    logging.info('Creación de carpetas necesarias (de archivo y versionadas).')
+    for org in ORGANISMS:
+        ensure_dir_exists(org)
+        ensure_dir_exists(os.path.join(TODAY_DIR, org))
 
     logging.info('Procesamiento de cada organismo:')
-    for (organismo, config) in ORGANISMOS.iteritems():
-        # Descargo el catálogo del organismo
-        logging.info("=== {} ===".format(organismo.upper()))
-        logging.info("- CD y descarga de catálogo")
-        os.chdir(organismo)
-        descargar_catalogo(organismo)
+    os.chdir(TODAY_DIR)
 
-        # Para los catálogos en formato XLSX, genero el JSON correspondiente
-        if config["formato"] == "xlsx":
-            logging.info("- Transformación de XLSX a JSON")
-            catalogo = read_catalog(nombre_catalogo(organismo))
-            write_json_catalog(catalogo, "data.json")
+    for org, config in ORGANISMS.iteritems():
+        process_catalog(org, config, datajson)
 
-        # Genero el README y los reportes auxiliares
+    os.chdir(ROOT_DIR)
 
-        logging.info("- Generación de reportes")
-        dj.generate_catalog_readme(catalogo, export_path="README.md")
-        dj.generate_datasets_summary(catalogo, export_path="datasets.csv")
-        # Retorno a la raíz antes de comenzar con el siguiente organismo
-        os.chdir("..")
-        logging.info("Fin procesamiento {}".format(organismo.upper()))
+    logging.info('Actualizo los archivos bajo control de versiones:')
+    files_of_day = glob.glob('{}/*/*'.format(TODAY_DIR))
+    for filename in files_of_day:
+        logging.debug('- %s', filename)
+        update_versioning(filename)
 
-    os.chdir(DIR_RAIZ)
+    logging.info('Push de los cambios encontrados.')
+    GIT.push('origin', 'master')
 
-    logging.info("Actualizo los archivos bajo control de versiones:")
-    archivos_del_dia = glob.glob("{}/*/*".format(DIR_HOY))
-    for archivo in archivos_del_dia:
-        logging.debug("- {}".format(archivo))
-        actualizar_versionado(archivo)
-
-    logging.info("Pusheo los cambios encontrados.")
-    GIT.push("origin", "master")
-
-    logging.info("FIN de la rutina.")
+    logging.info('FIN de la rutina.')
 
 
-if __name__ == "__main__":
-    rutina_diaria()
+if __name__ == '__main__':
+    daily_routine()
