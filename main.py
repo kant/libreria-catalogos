@@ -30,13 +30,20 @@ with open(INDEX) as config_file:
     ORGANISMS = yaml.load(config_file)
 
 GIT = sh.git.bake(_cwd=ROOT_DIR)
-# Logging config
-logger = logging.getLogger()
-logger.setLevel(logging.INFO)
-logging.basicConfig(format=u'%(asctime)s [%(levelname)s]: %(message)s',
-                    datefmt='%m/%d/%Y %I:%M:%S',
-                    filename='logs/{}-rutina_diaria.log'.format(DATE_TODAY))
 
+# Logging config
+logger = logging.getLogger("libreria-catalogos")
+logger.setLevel(logging.INFO)
+FORMAT = logging.Formatter(
+    fmt=u'%(asctime)s [%(levelname)s]: %(message)s',
+    datefmt=u'%m/%d/%Y %I:%M:%S'
+)
+HANDLER = logging.FileHandler(
+    filename='logs/{}-rutina_diaria.log'.format(DATE_TODAY)
+)
+HANDLER.setFormatter(FORMAT)
+logger.addHandler(HANDLER)
+logger.propagate = False
 
 def ensure_dir_exists(target_dir):
     """Crea el directorio que llega como parámetro si no existe."""
@@ -127,19 +134,19 @@ def update_versioning(daily_file):
 
 def process_catalog(org, datajson):
     """Descarga y procesa el catálogo correspondiente a la organización."""
-    logging.info('=== Catálogo %s ===', org.upper())
+    logger.info('=== Catálogo %s ===', org.upper())
     os.chdir(org)
     try:
         config = ORGANISMS[org]
 
-        logging.info('- Lectura de catálogo')
+        logger.info('- Lectura de catálogo')
         # For XLSX catalogs, creates corresponding JSON
         file_ext = config["formato"]
         if file_ext == 'xlsx':
             res = requests.get(config['url'])
             with open('data.xlsx', 'w') as xlsx_file:
                 xlsx_file.write(res.content)
-            logging.info('- Transformación de XLSX a JSON')
+            logger.info('- Transformación de XLSX a JSON')
             catalog = read_catalog('data.xlsx')
 
         elif file_ext == 'json':
@@ -152,15 +159,15 @@ def process_catalog(org, datajson):
             raise ValueError(
                 '%s no es una extension valida para un catalogo.', file_ext)
 
-        logging.info('- Escritura de catálogo')
+        logger.info('- Escritura de catálogo')
         write_json_catalog(catalog, 'data.json')
 
         # Creates README and auxiliary reports
-        logging.info('- Generación de reportes')
+        logger.info('- Generación de reportes')
         datajson.generate_catalog_readme(catalog, export_path='README.md')
         datajson.generate_datasets_summary(catalog, export_path='datasets.csv')
     except:
-        logging.error(
+        logger.error(
             'Error al procesar el catálogo de %s', org, exc_info=True)
     finally:
         os.chdir('..')  # Returns to parent dir.
@@ -168,25 +175,18 @@ def process_catalog(org, datajson):
 
 def daily_routine():
     """Rutina a ser ejecutada cada mañana por cron."""
-
-    def my_handler(type, value, tb):
-        logger.exception('Uncaught exception: {0}'.format(str(value)))
-
-    # Install exception handler
-    sys.excepthook = my_handler
-
-    logging.info('>>> COMIENZO DE LA RUTINA <<<')
+    logger.info('>>> COMIENZO DE LA RUTINA <<<')
 
     # Creates DataJson object to validate oragnisms
-    logging.info('Instanciación DataJson')
+    logger.info('Instanciación DataJson')
     datajson = DataJson()
 
-    logging.info('Creación de carpetas necesarias (de archivo y versionadas).')
+    logger.info('Creación de carpetas necesarias (de archivo y versionadas).')
     for org in ORGANISMS:
         ensure_dir_exists(org)
         ensure_dir_exists(os.path.join(TODAY_DIR, org))
 
-    logging.info('Procesamiento de cada organismo:')
+    logger.info('Procesamiento de cada organismo:')
     os.chdir(TODAY_DIR)
 
     for org in ORGANISMS:
@@ -194,16 +194,16 @@ def daily_routine():
 
     os.chdir(ROOT_DIR)
 
-    logging.info('Actualizo los archivos bajo control de versiones:')
+    logger.info('Actualizo los archivos bajo control de versiones:')
     files_of_day = glob.glob('{}/*/*'.format(TODAY_DIR))
     for filename in files_of_day:
-        logging.debug('- %s', filename)
+        logger.debug('- %s', filename)
         update_versioning(filename)
 
-    logging.info('Push de los cambios encontrados.')
+    logger.info('Push de los cambios encontrados.')
     GIT.push('origin', 'master')
 
-    logging.info('>>> FIN DE LA RUTINA <<<')
+    logger.info('>>> FIN DE LA RUTINA <<<')
 
 
 if __name__ == '__main__':
