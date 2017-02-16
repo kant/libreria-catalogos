@@ -30,7 +30,6 @@
                 "leyes",
                 "resoluciones"
             ],
-            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "datosabiertos@saij.gob.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
@@ -80,7 +79,7 @@
                 "mbox": "datosabiertos@saij.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/d59c2d29-d561-4ad2-a032-cc82b40db2d3",
+            "landingPage": "",
             "description": "Base de documentos digitales normativos provinciales: leyes, decretos leyes, textos ordenados, códigos y Constituciones publicados en el Boletín Oficial de la Provincia\r\ncorrespondiente",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base SAIJ de Normativa Provincial",
@@ -96,7 +95,6 @@
                 "decretos",
                 "leyes"
             ],
-            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "datosabiertos@saij.gob.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
@@ -140,7 +138,6 @@
                 "justicia",
                 "vulnerable"
             ],
-            "accrualPeriodicity": "R/P3M",
             "contactPoint": {
                 "hasEmail": "rcoutenceau@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia"
@@ -166,12 +163,12 @@
                 "mbox": "fmichele@dnrec.jus.gov.ar",
                 "name": "Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Direccion Nacional Registro Nacional de Reincidencia"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0",
+            "landingPage": "",
             "description": "La base Co.Na.R.C., creada a partir de la sanción del decreto 346/2009, se conforma con las comunicaciones que los tribunales realizan al Registro Nacional de Reincidencia de toda medida restrictiva a la libertad ambulatoria que se dicta en el marco de una causa penal, en cualquier jurisdicción del país (ámbito federal, nacional, provincial y de la CABA).  La base sólo refleja las órdenes de detención vigentes hasta las 7:00 hs. de la fecha de actualización.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
             "issued": "2016-09-28T14:57:47.665668",
-            "modified": "2017-02-15T19:04:25.622722",
+            "modified": "2017-02-16T12:59:20.886827",
             "theme": [
                 "sistema-registral"
             ],
@@ -180,7 +177,6 @@
                 "detención",
                 "rebeldías"
             ],
-            "accrualPeriodicity": "R/P1D",
             "contactPoint": {
                 "hasEmail": "mpolimeni@dnrec.jus.gov.ar",
                 "fn": "Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Direccion Nacional Registro Nacional de Reincidencia"
@@ -189,12 +185,12 @@
             "distribution": [
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7",
-                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 15-02-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
+                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 16-02-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
                     "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-02-15T15:56:00.627900",
+                    "modified": "2017-02-16T09:41:15.451106",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv",
                     "issued": "2016-10-06T13:36:46.495627",
                     "identifier": "a95d0e79-08c4-49b9-88b8-d569484bf1d7"
@@ -286,7 +282,7 @@
                 "mbox": "dmiralles@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c",
+            "landingPage": "",
             "description": "Datos de Entidades, Domicilios, Balances, Autoridades y Asambleas de las Entidades constituidas en la Inspección General de Justicia - IGJ",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades constituidas en la Inspección General de Justicia",
@@ -304,7 +300,6 @@
                 "personas jurídicas",
                 "sociedades"
             ],
-            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "dmiralles@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia"
@@ -636,7 +631,6 @@
                 "registración",
                 "transferencias"
             ],
-            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "accesobd@dnrpa.gov.ar",
                 "fn": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
@@ -662,7 +656,7 @@
                 "mbox": "",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677",
+            "landingPage": "",
             "description": "Este conjunto de datos registra los internos del Servicio Penitenciario Federal – SPF – condenados, procesados e inimputables, alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Internos del Servicio Penitenciario Federal - SPF",
@@ -682,7 +676,6 @@
                 "procesados",
                 "procesal"
             ],
-            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal"
@@ -857,7 +850,6 @@
                 "registración",
                 "transferencias"
             ],
-            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "accesobd@dnrpa.gov.ar",
                 "fn": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
@@ -883,7 +875,7 @@
                 "mbox": "oficinadecretos@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3",
+            "landingPage": "",
             "description": "En este conjunto de datos se detalla la estructura y la nómina de jueces, fiscales y defensores de la justicia nacional y de la justicia federal de la República Argentina, estado de cobertura de cargos, estado de los concursos destinados a cubrir los cargos que se encuentran vacantes, decretos y/o resoluciones de designación y/o traslado de los jueces, fiscales o defensoresos y presidente y ministro en funciones al momento de la designación.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
@@ -956,7 +948,7 @@
                 "mbox": "allamosa@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos."
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff",
+            "landingPage": "",
             "description": "En este conjunto de datos se detalla la cantidad de mediaciones prejudiciales y judiciales (remitidas por el Juez una vez iniciado el juicio) registradas en el Sistema Mepre, que está operativo desde febrero de 2014 y que registra la totalidad de las mediaciones prejudiciales efectuadas desde la fecha de su implementación.",
             "license": "Creative Commons Attribution",
             "title": "Estadística de mediaciones prejudiciales y judiciales",
@@ -970,7 +962,6 @@
                 "prejudicial",
                 "resolución alternativa de conflictos"
             ],
-            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "allamosa@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos."
@@ -996,12 +987,12 @@
                 "mbox": "registro_femicidios@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Dirección Nacional de Asuntos Jurídicos en materia de Derechos Humanos. Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/27bb9b2c-521b-406c-bdf9-98110ef73f34",
+            "landingPage": "",
             "description": "Se registran los femicidios y homicidios agravados por el género desde el año 2012 a la fecha. La base se nutre de diversas fuentes: articulos de prensa escrita, denuncias policiales y judiciales, denuncias realizadas ante la Secretaría de Derechos Humanos.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Registro, Sistematización y Seguimiento de Femicidios y Homicidios Agravados por el Género",
             "issued": "2016-09-14T14:04:25.296524",
-            "modified": "2017-01-30T14:31:21.259081",
+            "modified": "2017-02-16T15:10:26.150952",
             "theme": [
                 "derechos-humanos"
             ],
@@ -1011,7 +1002,6 @@
                 "homicidios",
                 "violencia"
             ],
-            "accrualPeriodicity": "R/P3M",
             "contactPoint": {
                 "hasEmail": "registro_femicidios@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Dirección Nacional de Asuntos Jurídicos en materia de Derechos Humanos. Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género"
@@ -1025,7 +1015,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-01-30T11:25:05.988067",
+                    "modified": "2017-02-16T12:08:34.305805",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/27bb9b2c-521b-406c-bdf9-98110ef73f34/resource/9a06c428-8552-42fe-86e1-487bca9b712c/download/registro-de-femicidios.csv",
                     "issued": "2016-09-14T11:08:54.939192",
                     "identifier": "9a06c428-8552-42fe-86e1-487bca9b712c"
@@ -1090,7 +1080,7 @@
                 "mbox": "CGonzalezGuerra@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal."
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3",
+            "landingPage": "",
             "description": "En este cuerpo de datos se detalla los datos recopilados en el censo realizado sobre el total de la población detenida al día 31 de diciembre de cada año, en cada establecimiento de la República Argentina. La unidad de análisis son las personas alojadas en dichos establecimientos.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP",
@@ -1110,7 +1100,6 @@
                 "presos",
                 "prisión"
             ],
-            "accrualPeriodicity": "R/P1Y",
             "contactPoint": {
                 "hasEmail": "CGonzalezGuerra@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal."
@@ -1292,7 +1281,7 @@
                 "mbox": "informatica@anmac.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de materiales Controlados - Coordinación de Sistemas"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b",
+            "landingPage": "",
             "description": "En este conjunto de datos se detallan las solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\r\nLos datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
@@ -1308,7 +1297,6 @@
                 "legítimo usuario",
                 "portación"
             ],
-            "accrualPeriodicity": "R/P15D",
             "contactPoint": {
                 "hasEmail": "informatica@anmac.gob.ar",
                 "fn": "Agencia Nacional de materiales Controlados - Coordinación de Sistemas"
@@ -1334,7 +1322,7 @@
                 "mbox": "informatica@anmac.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas."
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368",
+            "landingPage": "",
             "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\r\nLos datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
@@ -1349,7 +1337,6 @@
                 "armas",
                 "portación"
             ],
-            "accrualPeriodicity": "R/P15D",
             "contactPoint": {
                 "hasEmail": "informatica@anmac.gob.ar",
                 "fn": "Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas."
@@ -1375,7 +1362,7 @@
                 "mbox": "datosabiertos@saij.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/e41e8224-f868-4688-9fae-94d320f8ee5e",
+            "landingPage": "",
             "description": "El Tesauro SAIJ es un sistema de organización del conocimiento jurídico, en forma de lista de términos controlados que representan conceptos. Se utiliza para hacer más eficiente para el usuario el acceso a la información contenida en un archivo o centro de documentación que administre material vinculado con el Derecho argentino.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Tesauro SAIJ de Derecho Argentino",
@@ -1395,7 +1382,6 @@
                 "tesauro jurídico",
                 "vocabularios controlados"
             ],
-            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "datosabiertos@saij.gob.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
@@ -1421,7 +1407,7 @@
                 "mbox": "dnpcvi@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional"
             },
-            "landingPage": "http://datos.jus.gob.ar/dataset/c64b3899-65df-4024-afe8-bdf971f30dd8",
+            "landingPage": "",
             "description": "El registro analiza las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en la Secretaría de Derechos Humanos.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional",
@@ -1436,7 +1422,6 @@
                 "violación a los derechos humanos",
                 "violencia institucional"
             ],
-            "accrualPeriodicity": "R/P3M",
             "contactPoint": {
                 "hasEmail": "dnpcvi@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional"
