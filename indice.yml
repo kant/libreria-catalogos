@@ -1,12 +1,8 @@
-justicia:
-  url: "https://github.com/datosgobar/pydatajson/raw/master/samples/archivos-tests/excel-validos/catalogo-justicia.xlsx"
-  formato: "xlsx"
-
 datosgobar:
   url: "http://datos.gob.ar/data.json"
   formato: "json"
 
-justicia-ckan:
+justicia:
   url: "http://datos.jus.gob.ar"
   formato: "ckan"
 
