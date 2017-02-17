@@ -1,18 +1,18 @@
 {
     "publisher": {
-        "mbox": "datos@modernizacion.gob.ar",
-        "name": "Datos Justicia"
+        "mbox": null,
+        "name": "CKAN"
     },
-    "description": "Portal de dtos del Ministerio de Justicia",
+    "description": "",
     "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
-    "title": "Datos Justicia",
+    "title": "CKAN",
     "dataset": [
         {
             "publisher": {
                 "mbox": "datosabiertos@saij.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
             },
-            "landingPage": "http://www.infoleg.gob.ar",
+            "landingPage": "www.infoleg.gob.ar",
             "description": "Base de documentos digitales normativos nacionales: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base Infoleg de Normativa Nacional",
@@ -29,10 +29,6 @@
                 "disposiciones",
                 "leyes",
                 "resoluciones"
-            ],
-            "accrualPeriodicity": "R/P1M",
-            "superTheme": [
-                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "datosabiertos@saij.gob.ar",
@@ -99,10 +95,6 @@
                 "decretos",
                 "leyes"
             ],
-            "accrualPeriodicity": "R/P1M",
-            "superTheme": [
-                "JUST"
-            ],
             "contactPoint": {
                 "hasEmail": "datosabiertos@saij.gob.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
@@ -146,10 +138,6 @@
                 "justicia",
                 "vulnerable"
             ],
-            "accrualPeriodicity": "R/P3M",
-            "superTheme": [
-                "JUST"
-            ],
             "contactPoint": {
                 "hasEmail": "rcoutenceau@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia"
@@ -188,10 +176,6 @@
                 "capturas",
                 "detención",
                 "rebeldías"
-            ],
-            "accrualPeriodicity": "R/P1D",
-            "superTheme": [
-                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "mpolimeni@dnrec.jus.gov.ar",
@@ -237,9 +221,6 @@
                 "ética pública"
             ],
             "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "JUST"
-            ],
             "contactPoint": {
                 "hasEmail": "uniddjjoa@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción."
@@ -318,10 +299,6 @@
                 "fundaciones",
                 "personas jurídicas",
                 "sociedades"
-            ],
-            "accrualPeriodicity": "R/P1M",
-            "superTheme": [
-                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "dmiralles@jus.gov.ar",
@@ -636,7 +613,7 @@
                 "mbox": "accesobd@dnrpa.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
             },
-            "landingPage": "http://www.dnrpa.gov.ar/portal_dnrpa/",
+            "landingPage": "www.dnrpa.gov.ar/portal_dnrpa/",
             "description": "En este conjunto de datos se detalla la cantidad de automotores 0km inscriptos, discriminados por año, mes, provincia. Se consideran automotores: automóviles,  camiones,  inclusive  los  llamados  tractores  para  semirremolque,  camionetas,  rurales,  jeeps,  furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aún  cuando  no  estuvieran  carrozados. Se consideran motovehículos: ciclomotores, motocicletas, motocarro (motocargas y motofurgones), motonetas, triciclos y cuatriciclos con motor.",
             "license": "Creative Commons Attribution",
             "title": "Estadística de Inscripciones Iniciales de Automotores y Motovehículos",
@@ -653,10 +630,6 @@
                 "prendas",
                 "registración",
                 "transferencias"
-            ],
-            "accrualPeriodicity": "R/P1M",
-            "superTheme": [
-                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "accesobd@dnrpa.gov.ar",
@@ -702,10 +675,6 @@
                 "prisión",
                 "procesados",
                 "procesal"
-            ],
-            "accrualPeriodicity": "R/P1M",
-            "superTheme": [
-                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "",
@@ -864,7 +833,7 @@
                 "mbox": "accesobd@dnrpa.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
             },
-            "landingPage": "http://www.dnrpa.gov.ar/portal_dnrpa/",
+            "landingPage": "www.dnrpa.gov.ar/portal_dnrpa/",
             "description": "En este conjunto de datos se detallan los datos de los Registros Seccionales donde se realizan los trámites registrales de los vehículos (automotores, motovehículos y maquinarias agrícolas, viales e industriales y créditos prendarios) de todo el país.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Listado de Registros Seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios",
@@ -880,10 +849,6 @@
                 "prendas",
                 "registración",
                 "transferencias"
-            ],
-            "accrualPeriodicity": "R/P1M",
-            "superTheme": [
-                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "accesobd@dnrpa.gov.ar",
@@ -934,9 +899,6 @@
                 "órgano"
             ],
             "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "JUST"
-            ],
             "contactPoint": {
                 "hasEmail": "oficinadecretos@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
@@ -1000,10 +962,6 @@
                 "prejudicial",
                 "resolución alternativa de conflictos"
             ],
-            "accrualPeriodicity": "R/P1M",
-            "superTheme": [
-                "JUST"
-            ],
             "contactPoint": {
                 "hasEmail": "allamosa@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos."
@@ -1043,10 +1001,6 @@
                 "genero",
                 "homicidios",
                 "violencia"
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "superTheme": [
-                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "registro_femicidios@jus.gov.ar",
@@ -1089,9 +1043,6 @@
                 "víctimas"
             ],
             "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "JUST"
-            ],
             "contactPoint": {
                 "hasEmail": "addhh@jus.gob.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Registro Unificado de Víctimas del Terrorismo de Estado"
@@ -1148,10 +1099,6 @@
                 "personas privadas de la libertad",
                 "presos",
                 "prisión"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "superTheme": [
-                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "CGonzalezGuerra@jus.gov.ar",
@@ -1350,10 +1297,6 @@
                 "legítimo usuario",
                 "portación"
             ],
-            "accrualPeriodicity": "R/P0.5M",
-            "superTheme": [
-                "JUST"
-            ],
             "contactPoint": {
                 "hasEmail": "informatica@anmac.gob.ar",
                 "fn": "Agencia Nacional de materiales Controlados - Coordinación de Sistemas"
@@ -1393,10 +1336,6 @@
                 "RENAR",
                 "armas",
                 "portación"
-            ],
-            "accrualPeriodicity": "R/P0.5M",
-            "superTheme": [
-                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "informatica@anmac.gob.ar",
@@ -1443,10 +1382,6 @@
                 "tesauro jurídico",
                 "vocabularios controlados"
             ],
-            "accrualPeriodicity": "R/P1M",
-            "superTheme": [
-                "JUST"
-            ],
             "contactPoint": {
                 "hasEmail": "datosabiertos@saij.gob.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
@@ -1486,10 +1421,6 @@
                 "derechos humanos",
                 "violación a los derechos humanos",
                 "violencia institucional"
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "superTheme": [
-                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "dnpcvi@jus.gov.ar",
