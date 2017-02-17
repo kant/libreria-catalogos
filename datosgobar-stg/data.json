@@ -1,0 +1,57 @@
+{
+    "publisher": {
+        "mbox": "datos@modernizacion.gob.ar",
+        "name": "Datos Argentina"
+    },
+    "description": "Datos Argentina. Portal de datos abiertos de la República Argentina. Encontrá datos públicos en formatos abiertos. Son tuyos: ¡usalos, modificalos y compartilos!",
+    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
+    "title": "Datos Argentina",
+    "dataset": [
+        {
+            "publisher": {
+                "mbox": "jsalgado@modernizacion.gob.ar",
+                "name": "JSalgado"
+            },
+            "landingPage": "Fuente del recurso.",
+            "description": "Dataset para tests",
+            "license": "Creative Commons Attribution",
+            "title": "Dataset.test",
+            "issued": "2017-02-17T16:29:16.667765",
+            "modified": "2017-02-17T16:30:09.236679",
+            "theme": [
+                "tema-dev"
+            ],
+            "keyword": [
+                "dev",
+                "harvest",
+                "test"
+            ],
+            "contactPoint": {
+                "hasEmail": "jsalgado@modernizacion.gob.ar",
+                "fn": "JSalgado"
+            },
+            "identifier": "0acfbc6a-9e09-4f7b-b2ca-e74ec41957be",
+            "distribution": [
+                {
+                    "accessURL": "http://181.209.63.37/dataset/0acfbc6a-9e09-4f7b-b2ca-e74ec41957be/resource/e93be2ef-b693-4a15-be97-2a024fe139b0",
+                    "description": "recuerso de test",
+                    "title": "recuerso.test",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-02-17T16:30:02.555708",
+                    "downloadURL": "http://181.209.63.37/dataset/0acfbc6a-9e09-4f7b-b2ca-e74ec41957be/resource/e93be2ef-b693-4a15-be97-2a024fe139b0/download/contratos-alquiler-estado-nacional-locador.csv",
+                    "issued": "2017-02-17T16:30:02.590887",
+                    "identifier": "e93be2ef-b693-4a15-be97-2a024fe139b0"
+                }
+            ]
+        }
+    ],
+    "themeTaxonomy": [
+        {
+            "description": "Tema de Ejemeplo para tests",
+            "id": "tema-dev",
+            "label": "Tema.dev"
+        }
+    ]
+}
