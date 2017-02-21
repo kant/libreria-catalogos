@@ -1529,10 +1529,10 @@
             },
             "landingPage": "https://www.argentinacompra.gov.ar/contrataciones",
             "description": "Datos correspondiente al Sistema de Contrataciones Electrónicas (Argentina Compra), incluyendo las contrataciones de bienes y servicios, el Sistema de Información de Proveedores (SIPRO) y el Catálogo de Bienes y Servicios (SIByS)",
-            "license": "License not specified",
+            "license": "No se especificó la licencia",
             "title": "Sistema de Contrataciones Electrónicas  (Argentina Compra)",
             "issued": "2016-04-14T19:48:05.433640",
-            "modified": "2017-01-13T21:16:35.815357",
+            "modified": "2017-02-21T20:44:05.651377",
             "theme": [
                 "econ",
                 "gove"
@@ -1560,7 +1560,7 @@
                 {
                     "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/fa3603b3-0af7-43cc-9da9-90a512217d8a",
                     "description": "Listado de las convocatorias abiertas durante el año 2015.",
-                    "title": "Convocatorias 2015",
+                    "title": "Convocatorias 2015 (sistema legacy)",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
@@ -1572,7 +1572,7 @@
                 {
                     "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/41fcfdb2-fdb3-4855-89b2-09d9f7c6bbc8",
                     "description": "Listado de las adjudicaciones realizadas durante el año 2015.",
-                    "title": "Adjudicaciones 2015",
+                    "title": "Adjudicaciones 2015 (sistema legacy)",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
@@ -1584,11 +1584,11 @@
                 {
                     "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/c19a2467-5232-41ae-bb0c-75dcd71e7c5f",
                     "description": "El Sistema de Información de Proveedores (SIPro) brinda información relativa de los oferentes y adjudicatarios de las contrataciones que realiza la Administración Pública Nacional.",
-                    "title": "Sistema de Información de Proveedores (SIPRO)",
+                    "title": "Sistema de Información de Proveedores (SIPRO - sistema legacy)",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2016-04-18T20:57:46.426156",
+                    "modified": "2017-02-21T20:44:01.703414",
                     "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/c19a2467-5232-41ae-bb0c-75dcd71e7c5f/download/proveedores-sipro.csv",
                     "issued": "2016-04-18T17:57:46.516762",
                     "identifier": "c19a2467-5232-41ae-bb0c-75dcd71e7c5f"
