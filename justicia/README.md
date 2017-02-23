@@ -4,7 +4,7 @@
 ## Información General
 
 - **Autor**: CKAN
-- **Correo Electrónico**: None
+- **Correo Electrónico**: justiciaabierta@jus.gov.ar
 - **Nombre del catálogo**: CKAN
 - **Descripción**:
 
