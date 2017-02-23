@@ -1,6 +1,6 @@
 {
     "publisher": {
-        "mbox": null,
+        "mbox": "justiciaabierta@jus.gov.ar",
         "name": "CKAN"
     },
     "description": "",
@@ -17,7 +17,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base Infoleg de Normativa Nacional",
             "issued": "2016-09-05T18:25:21.249967",
-            "modified": "2017-02-17T14:05:41.675140",
+            "modified": "2017-02-23T20:28:33.078485",
             "theme": [
                 "informacion-juridica"
             ],
@@ -29,6 +29,9 @@
                 "disposiciones",
                 "leyes",
                 "resoluciones"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "datosabiertos@saij.gob.ar",
@@ -84,7 +87,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base SAIJ de Normativa Provincial",
             "issued": "2016-11-22T16:09:24.483249",
-            "modified": "2017-02-06T19:53:11.726682",
+            "modified": "2017-02-23T20:30:19.243868",
             "theme": [
                 "informacion-juridica"
             ],
@@ -94,6 +97,9 @@
                 "constituciones provinciales",
                 "decretos",
                 "leyes"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "datosabiertos@saij.gob.ar",
@@ -125,7 +131,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Centros de Acceso a la Justicia -CAJ-",
             "issued": "2016-09-08T15:01:56.463663",
-            "modified": "2017-01-04T14:42:53.327243",
+            "modified": "2017-02-23T20:33:12.677826",
             "theme": [
                 "acceso-a-justicia"
             ],
@@ -137,6 +143,9 @@
                 "casas de justicia",
                 "justicia",
                 "vulnerable"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "rcoutenceau@jus.gov.ar",
@@ -168,7 +177,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
             "issued": "2016-09-28T14:57:47.665668",
-            "modified": "2017-02-23T13:20:41.440064",
+            "modified": "2017-02-23T20:51:18.419848",
             "theme": [
                 "sistema-registral"
             ],
@@ -177,6 +186,10 @@
                 "detención",
                 "rebeldías"
             ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "R/P1D",
             "contactPoint": {
                 "hasEmail": "mpolimeni@dnrec.jus.gov.ar",
                 "fn": "Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Direccion Nacional Registro Nacional de Reincidencia"
@@ -207,7 +220,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Declaración Jurada Patrimonial Integral de carácter público",
             "issued": "2016-09-09T21:47:48.029246",
-            "modified": "2016-11-30T14:17:38.868492",
+            "modified": "2017-02-23T20:34:35.806904",
             "theme": [
                 "anticorrupcion"
             ],
@@ -219,6 +232,9 @@
                 "funcionarios",
                 "patrimonio",
                 "ética pública"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "accrualPeriodicity": "eventual",
             "contactPoint": {
@@ -287,7 +303,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2017-02-03T17:43:43.247834",
+            "modified": "2017-02-23T20:31:58.761638",
             "theme": [
                 "sistema-registral"
             ],
@@ -299,6 +315,9 @@
                 "fundaciones",
                 "personas jurídicas",
                 "sociedades"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "dmiralles@jus.gov.ar",
@@ -618,7 +637,7 @@
             "license": "Creative Commons Attribution",
             "title": "Estadística de Inscripciones Iniciales de Automotores y Motovehículos",
             "issued": "2016-07-12T13:35:32.251134",
-            "modified": "2017-02-01T14:28:43.491607",
+            "modified": "2017-02-23T20:50:36.580771",
             "theme": [
                 "sistema-registral"
             ],
@@ -630,6 +649,9 @@
                 "prendas",
                 "registración",
                 "transferencias"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "accesobd@dnrpa.gov.ar",
@@ -661,7 +683,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Internos del Servicio Penitenciario Federal - SPF",
             "issued": "2016-09-29T12:32:11.583547",
-            "modified": "2017-02-14T18:02:56.284032",
+            "modified": "2017-02-23T20:29:24.130535",
             "theme": [
                 "sistema-penitenciario"
             ],
@@ -675,6 +697,9 @@
                 "prisión",
                 "procesados",
                 "procesal"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "",
@@ -838,7 +863,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Listado de Registros Seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios",
             "issued": "2016-07-11T17:42:30.442323",
-            "modified": "2017-02-01T14:55:25.781527",
+            "modified": "2017-02-23T20:31:12.313458",
             "theme": [
                 "sistema-registral"
             ],
@@ -849,6 +874,9 @@
                 "prendas",
                 "registración",
                 "transferencias"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "accesobd@dnrpa.gov.ar",
@@ -880,7 +908,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
             "issued": "2016-09-14T17:29:44.287403",
-            "modified": "2017-02-20T15:35:43.820118",
+            "modified": "2017-02-23T20:26:42.870720",
             "theme": [
                 "poder-judicial"
             ],
@@ -897,6 +925,9 @@
                 "subrogante",
                 "vacante",
                 "órgano"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "accrualPeriodicity": "eventual",
             "contactPoint": {
@@ -953,7 +984,7 @@
             "license": "Creative Commons Attribution",
             "title": "Estadística de mediaciones prejudiciales y judiciales",
             "issued": "2016-07-12T13:51:29.820576",
-            "modified": "2017-02-10T19:34:21.011688",
+            "modified": "2017-02-23T20:29:53.794113",
             "theme": [
                 "acceso-a-justicia"
             ],
@@ -961,6 +992,9 @@
                 "mediación",
                 "prejudicial",
                 "resolución alternativa de conflictos"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "allamosa@jus.gov.ar",
@@ -992,7 +1026,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Registro, Sistematización y Seguimiento de Femicidios y Homicidios Agravados por el Género",
             "issued": "2016-09-14T14:04:25.296524",
-            "modified": "2017-02-16T15:10:26.150952",
+            "modified": "2017-02-23T20:28:58.952496",
             "theme": [
                 "derechos-humanos"
             ],
@@ -1001,6 +1035,9 @@
                 "genero",
                 "homicidios",
                 "violencia"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "registro_femicidios@jus.gov.ar",
@@ -1032,7 +1069,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-",
             "issued": "2016-09-30T18:34:43.987076",
-            "modified": "2016-11-30T14:19:33.837569",
+            "modified": "2017-02-23T20:34:08.903561",
             "theme": [
                 "derechos-humanos"
             ],
@@ -1041,6 +1078,9 @@
                 "desaparición forzada",
                 "represión",
                 "víctimas"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "accrualPeriodicity": "eventual",
             "contactPoint": {
@@ -1085,7 +1125,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP",
             "issued": "2016-07-14T14:48:34.766352",
-            "modified": "2017-01-23T18:42:43.288219",
+            "modified": "2017-02-23T20:32:44.388021",
             "theme": [
                 "politica-criminal",
                 "sistema-penitenciario"
@@ -1099,6 +1139,9 @@
                 "personas privadas de la libertad",
                 "presos",
                 "prisión"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "CGonzalezGuerra@jus.gov.ar",
@@ -1286,7 +1329,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
             "issued": "2016-09-02T18:14:39.283242",
-            "modified": "2017-02-17T17:52:42.949998",
+            "modified": "2017-02-23T20:27:20.004629",
             "theme": [
                 "sistema-registral"
             ],
@@ -1296,6 +1339,9 @@
                 "armas",
                 "legítimo usuario",
                 "portación"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "informatica@anmac.gob.ar",
@@ -1327,7 +1373,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
             "issued": "2016-09-05T18:02:00.514364",
-            "modified": "2017-02-17T17:52:23.871849",
+            "modified": "2017-02-23T20:27:58.377507",
             "theme": [
                 "sistema-registral"
             ],
@@ -1336,6 +1382,9 @@
                 "RENAR",
                 "armas",
                 "portación"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "informatica@anmac.gob.ar",
@@ -1367,7 +1416,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Tesauro SAIJ de Derecho Argentino",
             "issued": "2016-11-24T15:40:56.092037",
-            "modified": "2017-02-06T19:40:19.097458",
+            "modified": "2017-02-23T20:30:43.140158",
             "theme": [
                 "informacion-juridica"
             ],
@@ -1381,6 +1430,9 @@
                 "resoluciones",
                 "tesauro jurídico",
                 "vocabularios controlados"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "datosabiertos@saij.gob.ar",
@@ -1412,7 +1464,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional",
             "issued": "2016-09-19T17:30:38.744175",
-            "modified": "2016-12-26T18:17:06.698774",
+            "modified": "2017-02-23T20:33:38.501775",
             "theme": [
                 "derechos-humanos"
             ],
@@ -1421,6 +1473,9 @@
                 "derechos humanos",
                 "violación a los derechos humanos",
                 "violencia institucional"
+            ],
+            "superTheme": [
+                "JUST"
             ],
             "contactPoint": {
                 "hasEmail": "dnpcvi@jus.gov.ar",
