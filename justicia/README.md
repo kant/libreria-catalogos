@@ -1,20 +1,20 @@
 
-# Catálogo: CKAN
+# Catálogo: Datos Justicia Argentina
 
 ## Información General
 
-- **Autor**: CKAN
-- **Correo Electrónico**: justiciaabierta@jus.gov.ar
-- **Nombre del catálogo**: CKAN
+- **Autor**: Datos Justicia Argentina
+- **Correo Electrónico**: justiciaabierta@jus.gob.ar
+- **Nombre del catálogo**: Datos Justicia Argentina
 - **Descripción**:
 
-> 
+> Portal de Datos de Justicia de la República Argentina
 
 ## Estado de los metadatos y cantidad de recursos
 
 Estado metadatos globales | Estado metadatos catálogo | # de Datasets | # de Distribuciones
 --------------------------|---------------------------|---------------|--------------------
-ERROR | ERROR | 18 | 83
+ERROR | OK | 18 | 83
 
 ## Datasets incluidos
 
