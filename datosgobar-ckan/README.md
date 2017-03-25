@@ -4,7 +4,7 @@
 ## Información General
 
 - **Autor**: Datos Argentina
-- **Correo Electrónico**: datos@modernizacion.com
+- **Correo Electrónico**: datos@modernizacion.gob.ar
 - **Nombre del catálogo**: Datos Argentina
 - **Descripción**:
 
