@@ -17,7 +17,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base Infoleg de Normativa Nacional",
             "issued": "2016-09-05T18:25:21.249967",
-            "modified": "2017-03-31T15:51:26.703038",
+            "modified": "2017-03-31T16:27:13.630701",
             "theme": [
                 "informacion-juridica"
             ],
@@ -33,6 +33,7 @@
             "superTheme": [
                 "JUST"
             ],
+            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "datosabiertos@saij.gob.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
@@ -958,7 +959,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
             "issued": "2016-09-14T17:29:44.287403",
-            "modified": "2017-03-31T15:34:28.638323",
+            "modified": "2017-03-31T16:08:52.399322",
             "theme": [
                 "poder-judicial"
             ],
@@ -1005,7 +1006,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-03-31T12:33:15.720848",
+                    "modified": "2017-03-31T13:07:09.787820",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/ac34ee63-7e86-4f15-b57b-c6a35f71ea6e/download/magistrados-justicia-federal-nacional-designaciones.csv",
                     "issued": "2016-10-14T16:23:54.581290",
                     "identifier": "ac34ee63-7e86-4f15-b57b-c6a35f71ea6e"
@@ -1017,7 +1018,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-03-31T12:29:21.419462",
+                    "modified": "2017-03-31T13:08:33.279368",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/551c8132-4aef-419a-8f7b-020bb613980b/download/magistrados-justicia-federal-nacional-renuncias.csv",
                     "issued": "2016-10-14T16:24:29.971004",
                     "identifier": "551c8132-4aef-419a-8f7b-020bb613980b"
@@ -1175,7 +1176,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP",
             "issued": "2016-07-14T14:48:34.766352",
-            "modified": "2017-02-23T20:32:44.388021",
+            "modified": "2017-03-31T16:25:13.465609",
             "theme": [
                 "politica-criminal",
                 "sistema-penitenciario"
@@ -1193,6 +1194,7 @@
             "superTheme": [
                 "JUST"
             ],
+            "accrualPeriodicity": "R/P1Y",
             "contactPoint": {
                 "hasEmail": "CGonzalezGuerra@jus.gov.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal."
