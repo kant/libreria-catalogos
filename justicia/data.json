@@ -17,7 +17,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base Infoleg de Normativa Nacional",
             "issued": "2016-09-05T18:25:21.249967",
-            "modified": "2017-03-31T16:27:13.630701",
+            "modified": "2017-04-04T15:38:10.266476",
             "theme": [
                 "informacion-juridica"
             ],
@@ -47,8 +47,8 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-03-03T15:14:13.928676",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/8db246a2-48dd-4f2f-b08e-ab6293747882/download/baseinfolegnormativanacional.csv",
+                    "modified": "2017-04-04T12:24:48.619688",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/8db246a2-48dd-4f2f-b08e-ab6293747882/download/base-infoleg-normativa-nacional.csv",
                     "issued": "2016-09-29T11:17:50.274309",
                     "identifier": "8db246a2-48dd-4f2f-b08e-ab6293747882"
                 },
@@ -59,8 +59,8 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-03-03T16:19:07.735908",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/d9fbf1d5-679e-4833-bcdc-3a8f58523d18/download/basecomplementariainfolegnormasmodificadas.csv",
+                    "modified": "2017-04-04T12:32:22.872722",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/d9fbf1d5-679e-4833-bcdc-3a8f58523d18/download/base-complementaria-infoleg-normas-modificadas.csv",
                     "issued": "2016-10-14T16:02:49.841535",
                     "identifier": "d9fbf1d5-679e-4833-bcdc-3a8f58523d18"
                 },
@@ -71,8 +71,8 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-03-03T17:06:53.996075",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/f9170086-6538-44f1-8c7e-3e193c1fea7f/download/basecomplementariainfolegnormasmodificatorias.csv",
+                    "modified": "2017-04-04T12:37:57.196697",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/f9170086-6538-44f1-8c7e-3e193c1fea7f/download/base-complementaria-infoleg-normas-modificatorias.csv",
                     "issued": "2016-10-18T17:26:58.415087",
                     "identifier": "f9170086-6538-44f1-8c7e-3e193c1fea7f"
                 }
@@ -88,7 +88,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base SAIJ de Normativa Provincial",
             "issued": "2016-11-22T16:09:24.483249",
-            "modified": "2017-03-31T18:04:03.662198",
+            "modified": "2017-04-04T15:29:13.617317",
             "theme": [
                 "informacion-juridica"
             ],
@@ -116,8 +116,8 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-03-03T14:21:19.427743",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/d59c2d29-d561-4ad2-a032-cc82b40db2d3/resource/0ebc70cc-0e71-4158-ab75-9759339e4cbd/download/basesaijnormativaprovincial.csv",
+                    "modified": "2017-04-04T12:23:52.392531",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/d59c2d29-d561-4ad2-a032-cc82b40db2d3/resource/0ebc70cc-0e71-4158-ab75-9759339e4cbd/download/base-saij-normativa-provincial.csv",
                     "issued": "2016-12-19T12:13:11.208126",
                     "identifier": "0ebc70cc-0e71-4158-ab75-9759339e4cbd"
                 }
@@ -306,7 +306,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2017-03-31T18:04:33.665147",
+            "modified": "2017-04-04T15:58:13.727242",
             "theme": [
                 "sistema-registral"
             ],
@@ -688,6 +688,54 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1225e990-7c7a-4437-8df6-da58c216de64/download/igj-domicilios.csv",
                     "issued": "2017-03-01T12:50:02.721277",
                     "identifier": "1225e990-7c7a-4437-8df6-da58c216de64"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/548b1588-7141-423d-9c78-27dfe2200de1",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ. Autoridades de entidades 2017-03",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-04-04T12:27:48.524782",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/548b1588-7141-423d-9c78-27dfe2200de1/download/igj-autoridades.csv",
+                    "issued": "2017-04-04T12:27:49.150564",
+                    "identifier": "548b1588-7141-423d-9c78-27dfe2200de1"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/be8a6b2f-80ea-47e7-a033-b2db866014f8",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2017-03",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-04-04T12:34:02.536657",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/be8a6b2f-80ea-47e7-a033-b2db866014f8/download/igj-entidades.csv",
+                    "issued": "2017-04-04T12:34:03.290226",
+                    "identifier": "be8a6b2f-80ea-47e7-a033-b2db866014f8"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/14464ae4-eb5b-4216-9690-26426e5f6d71",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2017-03",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-04-04T12:55:17.503877",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/14464ae4-eb5b-4216-9690-26426e5f6d71/download/igj-domicilios.csv",
+                    "issued": "2017-04-04T12:55:22.288261",
+                    "identifier": "14464ae4-eb5b-4216-9690-26426e5f6d71"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/ee4fb267-6140-461e-8db4-1e4fee5fb3ea",
+                    "description": "Balances presentados por entidades constituidas en la IGJ",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2017-03",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-04-04T12:56:32.826822",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/ee4fb267-6140-461e-8db4-1e4fee5fb3ea/download/igj-balances.csv",
+                    "issued": "2017-04-04T12:56:33.764178",
+                    "identifier": "ee4fb267-6140-461e-8db4-1e4fee5fb3ea"
                 }
             ]
         },
@@ -1386,7 +1434,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
             "issued": "2016-09-02T18:14:39.283242",
-            "modified": "2017-04-04T14:03:53.280675",
+            "modified": "2017-04-04T15:26:53.959587",
             "theme": [
                 "sistema-registral"
             ],
@@ -1413,8 +1461,8 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-04-04T11:02:28.174900",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0ecec60a-0723-4232-a401-6565ebb282cf/download/solicitudes-de-condicion-de-legitimo-usuario-de-armas-de-fuego.csv",
+                    "modified": "2017-04-04T12:23:21.518487",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0ecec60a-0723-4232-a401-6565ebb282cf/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv",
                     "issued": "2016-10-18T13:04:43.515767",
                     "identifier": "0ecec60a-0723-4232-a401-6565ebb282cf"
                 }
@@ -1430,7 +1478,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
             "issued": "2016-09-05T18:02:00.514364",
-            "modified": "2017-04-04T14:03:35.179507",
+            "modified": "2017-04-04T15:27:28.880424",
             "theme": [
                 "sistema-registral"
             ],
@@ -1456,8 +1504,8 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-04-04T11:02:01.981722",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/2e0a4e06-0d2e-4e78-861d-1105e558e493/download/solicitudes-de-autorizacion-de-portacion-de-armas-de-fuego.csv",
+                    "modified": "2017-04-04T12:22:18.294575",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/2e0a4e06-0d2e-4e78-861d-1105e558e493/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
                     "issued": "2016-10-05T12:41:06.725445",
                     "identifier": "2e0a4e06-0d2e-4e78-861d-1105e558e493"
                 }
