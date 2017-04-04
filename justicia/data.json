@@ -306,7 +306,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2017-04-04T15:58:13.727242",
+            "modified": "2017-04-04T16:04:13.536396",
             "theme": [
                 "sistema-registral"
             ],
@@ -736,6 +736,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/ee4fb267-6140-461e-8db4-1e4fee5fb3ea/download/igj-balances.csv",
                     "issued": "2017-04-04T12:56:33.764178",
                     "identifier": "ee4fb267-6140-461e-8db4-1e4fee5fb3ea"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/d4530368-c7db-4eea-b09c-4362639e657a",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ.  Asambleas de entidades constituidas en la IGJ 2017-03",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-04-04T13:01:04.366019",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/d4530368-c7db-4eea-b09c-4362639e657a/download/igj-asambleas.csv",
+                    "issued": "2017-04-04T13:01:04.950789",
+                    "identifier": "d4530368-c7db-4eea-b09c-4362639e657a"
                 }
             ]
         },
