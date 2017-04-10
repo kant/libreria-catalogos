@@ -13,3 +13,31 @@ datosgobar-ckan:
 datosgobar-dev:
   url: "http://181.209.63.37"
   formato: "ckan"
+
+pami:
+  url: "http://datos.pami.org.ar:5000"
+  formato: "ckan"
+
+mendoza:
+  url: "http://www.datosabiertos.mendoza.gov.ar/data.json"
+  formato: "json"
+
+mendoza-ckan:
+  url: "http://www.datosabiertos.mendoza.gov.ar"
+  formato: "ckan"
+
+transporte:
+  url: "http://datos.transporte.gob.ar/data.json"
+  formato: "json"
+
+transporte-ckan:
+  url: "http://datos.transporte.gob.ar"
+  formato: "ckan"
+
+mincyt:
+  url: "http://datosdesa.mincyt.gob.ar/datasets/data.json"
+  formato: "json"
+
+mincyt-ckan:
+  url: "http://datosdesa.mincyt.gob.ar/datasets"
+  formato: "ckan"
