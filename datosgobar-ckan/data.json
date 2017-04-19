@@ -1497,7 +1497,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema de Contrataciones Electrónicas  (Argentina Compra)",
             "issued": "2016-04-14T19:48:05.433640",
-            "modified": "2017-04-19T14:56:32.151973",
+            "modified": "2017-04-19T15:07:13.105041",
             "theme": [
                 "econ",
                 "gove"
@@ -1523,6 +1523,30 @@
             "identifier": "069b5833-e57d-4d7a-859b-67a80cfdff20",
             "distribution": [
                 {
+                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/1e90e421-8173-43bc-ae26-41ce8a7e701d",
+                    "description": "Listado de convocatorias abiertas durante el 2016 en el nuevo sistema \"COMPR.AR\".",
+                    "title": "Convocatorias 2016",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-04-19T14:56:25.167974",
+                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/1e90e421-8173-43bc-ae26-41ce8a7e701d/download/convocatorias-2016.csv",
+                    "issued": "2017-04-19T14:56:25.245356",
+                    "identifier": "1e90e421-8173-43bc-ae26-41ce8a7e701d"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/5a9d6b48-f7f9-429e-b9da-429b2958ed84",
+                    "description": "Listado de las convocatorias abiertas durante el año 2016.",
+                    "title": "Convocatorias 2016 (sistema legacy)",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-04-19T14:47:10.097484",
+                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/5a9d6b48-f7f9-429e-b9da-429b2958ed84/download/convocatorias-2016-sistema-legacy.csv",
+                    "issued": "2017-04-19T14:47:10.172278",
+                    "identifier": "5a9d6b48-f7f9-429e-b9da-429b2958ed84"
+                },
+                {
                     "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/fa3603b3-0af7-43cc-9da9-90a512217d8a",
                     "description": "Listado de las convocatorias abiertas durante el año 2015.",
                     "title": "Convocatorias 2015 (sistema legacy)",
@@ -1533,6 +1557,30 @@
                     "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/fa3603b3-0af7-43cc-9da9-90a512217d8a/download/convocatorias-2015.csv",
                     "issued": "2016-04-18T09:46:22.714629",
                     "identifier": "fa3603b3-0af7-43cc-9da9-90a512217d8a"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/013ee74e-953f-4100-a451-7e5be3ca95fd",
+                    "description": "Listado de adjudicaciones realizadas durante el 2016 por medio del nuevo sistema \"COMPR.AR\".",
+                    "title": "Adjudicaciones 2016",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-04-19T15:01:19.646263",
+                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/013ee74e-953f-4100-a451-7e5be3ca95fd/download/adjudicaciones-2016.csv",
+                    "issued": "2017-04-19T15:01:19.720040",
+                    "identifier": "013ee74e-953f-4100-a451-7e5be3ca95fd"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/63fa4924-e814-43fb-b54d-e1cdc31a2d33",
+                    "description": "Listado de las adjudicaciones realizadas durante el año 2016.",
+                    "title": "Adjudicaciones 2016 (sistema legacy)",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-04-19T14:50:54.218948",
+                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/63fa4924-e814-43fb-b54d-e1cdc31a2d33/download/adjudicaciones-2016-sistema-legacy.csv",
+                    "issued": "2017-04-19T14:50:54.291007",
+                    "identifier": "63fa4924-e814-43fb-b54d-e1cdc31a2d33"
                 },
                 {
                     "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/41fcfdb2-fdb3-4855-89b2-09d9f7c6bbc8",
@@ -1559,6 +1607,18 @@
                     "identifier": "c19a2467-5232-41ae-bb0c-75dcd71e7c5f"
                 },
                 {
+                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/65b58c37-29a5-47ef-a10a-3144246bedd1",
+                    "description": "El Sistema de Información de Proveedores brinda información relativa de los oferentes y adjudicatarios de las contrataciones que realiza la Administración Pública Nacional.",
+                    "title": "Sistema de Información de Proveedores",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-04-19T15:05:41.887275",
+                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/65b58c37-29a5-47ef-a10a-3144246bedd1/download/proveedores.csv",
+                    "issued": "2017-04-19T15:05:41.978485",
+                    "identifier": "65b58c37-29a5-47ef-a10a-3144246bedd1"
+                },
+                {
                     "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/8d0dafbd-bd9c-48b6-81c3-05f492647974",
                     "description": "Clasificación y codificación de los bienes y servicios, de manera de establecer criterios uniformes y homogéneos con el fin de identificar los requerimientos de compras, así como la administración, guarda y custodia de bienes muebles e inmuebles.",
                     "title": "Catálogo de Bienes y Servicios (SIByS)",
@@ -1569,42 +1629,6 @@
                     "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/8d0dafbd-bd9c-48b6-81c3-05f492647974/download/items-sibys.csv",
                     "issued": "2016-04-18T20:15:36.730270",
                     "identifier": "8d0dafbd-bd9c-48b6-81c3-05f492647974"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/5a9d6b48-f7f9-429e-b9da-429b2958ed84",
-                    "description": "Listado de las convocatorias abiertas durante el año 2016.",
-                    "title": "Convocatorias 2016 (sistema legacy)",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-04-19T14:47:10.097484",
-                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/5a9d6b48-f7f9-429e-b9da-429b2958ed84/download/convocatorias-2016-sistema-legacy.csv",
-                    "issued": "2017-04-19T14:47:10.172278",
-                    "identifier": "5a9d6b48-f7f9-429e-b9da-429b2958ed84"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/63fa4924-e814-43fb-b54d-e1cdc31a2d33",
-                    "description": "Listado de las adjudicaciones realizadas durante el año 2016.",
-                    "title": "Adjudicaciones 2016 (sistema legacy)",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-04-19T14:50:54.218948",
-                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/63fa4924-e814-43fb-b54d-e1cdc31a2d33/download/adjudicaciones-2016-sistema-legacy.csv",
-                    "issued": "2017-04-19T14:50:54.291007",
-                    "identifier": "63fa4924-e814-43fb-b54d-e1cdc31a2d33"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/1e90e421-8173-43bc-ae26-41ce8a7e701d",
-                    "description": "Listado de convocatorias abiertas durante el 2016 en el nuevo sistema \"COMPR.AR\".",
-                    "title": "Convocatorias 2016",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-04-19T14:56:25.167974",
-                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/1e90e421-8173-43bc-ae26-41ce8a7e701d/download/convocatorias-2016.csv",
-                    "issued": "2017-04-19T14:56:25.245356",
-                    "identifier": "1e90e421-8173-43bc-ae26-41ce8a7e701d"
                 }
             ]
         },
