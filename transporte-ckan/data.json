@@ -1,11 +1,11 @@
 {
     "publisher": {
-        "mbox": "disabled@example.com",
-        "name": "CKAN"
+        "mbox": "dotes@transporte.gob.ar",
+        "name": "Datos Transporte"
     },
-    "description": "",
+    "description": "Datos Transporte Argentina. Portal de datos abiertos de Transporte de la República Argentina.",
     "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
-    "title": "CKAN",
+    "title": "Datos Transporte",
     "dataset": [
         {
             "publisher": {
@@ -1131,32 +1131,32 @@
     ],
     "themeTaxonomy": [
         {
-            "description": "",
+            "description": "Datos relacionados al modo de Transporte Aéreo de la República Argentina.",
             "id": "aereo",
             "label": "Transporte Aéreo"
         },
         {
-            "description": "",
+            "description": "Datos relacionados al modo de Transporte Automotor de la República Argentina.",
             "id": "automotor",
             "label": "Transporte Automotor"
         },
         {
-            "description": "",
+            "description": "Datos relacionados al modo de Transporte Ferroviario de la República Argentina.",
             "id": "ferroviario",
             "label": "Transporte Ferroviario"
         },
         {
-            "description": "",
+            "description": "Datos relacionados al modo de Transporte Fluvial de la República Argentina.",
             "id": "fluvial",
             "label": "Transporte Fluvial"
         },
         {
-            "description": "",
+            "description": "Datos relacionados a la planificación, administración, y datos generales de Transporte de la República Argentina que no están directamente relacionados a un modo específico.",
             "id": "general",
             "label": "Transporte General"
         },
         {
-            "description": "",
+            "description": "Datos de desplazamientos en los distintos modos de transporte en las ciudades de la República Argentina.",
             "id": "movilidad",
             "label": "Movilidad Urbana"
         }
