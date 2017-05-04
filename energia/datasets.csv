@@ -5,11 +5,11 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 3,Anuarios de Cooperativas Eléctricas,91cff942-0fd8-487b-a805-e525b1bfcb02,ERROR,5,18
 4,Anuarios de Energía Eléctrica,e0c48587-cb50-4bb9-a541-8478a6ff2a6f,ERROR,4,52
 5,Argentina Energy for growth,62b4fede-719e-4948-ba27-2ea9354db67f,ERROR,3,1
-6,Auditorías e inspecciones en instalaciones de hidrocarburos,a20cc1db-1bd1-4706-9a6b-28d921af293b,ERROR,2,0
+6,Auditorías e inspecciones en instalaciones de hidrocarburos,a20cc1db-1bd1-4706-9a6b-28d921af293b,ERROR,2,1
 7,Autoridades nacionales desde 1944,875910da-b806-4f71-a5bf-112325581eea,ERROR,1,1
 8,Balances Energéticos,ad6e372a-454e-44bf-9e41-a607942f4f61,ERROR,12,8
-9,Balanza comercial minera,838eb9d7-bfff-4b3d-9a51-ce1d1a77aeb9,ERROR,2,0
-10,Barrios Ciudad Autónoma de Buenos Aires,8e79a51f-474e-4d26-99eb-9e660edf76ec,ERROR,2,0
+9,Balanza comercial minera,838eb9d7-bfff-4b3d-9a51-ce1d1a77aeb9,ERROR,2,1
+10,Barrios Ciudad Autónoma de Buenos Aires,8e79a51f-474e-4d26-99eb-9e660edf76ec,ERROR,2,3
 11,Boletín Mensual de Combustibles,206ada19-4934-40fa-9ab3-884b403b37c2,ERROR,4,1
 12,Boletín Mensual de Precios,cc5c1516-e0fb-4610-98a8-fdde03a93414,ERROR,3,1
 13,"Cálculo del Factor de Emisión de CO2, de la Red Argentina de Energía Eléctrica",7d47693a-c533-4e76-ae24-374c3205715a,ERROR,6,12
@@ -38,26 +38,26 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 36,Control de calidad de combustibles,6088d0ad-1798-41a4-8e76-5f3156874238,ERROR,2,0
 37,Cuadros Tarifarios Eléctricos,fca32aa8-ace4-4da6-9a2f-c8ea9119ac9a,ERROR,5,46
 38,Detección Satelital de Venteos,7ef45681-a7de-440c-a343-b7d989261b58,ERROR,1,61
-39,Disponibilidad de petróleo a fin de mes,65101748-c98b-47f1-bf35-c282ba7b492a,ERROR,2,0
+39,Disponibilidad de petróleo a fin de mes,65101748-c98b-47f1-bf35-c282ba7b492a,ERROR,2,1
 40,Distribución de petróleo,1de93a11-047b-4665-93b7-f2927fc50f89,ERROR,2,1
 41,Distribución Eléctrica Apelp La Pampa MT Líneas,69feceec-2e8c-4baf-af45-dd00b202aca6,ERROR,2,0
 42,Distribución Eléctrica Áreas de Distribución de Cooperativas,edefded9-3329-468a-9c56-bc377a703200,ERROR,2,0
 43,Distribución Eléctrica Concesiones de Empresas Distribuidoras,96d78704-874e-44eb-920b-2a13f346622c,ERROR,2,0
-44,Distribución Eléctrica Edelap,2e0fe150-8cf4-4707-927d-94bfaf95bb53,ERROR,2,0
-45,Distribución Eléctrica Edenor,70f994f6-fde6-4e09-b3a4-72f5f7145181,ERROR,2,0
-46,Distribución Eléctrica Edesur,6cd06091-3498-457a-87cd-be1bf50f9e40,ERROR,2,0
+44,Distribución Eléctrica Edelap,2e0fe150-8cf4-4707-927d-94bfaf95bb53,ERROR,2,5
+45,Distribución Eléctrica Edenor,70f994f6-fde6-4e09-b3a4-72f5f7145181,ERROR,2,7
+46,Distribución Eléctrica Edesur,6cd06091-3498-457a-87cd-be1bf50f9e40,ERROR,2,4
 47,Distribución Gas Concesiones de Empresas Distribuidoras,7e8aab1c-cacb-4739-bdef-a3932dcced99,ERROR,2,0
-48,Elaboración de combustibles,b7204bc6-6b63-46b8-93cf-730379bb8335,ERROR,2,1
+48,Elaboración de combustibles,b7204bc6-6b63-46b8-93cf-730379bb8335,ERROR,2,3
 49,Energías Renovables Balance por radio censal de Energía derivada de la Biomasa WISDOM,d29ba763-7ae5-4e18-85bf-03c323bbd163,ERROR,2,0
 50,Energías Renovables Plantas Biocombustibles,eccce607-f934-4e93-a40b-1cca44fd6cd6,ERROR,2,0
 51,Plantas Productoras de Aceite Vegetal,bc71d6c7-677b-4fcd-807b-882747339fbf,ERROR,2,0
 52,Energías Renovables Puntos de Interés Geotérmico,aaea4a47-34d3-4528-98ab-8cb33483eef9,ERROR,2,0
-53,Energías Renovables Radiación Solar Incidente,292d47b8-07f7-4acc-b37f-2544ee8c89b4,ERROR,2,0
+53,Energías Renovables Radiación Solar Incidente,292d47b8-07f7-4acc-b37f-2544ee8c89b4,ERROR,2,24
 54,Refinerías de Aceite Vegetal,ab6c7e10-1b43-4e6f-a833-0adb996b0814,ERROR,2,0
 55,Escenarios Energéticos,9e2a8087-1b49-446a-8e86-712b476122fb,ERROR,3,1
 56,Estadísticas de biodiesel y bioetanol,5ce77ad1-c729-42cd-a8b5-2407de005e5b,ERROR,1,6
 57,Estadísticas Operativas - Cantidad de Combustible Vendido Mensual,e6ff6708-b895-4c9e-b5a7-c464e785a991,ERROR,2,0
-58,Estado de pozos de petróleo y gas,a6845008-51d9-481c-ad0f-899068e2bbc8,ERROR,2,1
+58,Estado de pozos de petróleo y gas,a6845008-51d9-481c-ad0f-899068e2bbc8,ERROR,2,2
 59,Evaluación de Formaciones en la Argentina,2bd8b9fe-63c6-4fa0-85d6-bab880b0e137,ERROR,4,1
 60,Evolución de la Demanda Eléctrica de Grandes Usuarios,7dac6812-021a-4a2f-a1c5-922fd4b8ae8b,ERROR,4,4
 61,Exploración Hidrocarburos Cuencas Sedimentarias,0d4a18ee-9371-439a-8a94-4f53a9822664,ERROR,2,0
@@ -91,10 +91,10 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 89,Información Socioeconómica Asentamientos y Villas ONG Techo,1c58835a-4590-41e1-9ba2-5a41fd6da0d1,ERROR,2,0
 90,Información Socioeconómica Asentamientos y Villas Wikimapia,8eba1cb4-37d4-4533-8f34-a8e48c2fe1af,ERROR,2,0
 91,Información Socioeconómica Ejidos Urbanos,bfbe9495-7ec1-4198-9c93-8da043582481,ERROR,2,0
-92,Información Socioeconómica INDEC Radios Censales,8ca540f9-434b-40f1-8a2f-6e22cdb26503,ERROR,2,0
+92,Información Socioeconómica INDEC Radios Censales,8ca540f9-434b-40f1-8a2f-6e22cdb26503,ERROR,2,1
 93,Información Socioeconómica Índice de Pobreza Multidimensional,ed0ea922-2379-4c1e-87ae-94a99b508bd0,ERROR,2,0
-94,Información Socioeconómica Jefe de Hogar con educación media incompleta,4d31208b-28d1-457c-95d3-044b5870bd26,ERROR,2,0
-95,Información Socioeconómica Jefe de Hogar con educación primaria completa,be49d6c7-46e2-432f-8d97-aed1370ba36c,ERROR,2,0
+94,Información Socioeconómica Jefe de Hogar con educación media incompleta,4d31208b-28d1-457c-95d3-044b5870bd26,ERROR,2,1
+95,Información Socioeconómica Jefe de Hogar con educación primaria completa,be49d6c7-46e2-432f-8d97-aed1370ba36c,ERROR,2,1
 96,Información Socioeconómica NBI (Deciles),9c116c36-f483-443b-9f4d-0b26c4a461e8,ERROR,2,0
 97,Información Socioeconómica Urbanizaciones Cerradas Wikimapia,a1b39f04-e852-4e2d-b51e-ef3a6c3be0a5,ERROR,2,0
 98,Informes Estadísticos del Sector Eléctrico (Quinquenales y Decenales),2d788688-1a20-4595-841d-4786cf3595e8,ERROR,4,5
@@ -104,7 +104,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 102,Instalaciones Hidrocarburos Instalaciones Res.319 93 (P. Característicos),e5c525ff-6dbd-4e1e-a52e-14e9d742c4f1,ERROR,2,0
 103,Instalaciones Hidrocarburos Puertos Regasificadores de GNL,bf7914d6-1174-4766-a632-0e7d62068b25,ERROR,2,0
 104,Inventario de Presas y Centrales Hidroeléctricas de la República Argentina,ae7886fe-7919-402c-9296-bd9ec05f29a0,ERROR,4,4
-105,Inversiones en mercado de hidrocarburos upstream,83fd2c3f-e0f5-4d56-a3ef-828eac226ba9,ERROR,2,0
+105,Inversiones en mercado de hidrocarburos upstream,83fd2c3f-e0f5-4d56-a3ef-828eac226ba9,ERROR,2,2
 106,Irradiancia normal directa,2d730da0-632f-4722-8e6f-4e4f5f40b9ab,ERROR,2,0
 107,Isotermas Atlas 2002,5a005898-adf2-4c23-984b-8a46467b7868,ERROR,2,0
 108,La Generación Eléctrica,4294caf6-6b5c-462a-be3a-3fd70dc04848,ERROR,2,1
@@ -126,7 +126,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 124,Parques Nacionales Protegidos,cf1a80d1-ecce-4cf8-92b7-36c2a793a59f,ERROR,2,0
 125,Parques Provinciales Protegidos,59fc9e1e-b7b2-425e-839c-e4c0af10b5f3,ERROR,2,0
 126,Participación de importaciones mineras por rubro,4d8592fc-0ced-4e58-8d6b-0e8548190c26,ERROR,2,0
-127,Perforación de pozos de petróleo y gas,7ea2ac77-d7a0-4129-9fbf-6f1a25d94e21,ERROR,2,4
+127,Perforación de pozos de petróleo y gas,7ea2ac77-d7a0-4129-9fbf-6f1a25d94e21,ERROR,2,7
 128,Plan de Acción e Inversiones a Ejecutar (Tablas Dinámicas),47c5b0c3-456d-4621-a166-1e3fa74643ba,ERROR,5,4
 129,Plan gas,2291de42-90bc-478e-a75a-252e8992fb78,ERROR,2,0
 130,Potencia Instalada (1976-2012),597cc7ae-6bb6-489d-bb8f-1f74631cd9f4,ERROR,5,1
@@ -134,20 +134,20 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 132,Pozos de Petróleo y Gas,4f43e690-4cac-4385-8a7a-89a163516dcc,ERROR,2,0
 133,Pozos y Metros Perforados (Tablas Dinámicas),363d43a7-34cd-49e7-9878-61ef4f7b2654,ERROR,1,1
 134,Precio Internacional (PI) del petróleo crudo (Res. MEyFP 1077/2014),e80b32fa-5abd-49b8-85cd-901c929ba29e,ERROR,5,1
-135,Precios de Bioetanol,227cd0b0-2b36-4d4f-8a12-36c9c0ec4875,ERROR,2,1
-136,Precios de Biodiesel,30fcb906-5374-4790-aa89-368c0d3ef314,ERROR,1,0
-137,Precios de combustibles,f0d16ab4-b45d-4069-80ba-6fa0ffe40ecb,ERROR,2,1
+135,Precios de Bioetanol,227cd0b0-2b36-4d4f-8a12-36c9c0ec4875,ERROR,2,2
+136,Precios de Biodiesel,30fcb906-5374-4790-aa89-368c0d3ef314,ERROR,1,1
+137,Precios de combustibles,f0d16ab4-b45d-4069-80ba-6fa0ffe40ecb,ERROR,2,2
 138,Precios de Comercio Exterior,14a1ee5c-ab0c-42b5-b2cc-fbd4e9a9f7a6,ERROR,1,1
 139,Precios de Venta al Mercado Interno de Petróleo Escalante,c8f6b6c5-1e2d-4d9f-b65d-01a6f9a231bc,ERROR,1,1
-140,Precios EESS - Resolución 1104/04,708f9ab4-829b-4f02-b507-f303c5bc4800,ERROR,2,14
+140,Precios EESS - Resolución 1104/04,708f9ab4-829b-4f02-b507-f303c5bc4800,ERROR,2,15
 141,Precios en Surtidor - Resolución 314/2016,e095db78-a5df-451c-b966-971d0a6b7887,OK,0,2
 142,Precios Promedio por Provincia de Combustibles líquidos en Estaciones de Servicio,830056c4-5ec5-436f-9746-da49ef532a71,ERROR,2,0
 143,Principales productos exportados por rubro,6f15bd25-c036-47fd-88fc-84f53b4170d4,ERROR,2,0
 144,Producción de combustibles,c1c73b3a-0811-4441-9b65-e461fdce52e8,ERROR,2,1
-145,Producción de gas,3c15b2eb-3a0f-4651-907f-4387945aa1b3,ERROR,2,2
-146,Producción de GLP,55b83784-8f04-4018-91c7-027163c615b3,ERROR,2,1
+145,Producción de gas,3c15b2eb-3a0f-4651-907f-4387945aa1b3,ERROR,2,4
+146,Producción de GLP,55b83784-8f04-4018-91c7-027163c615b3,ERROR,2,3
 147,Producción de GLP por planta,31f5df04-0028-46f1-8e98-b15948e0f206,ERROR,2,0
-148,Producción de petróleo,54e20b13-e946-4161-a5bc-b4497cbb6fe0,ERROR,2,4
+148,Producción de petróleo,54e20b13-e946-4161-a5bc-b4497cbb6fe0,ERROR,2,8
 149,Producción de Petróleo desde 1950,f91e3405-2bd0-47eb-81bd-5d73835ec005,ERROR,2,0
 150,Producción de petróleo y gas,a1e9795c-5fe0-49e3-984d-85d50a3448e1,ERROR,2,0
 151,Producción de petróleo y gas por pozo,c846e79c-026c-4040-897f-1ad3543b407c,ERROR,2,0
@@ -160,8 +160,8 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 158,Producción Hidrocarburos Yacimientos,7378520e-4d10-48a9-92e9-7e20e69a8277,ERROR,2,0
 159,Producción Hidrocarburos Yacimientos Según Profundidad Promedio,bd26f4e9-74cc-4444-ae6d-2dadcf491057,ERROR,2,0
 160,Productos exentos al ITC,02365d33-c504-4e31-814c-bd5f4f1eec81,ERROR,2,0
-161,Programa RENOVATE,a3f0afe3-00b4-4a9e-b759-c12b73db328c,ERROR,2,0
-162,Pronóstico de producción de gas licuado,bae78d77-e8ff-466a-8c7d-2ac75d352d7b,ERROR,2,2
+161,Programa RENOVATE,a3f0afe3-00b4-4a9e-b759-c12b73db328c,ERROR,2,1
+162,Pronóstico de producción de gas licuado,bae78d77-e8ff-466a-8c7d-2ac75d352d7b,ERROR,2,3
 163,Pronóstico de producción de gas natural,42d08a0d-b6ea-42a2-912d-72cd034aea94,ERROR,2,0
 164,Pronóstico de producción de petróleo,741882c4-4159-4a7c-89ad-92c41d98d680,ERROR,2,0
 165,Pronósticos de Producción de Petróleo y Gas(Tablas Dinámicas),dbb36686-fb66-4364-bded-d55ff4de516c,ERROR,5,1
@@ -171,7 +171,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 169,Provincias IGN,6368bbfc-2b4d-422c-8490-08969a5e649e,ERROR,2,0
 170,Proyectos hidroeléctricos,b33aca04-81d8-44ef-8842-162aa69330ca,ERROR,2,1
 171,Publicaciones CAMMESA,2b4dfee6-6fca-4e4d-9611-a12d65cd4aa8,ERROR,1,2
-172,Redes de distribución eléctrica del Consejo Federal,ff99e7be-7bab-4617-9588-9a74ae046a40,ERROR,2,0
+172,Redes de distribución eléctrica del Consejo Federal,ff99e7be-7bab-4617-9588-9a74ae046a40,ERROR,2,2
 173,"Redes Inteligentes - Realidad, utopía o futuro",5f59d24f-2560-4cfd-b0eb-a3f4b3e39b94,ERROR,4,1
 174,Refinación Hidrocarburos Petroquímicas,8fc4e505-bd4d-431e-863e-1e44b4f6ee01,ERROR,2,0
 175,Refinación Hidrocarburos Refinerías,a9eed347-78ab-45c0-a489-b227fe42ee1b,ERROR,2,0
