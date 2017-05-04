@@ -17,7 +17,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base Infoleg de Normativa Nacional",
             "issued": "2016-09-05T18:25:21.249967",
-            "modified": "2017-04-05T13:22:16.657671",
+            "modified": "2017-05-04T13:54:27.918841",
             "theme": [
                 "informacion-juridica"
             ],
@@ -47,7 +47,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-04-04T12:24:48.619688",
+                    "modified": "2017-05-04T10:41:57.574283",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/8db246a2-48dd-4f2f-b08e-ab6293747882/download/base-infoleg-normativa-nacional.csv",
                     "issued": "2016-09-29T11:17:50.274309",
                     "identifier": "8db246a2-48dd-4f2f-b08e-ab6293747882"
@@ -59,7 +59,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-04-04T15:02:22.481176",
+                    "modified": "2017-05-04T10:51:38.563010",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/d9fbf1d5-679e-4833-bcdc-3a8f58523d18/download/base-complementaria-infoleg-normas-modificadas.csv",
                     "issued": "2016-10-14T16:02:49.841535",
                     "identifier": "d9fbf1d5-679e-4833-bcdc-3a8f58523d18"
@@ -71,7 +71,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-04-04T16:21:53.977849",
+                    "modified": "2017-05-04T10:54:12.743066",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/f9170086-6538-44f1-8c7e-3e193c1fea7f/download/base-complementaria-infoleg-normas-modificatorias.csv",
                     "issued": "2016-10-18T17:26:58.415087",
                     "identifier": "f9170086-6538-44f1-8c7e-3e193c1fea7f"
@@ -88,7 +88,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base SAIJ de Normativa Provincial",
             "issued": "2016-11-22T16:09:24.483249",
-            "modified": "2017-04-04T15:29:13.617317",
+            "modified": "2017-05-04T13:21:53.898363",
             "theme": [
                 "informacion-juridica"
             ],
@@ -116,7 +116,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-04-04T12:23:52.392531",
+                    "modified": "2017-05-04T10:09:35.310139",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d59c2d29-d561-4ad2-a032-cc82b40db2d3/resource/0ebc70cc-0e71-4158-ab75-9759339e4cbd/download/base-saij-normativa-provincial.csv",
                     "issued": "2016-12-19T12:13:11.208126",
                     "identifier": "0ebc70cc-0e71-4158-ab75-9759339e4cbd"
@@ -306,7 +306,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2017-05-04T12:50:25.674665",
+            "modified": "2017-05-04T13:44:33.158047",
             "theme": [
                 "sistema-registral"
             ],
@@ -792,7 +792,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-03T15:39:00.577841",
+                    "modified": "2017-05-04T10:44:14.967393",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/2c4fe026-3494-4c22-acb9-82ff138ed291/download/igj-autoridades.csv",
                     "issued": "2017-05-03T11:45:20.231397",
                     "identifier": "2c4fe026-3494-4c22-acb9-82ff138ed291"
@@ -1203,7 +1203,9 @@
             "title": "Registro de obsequios a funcionarios públicos",
             "issued": "2017-04-10T19:20:30.797398",
             "modified": "2017-05-03T19:44:34.172074",
-            "theme": [],
+            "theme": [
+                "anticorrupcion"
+            ],
             "keyword": [
                 "anticorrupción",
                 "funcionarios",
@@ -1244,7 +1246,9 @@
             "title": "Registro de viajes fincianciados por terceros",
             "issued": "2017-05-03T19:19:38.230133",
             "modified": "2017-05-03T19:45:32.745087",
-            "theme": [],
+            "theme": [
+                "anticorrupcion"
+            ],
             "keyword": [
                 "anticorrupción",
                 "funcionarios",
