@@ -17,7 +17,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base Infoleg de Normativa Nacional",
             "issued": "2016-09-05T18:25:21.249967",
-            "modified": "2017-05-04T17:14:06.217971",
+            "modified": "2017-05-04T18:59:07.040673",
             "theme": [
                 "informacion-juridica"
             ],
@@ -59,7 +59,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-04T14:14:01.811295",
+                    "modified": "2017-05-04T15:53:37.416850",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/d9fbf1d5-679e-4833-bcdc-3a8f58523d18/download/base-complementaria-infoleg-normas-modificadas.csv",
                     "issued": "2016-10-14T16:02:49.841535",
                     "identifier": "d9fbf1d5-679e-4833-bcdc-3a8f58523d18"
@@ -71,7 +71,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-04T13:56:39.501631",
+                    "modified": "2017-05-04T15:58:58.441349",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/f9170086-6538-44f1-8c7e-3e193c1fea7f/download/base-complementaria-infoleg-normas-modificatorias.csv",
                     "issued": "2016-10-18T17:26:58.415087",
                     "identifier": "f9170086-6538-44f1-8c7e-3e193c1fea7f"
@@ -306,7 +306,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2017-05-04T17:46:49.512992",
+            "modified": "2017-05-04T18:52:54.747074",
             "theme": [
                 "sistema-registral"
             ],
@@ -786,18 +786,6 @@
                     "identifier": "24a4e493-046d-49e6-a4b6-09bdf6f041b6"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/2c4fe026-3494-4c22-acb9-82ff138ed291",
-                    "description": "Autoridades de entidades constituidas en la IGJ",
-                    "title": "IGJ. Autoridades de entidades constituidas en la IGJ 2017-04",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T14:46:49.333531",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/2c4fe026-3494-4c22-acb9-82ff138ed291/download/igj-autoridades.csv",
-                    "issued": "2017-05-03T11:45:20.231397",
-                    "identifier": "2c4fe026-3494-4c22-acb9-82ff138ed291"
-                },
-                {
                     "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/90c24f92-f027-4d17-8979-a8602eaacfa4",
                     "description": "Asambleas de entidades constituidas en la IGJ",
                     "title": "IGJ. Asambleas de entidades constituidas en la IGJ 2017-04",
@@ -808,6 +796,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/90c24f92-f027-4d17-8979-a8602eaacfa4/download/igj-asambleas.csv",
                     "issued": "2017-05-03T11:47:10.856818",
                     "identifier": "90c24f92-f027-4d17-8979-a8602eaacfa4"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/5ac15f52-1b0e-494c-8718-b21e696e90aa",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ.  Autoridades de entidades 2017-04",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:52:37.497939",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/5ac15f52-1b0e-494c-8718-b21e696e90aa/download/igj-autoridades.csv",
+                    "issued": "2017-05-04T15:52:37.966732",
+                    "identifier": "5ac15f52-1b0e-494c-8718-b21e696e90aa"
                 }
             ]
         },
