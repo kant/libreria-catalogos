@@ -180,7 +180,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
             "issued": "2016-09-28T14:57:47.665668",
-            "modified": "2017-05-03T12:25:46.349342",
+            "modified": "2017-05-04T12:51:18.447653",
             "theme": [
                 "sistema-registral"
             ],
@@ -201,12 +201,12 @@
             "distribution": [
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7",
-                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 03-05-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
+                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 04-05-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
                     "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-03T09:22:21.167540",
+                    "modified": "2017-05-04T09:42:52.494897",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv",
                     "issued": "2016-10-06T13:36:46.495627",
                     "identifier": "a95d0e79-08c4-49b9-88b8-d569484bf1d7"
@@ -306,7 +306,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2017-05-03T19:38:25.857258",
+            "modified": "2017-05-04T12:50:25.674665",
             "theme": [
                 "sistema-registral"
             ],
@@ -1328,7 +1328,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-",
             "issued": "2016-09-30T18:34:43.987076",
-            "modified": "2017-03-31T18:19:40.930734",
+            "modified": "2017-05-04T12:56:05.716673",
             "theme": [
                 "derechos-humanos"
             ],
@@ -1341,6 +1341,7 @@
             "superTheme": [
                 "JUST"
             ],
+            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "addhh@jus.gob.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Registro Unificado de Víctimas del Terrorismo de Estado"
@@ -1588,7 +1589,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
             "issued": "2016-09-02T18:14:39.283242",
-            "modified": "2017-05-03T16:13:48.102291",
+            "modified": "2017-05-04T12:57:39.566721",
             "theme": [
                 "sistema-registral"
             ],
@@ -1632,7 +1633,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
             "issued": "2016-09-05T18:02:00.514364",
-            "modified": "2017-05-03T16:14:02.181093",
+            "modified": "2017-05-04T12:58:18.592020",
             "theme": [
                 "sistema-registral"
             ],
