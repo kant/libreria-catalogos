@@ -3778,7 +3778,7 @@
             "license": "Creative Commons Attribution",
             "title": "Detección Satelital de Venteos",
             "issued": "2017-03-10T12:11:45.984324",
-            "modified": "2017-04-21T15:55:50.872797",
+            "modified": "2017-05-04T12:45:11.795006",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -3789,6 +3789,7 @@
                 "Sensores remotos",
                 "Venteos"
             ],
+            "accrualPeriodicity": "R/P3M",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": ""
@@ -6090,12 +6091,12 @@
                 "mbox": "",
                 "name": "Florencia Puentes"
             },
-            "landingPage": "Dirección de Biocombustibles",
+            "landingPage": "",
             "description": "Detalles mensual de cupos, producción y ventas al mercado interno por empresa. Producción, ventas al mercado interno y exportaciones de Biodiesel. Producción y ventas de bioetanol. Resumen por provincia. Exportaciones de biodiesel por destino.\r\n",
             "license": "Creative Commons Attribution",
             "title": "Estadísticas de biodiesel y bioetanol",
             "issued": "2016-12-22T14:56:55.641090",
-            "modified": "2017-04-25T14:35:09.059799",
+            "modified": "2017-05-04T12:21:15.131071",
             "theme": [
                 "biocombustibles"
             ],
@@ -6104,9 +6105,10 @@
                 "Biodiesel",
                 "Bioetanol"
             ],
+            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Dirección de Biocombustibles"
             },
             "identifier": "5ce77ad1-c729-42cd-a8b5-2407de005e5b",
             "distribution": [
@@ -7466,12 +7468,12 @@
                 "mbox": "",
                 "name": ""
             },
-            "landingPage": "Dirección Nacional de Economía de Hidrocarburos",
+            "landingPage": "",
             "description": "Valores de la paridad de exportación de referencia para el propano y butano ($/Ton) ",
             "license": "Creative Commons Attribution",
             "title": "GLP - Paridad de Exportación de referencia",
             "issued": "2016-12-22T17:34:17.543529",
-            "modified": "2017-04-28T17:45:42.843815",
+            "modified": "2017-05-04T12:11:27.808592",
             "theme": [
                 "otros"
             ],
@@ -7479,6 +7481,7 @@
                 "GLP",
                 "Precios"
             ],
+            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": ""
@@ -12061,21 +12064,22 @@
                 "mbox": "",
                 "name": "David Rumsey Map Collection Cartography Associate"
             },
-            "landingPage": "Recurso gratuito bajo licencia Creative Commons License ©2016 Cartography Associates www.davidrumsey.com.",
+            "landingPage": "http://www.davidrumsey.com/",
             "description": "Mapas históricos de Argentina, colección David Rumsey.\r\n",
             "license": "Creative Commons Attribution",
             "title": "Mapas históricos de Argentina",
             "issued": "2017-03-17T18:40:21.832142",
-            "modified": "2017-04-05T18:40:42.952104",
+            "modified": "2017-05-04T12:48:06.106088",
             "theme": [
                 "otros"
             ],
             "keyword": [
                 "Mapas"
             ],
+            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Recurso gratuito bajo licencia Creative Commons License ©2016 Cartography Associates www.davidrumsey.com."
             },
             "identifier": "7d7a73f8-7478-441b-b18b-42d1c71b4f28",
             "distribution": [
@@ -13286,12 +13290,12 @@
                 "mbox": "",
                 "name": ""
             },
-            "landingPage": "Subsecretaría de Exploración y Producción",
+            "landingPage": "",
             "description": "Detalle mensual de pozos terminados y en perforación por empresa, cuenca y provincia. Metros perforados.\r\n",
             "license": "Creative Commons Attribution",
             "title": "Pozos y Metros Perforados (Tablas Dinámicas)",
             "issued": "2016-12-22T14:02:20.241139",
-            "modified": "2017-04-07T18:19:30.885790",
+            "modified": "2017-05-04T12:32:05.983020",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -13302,9 +13306,10 @@
                 "Petróleo",
                 "Producción"
             ],
+            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Subsecretaría de Exploración y Producción"
             },
             "identifier": "363d43a7-34cd-49e7-9878-61ef4f7b2654",
             "distribution": [
@@ -13370,7 +13375,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios de Bioetanol",
             "issued": "2017-01-20T16:34:26.708783",
-            "modified": "2017-05-02T05:00:27.483321",
+            "modified": "2017-05-04T12:05:54.367868",
             "theme": [
                 "biocombustibles"
             ],
@@ -13379,6 +13384,7 @@
                 "Bioetanol",
                 "Precios"
             ],
+            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": ""
@@ -13445,7 +13451,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios de Biodiesel",
             "issued": "2016-12-22T15:02:43.128638",
-            "modified": "2017-04-02T05:08:16.361810",
+            "modified": "2017-05-04T12:49:32.572823",
             "theme": [
                 "biocombustibles"
             ],
@@ -13454,6 +13460,7 @@
                 "Biodiesel",
                 "Precios"
             ],
+            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": ""
@@ -13652,12 +13659,12 @@
                 "mbox": "",
                 "name": ""
             },
-            "landingPage": "Dirección Nacional de Transporte y Medición de Hidrocarburos",
+            "landingPage": "",
             "description": "Precios de Venta al mercado interno ponderados por volumen de ventas.",
             "license": "Creative Commons Attribution",
             "title": "Precios de Venta al Mercado Interno de Petróleo Escalante",
             "issued": "2016-12-22T15:12:25.996908",
-            "modified": "2017-04-28T17:46:39.965417",
+            "modified": "2017-05-04T12:20:36.446430",
             "theme": [
                 "otros"
             ],
@@ -13665,9 +13672,10 @@
                 "Escalante",
                 "Precios"
             ],
+            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Dirección Nacional de Transporte y Medición de Hidrocarburos"
             },
             "identifier": "c8f6b6c5-1e2d-4d9f-b65d-01a6f9a231bc",
             "distribution": [
@@ -13889,7 +13897,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios en Surtidor - Resolución 314/2016",
             "issued": "2017-01-18T18:09:35.180560",
-            "modified": "2017-05-04T10:00:47.145202",
+            "modified": "2017-05-04T12:04:39.180267",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -13897,6 +13905,7 @@
                 "Combustibles",
                 "Precios"
             ],
+            "accrualPeriodicity": "R/PT1H",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": ""
@@ -13910,7 +13919,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-04T07:00:36.803765",
+                    "modified": "2017-05-04T09:00:34.076267",
                     "downloadURL": "http://190.3.64.19/dataset/e095db78-a5df-451c-b966-971d0a6b7887/resource/6973b0a2-d48d-4978-9116-9e5b7344fcfe/download/precios-en-surtidor-resolucin-3142016.csv",
                     "issued": "2017-01-19T10:31:07.849090",
                     "identifier": "6973b0a2-d48d-4978-9116-9e5b7344fcfe"
@@ -14485,12 +14494,12 @@
                 "mbox": "",
                 "name": ""
             },
-            "landingPage": "Subsecretaría de Exploración y Producción",
+            "landingPage": "",
             "description": "Tablas Dinámicas SESCO.\r\n\r\nACLARACIÓN: El campo “Producción primaria de petróleo” no incluye el volumen de gasolina estabilizada ni el de condensado, estos se pueden sumar aparte marcándolos en el campo \"Concepto\" de la tabla dinámica. Se rectificaron todos los datos de producción de acuerdo al nuevo criterio desde Enero 2009 hasta la fecha. ",
             "license": "Creative Commons Attribution",
             "title": "Producción de Petróleo y Gas (Tablas Dinámicas)",
             "issued": "2016-12-22T13:42:08.246705",
-            "modified": "2017-04-07T18:19:59.400238",
+            "modified": "2017-05-04T12:30:28.060412",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -14500,9 +14509,10 @@
                 "Producción",
                 "SESCO"
             ],
+            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Subsecretaría de Exploración y Producción"
             },
             "identifier": "590d1284-fd6d-4686-afd8-b3da5d90a6e9",
             "distribution": [
@@ -15469,7 +15479,7 @@
             "license": "Creative Commons Attribution",
             "title": "Publicaciones CAMMESA",
             "issued": "2017-03-29T13:49:40.876155",
-            "modified": "2017-04-10T19:49:38.687476",
+            "modified": "2017-05-04T12:25:40.070735",
             "theme": [],
             "keyword": [
                 "CAMMESA",
@@ -15477,6 +15487,7 @@
                 "Mercado Eléctrico Mayorista",
                 "Publicaciones MEMNet"
             ],
+            "accrualPeriodicity": "R/PT1H",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": ""
@@ -16138,12 +16149,12 @@
                 "mbox": "",
                 "name": ""
             },
-            "landingPage": "Dirección Nacional de Economía de Hidrocarburos",
+            "landingPage": "",
             "description": "Tablas Dinámicas SESCO",
             "license": "Creative Commons Attribution",
             "title": "Refinación y Comercialización de Petróleo, Gas y Derivados (Tablas Dinámicas)",
             "issued": "2016-12-22T14:21:24.342559",
-            "modified": "2017-05-03T15:02:36.151528",
+            "modified": "2017-05-04T12:19:50.597246",
             "theme": [
                 "comercializacion-de-los-hidrocarburos",
                 "comercio-exterior",
@@ -16155,9 +16166,10 @@
                 "Refinación",
                 "SESCO"
             ],
+            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Dirección Nacional de Economía de Hidrocarburos"
             },
             "identifier": "5bdc436c-60d4-4c86-98ab-59834d047700",
             "distribution": [
@@ -16293,7 +16305,7 @@
             "license": "Creative Commons Attribution",
             "title": "Regalías de Petróleo Crudo, Gas Natural, GLP, Gasolina y Condensado",
             "issued": "2016-12-22T17:10:24.812802",
-            "modified": "2017-04-28T17:45:55.627205",
+            "modified": "2017-05-04T12:09:41.556127",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -16306,6 +16318,7 @@
                 "Precios",
                 "Regalías"
             ],
+            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": ""
@@ -17074,12 +17087,13 @@
             "license": "Creative Commons Attribution",
             "title": "The beginning of the transformation",
             "issued": "2017-04-10T11:45:07.938405",
-            "modified": "2017-04-10T11:55:02.702935",
+            "modified": "2017-05-04T12:29:49.590951",
             "theme": [],
             "keyword": [
                 "Energía",
                 "Presentaciones"
             ],
+            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": ""
