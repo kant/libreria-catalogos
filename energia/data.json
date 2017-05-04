@@ -56,7 +56,7 @@
             "license": "Creative Commons Attribution",
             "title": "Actividad ambiental petróleo y gas",
             "issued": "2017-01-20T16:34:36.208388",
-            "modified": "2017-05-04T14:45:53.108731",
+            "modified": "2017-05-04T19:55:25.919233",
             "theme": [],
             "keyword": [
                 "Gas",
@@ -71,7 +71,44 @@
                 "fn": ""
             },
             "identifier": "d961b791-19b5-4ada-a64c-66cba740f532",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/d961b791-19b5-4ada-a64c-66cba740f532/resource/70965869-19ad-4876-aeec-44871f97e534",
+                    "description": "",
+                    "title": "Listado de Estudios Ambientales Ductos",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:33:28.034685",
+                    "downloadURL": "http://190.3.64.19/dataset/d961b791-19b5-4ada-a64c-66cba740f532/resource/70965869-19ad-4876-aeec-44871f97e534/download/listado-de-estudios-ambientales-ductos.csv",
+                    "issued": "2017-05-04T16:33:28.799429",
+                    "identifier": "70965869-19ad-4876-aeec-44871f97e534"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/d961b791-19b5-4ada-a64c-66cba740f532/resource/87f08c19-2351-4af1-ba8f-bd97e6cd8e66",
+                    "description": "",
+                    "title": "Listado de Incidentes Ambientales",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:39:17.079526",
+                    "downloadURL": "http://190.3.64.19/dataset/d961b791-19b5-4ada-a64c-66cba740f532/resource/87f08c19-2351-4af1-ba8f-bd97e6cd8e66/download/listado-de-incidentes-ambientales.csv",
+                    "issued": "2017-05-04T16:39:17.169951",
+                    "identifier": "87f08c19-2351-4af1-ba8f-bd97e6cd8e66"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/d961b791-19b5-4ada-a64c-66cba740f532/resource/f04d65b7-c32a-4311-b60e-6ee96c500285",
+                    "description": "",
+                    "title": "Listado de Estudios Ambientales",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:51:37.233487",
+                    "downloadURL": "http://190.3.64.19/dataset/d961b791-19b5-4ada-a64c-66cba740f532/resource/f04d65b7-c32a-4311-b60e-6ee96c500285/download/listado-de-estudios-ambientales.csv",
+                    "issued": "2017-05-04T16:51:37.364078",
+                    "identifier": "f04d65b7-c32a-4311-b60e-6ee96c500285"
+                }
+            ]
         },
         {
             "publisher": {
@@ -1488,7 +1525,7 @@
             "license": "Creative Commons Attribution",
             "title": "Auditorías e inspecciones en instalaciones de hidrocarburos",
             "issued": "2017-01-20T16:34:42.931471",
-            "modified": "2017-05-04T16:45:04.738906",
+            "modified": "2017-05-04T19:59:00.780468",
             "theme": [],
             "keyword": [
                 "Auditorías",
@@ -1516,6 +1553,18 @@
                     "downloadURL": "http://190.3.64.19/dataset/a20cc1db-1bd1-4706-9a6b-28d921af293b/resource/e72015ae-195d-4f1b-a4e4-dd202600b1f8/download/actas-de-verificacin-de-eess.csv",
                     "issued": "2017-05-04T13:43:02.184677",
                     "identifier": "e72015ae-195d-4f1b-a4e4-dd202600b1f8"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/a20cc1db-1bd1-4706-9a6b-28d921af293b/resource/ca9dfa0d-2e7c-488e-ba92-4b545f5e060d",
+                    "description": "",
+                    "title": "Actas de Verificación de EESS",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:54:15.716654",
+                    "downloadURL": "http://190.3.64.19/dataset/a20cc1db-1bd1-4706-9a6b-28d921af293b/resource/ca9dfa0d-2e7c-488e-ba92-4b545f5e060d/download/actas-de-verificacin-de-eess.csv",
+                    "issued": "2017-05-04T16:54:15.837033",
+                    "identifier": "ca9dfa0d-2e7c-488e-ba92-4b545f5e060d"
                 }
             ]
         },
@@ -2837,7 +2886,7 @@
             "license": "Creative Commons Attribution",
             "title": "Compras GLP",
             "issued": "2017-01-20T16:34:34.409962",
-            "modified": "2017-05-04T18:24:44.548738",
+            "modified": "2017-05-04T19:33:06.698941",
             "theme": [],
             "keyword": [
                 "Compras",
@@ -3008,6 +3057,42 @@
                     "downloadURL": "http://190.3.64.19/dataset/bada5328-3e7d-47b7-8fdc-85dbe2bc748e/resource/d8405011-5517-4299-862b-953e5855b19a/download/compras-de-productores-de-glp.csv",
                     "issued": "2017-05-04T15:10:19.272478",
                     "identifier": "d8405011-5517-4299-862b-953e5855b19a"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/bada5328-3e7d-47b7-8fdc-85dbe2bc748e/resource/74a1de23-67b4-4e14-8c8d-bf212766d264",
+                    "description": "",
+                    "title": "Compras de Petroquímicas de GLP",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:28:40.227876",
+                    "downloadURL": "http://190.3.64.19/dataset/bada5328-3e7d-47b7-8fdc-85dbe2bc748e/resource/74a1de23-67b4-4e14-8c8d-bf212766d264/download/compras-de-petroqumicas-de-glp.csv",
+                    "issued": "2017-05-04T16:28:40.425562",
+                    "identifier": "74a1de23-67b4-4e14-8c8d-bf212766d264"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/bada5328-3e7d-47b7-8fdc-85dbe2bc748e/resource/2e40f6e0-f381-47d7-a847-cdef06523bb8",
+                    "description": "",
+                    "title": "Compras de Distribuidor de GLP",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:29:52.501225",
+                    "downloadURL": "http://190.3.64.19/dataset/bada5328-3e7d-47b7-8fdc-85dbe2bc748e/resource/2e40f6e0-f381-47d7-a847-cdef06523bb8/download/compras-de-distribuidor-de-glp.csv",
+                    "issued": "2017-05-04T16:29:52.705282",
+                    "identifier": "2e40f6e0-f381-47d7-a847-cdef06523bb8"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/bada5328-3e7d-47b7-8fdc-85dbe2bc748e/resource/807c3f71-c005-4ea0-8a05-ef4cb7a4e52a",
+                    "description": "",
+                    "title": "Compras de Aerosoleras de GLP",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:32:32.760611",
+                    "downloadURL": "http://190.3.64.19/dataset/bada5328-3e7d-47b7-8fdc-85dbe2bc748e/resource/807c3f71-c005-4ea0-8a05-ef4cb7a4e52a/download/compras-de-aerosoleras-de-glp.csv",
+                    "issued": "2017-05-04T16:32:34.331557",
+                    "identifier": "807c3f71-c005-4ea0-8a05-ef4cb7a4e52a"
                 }
             ]
         },
@@ -3201,7 +3286,7 @@
             "license": "Creative Commons Attribution",
             "title": "Control de calidad de combustibles",
             "issued": "2017-01-20T16:34:37.332374",
-            "modified": "2017-05-04T14:45:54.103020",
+            "modified": "2017-05-04T19:55:51.327115",
             "theme": [],
             "keyword": [
                 "Combustibles",
@@ -3217,7 +3302,44 @@
                 "fn": ""
             },
             "identifier": "6088d0ad-1798-41a4-8e76-5f3156874238",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/6088d0ad-1798-41a4-8e76-5f3156874238/resource/6d17f433-e4da-43a4-8b41-2f6da6213c86",
+                    "description": "",
+                    "title": "Inspecciones de Calidad de Combustible EESS - Determinaciones",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:16:16.236340",
+                    "downloadURL": "http://190.3.64.19/dataset/6088d0ad-1798-41a4-8e76-5f3156874238/resource/6d17f433-e4da-43a4-8b41-2f6da6213c86/download/inspecciones-de-calidad-de-combustible-eess-determinaciones.csv",
+                    "issued": "2017-05-04T16:16:16.586475",
+                    "identifier": "6d17f433-e4da-43a4-8b41-2f6da6213c86"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/6088d0ad-1798-41a4-8e76-5f3156874238/resource/6706b804-bd6b-42d6-b951-8cfb8cc1ee28",
+                    "description": "",
+                    "title": "Inspecciones de Calidad de Combustible EESS - Tanques",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:41:28.295993",
+                    "downloadURL": "http://190.3.64.19/dataset/6088d0ad-1798-41a4-8e76-5f3156874238/resource/6706b804-bd6b-42d6-b951-8cfb8cc1ee28/download/inspecciones-de-calidad-de-combustible-eess-tanques.csv",
+                    "issued": "2017-05-04T16:41:28.405488",
+                    "identifier": "6706b804-bd6b-42d6-b951-8cfb8cc1ee28"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/6088d0ad-1798-41a4-8e76-5f3156874238/resource/5d1d9aef-039b-4b77-a33d-f08b5f3ddc96",
+                    "description": "",
+                    "title": "Inspecciones de Calidad de Combustible EESS",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:55:51.200243",
+                    "downloadURL": "http://190.3.64.19/dataset/6088d0ad-1798-41a4-8e76-5f3156874238/resource/5d1d9aef-039b-4b77-a33d-f08b5f3ddc96/download/inspecciones-de-calidad-de-combustible-eess.csv",
+                    "issued": "2017-05-04T16:55:51.542815",
+                    "identifier": "5d1d9aef-039b-4b77-a33d-f08b5f3ddc96"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6209,7 +6331,7 @@
             "license": "Creative Commons Attribution",
             "title": "Estadísticas Operativas - Cantidad de Combustible Vendido Mensual",
             "issued": "2017-01-20T16:34:34.920408",
-            "modified": "2017-05-04T18:25:07.063443",
+            "modified": "2017-05-04T19:33:37.080238",
             "theme": [],
             "keyword": [
                 "Combustibles",
@@ -6248,6 +6370,30 @@
                     "downloadURL": "http://190.3.64.19/dataset/e6ff6708-b895-4c9e-b5a7-c464e785a991/resource/8ac2f3fa-29c9-4f30-879d-9c566b010aba/download/estadsticas-operativas-cantidad-de-combustible-vendido-mensual.csv",
                     "issued": "2017-05-04T15:20:14.066604",
                     "identifier": "8ac2f3fa-29c9-4f30-879d-9c566b010aba"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/e6ff6708-b895-4c9e-b5a7-c464e785a991/resource/3e5f087c-2995-4bd6-9d32-ba359786599a",
+                    "description": "",
+                    "title": "Estadísticas Operativas - Cantidad de Combustible Vendido Mensual",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:32:55.369622",
+                    "downloadURL": "http://190.3.64.19/dataset/e6ff6708-b895-4c9e-b5a7-c464e785a991/resource/3e5f087c-2995-4bd6-9d32-ba359786599a/download/estadsticas-operativas-cantidad-de-combustible-vendido-mensual.csv",
+                    "issued": "2017-05-04T16:32:57.009892",
+                    "identifier": "3e5f087c-2995-4bd6-9d32-ba359786599a"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/e6ff6708-b895-4c9e-b5a7-c464e785a991/resource/430ed8fc-79ce-45e1-9290-6ded35d75b74",
+                    "description": "",
+                    "title": "Estadísticas Operativas - Cantidad de Combustible Vendido Mensual",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:33:07.402630",
+                    "downloadURL": "http://190.3.64.19/dataset/e6ff6708-b895-4c9e-b5a7-c464e785a991/resource/430ed8fc-79ce-45e1-9290-6ded35d75b74/download/estadsticas-operativas-cantidad-de-combustible-vendido-mensual.csv",
+                    "issued": "2017-05-04T16:33:08.086381",
+                    "identifier": "430ed8fc-79ce-45e1-9290-6ded35d75b74"
                 }
             ]
         },
@@ -7992,7 +8138,7 @@
             "license": "Creative Commons Attribution",
             "title": "Información Socioeconómica INDEC Radios Censales",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T18:58:58.530947",
+            "modified": "2017-05-04T19:32:15.441926",
             "theme": [
                 "socioeconomico"
             ],
@@ -8224,6 +8370,174 @@
                     "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/cd1d27a5-9eef-4c31-9f1b-ce603f45b6ad/download/informacin-socioeconmica-indec-radios-censales-formosa.csv",
                     "issued": "2017-05-04T15:58:58.733516",
                     "identifier": "cd1d27a5-9eef-4c31-9f1b-ce603f45b6ad"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/faa26c66-e6b6-46be-95ea-ebba2088fd91",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Jujuy",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:00:09.087452",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/faa26c66-e6b6-46be-95ea-ebba2088fd91/download/informacin-socioeconmica-indec-radios-censales-jujuy.csv",
+                    "issued": "2017-05-04T16:01:42.850299",
+                    "identifier": "faa26c66-e6b6-46be-95ea-ebba2088fd91"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/a4630a40-42fd-4cfc-b3fe-b5e211c8c471",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales La Rioja",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:03:44.634795",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/a4630a40-42fd-4cfc-b3fe-b5e211c8c471/download/informacin-socioeconmica-indec-radios-censales-la-rioja.csv",
+                    "issued": "2017-05-04T16:03:44.983071",
+                    "identifier": "a4630a40-42fd-4cfc-b3fe-b5e211c8c471"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/a8216a1b-9827-4f0a-a675-b798534b1b7d",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Mendoza",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:05:24.652089",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/a8216a1b-9827-4f0a-a675-b798534b1b7d/download/informacin-socioeconmica-indec-radios-censales-mendoza.csv",
+                    "issued": "2017-05-04T16:05:24.933519",
+                    "identifier": "a8216a1b-9827-4f0a-a675-b798534b1b7d"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/6bea577a-dcfc-4e68-b467-3453ba8d465c",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Misiones",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:07:49.809885",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/6bea577a-dcfc-4e68-b467-3453ba8d465c/download/informacin-socioeconmica-indec-radios-censales-misiones.csv",
+                    "issued": "2017-05-04T16:07:50.121219",
+                    "identifier": "6bea577a-dcfc-4e68-b467-3453ba8d465c"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/c4961bba-4afe-4945-9a9e-2cd31cfbb758",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Misiones",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:10:43.551703",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/c4961bba-4afe-4945-9a9e-2cd31cfbb758/download/informacin-socioeconmica-indec-radios-censales-misiones.csv",
+                    "issued": "2017-05-04T16:10:44.184332",
+                    "identifier": "c4961bba-4afe-4945-9a9e-2cd31cfbb758"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/186caa0d-222c-4b44-9bb6-bbd3da55b38b",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Neuquén",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:11:58.259983",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/186caa0d-222c-4b44-9bb6-bbd3da55b38b/download/informacin-socioeconmica-indec-radios-censales-neuqun.csv",
+                    "issued": "2017-05-04T16:11:58.650433",
+                    "identifier": "186caa0d-222c-4b44-9bb6-bbd3da55b38b"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/b8687acf-3354-410f-abc3-90c4af4b7fa3",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Río Negro",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:13:00.431260",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/b8687acf-3354-410f-abc3-90c4af4b7fa3/download/informacin-socioeconmica-indec-radios-censales-ro-negro.csv",
+                    "issued": "2017-05-04T16:13:00.846198",
+                    "identifier": "b8687acf-3354-410f-abc3-90c4af4b7fa3"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/f82c1c5b-89c7-47a1-9638-ea6da6db6d82",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Salta",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:16:19.207226",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/f82c1c5b-89c7-47a1-9638-ea6da6db6d82/download/informacin-socioeconmica-indec-radios-censales-salta.csv",
+                    "issued": "2017-05-04T16:16:19.528988",
+                    "identifier": "f82c1c5b-89c7-47a1-9638-ea6da6db6d82"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/f98ddc00-2644-45fe-8976-c727c3cc5f60",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales San Juan",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:17:22.805373",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/f98ddc00-2644-45fe-8976-c727c3cc5f60/download/informacin-socioeconmica-indec-radios-censales-san-juan.csv",
+                    "issued": "2017-05-04T16:17:23.123277",
+                    "identifier": "f98ddc00-2644-45fe-8976-c727c3cc5f60"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/4cc4f4d3-e21b-42b9-a136-db8cc06bc127",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales San Luis",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:19:53.817470",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/4cc4f4d3-e21b-42b9-a136-db8cc06bc127/download/informacin-socioeconmica-indec-radios-censales-san-luis.csv",
+                    "issued": "2017-05-04T16:19:54.140857",
+                    "identifier": "4cc4f4d3-e21b-42b9-a136-db8cc06bc127"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/3a3fe689-6e94-4bb0-b2bf-65358139007f",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Santa Cruz",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:20:59.744266",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/3a3fe689-6e94-4bb0-b2bf-65358139007f/download/informacin-socioeconmica-indec-radios-censales-santa-cruz.csv",
+                    "issued": "2017-05-04T16:21:00.253033",
+                    "identifier": "3a3fe689-6e94-4bb0-b2bf-65358139007f"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/73811fec-12fd-4f0b-b680-21188e394d5f",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Santa Fe",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:22:40.375115",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/73811fec-12fd-4f0b-b680-21188e394d5f/download/informacin-socioeconmica-indec-radios-censales-santa-fe.csv",
+                    "issued": "2017-05-04T16:22:40.713354",
+                    "identifier": "73811fec-12fd-4f0b-b680-21188e394d5f"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/d8849b27-cd8f-40e6-b855-23c9f5b50ff1",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Santiago del Estero",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:23:09.594679",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/d8849b27-cd8f-40e6-b855-23c9f5b50ff1/download/informacin-socioeconmica-indec-radios-censales-santiago-del-estero.csv",
+                    "issued": "2017-05-04T16:23:09.973865",
+                    "identifier": "d8849b27-cd8f-40e6-b855-23c9f5b50ff1"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/1b843bac-c419-4e58-8a4d-4060bfcb2922",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Tierra Del Fuego",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:24:07.371452",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/1b843bac-c419-4e58-8a4d-4060bfcb2922/download/informacin-socioeconmica-indec-radios-censales-tierra-del-fuego.csv",
+                    "issued": "2017-05-04T16:24:07.701460",
+                    "identifier": "1b843bac-c419-4e58-8a4d-4060bfcb2922"
                 }
             ]
         },
@@ -8237,7 +8551,7 @@
             "license": "Creative Commons Attribution",
             "title": "Información Socioeconómica Índice de Pobreza Multidimensional",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:39.775693",
+            "modified": "2017-05-04T19:32:20.179804",
             "theme": [],
             "keyword": [
                 "Información geográfica",
@@ -8253,7 +8567,68 @@
                 "fn": ""
             },
             "identifier": "ed0ea922-2379-4c1e-87ae-94a99b508bd0",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ed0ea922-2379-4c1e-87ae-94a99b508bd0/resource/0a0db49f-e6fd-4154-8b6f-210141dc6e14",
+                    "description": "",
+                    "title": "Información Socioeconómica Índice de Pobreza Multidimensional",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:28:52.312961",
+                    "downloadURL": "http://190.3.64.19/dataset/ed0ea922-2379-4c1e-87ae-94a99b508bd0/resource/0a0db49f-e6fd-4154-8b6f-210141dc6e14/download/informacin-socioeconmica-ndice-de-pobreza-multidimensional.csv",
+                    "issued": "2017-05-04T16:28:52.607611",
+                    "identifier": "0a0db49f-e6fd-4154-8b6f-210141dc6e14"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ed0ea922-2379-4c1e-87ae-94a99b508bd0/resource/c6c2ddcf-4ca4-4269-a066-eccc52660c6c",
+                    "description": "",
+                    "title": "Información Socioeconómica Índice de Pobreza Multidimensional",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:29:02.992242",
+                    "downloadURL": "http://190.3.64.19/dataset/ed0ea922-2379-4c1e-87ae-94a99b508bd0/resource/c6c2ddcf-4ca4-4269-a066-eccc52660c6c/download/informacin-socioeconmica-ndice-de-pobreza-multidimensional.csv",
+                    "issued": "2017-05-04T16:29:03.380952",
+                    "identifier": "c6c2ddcf-4ca4-4269-a066-eccc52660c6c"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ed0ea922-2379-4c1e-87ae-94a99b508bd0/resource/d0642770-d7fd-4b1c-88af-c24deac7f206",
+                    "description": "",
+                    "title": "Información Socioeconómica Índice de Pobreza Multidimensional",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:30:22.978572",
+                    "downloadURL": "http://190.3.64.19/dataset/ed0ea922-2379-4c1e-87ae-94a99b508bd0/resource/d0642770-d7fd-4b1c-88af-c24deac7f206/download/informacin-socioeconmica-ndice-de-pobreza-multidimensional.csv",
+                    "issued": "2017-05-04T16:30:23.642125",
+                    "identifier": "d0642770-d7fd-4b1c-88af-c24deac7f206"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ed0ea922-2379-4c1e-87ae-94a99b508bd0/resource/9a186049-2c21-4c11-9a42-59258836f2f7",
+                    "description": "",
+                    "title": "Información Socioeconómica Índice de Pobreza Multidimensional",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:31:19.143630",
+                    "downloadURL": "http://190.3.64.19/dataset/ed0ea922-2379-4c1e-87ae-94a99b508bd0/resource/9a186049-2c21-4c11-9a42-59258836f2f7/download/informacin-socioeconmica-ndice-de-pobreza-multidimensional.csv",
+                    "issued": "2017-05-04T16:31:19.264179",
+                    "identifier": "9a186049-2c21-4c11-9a42-59258836f2f7"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ed0ea922-2379-4c1e-87ae-94a99b508bd0/resource/948450f8-abf4-43d6-a245-d901639173d3",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Información Socioeconómica Índice de Pobreza Multidimensional",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:32:19.934215",
+                    "downloadURL": "http://190.3.64.19/dataset/ed0ea922-2379-4c1e-87ae-94a99b508bd0/resource/948450f8-abf4-43d6-a245-d901639173d3/download/informacin-socioeconmica-ndice-de-pobreza-multidimensional.zip",
+                    "issued": "2017-05-04T16:32:21.177035",
+                    "identifier": "948450f8-abf4-43d6-a245-d901639173d3"
+                }
+            ]
         },
         {
             "publisher": {
@@ -8265,7 +8640,7 @@
             "license": "Creative Commons Attribution",
             "title": "Información Socioeconómica Jefe de Hogar con educación media incompleta",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T18:25:09.545926",
+            "modified": "2017-05-04T19:59:57.763129",
             "theme": [],
             "keyword": [
                 "Información geográfica"
@@ -8398,6 +8773,150 @@
                     "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/0cdb8cef-d92f-4a01-b5f5-2215a87b4fa8/download/formosa.zip",
                     "issued": "2017-05-04T15:25:09.814389",
                     "identifier": "0cdb8cef-d92f-4a01-b5f5-2215a87b4fa8"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/1b2ef9cd-2219-45d7-b84e-97bbb8d803a7",
+                    "description": "",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación media incompleta Buenos Aires",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:32:55.626588",
+                    "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/1b2ef9cd-2219-45d7-b84e-97bbb8d803a7/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-media-incompleta-buenos-aires.csv",
+                    "issued": "2017-05-04T16:32:58.128803",
+                    "identifier": "1b2ef9cd-2219-45d7-b84e-97bbb8d803a7"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/51086aef-049d-471a-9b02-7c75e9d747c1",
+                    "description": "",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación media incompleta Catamarca",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:33:23.831121",
+                    "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/51086aef-049d-471a-9b02-7c75e9d747c1/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-media-incompleta-catamarca.csv",
+                    "issued": "2017-05-04T16:33:25.900896",
+                    "identifier": "51086aef-049d-471a-9b02-7c75e9d747c1"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/98c924e4-c51d-4c67-bc37-bdf5220fa203",
+                    "description": "",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación media incompleta Chaco",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:33:50.563677",
+                    "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/98c924e4-c51d-4c67-bc37-bdf5220fa203/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-media-incompleta-chaco.csv",
+                    "issued": "2017-05-04T16:33:51.239841",
+                    "identifier": "98c924e4-c51d-4c67-bc37-bdf5220fa203"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/65395709-0692-4c2e-8d2a-13e123fb138d",
+                    "description": "",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación media incompleta Chubut",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:38:48.194921",
+                    "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/65395709-0692-4c2e-8d2a-13e123fb138d/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-media-incompleta-chubut.csv",
+                    "issued": "2017-05-04T16:38:48.434399",
+                    "identifier": "65395709-0692-4c2e-8d2a-13e123fb138d"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/90c6cea1-e772-43e5-85a8-6ee952d14e99",
+                    "description": "",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación media incompleta Ciudad de Buenos Aires",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:39:39.850987",
+                    "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/90c6cea1-e772-43e5-85a8-6ee952d14e99/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-media-incompleta-ciudad-de-buenos-aires.csv",
+                    "issued": "2017-05-04T16:39:40.175549",
+                    "identifier": "90c6cea1-e772-43e5-85a8-6ee952d14e99"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/06191471-fd8a-4741-8af0-91331f274c35",
+                    "description": "",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación media incompleta Corrientes",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:43:06.182013",
+                    "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/06191471-fd8a-4741-8af0-91331f274c35/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-media-incompleta-corrientes.csv",
+                    "issued": "2017-05-04T16:43:06.407801",
+                    "identifier": "06191471-fd8a-4741-8af0-91331f274c35"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/c891c73a-ff6f-47c6-93ea-dd5126d439b8",
+                    "description": "",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación media incompleta Entre Ríos",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:44:22.434967",
+                    "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/c891c73a-ff6f-47c6-93ea-dd5126d439b8/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-media-incompleta-entre-ros.csv",
+                    "issued": "2017-05-04T16:44:22.663420",
+                    "identifier": "c891c73a-ff6f-47c6-93ea-dd5126d439b8"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/a1ba2e66-8c65-48d7-a23a-0e7527a299ef",
+                    "description": "",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación media incompleta Formosa",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:46:29.346481",
+                    "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/a1ba2e66-8c65-48d7-a23a-0e7527a299ef/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-media-incompleta-formosa.csv",
+                    "issued": "2017-05-04T16:47:44.934270",
+                    "identifier": "a1ba2e66-8c65-48d7-a23a-0e7527a299ef"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/8b5acae8-982e-47d8-b906-0d35fcb34e8e",
+                    "description": "",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación media incompleta La Rioja",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:53:36.451327",
+                    "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/8b5acae8-982e-47d8-b906-0d35fcb34e8e/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-media-incompleta-la-rioja.csv",
+                    "issued": "2017-05-04T16:53:36.689363",
+                    "identifier": "8b5acae8-982e-47d8-b906-0d35fcb34e8e"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/d46b29f4-f53d-4e83-9a6f-987e3334cb82",
+                    "description": "",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación media incompleta Mendoza",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:55:09.484843",
+                    "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/d46b29f4-f53d-4e83-9a6f-987e3334cb82/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-media-incompleta-mendoza.csv",
+                    "issued": "2017-05-04T16:55:10.669641",
+                    "identifier": "d46b29f4-f53d-4e83-9a6f-987e3334cb82"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/5a2761b2-149c-461b-b7bd-a59f79b9778f",
+                    "description": "",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación media incompleta Misiones",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:55:35.938022",
+                    "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/5a2761b2-149c-461b-b7bd-a59f79b9778f/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-media-incompleta-misiones.csv",
+                    "issued": "2017-05-04T16:55:37.970450",
+                    "identifier": "5a2761b2-149c-461b-b7bd-a59f79b9778f"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/4137ef2e-f1d9-462f-a39d-7905bf408947",
+                    "description": "",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación media incompleta Neuquén",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:56:04.263266",
+                    "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/4137ef2e-f1d9-462f-a39d-7905bf408947/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-media-incompleta-neuqun.csv",
+                    "issued": "2017-05-04T16:56:04.728695",
+                    "identifier": "4137ef2e-f1d9-462f-a39d-7905bf408947"
                 }
             ]
         },
@@ -9114,7 +9633,7 @@
             "license": "Creative Commons Attribution",
             "title": "Inversiones en mercado de hidrocarburos upstream",
             "issued": "2017-01-20T16:34:33.150835",
-            "modified": "2017-05-04T18:51:55.451210",
+            "modified": "2017-05-04T19:24:44.177611",
             "theme": [],
             "keyword": [
                 "Hidrocarburos",
@@ -9188,6 +9707,18 @@
                     "downloadURL": "http://190.3.64.19/dataset/83fd2c3f-e0f5-4d56-a3ef-828eac226ba9/resource/6c8c1c0b-c05e-4cd4-9ad7-afd934512ca6/download/resolucin-2057-inversiones-realizadas-ao-anterior.csv",
                     "issued": "2017-05-04T15:51:55.527409",
                     "identifier": "6c8c1c0b-c05e-4cd4-9ad7-afd934512ca6"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/83fd2c3f-e0f5-4d56-a3ef-828eac226ba9/resource/848ddd4a-14cc-41e2-9345-f2460936f6cb",
+                    "description": "",
+                    "title": "Resolución 2057 - Inversiones previstas año actual",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:24:44.130350",
+                    "downloadURL": "http://190.3.64.19/dataset/83fd2c3f-e0f5-4d56-a3ef-828eac226ba9/resource/848ddd4a-14cc-41e2-9345-f2460936f6cb/download/resolucin-2057-inversiones-previstas-ao-actual.csv",
+                    "issued": "2017-05-04T16:24:44.260294",
+                    "identifier": "848ddd4a-14cc-41e2-9345-f2460936f6cb"
                 }
             ]
         },
@@ -10243,7 +10774,7 @@
             "license": "Creative Commons Attribution",
             "title": "Medición de petróleo y gas",
             "issued": "2017-01-20T16:34:38.859992",
-            "modified": "2017-05-04T18:52:25.571175",
+            "modified": "2017-05-04T19:54:58.079158",
             "theme": [],
             "keyword": [
                 "Gas",
@@ -10283,6 +10814,30 @@
                     "downloadURL": "http://190.3.64.19/dataset/df832dab-b67c-4952-9f37-1bd28136967a/resource/890c4e5e-ad4a-4a99-92fa-f535fb7413e7/download/resolucin-318-instalaciones-empadronadas.csv",
                     "issued": "2017-05-04T15:50:08.557436",
                     "identifier": "890c4e5e-ad4a-4a99-92fa-f535fb7413e7"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/df832dab-b67c-4952-9f37-1bd28136967a/resource/7f225e49-7758-4e8c-aa5a-d1ebcbfbc56a",
+                    "description": "",
+                    "title": "Resolución 318 - Constancias de Auditorías",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:12:59.249979",
+                    "downloadURL": "http://190.3.64.19/dataset/df832dab-b67c-4952-9f37-1bd28136967a/resource/7f225e49-7758-4e8c-aa5a-d1ebcbfbc56a/download/resolucin-318-constancias-de-auditoras.csv",
+                    "issued": "2017-05-04T16:12:59.358028",
+                    "identifier": "7f225e49-7758-4e8c-aa5a-d1ebcbfbc56a"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/df832dab-b67c-4952-9f37-1bd28136967a/resource/b0b2dc8e-a637-468a-a234-d5471d771a31",
+                    "description": "",
+                    "title": "Resolución 318 - Medidores Empadronados",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:44:17.955370",
+                    "downloadURL": "http://190.3.64.19/dataset/df832dab-b67c-4952-9f37-1bd28136967a/resource/b0b2dc8e-a637-468a-a234-d5471d771a31/download/resolucin-318-medidores-empadronados.csv",
+                    "issued": "2017-05-04T16:44:18.073460",
+                    "identifier": "b0b2dc8e-a637-468a-a234-d5471d771a31"
                 }
             ]
         },
@@ -10336,7 +10891,7 @@
             "license": "Creative Commons Attribution",
             "title": "Notas y multas a empresas de GLP",
             "issued": "2017-01-20T16:34:40.972496",
-            "modified": "2017-05-04T14:44:59.116654",
+            "modified": "2017-05-04T19:58:06.602218",
             "theme": [],
             "keyword": [
                 "GLP",
@@ -10351,7 +10906,44 @@
                 "fn": ""
             },
             "identifier": "ce3693c7-4cab-40a1-9705-5b25b3d9145c",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ce3693c7-4cab-40a1-9705-5b25b3d9145c/resource/9c9055bb-9620-4ca8-89ee-a007c8338f41",
+                    "description": "",
+                    "title": "Multas empresas mercado de GLP - Resúmen de Actas de Inspección",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:17:18.316830",
+                    "downloadURL": "http://190.3.64.19/dataset/ce3693c7-4cab-40a1-9705-5b25b3d9145c/resource/9c9055bb-9620-4ca8-89ee-a007c8338f41/download/multas-empresas-mercado-de-glp-resmen-de-actas-de-inspeccin.csv",
+                    "issued": "2017-05-04T16:17:18.485080",
+                    "identifier": "9c9055bb-9620-4ca8-89ee-a007c8338f41"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ce3693c7-4cab-40a1-9705-5b25b3d9145c/resource/1ca15ed3-b7b5-406f-83de-8091eaf2f35d",
+                    "description": "",
+                    "title": "Notas empresas mercado de GLP",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:49:30.746357",
+                    "downloadURL": "http://190.3.64.19/dataset/ce3693c7-4cab-40a1-9705-5b25b3d9145c/resource/1ca15ed3-b7b5-406f-83de-8091eaf2f35d/download/notas-empresas-mercado-de-glp.csv",
+                    "issued": "2017-05-04T16:49:30.835278",
+                    "identifier": "1ca15ed3-b7b5-406f-83de-8091eaf2f35d"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ce3693c7-4cab-40a1-9705-5b25b3d9145c/resource/ee0a9ee8-582f-48a5-8331-6fa888775ec4",
+                    "description": "",
+                    "title": "Multas empresas mercado de GLP - Resúmen de Multas",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:58:06.558933",
+                    "downloadURL": "http://190.3.64.19/dataset/ce3693c7-4cab-40a1-9705-5b25b3d9145c/resource/ee0a9ee8-582f-48a5-8331-6fa888775ec4/download/multas-empresas-mercado-de-glp-resmen-de-multas.csv",
+                    "issued": "2017-05-04T16:58:06.663015",
+                    "identifier": "ee0a9ee8-582f-48a5-8331-6fa888775ec4"
+                }
+            ]
         },
         {
             "publisher": {
@@ -10824,7 +11416,7 @@
             "license": "Creative Commons Attribution",
             "title": "Plan gas",
             "issued": "2017-01-20T16:34:36.748480",
-            "modified": "2017-05-04T18:11:33.766792",
+            "modified": "2017-05-04T19:39:36.013239",
             "theme": [],
             "keyword": [
                 "Gas",
@@ -10863,6 +11455,18 @@
                     "downloadURL": "http://190.3.64.19/dataset/2291de42-90bc-478e-a75a-252e8992fb78/resource/aa7df0f2-b483-4375-b2d3-40710e68cd4e/download/plan-gas-facturacin.csv",
                     "issued": "2017-05-04T15:11:36.022731",
                     "identifier": "aa7df0f2-b483-4375-b2d3-40710e68cd4e"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/2291de42-90bc-478e-a75a-252e8992fb78/resource/170c22eb-b49d-458c-97ae-ed8e359242a3",
+                    "description": "",
+                    "title": "Plan Gas - Puntos de Medición Empadronados",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:39:35.975665",
+                    "downloadURL": "http://190.3.64.19/dataset/2291de42-90bc-478e-a75a-252e8992fb78/resource/170c22eb-b49d-458c-97ae-ed8e359242a3/download/plan-gas-puntos-de-medicin-empadronados.csv",
+                    "issued": "2017-05-04T16:39:36.092778",
+                    "identifier": "170c22eb-b49d-458c-97ae-ed8e359242a3"
                 }
             ]
         },
@@ -11175,7 +11779,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios de combustibles",
             "issued": "2017-01-20T17:07:34.802629",
-            "modified": "2017-05-04T18:59:54.890949",
+            "modified": "2017-05-04T19:57:06.585083",
             "theme": [],
             "keyword": [
                 "Combustibles",
@@ -11238,6 +11842,30 @@
                     "downloadURL": "http://190.3.64.19/dataset/f0d16ab4-b45d-4069-80ba-6fa0ffe40ecb/resource/b0e5cd59-197e-46e5-b07b-34d020e87aff/download/precios-en-planta-por-canales-de-comercializacin-2003-2012-.csv",
                     "issued": "2017-05-04T15:52:37.203161",
                     "identifier": "b0e5cd59-197e-46e5-b07b-34d020e87aff"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/f0d16ab4-b45d-4069-80ba-6fa0ffe40ecb/resource/0f55338b-c56b-4761-adbd-af7256a450c7",
+                    "description": "",
+                    "title": "Precios en planta por reventa a EESS (2003-2012)",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:27:57.284047",
+                    "downloadURL": "http://190.3.64.19/dataset/f0d16ab4-b45d-4069-80ba-6fa0ffe40ecb/resource/0f55338b-c56b-4761-adbd-af7256a450c7/download/precios-en-planta-porreventa-a-eess-2003-2012-.csv",
+                    "issued": "2017-05-04T16:27:57.662952",
+                    "identifier": "0f55338b-c56b-4761-adbd-af7256a450c7"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/f0d16ab4-b45d-4069-80ba-6fa0ffe40ecb/resource/b92e0088-5dd5-47ec-851b-9ae3c4001a11",
+                    "description": "",
+                    "title": "Precios en planta por Canales de comercialización 2013",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:57:06.530474",
+                    "downloadURL": "http://190.3.64.19/dataset/f0d16ab4-b45d-4069-80ba-6fa0ffe40ecb/resource/b92e0088-5dd5-47ec-851b-9ae3c4001a11/download/precios-en-planta-porcanales-de-comercializacin-2013.csv",
+                    "issued": "2017-05-04T16:57:06.665258",
+                    "identifier": "b92e0088-5dd5-47ec-851b-9ae3c4001a11"
                 }
             ]
         },
@@ -12150,7 +12778,7 @@
             "license": "Creative Commons Attribution",
             "title": "Producción de petróleo y gas por pozo",
             "issued": "2017-01-20T16:34:31.665991",
-            "modified": "2017-05-04T18:50:57.715077",
+            "modified": "2017-05-04T19:33:01.854707",
             "theme": [],
             "keyword": [
                 "Gas",
@@ -12299,6 +12927,54 @@
                     "downloadURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/992e1a7e-a6ef-4ac8-8351-378ea08041ef/download/produccin-de-pozos-de-gas-y-petrleo-ro-negro.csv",
                     "issued": "2017-05-04T15:22:07.274982",
                     "identifier": "992e1a7e-a6ef-4ac8-8351-378ea08041ef"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/6a0bc273-ef4b-466a-8e34-802b8d00c1a1",
+                    "description": "",
+                    "title": "Producción de Pozos de Gas y Petróleo - Chubut ",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:01:58.331719",
+                    "downloadURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/6a0bc273-ef4b-466a-8e34-802b8d00c1a1/download/produccin-de-pozos-de-gas-y-petrleo-chubut-.csv",
+                    "issued": "2017-05-04T16:01:58.488659",
+                    "identifier": "6a0bc273-ef4b-466a-8e34-802b8d00c1a1"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/1e61bdc2-621f-43c1-82d1-e00aac81a682",
+                    "description": "",
+                    "title": "Producción de Pozos de Gas y Petróleo - La Pampa",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:04:07.188760",
+                    "downloadURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/1e61bdc2-621f-43c1-82d1-e00aac81a682/download/produccin-de-pozos-de-gas-y-petrleo-la-pampa.csv",
+                    "issued": "2017-05-04T16:04:07.438410",
+                    "identifier": "1e61bdc2-621f-43c1-82d1-e00aac81a682"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/db58f43a-0fe3-47eb-8638-dc9e2b8998da",
+                    "description": "",
+                    "title": "Producción de Pozos de Gas y Petróleo - Mendoza",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:07:46.847045",
+                    "downloadURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/db58f43a-0fe3-47eb-8638-dc9e2b8998da/download/produccin-de-pozos-de-gas-y-petrleo-mendoza.csv",
+                    "issued": "2017-05-04T16:07:47.174317",
+                    "identifier": "db58f43a-0fe3-47eb-8638-dc9e2b8998da"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/83aeba61-38ba-4045-8df9-3e751af267a2",
+                    "description": "",
+                    "title": "Listado de pozos cargados por empresas operadoras",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:11:45.264397",
+                    "downloadURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/83aeba61-38ba-4045-8df9-3e751af267a2/download/listado-de-pozos-cargados-por-empresas-operadoras.csv",
+                    "issued": "2017-05-04T16:11:45.546362",
+                    "identifier": "83aeba61-38ba-4045-8df9-3e751af267a2"
                 }
             ]
         },
@@ -12560,7 +13236,7 @@
             "license": "Creative Commons Attribution",
             "title": "Productos exentos al ITC",
             "issued": "2017-01-20T16:34:43.552541",
-            "modified": "2017-05-04T14:45:56.878778",
+            "modified": "2017-05-04T19:55:46.312973",
             "theme": [],
             "keyword": [
                 "Combustibles",
@@ -12575,7 +13251,68 @@
                 "fn": ""
             },
             "identifier": "02365d33-c504-4e31-814c-bd5f4f1eec81",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/02365d33-c504-4e31-814c-bd5f4f1eec81/resource/29428da9-7a6b-4769-88b3-e8e1e3ea38f7",
+                    "description": "",
+                    "title": "Productos Exentos - Reporte de Producción",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:23:08.700531",
+                    "downloadURL": "http://190.3.64.19/dataset/02365d33-c504-4e31-814c-bd5f4f1eec81/resource/29428da9-7a6b-4769-88b3-e8e1e3ea38f7/download/productos-exentos-reporte-de-produccin.csv",
+                    "issued": "2017-05-04T16:23:08.811498",
+                    "identifier": "29428da9-7a6b-4769-88b3-e8e1e3ea38f7"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/02365d33-c504-4e31-814c-bd5f4f1eec81/resource/3e9fb172-29a8-4bf4-af4d-cb115fe70c81",
+                    "description": "",
+                    "title": "Productos Exentos - Reporte de Importaciones",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:27:15.133228",
+                    "downloadURL": "http://190.3.64.19/dataset/02365d33-c504-4e31-814c-bd5f4f1eec81/resource/3e9fb172-29a8-4bf4-af4d-cb115fe70c81/download/productos-exentos-reporte-de-importaciones.csv",
+                    "issued": "2017-05-04T16:27:15.252542",
+                    "identifier": "3e9fb172-29a8-4bf4-af4d-cb115fe70c81"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/02365d33-c504-4e31-814c-bd5f4f1eec81/resource/5c996f33-cc3e-4c73-b556-7a7bdd256264",
+                    "description": "",
+                    "title": "Productos Exentos - Reporte de Almacenamiento de Productos",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:55:09.098810",
+                    "downloadURL": "http://190.3.64.19/dataset/02365d33-c504-4e31-814c-bd5f4f1eec81/resource/5c996f33-cc3e-4c73-b556-7a7bdd256264/download/productos-exentos-reporte-de-almacenamiento-de-productos.csv",
+                    "issued": "2017-05-04T16:55:09.616071",
+                    "identifier": "5c996f33-cc3e-4c73-b556-7a7bdd256264"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/02365d33-c504-4e31-814c-bd5f4f1eec81/resource/db16b65e-c94e-4a6e-ba2e-e18fce734e4c",
+                    "description": "",
+                    "title": "Productos Exentos - Reporte de Almacenamiento de Productos",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:55:16.510579",
+                    "downloadURL": "http://190.3.64.19/dataset/02365d33-c504-4e31-814c-bd5f4f1eec81/resource/db16b65e-c94e-4a6e-ba2e-e18fce734e4c/download/productos-exentos-reporte-de-almacenamiento-de-productos.csv",
+                    "issued": "2017-05-04T16:55:17.081461",
+                    "identifier": "db16b65e-c94e-4a6e-ba2e-e18fce734e4c"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/02365d33-c504-4e31-814c-bd5f4f1eec81/resource/07f296a5-2ced-4b46-b49c-c034b9dc009c",
+                    "description": "",
+                    "title": "Productos Exentos - Reporte de Exportaciones",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:55:34.639435",
+                    "downloadURL": "http://190.3.64.19/dataset/02365d33-c504-4e31-814c-bd5f4f1eec81/resource/07f296a5-2ced-4b46-b49c-c034b9dc009c/download/productos-exentos-reporte-de-exportaciones.csv",
+                    "issued": "2017-05-04T16:55:35.601626",
+                    "identifier": "07f296a5-2ced-4b46-b49c-c034b9dc009c"
+                }
+            ]
         },
         {
             "publisher": {
@@ -12729,7 +13466,7 @@
             "license": "Creative Commons Attribution",
             "title": "Pronóstico de producción de gas natural",
             "issued": "2017-01-20T16:34:32.341102",
-            "modified": "2017-05-04T18:24:45.110928",
+            "modified": "2017-05-04T19:21:00.950894",
             "theme": [],
             "keyword": [
                 "Gas",
@@ -12757,6 +13494,18 @@
                     "downloadURL": "http://190.3.64.19/dataset/42d08a0d-b6ea-42a2-912d-72cd034aea94/resource/2b2d67fa-3b7c-4eec-bdcb-78bb57d9871d/download/pronstico-de-produccin-de-gas-natural-anterior-al-2009.csv",
                     "issued": "2017-05-04T15:11:08.932461",
                     "identifier": "2b2d67fa-3b7c-4eec-bdcb-78bb57d9871d"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/42d08a0d-b6ea-42a2-912d-72cd034aea94/resource/9277e5f6-f251-473b-85fd-e8c030a872da",
+                    "description": "",
+                    "title": "Pronóstico de producción de gas natural",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:21:00.877304",
+                    "downloadURL": "http://190.3.64.19/dataset/42d08a0d-b6ea-42a2-912d-72cd034aea94/resource/9277e5f6-f251-473b-85fd-e8c030a872da/download/pronstico-de-produccin-de-gas-natural.csv",
+                    "issued": "2017-05-04T16:21:01.110759",
+                    "identifier": "9277e5f6-f251-473b-85fd-e8c030a872da"
                 }
             ]
         },
@@ -12863,7 +13612,7 @@
             "license": "Creative Commons Attribution",
             "title": "PRONUREE alumbrado público",
             "issued": "2017-01-20T16:34:31.048912",
-            "modified": "2017-05-04T18:57:11.736119",
+            "modified": "2017-05-04T19:03:31.229266",
             "theme": [],
             "keyword": [
                 "Alumbrado público",
@@ -12902,7 +13651,7 @@
             "license": "Creative Commons Attribution",
             "title": "PRONUREE alumbrado público en municipios",
             "issued": "2017-01-20T16:39:18.290136",
-            "modified": "2017-05-04T14:45:57.978970",
+            "modified": "2017-05-04T19:54:04.388707",
             "theme": [],
             "keyword": [
                 "Alumbrado público",
@@ -12916,7 +13665,20 @@
                 "fn": ""
             },
             "identifier": "ff133f5c-14ca-4fb1-9b16-26eed5840f25",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ff133f5c-14ca-4fb1-9b16-26eed5840f25/resource/438cf3ec-4960-4e0d-9179-959e4927febd",
+                    "description": "",
+                    "title": "Pronuree - Luminarias reemplazadas por municipio",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:50:28.118483",
+                    "downloadURL": "http://190.3.64.19/dataset/ff133f5c-14ca-4fb1-9b16-26eed5840f25/resource/438cf3ec-4960-4e0d-9179-959e4927febd/download/pronuree-luminarias-reemplazadas-por-municipio.csv",
+                    "issued": "2017-05-04T16:50:28.210255",
+                    "identifier": "438cf3ec-4960-4e0d-9179-959e4927febd"
+                }
+            ]
         },
         {
             "publisher": {
@@ -13680,7 +14442,7 @@
             "license": "Creative Commons Attribution",
             "title": "Registro de empresas de transporte de hidrocarburos por ductos",
             "issued": "2017-01-20T16:34:42.172569",
-            "modified": "2017-05-04T14:45:56.501692",
+            "modified": "2017-05-04T19:54:09.411458",
             "theme": [],
             "keyword": [
                 "Ductos",
@@ -13696,7 +14458,20 @@
                 "fn": ""
             },
             "identifier": "c126ad73-399a-4fa4-be8e-bd0142f3608c",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/c126ad73-399a-4fa4-be8e-bd0142f3608c/resource/08930869-5e5a-4830-9e81-7b7f23460dea",
+                    "description": "",
+                    "title": "Registro Midstream - Inscripciones Anuales",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:53:35.318464",
+                    "downloadURL": "http://190.3.64.19/dataset/c126ad73-399a-4fa4-be8e-bd0142f3608c/resource/08930869-5e5a-4830-9e81-7b7f23460dea/download/registro-midstream-inscripciones-anuales.csv",
+                    "issued": "2017-05-04T16:53:35.406779",
+                    "identifier": "08930869-5e5a-4830-9e81-7b7f23460dea"
+                }
+            ]
         },
         {
             "publisher": {
@@ -13708,7 +14483,7 @@
             "license": "Creative Commons Attribution",
             "title": "Registro de empresas e instalaciones con tanques aéreos de hidrocarburos líquidos",
             "issued": "2017-01-20T16:34:35.657397",
-            "modified": "2017-05-04T14:45:52.936708",
+            "modified": "2017-05-04T19:42:42.906774",
             "theme": [],
             "keyword": [],
             "superTheme": [
@@ -13719,7 +14494,20 @@
                 "fn": ""
             },
             "identifier": "c9611150-ed6d-4751-9a61-2dbb6dcfebb7",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/c9611150-ed6d-4751-9a61-2dbb6dcfebb7/resource/7222be22-bf06-4285-a437-1f53b90714ab",
+                    "description": "",
+                    "title": "Registro de empresas e instalaciones con tanques aéreos de hidrocarburos líquidos",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:38:56.766666",
+                    "downloadURL": "http://190.3.64.19/dataset/c9611150-ed6d-4751-9a61-2dbb6dcfebb7/resource/7222be22-bf06-4285-a437-1f53b90714ab/download/registro-de-empresas-e-instalaciones-con-tanques-areos-de-hidrocarburos-lquidos.csv",
+                    "issued": "2017-05-04T16:38:56.839149",
+                    "identifier": "7222be22-bf06-4285-a437-1f53b90714ab"
+                }
+            ]
         },
         {
             "publisher": {
@@ -13731,7 +14519,7 @@
             "license": "Creative Commons Attribution",
             "title": "Registro de empresas e instalaciones de GLP",
             "issued": "2017-01-20T16:34:40.028606",
-            "modified": "2017-05-04T14:45:55.651627",
+            "modified": "2017-05-04T19:47:55.392329",
             "theme": [],
             "keyword": [
                 "Aéreos",
@@ -13747,7 +14535,20 @@
                 "fn": ""
             },
             "identifier": "7689a7b6-f12d-43f4-8a41-486ad7912b6c",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/7689a7b6-f12d-43f4-8a41-486ad7912b6c/resource/009b562c-9c21-4614-acfd-bc2662561555",
+                    "description": "",
+                    "title": "Registro de Tanques Móviles de GLP",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:47:55.349499",
+                    "downloadURL": "http://190.3.64.19/dataset/7689a7b6-f12d-43f4-8a41-486ad7912b6c/resource/009b562c-9c21-4614-acfd-bc2662561555/download/registro-de-tanques-mviles-de-glp.csv",
+                    "issued": "2017-05-04T16:47:55.485122",
+                    "identifier": "009b562c-9c21-4614-acfd-bc2662561555"
+                }
+            ]
         },
         {
             "publisher": {
@@ -13795,7 +14596,7 @@
             "license": "Creative Commons Attribution",
             "title": "Reservas de gas",
             "issued": "2017-01-20T16:34:37.982398",
-            "modified": "2017-05-04T18:24:48.794444",
+            "modified": "2017-05-04T19:43:04.595990",
             "theme": [],
             "keyword": [
                 "Gas",
@@ -13821,6 +14622,18 @@
                     "downloadURL": "http://190.3.64.19/dataset/38ed16d6-a044-4076-8ea9-669ed267463d/resource/448611f7-7eb8-4d16-a914-c3ead9e6123d/download/reservas-de-gas-anterior-al-2009.csv",
                     "issued": "2017-05-04T15:12:02.800313",
                     "identifier": "448611f7-7eb8-4d16-a914-c3ead9e6123d"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/38ed16d6-a044-4076-8ea9-669ed267463d/resource/304073b4-ca2e-4393-8a7b-b96ae73ee639",
+                    "description": "",
+                    "title": "Reservas de gas",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:43:04.566520",
+                    "downloadURL": "http://190.3.64.19/dataset/38ed16d6-a044-4076-8ea9-669ed267463d/resource/304073b4-ca2e-4393-8a7b-b96ae73ee639/download/reservas-de-gas.csv",
+                    "issued": "2017-05-04T16:43:04.664941",
+                    "identifier": "304073b4-ca2e-4393-8a7b-b96ae73ee639"
                 }
             ]
         },
@@ -13834,7 +14647,7 @@
             "license": "Creative Commons Attribution",
             "title": "Reservas de petróleo",
             "issued": "2017-01-20T16:34:39.528534",
-            "modified": "2017-05-04T16:43:25.232003",
+            "modified": "2017-05-04T19:46:21.269933",
             "theme": [],
             "keyword": [
                 "Hidrocarburos",
@@ -13861,6 +14674,18 @@
                     "downloadURL": "http://190.3.64.19/dataset/b3b8cc43-ec9e-4973-bbca-65f1070d96d9/resource/d2fce8e6-04ac-4bf2-b0be-8e661914486f/download/reservas-de-petrleo-anterior-al-2009.csv",
                     "issued": "2017-05-04T12:46:21.984539",
                     "identifier": "d2fce8e6-04ac-4bf2-b0be-8e661914486f"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/b3b8cc43-ec9e-4973-bbca-65f1070d96d9/resource/3539fcad-e24d-4956-8794-c8bd15867655",
+                    "description": "",
+                    "title": "Reservas de petróleo",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:46:21.230248",
+                    "downloadURL": "http://190.3.64.19/dataset/b3b8cc43-ec9e-4973-bbca-65f1070d96d9/resource/3539fcad-e24d-4956-8794-c8bd15867655/download/reservas-de-petrleo.csv",
+                    "issued": "2017-05-04T16:46:21.332046",
+                    "identifier": "3539fcad-e24d-4956-8794-c8bd15867655"
                 }
             ]
         },
@@ -14634,7 +15459,7 @@
             "license": "Creative Commons Attribution",
             "title": "Ventas GLP",
             "issued": "2017-01-20T16:34:33.853590",
-            "modified": "2017-05-04T18:03:49.291627",
+            "modified": "2017-05-04T19:44:24.359906",
             "theme": [],
             "keyword": [
                 "GLP",
@@ -14685,6 +15510,30 @@
                     "downloadURL": "http://190.3.64.19/dataset/63ab43cc-7055-4969-87d3-6a969f1d5386/resource/91e0ffc7-d6a8-46d7-a9ee-cb968f809c88/download/ventas-de-fraccionadores-de-glp.csv",
                     "issued": "2017-05-04T14:52:28.528223",
                     "identifier": "91e0ffc7-d6a8-46d7-a9ee-cb968f809c88"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/63ab43cc-7055-4969-87d3-6a969f1d5386/resource/e0853d15-124c-423a-bc1b-dca18e5a9449",
+                    "description": "",
+                    "title": "Ventas de Comercializadores de GLP",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:30:42.292876",
+                    "downloadURL": "http://190.3.64.19/dataset/63ab43cc-7055-4969-87d3-6a969f1d5386/resource/e0853d15-124c-423a-bc1b-dca18e5a9449/download/ventas-de-comercializadores-de-glp.csv",
+                    "issued": "2017-05-04T16:30:42.422914",
+                    "identifier": "e0853d15-124c-423a-bc1b-dca18e5a9449"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/63ab43cc-7055-4969-87d3-6a969f1d5386/resource/487435d5-7788-4c7c-a82a-e4515a0a785a",
+                    "description": "",
+                    "title": "Ventas de Petroquímicas de GLP",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T16:33:43.358359",
+                    "downloadURL": "http://190.3.64.19/dataset/63ab43cc-7055-4969-87d3-6a969f1d5386/resource/487435d5-7788-4c7c-a82a-e4515a0a785a/download/ventas-de-petroqumicas-de-glp.csv",
+                    "issued": "2017-05-04T16:33:43.520026",
+                    "identifier": "487435d5-7788-4c7c-a82a-e4515a0a785a"
                 }
             ]
         }
