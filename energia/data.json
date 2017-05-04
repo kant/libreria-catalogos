@@ -1564,11 +1564,12 @@
             "license": "Creative Commons Attribution",
             "title": "Autoridades nacionales desde 1944",
             "issued": "2017-03-21T15:22:41.370183",
-            "modified": "2017-03-22T14:23:00.640162",
+            "modified": "2017-05-04T13:13:07.601117",
             "theme": [],
             "keyword": [
                 "Autoridades"
             ],
+            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": ""
@@ -13618,15 +13619,15 @@
         },
         {
             "publisher": {
-                "mbox": "",
-                "name": ""
+                "mbox": "tienerg@minem.gob.ar",
+                "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
             },
-            "landingPage": "Dirección Nacional de Economía de Hidrocarburos",
+            "landingPage": "",
             "description": "Detalle de Importaciones/Exportaciones en USD, miles de m3 y Tn por empresa y país de destino.\r\n",
             "license": "Creative Commons Attribution",
             "title": "Precios de Comercio Exterior",
             "issued": "2016-12-22T17:26:39.642668",
-            "modified": "2017-03-20T11:50:48.470640",
+            "modified": "2017-05-04T13:53:30.920299",
             "theme": [
                 "comercio-exterior"
             ],
@@ -13634,9 +13635,10 @@
                 "Comercio exterior",
                 "Precios"
             ],
+            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Dirección Nacional de Economía de Hidrocarburos"
             },
             "identifier": "14a1ee5c-ab0c-42b5-b2cc-fbd4e9a9f7a6",
             "distribution": [
@@ -13897,7 +13899,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios en Surtidor - Resolución 314/2016",
             "issued": "2017-01-18T18:09:35.180560",
-            "modified": "2017-05-04T12:04:39.180267",
+            "modified": "2017-05-04T13:00:30.626604",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -13919,7 +13921,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-04T09:00:34.076267",
+                    "modified": "2017-05-04T10:00:30.590963",
                     "downloadURL": "http://190.3.64.19/dataset/e095db78-a5df-451c-b966-971d0a6b7887/resource/6973b0a2-d48d-4978-9116-9e5b7344fcfe/download/precios-en-surtidor-resolucin-3142016.csv",
                     "issued": "2017-01-19T10:31:07.849090",
                     "identifier": "6973b0a2-d48d-4978-9116-9e5b7344fcfe"
