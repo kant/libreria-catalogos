@@ -58,7 +58,11 @@
             "issued": "2017-01-20T16:34:36.208388",
             "modified": "2017-05-04T14:45:53.108731",
             "theme": [],
-            "keyword": [],
+            "keyword": [
+                "Gas",
+                "Hidrocarburos",
+                "Petróleo"
+            ],
             "superTheme": [
                 "ENER"
             ],
@@ -1486,7 +1490,12 @@
             "issued": "2017-01-20T16:34:42.931471",
             "modified": "2017-05-04T16:45:04.738906",
             "theme": [],
-            "keyword": [],
+            "keyword": [
+                "Auditorías",
+                "Estaciones de servicio",
+                "Hidrocarburos",
+                "Inspecciones"
+            ],
             "superTheme": [
                 "ENER"
             ],
@@ -1679,7 +1688,9 @@
             "issued": "2016-11-07T13:33:34.985951",
             "modified": "2017-05-04T16:46:51.895013",
             "theme": [],
-            "keyword": [],
+            "keyword": [
+                "Minería"
+            ],
             "superTheme": [
                 "ENER"
             ],
@@ -1715,7 +1726,11 @@
             "issued": "2016-11-07T13:33:34.985951",
             "modified": "2017-05-04T16:47:08.510542",
             "theme": [],
-            "keyword": [],
+            "keyword": [
+                "Barrios",
+                "Ciudad Autónoma de Buenos Aires",
+                "Información geográfica"
+            ],
             "superTheme": [
                 "ENER"
             ],
@@ -2422,7 +2437,7 @@
             "license": "Creative Commons Attribution",
             "title": "Comercialización de combustibles",
             "issued": "2017-01-20T16:34:28.593171",
-            "modified": "2017-05-04T17:59:46.632043",
+            "modified": "2017-05-04T18:40:21.443228",
             "theme": [],
             "keyword": [],
             "superTheme": [
@@ -2541,6 +2556,30 @@
                     "downloadURL": "http://190.3.64.19/dataset/2b673b14-f585-4c15-a425-a3f5f9cda5d3/resource/94435db4-6adf-46c1-9800-3cca132b373a/download/comercializacin-de-petrleo-y-subproductos.csv",
                     "issued": "2017-05-04T14:59:48.122311",
                     "identifier": "94435db4-6adf-46c1-9800-3cca132b373a"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/2b673b14-f585-4c15-a425-a3f5f9cda5d3/resource/2292245b-9a4c-48aa-a2e2-b6e7a82e7bda",
+                    "description": "",
+                    "title": "Consulta de Precios de EESS",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:07:31.350160",
+                    "downloadURL": "http://190.3.64.19/dataset/2b673b14-f585-4c15-a425-a3f5f9cda5d3/resource/2292245b-9a4c-48aa-a2e2-b6e7a82e7bda/download/consulta-de-precios-de-eess.csv",
+                    "issued": "2017-05-04T15:07:34.320273",
+                    "identifier": "2292245b-9a4c-48aa-a2e2-b6e7a82e7bda"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/2b673b14-f585-4c15-a425-a3f5f9cda5d3/resource/ab90b3c8-d070-439a-bc28-fcecdf8e2e8e",
+                    "description": "",
+                    "title": "Resolución 1834 - Existencias por Producto en Instalaciones",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:23:06.816451",
+                    "downloadURL": "http://190.3.64.19/dataset/2b673b14-f585-4c15-a425-a3f5f9cda5d3/resource/ab90b3c8-d070-439a-bc28-fcecdf8e2e8e/download/resolucin-1834-existencias-por-producto-en-instalaciones.csv",
+                    "issued": "2017-05-04T15:23:07.312686",
+                    "identifier": "ab90b3c8-d070-439a-bc28-fcecdf8e2e8e"
                 }
             ]
         },
@@ -2554,7 +2593,7 @@
             "license": "Creative Commons Attribution",
             "title": "Comercialización Hidrocarburos Combustibles Líquidos",
             "issued": "2017-01-17T16:06:06.994436",
-            "modified": "2017-05-04T14:45:42.959173",
+            "modified": "2017-05-04T18:24:29.219450",
             "theme": [],
             "keyword": [],
             "superTheme": [
@@ -2565,7 +2604,32 @@
                 "fn": ""
             },
             "identifier": "669615be-17f4-41ad-9aad-4c438cb974f9",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/669615be-17f4-41ad-9aad-4c438cb974f9/resource/98e59f4c-6d78-406c-b596-71508e0828ed",
+                    "description": "",
+                    "title": "Estaciones de servicio",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:19:21.558641",
+                    "downloadURL": "http://190.3.64.19/dataset/669615be-17f4-41ad-9aad-4c438cb974f9/resource/98e59f4c-6d78-406c-b596-71508e0828ed/download/estaciones-de-servicio.csv",
+                    "issued": "2017-05-04T15:19:22.430154",
+                    "identifier": "98e59f4c-6d78-406c-b596-71508e0828ed"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/669615be-17f4-41ad-9aad-4c438cb974f9/resource/9849c352-039c-4e3e-b711-08fc68980ef6",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Estaciones de servicio",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:19:39.077571",
+                    "downloadURL": "http://190.3.64.19/dataset/669615be-17f4-41ad-9aad-4c438cb974f9/resource/9849c352-039c-4e3e-b711-08fc68980ef6/download/estaciones-de-servicio.zip",
+                    "issued": "2017-05-04T15:19:39.186884",
+                    "identifier": "9849c352-039c-4e3e-b711-08fc68980ef6"
+                }
+            ]
         },
         {
             "publisher": {
@@ -2773,7 +2837,7 @@
             "license": "Creative Commons Attribution",
             "title": "Compras GLP",
             "issued": "2017-01-20T16:34:34.409962",
-            "modified": "2017-05-04T17:40:38.015304",
+            "modified": "2017-05-04T18:24:44.548738",
             "theme": [],
             "keyword": [
                 "Compras",
@@ -2920,6 +2984,30 @@
                     "downloadURL": "http://190.3.64.19/dataset/bada5328-3e7d-47b7-8fdc-85dbe2bc748e/resource/f5d48d95-2ae8-4cf6-b69c-74f2188961c1/download/compras-de-productores-de-glp.csv",
                     "issued": "2017-05-04T14:39:00.290393",
                     "identifier": "f5d48d95-2ae8-4cf6-b69c-74f2188961c1"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/bada5328-3e7d-47b7-8fdc-85dbe2bc748e/resource/f030a3a1-5a65-46c7-ba1e-f958ee05b8d2",
+                    "description": "",
+                    "title": "Compras de Fraccionadores de GLP",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:08:59.392582",
+                    "downloadURL": "http://190.3.64.19/dataset/bada5328-3e7d-47b7-8fdc-85dbe2bc748e/resource/f030a3a1-5a65-46c7-ba1e-f958ee05b8d2/download/compras-de-fraccionadores-de-glp.csv",
+                    "issued": "2017-05-04T15:08:59.860118",
+                    "identifier": "f030a3a1-5a65-46c7-ba1e-f958ee05b8d2"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/bada5328-3e7d-47b7-8fdc-85dbe2bc748e/resource/d8405011-5517-4299-862b-953e5855b19a",
+                    "description": "",
+                    "title": "Compras de Productores de GLP",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:10:18.939927",
+                    "downloadURL": "http://190.3.64.19/dataset/bada5328-3e7d-47b7-8fdc-85dbe2bc748e/resource/d8405011-5517-4299-862b-953e5855b19a/download/compras-de-productores-de-glp.csv",
+                    "issued": "2017-05-04T15:10:19.272478",
+                    "identifier": "d8405011-5517-4299-862b-953e5855b19a"
                 }
             ]
         },
@@ -4545,7 +4633,7 @@
             "license": "Creative Commons Attribution",
             "title": "Distribución de petróleo",
             "issued": "2017-01-20T16:33:24.803724",
-            "modified": "2017-05-04T17:57:52.192701",
+            "modified": "2017-05-04T18:12:02.783027",
             "theme": [],
             "keyword": [],
             "superTheme": [
@@ -4629,7 +4717,7 @@
             "license": "Creative Commons Attribution",
             "title": "Distribución Eléctrica Apelp La Pampa MT Líneas",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T17:59:25.288567",
+            "modified": "2017-05-04T18:11:15.860072",
             "theme": [],
             "keyword": [],
             "superTheme": [
@@ -4677,7 +4765,7 @@
             "license": "Creative Commons Attribution",
             "title": "Distribución Eléctrica Áreas de Distribución de Cooperativas",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T18:00:17.863463",
+            "modified": "2017-05-04T18:14:07.019590",
             "theme": [],
             "keyword": [],
             "superTheme": [
@@ -4725,7 +4813,7 @@
             "license": "Creative Commons Attribution",
             "title": "Distribución Eléctrica Concesiones de Empresas Distribuidoras",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T18:01:14.998823",
+            "modified": "2017-05-04T18:01:41.334906",
             "theme": [],
             "keyword": [
                 "Concesiones",
@@ -4754,6 +4842,18 @@
                     "downloadURL": "http://190.3.64.19/dataset/96d78704-874e-44eb-920b-2a13f346622c/resource/3d06e131-e11d-427d-8e4c-b35b61f8d8ba/download/distribucin-elctrica-concesiones-de-empresas-distribuidoras.csv",
                     "issued": "2017-05-04T15:01:18.139849",
                     "identifier": "3d06e131-e11d-427d-8e4c-b35b61f8d8ba"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/96d78704-874e-44eb-920b-2a13f346622c/resource/ea25470e-6e6a-4b93-b894-3fa74317a793",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Distribución Eléctrica Concesiones de Empresas Distribuidoras",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:01:41.031342",
+                    "downloadURL": "http://190.3.64.19/dataset/96d78704-874e-44eb-920b-2a13f346622c/resource/ea25470e-6e6a-4b93-b894-3fa74317a793/download/distribucin-elctrica-concesiones-de-empresas-distribuidoras.zip",
+                    "issued": "2017-05-04T15:01:42.274303",
+                    "identifier": "ea25470e-6e6a-4b93-b894-3fa74317a793"
                 }
             ]
         },
@@ -4767,7 +4867,7 @@
             "license": "Creative Commons Attribution",
             "title": "Distribución Eléctrica Edelap",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T16:44:08.692696",
+            "modified": "2017-05-04T18:19:35.891279",
             "theme": [],
             "keyword": [
                 "Alta tensión",
@@ -4847,6 +4947,66 @@
                     "downloadURL": "http://190.3.64.19/dataset/2e0fe150-8cf4-4707-927d-94bfaf95bb53/resource/5f51c06d-94a0-43cc-b8ce-0094d56c7e52/download/at-mt-subestaciones-transformadoras.zip",
                     "issued": "2017-05-04T13:44:09.209905",
                     "identifier": "5f51c06d-94a0-43cc-b8ce-0094d56c7e52"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/2e0fe150-8cf4-4707-927d-94bfaf95bb53/resource/7bda3655-cf81-4c6b-ae52-9dbdefe059bd",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edelap AT Acometidas",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:01:57.959858",
+                    "downloadURL": "http://190.3.64.19/dataset/2e0fe150-8cf4-4707-927d-94bfaf95bb53/resource/7bda3655-cf81-4c6b-ae52-9dbdefe059bd/download/distribucin-elctrica-edelap-at-acometidas.csv",
+                    "issued": "2017-05-04T15:02:01.154427",
+                    "identifier": "7bda3655-cf81-4c6b-ae52-9dbdefe059bd"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/2e0fe150-8cf4-4707-927d-94bfaf95bb53/resource/8a951fb5-b808-4774-9ce9-73bd8d4ea88a",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edelap AT AT Subestaciones Transformadoras",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:02:25.201515",
+                    "downloadURL": "http://190.3.64.19/dataset/2e0fe150-8cf4-4707-927d-94bfaf95bb53/resource/8a951fb5-b808-4774-9ce9-73bd8d4ea88a/download/distribucin-elctrica-edelap-at-at-subestaciones-transformadoras.csv",
+                    "issued": "2017-05-04T15:02:28.345741",
+                    "identifier": "8a951fb5-b808-4774-9ce9-73bd8d4ea88a"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/2e0fe150-8cf4-4707-927d-94bfaf95bb53/resource/27c446ce-ca2b-47ed-b287-94c0c2024da4",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edelap AT Cabeceras",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:02:53.641642",
+                    "downloadURL": "http://190.3.64.19/dataset/2e0fe150-8cf4-4707-927d-94bfaf95bb53/resource/27c446ce-ca2b-47ed-b287-94c0c2024da4/download/distribucin-elctrica-edelap-at-cabeceras.csv",
+                    "issued": "2017-05-04T15:02:56.670524",
+                    "identifier": "27c446ce-ca2b-47ed-b287-94c0c2024da4"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/2e0fe150-8cf4-4707-927d-94bfaf95bb53/resource/58dfc8e8-dae7-4150-a06b-302baf1a43b2",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edelap AT Líneas",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:03:28.552823",
+                    "downloadURL": "http://190.3.64.19/dataset/2e0fe150-8cf4-4707-927d-94bfaf95bb53/resource/58dfc8e8-dae7-4150-a06b-302baf1a43b2/download/distribucin-elctrica-edelap-at-lneas.csv",
+                    "issued": "2017-05-04T15:03:31.266319",
+                    "identifier": "58dfc8e8-dae7-4150-a06b-302baf1a43b2"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/2e0fe150-8cf4-4707-927d-94bfaf95bb53/resource/067879bc-5c1f-496a-a11f-05aa5b727740",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edelap AT MT Subestaciones Transformadoras",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:03:57.448813",
+                    "downloadURL": "http://190.3.64.19/dataset/2e0fe150-8cf4-4707-927d-94bfaf95bb53/resource/067879bc-5c1f-496a-a11f-05aa5b727740/download/distribucin-elctrica-edelap-at-mt-subestaciones-transformadoras.csv",
+                    "issued": "2017-05-04T15:04:01.389703",
+                    "identifier": "067879bc-5c1f-496a-a11f-05aa5b727740"
                 }
             ]
         },
@@ -4860,7 +5020,7 @@
             "license": "Creative Commons Attribution",
             "title": "Distribución Eléctrica Edenor",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T16:45:04.694908",
+            "modified": "2017-05-04T18:23:28.846651",
             "theme": [],
             "keyword": [
                 "Alta tensión",
@@ -4965,6 +5125,126 @@
                     "downloadURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/58778b76-31ff-4533-8bd7-403b150ca7f1/download/at-subestaciones.zip",
                     "issued": "2017-05-04T13:45:07.094448",
                     "identifier": "58778b76-31ff-4533-8bd7-403b150ca7f1"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/d35b3aca-01e3-4ff2-9eea-889276ebc684",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edenor AT Cables Subterráneos",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:04:35.761743",
+                    "downloadURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/d35b3aca-01e3-4ff2-9eea-889276ebc684/download/distribucin-elctrica-edenor-at-cables-subterrneos.csv",
+                    "issued": "2017-05-04T15:04:42.750570",
+                    "identifier": "d35b3aca-01e3-4ff2-9eea-889276ebc684"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/be658b4d-5e7a-4ef4-8c67-5b9b137c4191",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edenor AT Empalmes Monofásicos",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:05:26.451242",
+                    "downloadURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/be658b4d-5e7a-4ef4-8c67-5b9b137c4191/download/distribucin-elctrica-edenor-at-empalmes-monofsicos.csv",
+                    "issued": "2017-05-04T15:05:33.835907",
+                    "identifier": "be658b4d-5e7a-4ef4-8c67-5b9b137c4191"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/c721bd3b-58a7-46ad-876a-4cf22a7e1cdd",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edenor AT Empalmes Monofásicos",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:06:04.198982",
+                    "downloadURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/c721bd3b-58a7-46ad-876a-4cf22a7e1cdd/download/distribucin-elctrica-edenor-at-empalmes-monofsicos.csv",
+                    "issued": "2017-05-04T15:06:09.514973",
+                    "identifier": "c721bd3b-58a7-46ad-876a-4cf22a7e1cdd"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/c6bdd49c-1cca-4456-9d24-3d77eb4f1e32",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edenor AT Empalmes Trifásicos",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:06:44.504245",
+                    "downloadURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/c6bdd49c-1cca-4456-9d24-3d77eb4f1e32/download/distribucin-elctrica-edenor-at-empalmes-trifsicos.csv",
+                    "issued": "2017-05-04T15:06:52.667746",
+                    "identifier": "c6bdd49c-1cca-4456-9d24-3d77eb4f1e32"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/b97586c0-0848-4bcd-bf5a-4df1dac022cb",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edenor AT Líneas",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:07:29.152234",
+                    "downloadURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/b97586c0-0848-4bcd-bf5a-4df1dac022cb/download/distribucin-elctrica-edenor-at-lneas.csv",
+                    "issued": "2017-05-04T15:07:34.467728",
+                    "identifier": "b97586c0-0848-4bcd-bf5a-4df1dac022cb"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/8ae92c43-a25e-45e4-ad68-8cb4398f9e7f",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edenor AT Líneas",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:08:06.836206",
+                    "downloadURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/8ae92c43-a25e-45e4-ad68-8cb4398f9e7f/download/distribucin-elctrica-edenor-at-lneas.csv",
+                    "issued": "2017-05-04T15:08:07.978765",
+                    "identifier": "8ae92c43-a25e-45e4-ad68-8cb4398f9e7f"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/5da4ba23-a61a-4549-b2ed-167dcc0a1c24",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edenor AT Piquetes",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:09:01.694785",
+                    "downloadURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/5da4ba23-a61a-4549-b2ed-167dcc0a1c24/download/distribucin-elctrica-edenor-at-piquetes.csv",
+                    "issued": "2017-05-04T15:09:02.081064",
+                    "identifier": "5da4ba23-a61a-4549-b2ed-167dcc0a1c24"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/72da5914-d845-45d2-9f36-3c294b660d83",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edenor AT Puentes Al Vuelo",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:09:39.716414",
+                    "downloadURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/72da5914-d845-45d2-9f36-3c294b660d83/download/distribucin-elctrica-edenor-at-puentes-al-vuelo.csv",
+                    "issued": "2017-05-04T15:09:39.926312",
+                    "identifier": "72da5914-d845-45d2-9f36-3c294b660d83"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/af0fbe32-87d8-4b52-ac7c-e88d2e339fd6",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edenor AT Subestaciones",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:09:59.511003",
+                    "downloadURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/af0fbe32-87d8-4b52-ac7c-e88d2e339fd6/download/distribucin-elctrica-edenor-at-subestaciones.csv",
+                    "issued": "2017-05-04T15:09:59.727701",
+                    "identifier": "af0fbe32-87d8-4b52-ac7c-e88d2e339fd6"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/bb328a79-8daa-457f-8e1d-e187cbd8c901",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edenor MT-AT AT-AT Subestaciones Transformadoras",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:10:50.244483",
+                    "downloadURL": "http://190.3.64.19/dataset/70f994f6-fde6-4e09-b3a4-72f5f7145181/resource/bb328a79-8daa-457f-8e1d-e187cbd8c901/download/distribucin-elctrica-edenor-mt-at-at-at-subestaciones-transformadoras.csv",
+                    "issued": "2017-05-04T15:10:55.124921",
+                    "identifier": "bb328a79-8daa-457f-8e1d-e187cbd8c901"
                 }
             ]
         },
@@ -4978,7 +5258,7 @@
             "license": "Creative Commons Attribution",
             "title": "Distribución Eléctrica Edesur",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T16:44:40.636435",
+            "modified": "2017-05-04T18:24:10.478994",
             "theme": [],
             "keyword": [
                 "Alta tensión",
@@ -5043,6 +5323,54 @@
                     "downloadURL": "http://190.3.64.19/dataset/6cd06091-3498-457a-87cd-be1bf50f9e40/resource/414bc678-d82a-4db4-bfdf-8f2bdfc765bc/download/at-salidas.zip",
                     "issued": "2017-05-04T13:44:41.448954",
                     "identifier": "414bc678-d82a-4db4-bfdf-8f2bdfc765bc"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/6cd06091-3498-457a-87cd-be1bf50f9e40/resource/bbe5033e-8252-4995-ad39-abebc90b61cc",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edesur AT Empalmes",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:11:18.674802",
+                    "downloadURL": "http://190.3.64.19/dataset/6cd06091-3498-457a-87cd-be1bf50f9e40/resource/bbe5033e-8252-4995-ad39-abebc90b61cc/download/distribucin-elctrica-edesur-at-empalmes.csv",
+                    "issued": "2017-05-04T15:11:22.562437",
+                    "identifier": "bbe5033e-8252-4995-ad39-abebc90b61cc"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/6cd06091-3498-457a-87cd-be1bf50f9e40/resource/7e586ac4-feac-4c7c-9528-61e5bfcf3378",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edesur AT Líneas",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:11:54.034992",
+                    "downloadURL": "http://190.3.64.19/dataset/6cd06091-3498-457a-87cd-be1bf50f9e40/resource/7e586ac4-feac-4c7c-9528-61e5bfcf3378/download/distribucin-elctrica-edesur-at-lneas.csv",
+                    "issued": "2017-05-04T15:11:57.238895",
+                    "identifier": "7e586ac4-feac-4c7c-9528-61e5bfcf3378"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/6cd06091-3498-457a-87cd-be1bf50f9e40/resource/6056f12b-7b40-442e-921e-23e25a17498d",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edesur AT Postes",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:12:25.790129",
+                    "downloadURL": "http://190.3.64.19/dataset/6cd06091-3498-457a-87cd-be1bf50f9e40/resource/6056f12b-7b40-442e-921e-23e25a17498d/download/distribucin-elctrica-edesur-at-postes.csv",
+                    "issued": "2017-05-04T15:12:25.940704",
+                    "identifier": "6056f12b-7b40-442e-921e-23e25a17498d"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/6cd06091-3498-457a-87cd-be1bf50f9e40/resource/abd43af1-8216-4709-b5fd-0e64fdb54637",
+                    "description": "",
+                    "title": "Distribución Eléctrica Edesur AT Salidas",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:13:11.082377",
+                    "downloadURL": "http://190.3.64.19/dataset/6cd06091-3498-457a-87cd-be1bf50f9e40/resource/abd43af1-8216-4709-b5fd-0e64fdb54637/download/distribucin-elctrica-edesur-at-salidas.csv",
+                    "issued": "2017-05-04T15:13:11.363682",
+                    "identifier": "abd43af1-8216-4709-b5fd-0e64fdb54637"
                 }
             ]
         },
@@ -5056,7 +5384,7 @@
             "license": "Creative Commons Attribution",
             "title": "Distribución Gas Concesiones de Empresas Distribuidoras",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:21.849492",
+            "modified": "2017-05-04T18:14:00.747192",
             "theme": [],
             "keyword": [
                 "Concesiones",
@@ -5072,7 +5400,32 @@
                 "fn": ""
             },
             "identifier": "7e8aab1c-cacb-4739-bdef-a3932dcced99",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/7e8aab1c-cacb-4739-bdef-a3932dcced99/resource/bd36bb51-2ccf-4976-bdcd-ab4ec3b65c87",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Distribución Gas Concesiones de Empresas Distribuidoras",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:13:41.871867",
+                    "downloadURL": "http://190.3.64.19/dataset/7e8aab1c-cacb-4739-bdef-a3932dcced99/resource/bd36bb51-2ccf-4976-bdcd-ab4ec3b65c87/download/distribucin-gas-concesiones-de-empresas-distribuidoras.zip",
+                    "issued": "2017-05-04T15:13:43.427753",
+                    "identifier": "bd36bb51-2ccf-4976-bdcd-ab4ec3b65c87"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/7e8aab1c-cacb-4739-bdef-a3932dcced99/resource/09540ae4-188e-43a3-be54-ed85d0271ef5",
+                    "description": "",
+                    "title": "Distribución Gas Concesiones de Empresas Distribuidoras",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:14:00.437693",
+                    "downloadURL": "http://190.3.64.19/dataset/7e8aab1c-cacb-4739-bdef-a3932dcced99/resource/09540ae4-188e-43a3-be54-ed85d0271ef5/download/distribucin-gas-concesiones-de-empresas-distribuidoras.csv",
+                    "issued": "2017-05-04T15:14:01.986509",
+                    "identifier": "09540ae4-188e-43a3-be54-ed85d0271ef5"
+                }
+            ]
         },
         {
             "publisher": {
@@ -5186,7 +5539,7 @@
             "license": "Creative Commons Attribution",
             "title": "Energías Renovables Plantas Biocombustibles",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:17.235678",
+            "modified": "2017-05-04T18:23:43.396802",
             "theme": [],
             "keyword": [
                 "Biocombustibles",
@@ -5203,7 +5556,32 @@
                 "fn": ""
             },
             "identifier": "eccce607-f934-4e93-a40b-1cca44fd6cd6",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/eccce607-f934-4e93-a40b-1cca44fd6cd6/resource/d9fab1d8-4ad2-446b-af2c-ec40af47e0eb",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Energías Renovables Plantas Biocombustibles",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:14:15.470020",
+                    "downloadURL": "http://190.3.64.19/dataset/eccce607-f934-4e93-a40b-1cca44fd6cd6/resource/d9fab1d8-4ad2-446b-af2c-ec40af47e0eb/download/energas-renovables-plantas-biocombustibles.zip",
+                    "issued": "2017-05-04T15:14:17.792242",
+                    "identifier": "d9fab1d8-4ad2-446b-af2c-ec40af47e0eb"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/eccce607-f934-4e93-a40b-1cca44fd6cd6/resource/dd799ae1-a75c-4c74-9158-373f8dd42ad5",
+                    "description": "",
+                    "title": "Energías Renovables Plantas Biocombustibles",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:14:33.284029",
+                    "downloadURL": "http://190.3.64.19/dataset/eccce607-f934-4e93-a40b-1cca44fd6cd6/resource/dd799ae1-a75c-4c74-9158-373f8dd42ad5/download/energas-renovables-plantas-biocombustibles.csv",
+                    "issued": "2017-05-04T15:14:34.173872",
+                    "identifier": "dd799ae1-a75c-4c74-9158-373f8dd42ad5"
+                }
+            ]
         },
         {
             "publisher": {
@@ -5215,7 +5593,7 @@
             "license": "Creative Commons Attribution",
             "title": "Plantas Productoras de Aceite Vegetal",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:12.969396",
+            "modified": "2017-05-04T18:23:48.923002",
             "theme": [],
             "keyword": [
                 "Aceite vegetal",
@@ -5231,7 +5609,32 @@
                 "fn": ""
             },
             "identifier": "bc71d6c7-677b-4fcd-807b-882747339fbf",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/bc71d6c7-677b-4fcd-807b-882747339fbf/resource/cee9fa97-ddd9-4710-a6d4-8cbdb1c13b1b",
+                    "description": "",
+                    "title": "Energías Renovables Plantas Productoras de Aceite Vegetal",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:14:57.219963",
+                    "downloadURL": "http://190.3.64.19/dataset/bc71d6c7-677b-4fcd-807b-882747339fbf/resource/cee9fa97-ddd9-4710-a6d4-8cbdb1c13b1b/download/energas-renovables-plantas-productoras-de-aceite-vegetal.csv",
+                    "issued": "2017-05-04T15:14:58.121766",
+                    "identifier": "cee9fa97-ddd9-4710-a6d4-8cbdb1c13b1b"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/bc71d6c7-677b-4fcd-807b-882747339fbf/resource/0937321e-7513-4750-828a-f8956a2c0d66",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Energías Renovables Plantas Productoras de Aceite Vegetal",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:15:07.770811",
+                    "downloadURL": "http://190.3.64.19/dataset/bc71d6c7-677b-4fcd-807b-882747339fbf/resource/0937321e-7513-4750-828a-f8956a2c0d66/download/energas-renovables-plantas-productoras-de-aceite-vegetal.zip",
+                    "issued": "2017-05-04T15:15:09.186089",
+                    "identifier": "0937321e-7513-4750-828a-f8956a2c0d66"
+                }
+            ]
         },
         {
             "publisher": {
@@ -5243,7 +5646,7 @@
             "license": "Creative Commons Attribution",
             "title": "Energías Renovables Puntos de Interés Geotérmico",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:37.393887",
+            "modified": "2017-05-04T18:23:38.104416",
             "theme": [],
             "keyword": [
                 "Geotérmico",
@@ -5260,7 +5663,32 @@
                 "fn": ""
             },
             "identifier": "aaea4a47-34d3-4528-98ab-8cb33483eef9",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/aaea4a47-34d3-4528-98ab-8cb33483eef9/resource/8f4f78e0-d3be-4578-8567-3399d42b7082",
+                    "description": "",
+                    "title": "Energías Renovables Puntos de Interés Geotérmico",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:15:23.971267",
+                    "downloadURL": "http://190.3.64.19/dataset/aaea4a47-34d3-4528-98ab-8cb33483eef9/resource/8f4f78e0-d3be-4578-8567-3399d42b7082/download/energas-renovables-puntos-de-inters-geotrmico.csv",
+                    "issued": "2017-05-04T15:15:25.338386",
+                    "identifier": "8f4f78e0-d3be-4578-8567-3399d42b7082"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/aaea4a47-34d3-4528-98ab-8cb33483eef9/resource/2c37b30c-1e26-4444-a636-fff183259e3f",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Energías Renovables Puntos de Interés Geotérmico",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:15:39.655222",
+                    "downloadURL": "http://190.3.64.19/dataset/aaea4a47-34d3-4528-98ab-8cb33483eef9/resource/2c37b30c-1e26-4444-a636-fff183259e3f/download/energas-renovables-puntos-de-inters-geotrmico.zip",
+                    "issued": "2017-05-04T15:15:41.152973",
+                    "identifier": "2c37b30c-1e26-4444-a636-fff183259e3f"
+                }
+            ]
         },
         {
             "publisher": {
@@ -5588,7 +6016,7 @@
             "license": "Creative Commons Attribution",
             "title": "Refinerías de Aceite Vegetal",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:11.715399",
+            "modified": "2017-05-04T18:23:51.126928",
             "theme": [],
             "keyword": [
                 "Aceite vegetal",
@@ -5605,7 +6033,32 @@
                 "fn": ""
             },
             "identifier": "ab6c7e10-1b43-4e6f-a833-0adb996b0814",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ab6c7e10-1b43-4e6f-a833-0adb996b0814/resource/d8011b7b-ea33-4cc2-ad33-9f00c0fd2d9a",
+                    "description": "",
+                    "title": "Energías Renovables Refinerías de Aceite Vegetal",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:15:57.291417",
+                    "downloadURL": "http://190.3.64.19/dataset/ab6c7e10-1b43-4e6f-a833-0adb996b0814/resource/d8011b7b-ea33-4cc2-ad33-9f00c0fd2d9a/download/energas-renovables-refineras-de-aceite-vegetal.csv",
+                    "issued": "2017-05-04T15:15:58.701813",
+                    "identifier": "d8011b7b-ea33-4cc2-ad33-9f00c0fd2d9a"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ab6c7e10-1b43-4e6f-a833-0adb996b0814/resource/c789dcb4-cf7e-4b27-b52b-8c42d9232731",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Energías Renovables Refinerías de Aceite Vegetal",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:16:11.888562",
+                    "downloadURL": "http://190.3.64.19/dataset/ab6c7e10-1b43-4e6f-a833-0adb996b0814/resource/c789dcb4-cf7e-4b27-b52b-8c42d9232731/download/energas-renovables-refineras-de-aceite-vegetal.zip",
+                    "issued": "2017-05-04T15:16:15.194677",
+                    "identifier": "c789dcb4-cf7e-4b27-b52b-8c42d9232731"
+                }
+            ]
         },
         {
             "publisher": {
@@ -5756,7 +6209,7 @@
             "license": "Creative Commons Attribution",
             "title": "Estadísticas Operativas - Cantidad de Combustible Vendido Mensual",
             "issued": "2017-01-20T16:34:34.920408",
-            "modified": "2017-05-04T14:45:52.532662",
+            "modified": "2017-05-04T18:25:07.063443",
             "theme": [],
             "keyword": [
                 "Combustibles",
@@ -5771,7 +6224,32 @@
                 "fn": ""
             },
             "identifier": "e6ff6708-b895-4c9e-b5a7-c464e785a991",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/e6ff6708-b895-4c9e-b5a7-c464e785a991/resource/6b5f1abb-4bb9-479e-b5e0-049b68afabcd",
+                    "description": "",
+                    "title": "Estadísticas Operativas - Cantidad de Combustible Vendido Mensual",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:19:50.186751",
+                    "downloadURL": "http://190.3.64.19/dataset/e6ff6708-b895-4c9e-b5a7-c464e785a991/resource/6b5f1abb-4bb9-479e-b5e0-049b68afabcd/download/estadsticas-operativas-cantidad-de-combustible-vendido-mensual.csv",
+                    "issued": "2017-05-04T15:19:50.956752",
+                    "identifier": "6b5f1abb-4bb9-479e-b5e0-049b68afabcd"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/e6ff6708-b895-4c9e-b5a7-c464e785a991/resource/8ac2f3fa-29c9-4f30-879d-9c566b010aba",
+                    "description": "",
+                    "title": "Estadísticas Operativas - Cantidad de Combustible Vendido Mensual",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:20:13.957612",
+                    "downloadURL": "http://190.3.64.19/dataset/e6ff6708-b895-4c9e-b5a7-c464e785a991/resource/8ac2f3fa-29c9-4f30-879d-9c566b010aba/download/estadsticas-operativas-cantidad-de-combustible-vendido-mensual.csv",
+                    "issued": "2017-05-04T15:20:14.066604",
+                    "identifier": "8ac2f3fa-29c9-4f30-879d-9c566b010aba"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6002,7 +6480,7 @@
             "license": "Creative Commons Attribution",
             "title": "Exploración Hidrocarburos Lineas Sísmicas 2D",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:35.493476",
+            "modified": "2017-05-04T18:29:16.002990",
             "theme": [],
             "keyword": [],
             "superTheme": [
@@ -6013,7 +6491,32 @@
                 "fn": ""
             },
             "identifier": "071b7a3e-0a34-426c-a605-d24e7bdef9a3",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/071b7a3e-0a34-426c-a605-d24e7bdef9a3/resource/fb01c3ae-dc61-4845-885a-457ea9c5f796",
+                    "description": "",
+                    "title": "Exploración Hidrocarburos Lineas Sísmicas 2D",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:21:39.107934",
+                    "downloadURL": "http://190.3.64.19/dataset/071b7a3e-0a34-426c-a605-d24e7bdef9a3/resource/fb01c3ae-dc61-4845-885a-457ea9c5f796/download/exploracin-hidrocarburos-lineas-ssmicas-2d.csv",
+                    "issued": "2017-05-04T15:21:39.297845",
+                    "identifier": "fb01c3ae-dc61-4845-885a-457ea9c5f796"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/071b7a3e-0a34-426c-a605-d24e7bdef9a3/resource/737cd560-efc4-4296-95ba-36e1fc85dc4f",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Exploración Hidrocarburos Lineas Sísmicas 2D",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:23:02.348944",
+                    "downloadURL": "http://190.3.64.19/dataset/071b7a3e-0a34-426c-a605-d24e7bdef9a3/resource/737cd560-efc4-4296-95ba-36e1fc85dc4f/download/exploracin-hidrocarburos-lineas-ssmicas-2d.zip",
+                    "issued": "2017-05-04T15:23:02.590111",
+                    "identifier": "737cd560-efc4-4296-95ba-36e1fc85dc4f"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6025,7 +6528,7 @@
             "license": "Creative Commons Attribution",
             "title": "Exploración Hidrocarburos Permisos de Exploración",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:35.095019",
+            "modified": "2017-05-04T18:25:03.973246",
             "theme": [],
             "keyword": [],
             "superTheme": [
@@ -6036,7 +6539,32 @@
                 "fn": ""
             },
             "identifier": "66044d22-6657-47d1-b0bb-ecc7c1d37a44",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/66044d22-6657-47d1-b0bb-ecc7c1d37a44/resource/80d84815-f3df-4adf-8e68-01aea86634ed",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Exploración Hidrocarburos Permisos de Exploración",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:23:10.146701",
+                    "downloadURL": "http://190.3.64.19/dataset/66044d22-6657-47d1-b0bb-ecc7c1d37a44/resource/80d84815-f3df-4adf-8e68-01aea86634ed/download/exploracin-hidrocarburos-permisos-de-exploracin.zip",
+                    "issued": "2017-05-04T15:23:10.655571",
+                    "identifier": "80d84815-f3df-4adf-8e68-01aea86634ed"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/66044d22-6657-47d1-b0bb-ecc7c1d37a44/resource/55ed6254-e389-4c32-be9a-7b77c71f58fc",
+                    "description": "",
+                    "title": "Exploración Hidrocarburos Permisos de Exploración",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:23:23.907295",
+                    "downloadURL": "http://190.3.64.19/dataset/66044d22-6657-47d1-b0bb-ecc7c1d37a44/resource/55ed6254-e389-4c32-be9a-7b77c71f58fc/download/exploracin-hidrocarburos-permisos-de-exploracin.csv",
+                    "issued": "2017-05-04T15:23:24.171271",
+                    "identifier": "55ed6254-e389-4c32-be9a-7b77c71f58fc"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6048,7 +6576,7 @@
             "license": "Creative Commons Attribution",
             "title": "Exploración Hidrocarburos Sísmicas 3D",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:18.048363",
+            "modified": "2017-05-04T18:25:41.164808",
             "theme": [],
             "keyword": [],
             "superTheme": [
@@ -6059,7 +6587,32 @@
                 "fn": ""
             },
             "identifier": "11540156-6454-47c8-9748-c8f8705f62c0",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/11540156-6454-47c8-9748-c8f8705f62c0/resource/d1c1dd2c-cddf-41e3-8a5c-742c6b8ec36f",
+                    "description": "",
+                    "title": "Exploración Hidrocarburos Sísmicas 3D",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:23:45.731757",
+                    "downloadURL": "http://190.3.64.19/dataset/11540156-6454-47c8-9748-c8f8705f62c0/resource/d1c1dd2c-cddf-41e3-8a5c-742c6b8ec36f/download/exploracin-hidrocarburos-ssmicas-3d.csv",
+                    "issued": "2017-05-04T15:23:45.960303",
+                    "identifier": "d1c1dd2c-cddf-41e3-8a5c-742c6b8ec36f"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/11540156-6454-47c8-9748-c8f8705f62c0/resource/abf26a19-f61c-464e-b31f-3274009486c9",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Exploración Hidrocarburos Sísmicas 3D",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:23:54.745125",
+                    "downloadURL": "http://190.3.64.19/dataset/11540156-6454-47c8-9748-c8f8705f62c0/resource/abf26a19-f61c-464e-b31f-3274009486c9/download/exploracin-hidrocarburos-ssmicas-3d.zip",
+                    "issued": "2017-05-04T15:23:55.554370",
+                    "identifier": "abf26a19-f61c-464e-b31f-3274009486c9"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6071,7 +6624,7 @@
             "license": "Creative Commons Attribution",
             "title": "Exportaciones minerales y derivados por provincia",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:11.213023",
+            "modified": "2017-05-04T18:26:41.707036",
             "theme": [],
             "keyword": [
                 "Minería"
@@ -6084,7 +6637,20 @@
                 "fn": ""
             },
             "identifier": "0f1182d4-28a0-4ae3-85a4-cf806a59a8b7",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/0f1182d4-28a0-4ae3-85a4-cf806a59a8b7/resource/eb4a737b-280c-4cd6-a009-1c0a57c22015",
+                    "description": "",
+                    "title": "Exportaciones minerales y derivados por provincia",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:24:12.793102",
+                    "downloadURL": "http://190.3.64.19/dataset/0f1182d4-28a0-4ae3-85a4-cf806a59a8b7/resource/eb4a737b-280c-4cd6-a009-1c0a57c22015/download/exportaciones-minerales-y-derivados-por-provincia.csv",
+                    "issued": "2017-05-04T15:24:13.187166",
+                    "identifier": "eb4a737b-280c-4cd6-a009-1c0a57c22015"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6096,7 +6662,7 @@
             "license": "Creative Commons Attribution",
             "title": "Exportaciones mineras por rubro",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:35.687898",
+            "modified": "2017-05-04T18:30:53.496821",
             "theme": [],
             "keyword": [
                 "Minería"
@@ -6109,7 +6675,20 @@
                 "fn": ""
             },
             "identifier": "dea26f6a-a016-40aa-87eb-09f624c240fa",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/dea26f6a-a016-40aa-87eb-09f624c240fa/resource/ecfb7488-b0c4-4572-b3ee-4b174b6baa75",
+                    "description": "",
+                    "title": "Exportaciones mineras por rubro",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:24:29.947614",
+                    "downloadURL": "http://190.3.64.19/dataset/dea26f6a-a016-40aa-87eb-09f624c240fa/resource/ecfb7488-b0c4-4572-b3ee-4b174b6baa75/download/exportaciones-mineras-por-rubro.csv",
+                    "issued": "2017-05-04T15:24:30.404716",
+                    "identifier": "ecfb7488-b0c4-4572-b3ee-4b174b6baa75"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6158,7 +6737,7 @@
             "license": "Creative Commons Attribution",
             "title": "Gas Entregado a Grandes Usuarios por Distribuidora",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:26.552506",
+            "modified": "2017-05-04T18:33:34.500749",
             "theme": [],
             "keyword": [
                 "Distribuidora",
@@ -6175,7 +6754,20 @@
                 "fn": ""
             },
             "identifier": "4923ff1e-f3db-4664-be56-4fde6bc3eb61",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4923ff1e-f3db-4664-be56-4fde6bc3eb61/resource/21e1b0fd-0d6f-45b3-8778-9c09058e2198",
+                    "description": "",
+                    "title": "Gas Entregado a Grandes Usuarios por Distribuidora",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:25:37.351401",
+                    "downloadURL": "http://190.3.64.19/dataset/4923ff1e-f3db-4664-be56-4fde6bc3eb61/resource/21e1b0fd-0d6f-45b3-8778-9c09058e2198/download/gas-entregado-a-grandes-usuarios-por-distribuidora.csv",
+                    "issued": "2017-05-04T15:25:37.464058",
+                    "identifier": "21e1b0fd-0d6f-45b3-8778-9c09058e2198"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6187,7 +6779,7 @@
             "license": "Creative Commons Attribution",
             "title": "Gas Entregado a Grandes Usuarios por Provincia",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:23.234592",
+            "modified": "2017-05-04T18:35:11.238966",
             "theme": [],
             "keyword": [
                 "ENARGAS",
@@ -6203,7 +6795,32 @@
                 "fn": ""
             },
             "identifier": "7abff795-d834-4a19-aae5-6deafa2983ea",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/7abff795-d834-4a19-aae5-6deafa2983ea/resource/b8b89998-e5ec-4e04-9aca-fb72208ec070",
+                    "description": "",
+                    "title": "Gas Entregado a Grandes Usuarios por Provincia",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:25:54.282639",
+                    "downloadURL": "http://190.3.64.19/dataset/7abff795-d834-4a19-aae5-6deafa2983ea/resource/b8b89998-e5ec-4e04-9aca-fb72208ec070/download/gas-entregado-a-grandes-usuarios-por-provincia.csv",
+                    "issued": "2017-05-04T15:25:54.373114",
+                    "identifier": "b8b89998-e5ec-4e04-9aca-fb72208ec070"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/7abff795-d834-4a19-aae5-6deafa2983ea/resource/16223143-dea4-47eb-95f5-69f86699a96c",
+                    "description": "",
+                    "title": "Gas Entregado a Grandes Usuarios por Provincia",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:26:05.306635",
+                    "downloadURL": "http://190.3.64.19/dataset/7abff795-d834-4a19-aae5-6deafa2983ea/resource/16223143-dea4-47eb-95f5-69f86699a96c/download/gas-entregado-a-grandes-usuarios-por-provincia.csv",
+                    "issued": "2017-05-04T15:26:05.414723",
+                    "identifier": "16223143-dea4-47eb-95f5-69f86699a96c"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6215,7 +6832,7 @@
             "license": "Creative Commons Attribution",
             "title": "Gas Entregado por Área de Licencia",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:37.127425",
+            "modified": "2017-05-04T18:35:58.903076",
             "theme": [],
             "keyword": [
                 "ENARGAS",
@@ -6230,7 +6847,20 @@
                 "fn": ""
             },
             "identifier": "ce7b5038-d07e-4334-a810-348bca859810",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ce7b5038-d07e-4334-a810-348bca859810/resource/6378fe72-84fc-45ee-8044-212193bcb1b3",
+                    "description": "",
+                    "title": "Gas Entregado por Área de Licencia",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:26:37.318152",
+                    "downloadURL": "http://190.3.64.19/dataset/ce7b5038-d07e-4334-a810-348bca859810/resource/6378fe72-84fc-45ee-8044-212193bcb1b3/download/gas-entregado-por-rea-de-licencia.csv",
+                    "issued": "2017-05-04T15:26:37.409819",
+                    "identifier": "6378fe72-84fc-45ee-8044-212193bcb1b3"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6242,7 +6872,7 @@
             "license": "Creative Commons Attribution",
             "title": "Gas Entregado por Provincia",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:10.974536",
+            "modified": "2017-05-04T18:38:38.013043",
             "theme": [],
             "keyword": [
                 "ENARGAS",
@@ -6257,7 +6887,32 @@
                 "fn": ""
             },
             "identifier": "c5d8e29a-912a-44ad-80d7-7a35cae0aeba",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/c5d8e29a-912a-44ad-80d7-7a35cae0aeba/resource/adef9811-f34d-41ec-a420-d73ede84416a",
+                    "description": "",
+                    "title": "Gas Entregado por Provincia",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:27:54.303639",
+                    "downloadURL": "http://190.3.64.19/dataset/c5d8e29a-912a-44ad-80d7-7a35cae0aeba/resource/adef9811-f34d-41ec-a420-d73ede84416a/download/gas-entregado-por-provincia.csv",
+                    "issued": "2017-05-04T15:27:54.472242",
+                    "identifier": "adef9811-f34d-41ec-a420-d73ede84416a"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/c5d8e29a-912a-44ad-80d7-7a35cae0aeba/resource/7a23ec2b-6136-47ee-a905-e3ada262376d",
+                    "description": "",
+                    "title": "Gas Entregado por Provincia",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:28:37.190178",
+                    "downloadURL": "http://190.3.64.19/dataset/c5d8e29a-912a-44ad-80d7-7a35cae0aeba/resource/7a23ec2b-6136-47ee-a905-e3ada262376d/download/gas-entregado-por-provincia.csv",
+                    "issued": "2017-05-04T15:28:37.305523",
+                    "identifier": "7a23ec2b-6136-47ee-a905-e3ada262376d"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6269,7 +6924,7 @@
             "license": "Creative Commons Attribution",
             "title": "Generación Eléctrica Bruta Asociada a redes desde 1930",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:41.559863",
+            "modified": "2017-05-04T18:39:17.204506",
             "theme": [],
             "keyword": [
                 "Eléctrica",
@@ -6284,7 +6939,20 @@
                 "fn": ""
             },
             "identifier": "3933032d-779b-4653-a069-7ad230674e79",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/3933032d-779b-4653-a069-7ad230674e79/resource/99b45703-9003-41f1-8a0d-93e5a4008973",
+                    "description": "",
+                    "title": "Generación Eléctrica Bruta Asociada a redes desde 1930",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:29:27.978913",
+                    "downloadURL": "http://190.3.64.19/dataset/3933032d-779b-4653-a069-7ad230674e79/resource/99b45703-9003-41f1-8a0d-93e5a4008973/download/generacin-elctrica-bruta-asociada-a-redes-desde-1930.csv",
+                    "issued": "2017-05-04T15:29:28.928827",
+                    "identifier": "99b45703-9003-41f1-8a0d-93e5a4008973"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6296,7 +6964,7 @@
             "license": "Creative Commons Attribution",
             "title": "Generación Eléctrica - Centrales de Generación",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:23.908692",
+            "modified": "2017-05-04T18:30:02.106823",
             "theme": [],
             "keyword": [
                 "Centrales de generación",
@@ -6312,7 +6980,32 @@
                 "fn": ""
             },
             "identifier": "c62df6c6-73af-4039-b956-db081ff6eebe",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/c62df6c6-73af-4039-b956-db081ff6eebe/resource/e10d8b22-9a16-467a-88b3-9d162588d146",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Generación Eléctrica Centrales de Generación",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:29:48.655372",
+                    "downloadURL": "http://190.3.64.19/dataset/c62df6c6-73af-4039-b956-db081ff6eebe/resource/e10d8b22-9a16-467a-88b3-9d162588d146/download/generacin-elctrica-centrales-de-generacin.zip",
+                    "issued": "2017-05-04T15:29:49.737381",
+                    "identifier": "e10d8b22-9a16-467a-88b3-9d162588d146"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/c62df6c6-73af-4039-b956-db081ff6eebe/resource/f6093eb1-1149-4d7a-9d75-fa672b972b01",
+                    "description": "",
+                    "title": "Generación Eléctrica Centrales de Generación",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:30:02.079179",
+                    "downloadURL": "http://190.3.64.19/dataset/c62df6c6-73af-4039-b956-db081ff6eebe/resource/f6093eb1-1149-4d7a-9d75-fa672b972b01/download/generacin-elctrica-centrales-de-generacin.csv",
+                    "issued": "2017-05-04T15:30:02.183867",
+                    "identifier": "f6093eb1-1149-4d7a-9d75-fa672b972b01"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6353,7 +7046,7 @@
             "license": "Creative Commons Attribution",
             "title": "Generación Eléctrica Pequeños Aprovechamientos Hidroeléctricos",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:27.806651",
+            "modified": "2017-05-04T18:39:18.065697",
             "theme": [],
             "keyword": [
                 "Aprovechamientos",
@@ -6371,7 +7064,32 @@
                 "fn": ""
             },
             "identifier": "d4aaab4e-ea13-4fbd-9ca2-52adb1478284",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/d4aaab4e-ea13-4fbd-9ca2-52adb1478284/resource/4faeacb9-52b5-4416-9201-7a60cc3e8c6f",
+                    "description": "",
+                    "title": "Generación Eléctrica Pequeños Aprovechamientos Hidroeléctricos",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:30:21.616532",
+                    "downloadURL": "http://190.3.64.19/dataset/d4aaab4e-ea13-4fbd-9ca2-52adb1478284/resource/4faeacb9-52b5-4416-9201-7a60cc3e8c6f/download/generacin-elctrica-pequeos-aprovechamientos-hidroelctricos.csv",
+                    "issued": "2017-05-04T15:30:21.863552",
+                    "identifier": "4faeacb9-52b5-4416-9201-7a60cc3e8c6f"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/d4aaab4e-ea13-4fbd-9ca2-52adb1478284/resource/257d19fe-2261-43ee-9a63-9588f071bfc4",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Generación Eléctrica Pequeños Aprovechamientos Hidroeléctricos",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:30:30.951914",
+                    "downloadURL": "http://190.3.64.19/dataset/d4aaab4e-ea13-4fbd-9ca2-52adb1478284/resource/257d19fe-2261-43ee-9a63-9588f071bfc4/download/generacin-elctrica-pequeos-aprovechamientos-hidroelctricos.zip",
+                    "issued": "2017-05-04T15:30:31.158208",
+                    "identifier": "257d19fe-2261-43ee-9a63-9588f071bfc4"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6545,7 +7263,7 @@
             "license": "Creative Commons Attribution",
             "title": "Geología Climatología Curvas de Nivel IGN",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:05.948316",
+            "modified": "2017-05-04T18:50:53.662797",
             "theme": [],
             "keyword": [
                 "Curvas de nivel",
@@ -6561,7 +7279,56 @@
                 "fn": ""
             },
             "identifier": "915c306b-e1c4-42e1-ae10-bc1285e7e72c",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/915c306b-e1c4-42e1-ae10-bc1285e7e72c/resource/bb98fa07-527d-436f-baf8-5ad5642903a1",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Geología Climatología Curvas de Nivel IGN",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:34:37.317522",
+                    "downloadURL": "http://190.3.64.19/dataset/915c306b-e1c4-42e1-ae10-bc1285e7e72c/resource/bb98fa07-527d-436f-baf8-5ad5642903a1/download/geologa-climatologa-curvas-de-nivel-ign.zip",
+                    "issued": "2017-05-04T15:34:37.738927",
+                    "identifier": "bb98fa07-527d-436f-baf8-5ad5642903a1"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/915c306b-e1c4-42e1-ae10-bc1285e7e72c/resource/7a16bb90-8cab-4a3b-b61b-bbe79f510f8e",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Geología Climatología Curvas de Nivel IGN",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:34:44.115234",
+                    "downloadURL": "http://190.3.64.19/dataset/915c306b-e1c4-42e1-ae10-bc1285e7e72c/resource/7a16bb90-8cab-4a3b-b61b-bbe79f510f8e/download/geologa-climatologa-curvas-de-nivel-ign.zip",
+                    "issued": "2017-05-04T15:34:44.232852",
+                    "identifier": "7a16bb90-8cab-4a3b-b61b-bbe79f510f8e"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/915c306b-e1c4-42e1-ae10-bc1285e7e72c/resource/8d3b3fb6-4d95-4005-888e-a2af4ba78836",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Geología Climatología Curvas de Nivel IGN",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:34:54.333466",
+                    "downloadURL": "http://190.3.64.19/dataset/915c306b-e1c4-42e1-ae10-bc1285e7e72c/resource/8d3b3fb6-4d95-4005-888e-a2af4ba78836/download/geologa-climatologa-curvas-de-nivel-ign.zip",
+                    "issued": "2017-05-04T15:34:54.542305",
+                    "identifier": "8d3b3fb6-4d95-4005-888e-a2af4ba78836"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/915c306b-e1c4-42e1-ae10-bc1285e7e72c/resource/10a9e1a7-43e4-4ba7-a906-2b1c0fb7817c",
+                    "description": "",
+                    "title": "Geología Climatología Curvas de Nivel IGN",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:37:22.068051",
+                    "downloadURL": "http://190.3.64.19/dataset/915c306b-e1c4-42e1-ae10-bc1285e7e72c/resource/10a9e1a7-43e4-4ba7-a906-2b1c0fb7817c/download/geologa-climatologa-curvas-de-nivel-ign.csv",
+                    "issued": "2017-05-04T15:37:22.243102",
+                    "identifier": "10a9e1a7-43e4-4ba7-a906-2b1c0fb7817c"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6573,7 +7340,7 @@
             "license": "Creative Commons Attribution",
             "title": "Geología Climatología Isobatas",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:16.951929",
+            "modified": "2017-05-04T18:39:56.000029",
             "theme": [],
             "keyword": [
                 "Geología",
@@ -6589,7 +7356,32 @@
                 "fn": ""
             },
             "identifier": "2dddc76d-1b55-4076-883a-cbc38546b9d2",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/2dddc76d-1b55-4076-883a-cbc38546b9d2/resource/3386086b-53c5-4d4f-8d63-b92a56c31334",
+                    "description": "",
+                    "title": "Geología Climatología Isobatas",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:38:13.601747",
+                    "downloadURL": "http://190.3.64.19/dataset/2dddc76d-1b55-4076-883a-cbc38546b9d2/resource/3386086b-53c5-4d4f-8d63-b92a56c31334/download/geologa-climatologa-isobatas.csv",
+                    "issued": "2017-05-04T15:38:13.975682",
+                    "identifier": "3386086b-53c5-4d4f-8d63-b92a56c31334"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/2dddc76d-1b55-4076-883a-cbc38546b9d2/resource/2cc58f41-1399-4db9-b9c2-c67f8b419f1f",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Geología Climatología Isobatas",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:39:09.326756",
+                    "downloadURL": "http://190.3.64.19/dataset/2dddc76d-1b55-4076-883a-cbc38546b9d2/resource/2cc58f41-1399-4db9-b9c2-c67f8b419f1f/download/geologa-climatologa-isobatas.zip",
+                    "issued": "2017-05-04T15:39:10.287832",
+                    "identifier": "2cc58f41-1399-4db9-b9c2-c67f8b419f1f"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6601,7 +7393,7 @@
             "license": "Creative Commons Attribution",
             "title": "Geología Climatología Yacimientos Minerales",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:31.163183",
+            "modified": "2017-05-04T18:40:08.163742",
             "theme": [],
             "keyword": [
                 "Geología",
@@ -6616,7 +7408,32 @@
                 "fn": ""
             },
             "identifier": "ac7f614e-622e-43d1-b480-7af68ef9d881",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ac7f614e-622e-43d1-b480-7af68ef9d881/resource/a3a287dd-29e7-4939-a79d-3a65d2c10bb1",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Geología Climatología Yacimientos Minerales",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:39:24.016005",
+                    "downloadURL": "http://190.3.64.19/dataset/ac7f614e-622e-43d1-b480-7af68ef9d881/resource/a3a287dd-29e7-4939-a79d-3a65d2c10bb1/download/geologa-climatologa-yacimientos-minerales.zip",
+                    "issued": "2017-05-04T15:39:24.818082",
+                    "identifier": "a3a287dd-29e7-4939-a79d-3a65d2c10bb1"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ac7f614e-622e-43d1-b480-7af68ef9d881/resource/ca5dfef8-48f7-4bbd-ac30-1c689e955aa2",
+                    "description": "",
+                    "title": "Geología Climatología Yacimientos Minerales",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:39:38.367095",
+                    "downloadURL": "http://190.3.64.19/dataset/ac7f614e-622e-43d1-b480-7af68ef9d881/resource/ca5dfef8-48f7-4bbd-ac30-1c689e955aa2/download/geologa-climatologa-yacimientos-minerales.csv",
+                    "issued": "2017-05-04T15:39:39.166186",
+                    "identifier": "ca5dfef8-48f7-4bbd-ac30-1c689e955aa2"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6628,7 +7445,7 @@
             "license": "Creative Commons Attribution",
             "title": "GLP: Área de Influencia de Depósitos",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:05.499503",
+            "modified": "2017-05-04T18:40:34.110982",
             "theme": [],
             "keyword": [
                 "Depósitos",
@@ -6644,7 +7461,32 @@
                 "fn": ""
             },
             "identifier": "1684cdae-01b8-4987-abe9-532c2ef2b94a",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/1684cdae-01b8-4987-abe9-532c2ef2b94a/resource/0b9abc03-1d59-4a50-9832-4b185293b4ee",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "GLP Área de Influencia de Depósitos GLP",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:39:55.556266",
+                    "downloadURL": "http://190.3.64.19/dataset/1684cdae-01b8-4987-abe9-532c2ef2b94a/resource/0b9abc03-1d59-4a50-9832-4b185293b4ee/download/glp-rea-de-influencia-de-depsitos-glp.zip",
+                    "issued": "2017-05-04T15:39:57.296121",
+                    "identifier": "0b9abc03-1d59-4a50-9832-4b185293b4ee"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/1684cdae-01b8-4987-abe9-532c2ef2b94a/resource/ae8e1cda-c579-4783-8a20-6b5fd95da5ba",
+                    "description": "",
+                    "title": "GLP Área de Influencia de Depósitos GLP",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:40:11.203444",
+                    "downloadURL": "http://190.3.64.19/dataset/1684cdae-01b8-4987-abe9-532c2ef2b94a/resource/ae8e1cda-c579-4783-8a20-6b5fd95da5ba/download/glp-rea-de-influencia-de-depsitos-glp.csv",
+                    "issued": "2017-05-04T15:40:12.410360",
+                    "identifier": "ae8e1cda-c579-4783-8a20-6b5fd95da5ba"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6656,7 +7498,7 @@
             "license": "Creative Commons Attribution",
             "title": "GLP: Distancia Areas Urbanas a Depósitos y Fraccionadoras",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:11.395619",
+            "modified": "2017-05-04T18:40:54.229045",
             "theme": [],
             "keyword": [
                 "Depósitos",
@@ -6674,7 +7516,20 @@
                 "fn": ""
             },
             "identifier": "b2b9f9b2-0282-4c84-b815-a2366326f92f",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/b2b9f9b2-0282-4c84-b815-a2366326f92f/resource/9c9a763c-5051-465e-ac3d-5fbcd0afd89c",
+                    "description": "",
+                    "title": "GLP Distancia Areas Urbanas A Depósitos y Fraccionadoras GLP",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:40:33.283059",
+                    "downloadURL": "http://190.3.64.19/dataset/b2b9f9b2-0282-4c84-b815-a2366326f92f/resource/9c9a763c-5051-465e-ac3d-5fbcd0afd89c/download/glp-distancia-areas-urbanas-a-depsitos-y-fraccionadoras-glp.csv",
+                    "issued": "2017-05-04T15:40:34.187789",
+                    "identifier": "9c9a763c-5051-465e-ac3d-5fbcd0afd89c"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6764,7 +7619,7 @@
             "license": "Creative Commons Attribution",
             "title": "Importaciones en el marco del régimen de inversiones mineras",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:27.200933",
+            "modified": "2017-05-04T18:42:13.948834",
             "theme": [],
             "keyword": [
                 "Minería"
@@ -6777,7 +7632,20 @@
                 "fn": ""
             },
             "identifier": "0b2c26b8-7919-4ac6-8ffe-7f911b26fe58",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/0b2c26b8-7919-4ac6-8ffe-7f911b26fe58/resource/76a0942c-bb18-4655-9d5a-122c20e984f2",
+                    "description": "",
+                    "title": "Importaciones en el marco del régimen de inversiones mineras",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:40:55.707734",
+                    "downloadURL": "http://190.3.64.19/dataset/0b2c26b8-7919-4ac6-8ffe-7f911b26fe58/resource/76a0942c-bb18-4655-9d5a-122c20e984f2/download/importaciones-en-el-marco-del-rgimen-de-inversiones-mineras.csv",
+                    "issued": "2017-05-04T15:40:56.968402",
+                    "identifier": "76a0942c-bb18-4655-9d5a-122c20e984f2"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6902,7 +7770,7 @@
             "license": "Creative Commons Attribution",
             "title": "Información Socioeconómica Áreas Urbanas Según Calles OSM",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:30.045546",
+            "modified": "2017-05-04T18:49:59.812492",
             "theme": [],
             "keyword": [
                 "Información geográfica",
@@ -6917,7 +7785,44 @@
                 "fn": ""
             },
             "identifier": "0761fc22-bb12-4b6b-8d87-c71ce3e52e02",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/0761fc22-bb12-4b6b-8d87-c71ce3e52e02/resource/ccaecf42-dca4-4a8e-b1c4-282201d0839c",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Información Socioeconómica Áreas Urbanas Según Calles OSM",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:41:15.004753",
+                    "downloadURL": "http://190.3.64.19/dataset/0761fc22-bb12-4b6b-8d87-c71ce3e52e02/resource/ccaecf42-dca4-4a8e-b1c4-282201d0839c/download/informacin-socioeconmica-reas-urbanas-segn-calles-osm.zip",
+                    "issued": "2017-05-04T15:41:15.487579",
+                    "identifier": "ccaecf42-dca4-4a8e-b1c4-282201d0839c"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/0761fc22-bb12-4b6b-8d87-c71ce3e52e02/resource/4572e36c-5d30-4fd0-a3e4-4e64c0c26f4c",
+                    "description": "",
+                    "title": "Información Socioeconómica Áreas Urbanas Según Calles OSM",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:41:30.011428",
+                    "downloadURL": "http://190.3.64.19/dataset/0761fc22-bb12-4b6b-8d87-c71ce3e52e02/resource/4572e36c-5d30-4fd0-a3e4-4e64c0c26f4c/download/informacin-socioeconmica-reas-urbanas-segn-calles-osm.csv",
+                    "issued": "2017-05-04T15:41:30.164532",
+                    "identifier": "4572e36c-5d30-4fd0-a3e4-4e64c0c26f4c"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/0761fc22-bb12-4b6b-8d87-c71ce3e52e02/resource/34718866-8742-44e8-95d8-f55abdf138c5",
+                    "description": "",
+                    "title": "Información Socioeconómica Áreas Urbanas Según Calles OSM",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:41:36.523144",
+                    "downloadURL": "http://190.3.64.19/dataset/0761fc22-bb12-4b6b-8d87-c71ce3e52e02/resource/34718866-8742-44e8-95d8-f55abdf138c5/download/informacin-socioeconmica-reas-urbanas-segn-calles-osm.csv",
+                    "issued": "2017-05-04T15:41:36.682288",
+                    "identifier": "34718866-8742-44e8-95d8-f55abdf138c5"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6929,7 +7834,7 @@
             "license": "Creative Commons Attribution",
             "title": "Información Socioeconómica Asentamientos y Villas ONG Techo",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:12.515941",
+            "modified": "2017-05-04T18:42:54.267002",
             "theme": [],
             "keyword": [
                 "Asentamientos",
@@ -6945,7 +7850,32 @@
                 "fn": ""
             },
             "identifier": "1c58835a-4590-41e1-9ba2-5a41fd6da0d1",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/1c58835a-4590-41e1-9ba2-5a41fd6da0d1/resource/1489eebc-60af-4cde-905c-d78a391b42f8",
+                    "description": "",
+                    "title": "Información Socioeconómica Asentamientos y Villas ONG Techo",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:42:04.983206",
+                    "downloadURL": "http://190.3.64.19/dataset/1c58835a-4590-41e1-9ba2-5a41fd6da0d1/resource/1489eebc-60af-4cde-905c-d78a391b42f8/download/informacin-socioeconmica-asentamientos-y-villas-ong-techo.csv",
+                    "issued": "2017-05-04T15:42:05.182975",
+                    "identifier": "1489eebc-60af-4cde-905c-d78a391b42f8"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/1c58835a-4590-41e1-9ba2-5a41fd6da0d1/resource/b0da58db-f479-4270-8d7b-07de2ee04b33",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Información Socioeconómica Asentamientos y Villas ONG Techo",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:42:16.558731",
+                    "downloadURL": "http://190.3.64.19/dataset/1c58835a-4590-41e1-9ba2-5a41fd6da0d1/resource/b0da58db-f479-4270-8d7b-07de2ee04b33/download/informacin-socioeconmica-asentamientos-y-villas-ong-techo.zip",
+                    "issued": "2017-05-04T15:42:17.710665",
+                    "identifier": "b0da58db-f479-4270-8d7b-07de2ee04b33"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6957,7 +7887,7 @@
             "license": "Creative Commons Attribution",
             "title": "Información Socioeconómica Asentamientos y Villas Wikimapia",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:17.818289",
+            "modified": "2017-05-04T18:44:37.469727",
             "theme": [],
             "keyword": [
                 "Asentamientos",
@@ -6973,7 +7903,32 @@
                 "fn": ""
             },
             "identifier": "8eba1cb4-37d4-4533-8f34-a8e48c2fe1af",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8eba1cb4-37d4-4533-8f34-a8e48c2fe1af/resource/837b9da4-d284-49df-85cd-5fe44388840c",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Información Socioeconómica Asentamientos y Villas Wikimapia",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:42:20.075205",
+                    "downloadURL": "http://190.3.64.19/dataset/8eba1cb4-37d4-4533-8f34-a8e48c2fe1af/resource/837b9da4-d284-49df-85cd-5fe44388840c/download/informacin-socioeconmica-asentamientos-y-villas-wikimapia.zip",
+                    "issued": "2017-05-04T15:42:20.245844",
+                    "identifier": "837b9da4-d284-49df-85cd-5fe44388840c"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8eba1cb4-37d4-4533-8f34-a8e48c2fe1af/resource/ac3e73f3-943c-4d55-8158-db79cf928da9",
+                    "description": "",
+                    "title": "Información Socioeconómica Asentamientos y Villas Wikimapia",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:42:31.138227",
+                    "downloadURL": "http://190.3.64.19/dataset/8eba1cb4-37d4-4533-8f34-a8e48c2fe1af/resource/ac3e73f3-943c-4d55-8158-db79cf928da9/download/informacin-socioeconmica-asentamientos-y-villas-wikimapia.csv",
+                    "issued": "2017-05-04T15:42:31.234847",
+                    "identifier": "ac3e73f3-943c-4d55-8158-db79cf928da9"
+                }
+            ]
         },
         {
             "publisher": {
@@ -6985,7 +7940,7 @@
             "license": "Creative Commons Attribution",
             "title": "Información Socioeconómica Ejidos Urbanos",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:36.554767",
+            "modified": "2017-05-04T18:48:41.314086",
             "theme": [],
             "keyword": [
                 "Ejidos",
@@ -7000,7 +7955,32 @@
                 "fn": ""
             },
             "identifier": "bfbe9495-7ec1-4198-9c93-8da043582481",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/bfbe9495-7ec1-4198-9c93-8da043582481/resource/2ad19806-4575-47eb-a3d4-af63d6fbf302",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Información Socioeconómica Ejidos Urbanos",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:42:42.833476",
+                    "downloadURL": "http://190.3.64.19/dataset/bfbe9495-7ec1-4198-9c93-8da043582481/resource/2ad19806-4575-47eb-a3d4-af63d6fbf302/download/informacin-socioeconmica-ejidos-urbanos.zip",
+                    "issued": "2017-05-04T15:42:42.957096",
+                    "identifier": "2ad19806-4575-47eb-a3d4-af63d6fbf302"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/bfbe9495-7ec1-4198-9c93-8da043582481/resource/a7018cf6-0505-40fc-8db3-e496fac4de38",
+                    "description": "",
+                    "title": "Información Socioeconómica Ejidos Urbanos",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:42:54.913795",
+                    "downloadURL": "http://190.3.64.19/dataset/bfbe9495-7ec1-4198-9c93-8da043582481/resource/a7018cf6-0505-40fc-8db3-e496fac4de38/download/informacin-socioeconmica-ejidos-urbanos.csv",
+                    "issued": "2017-05-04T15:42:55.445255",
+                    "identifier": "a7018cf6-0505-40fc-8db3-e496fac4de38"
+                }
+            ]
         },
         {
             "publisher": {
@@ -7012,8 +7992,10 @@
             "license": "Creative Commons Attribution",
             "title": "Información Socioeconómica INDEC Radios Censales",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T17:52:21.502658",
-            "theme": [],
+            "modified": "2017-05-04T18:58:58.530947",
+            "theme": [
+                "socioeconomico"
+            ],
             "keyword": [
                 "Información geográfica",
                 "Información socioeconómica"
@@ -7110,6 +8092,138 @@
                     "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/0f08adaa-1364-41b9-90b8-08befac941c0/download/corrientes.zip",
                     "issued": "2017-05-04T14:52:25.123292",
                     "identifier": "0f08adaa-1364-41b9-90b8-08befac941c0"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/d27e60d8-280c-4471-9d7c-4ad5790e34fa",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Entre Ríos",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:17:00.783218",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/d27e60d8-280c-4471-9d7c-4ad5790e34fa/download/entre-ros.zip",
+                    "issued": "2017-05-04T15:17:09.113087",
+                    "identifier": "d27e60d8-280c-4471-9d7c-4ad5790e34fa"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/995ea169-741e-4ebb-9071-fd5ddc447cef",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Formosa",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:25:01.409951",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/995ea169-741e-4ebb-9071-fd5ddc447cef/download/formosa.zip",
+                    "issued": "2017-05-04T15:25:03.519934",
+                    "identifier": "995ea169-741e-4ebb-9071-fd5ddc447cef"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/2262d1a2-3224-4a4f-b85e-5acbc1cc0f46",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Buenos Aires",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:44:52.952575",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/2262d1a2-3224-4a4f-b85e-5acbc1cc0f46/download/informacin-socioeconmica-indec-radios-censales-buenos-aires.csv",
+                    "issued": "2017-05-04T15:44:53.443696",
+                    "identifier": "2262d1a2-3224-4a4f-b85e-5acbc1cc0f46"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/95f0dbca-e3ab-4775-b5a9-1b7ea22a09bd",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Catamarca",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:47:27.014876",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/95f0dbca-e3ab-4775-b5a9-1b7ea22a09bd/download/informacin-socioeconmica-indec-radios-censales-catamarca.csv",
+                    "issued": "2017-05-04T15:47:27.312089",
+                    "identifier": "95f0dbca-e3ab-4775-b5a9-1b7ea22a09bd"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/d523b680-028a-452b-b982-ff6a75cd6f20",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Chaco",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:48:54.174929",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/d523b680-028a-452b-b982-ff6a75cd6f20/download/informacin-socioeconmica-indec-radios-censales-chaco.csv",
+                    "issued": "2017-05-04T15:48:54.424789",
+                    "identifier": "d523b680-028a-452b-b982-ff6a75cd6f20"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/e916c88e-19ba-48bb-90a2-6aae4cd13734",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Chubut",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:51:09.766527",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/e916c88e-19ba-48bb-90a2-6aae4cd13734/download/informacin-socioeconmica-indec-radios-censales-chubut.csv",
+                    "issued": "2017-05-04T15:51:10.029109",
+                    "identifier": "e916c88e-19ba-48bb-90a2-6aae4cd13734"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/195d5415-4203-4904-b493-f9b00b29e558",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Ciudad Autónoma de Buenos Aires",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:52:01.351087",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/195d5415-4203-4904-b493-f9b00b29e558/download/informacin-socioeconmica-indec-radios-censales-ciudad-autnoma-de-buenos-aires.csv",
+                    "issued": "2017-05-04T15:52:01.624240",
+                    "identifier": "195d5415-4203-4904-b493-f9b00b29e558"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/a35a2989-94a6-4f07-a990-a6f148afe02b",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Córdoba",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:54:07.809423",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/a35a2989-94a6-4f07-a990-a6f148afe02b/download/informacin-socioeconmica-indec-radios-censales-crdoba.csv",
+                    "issued": "2017-05-04T15:54:08.109461",
+                    "identifier": "a35a2989-94a6-4f07-a990-a6f148afe02b"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/f17c868c-01b2-44c2-8388-78aaa4a55014",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Córdoba",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:55:44.844537",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/f17c868c-01b2-44c2-8388-78aaa4a55014/download/informacin-socioeconmica-indec-radios-censales-crdoba.csv",
+                    "issued": "2017-05-04T15:55:45.125812",
+                    "identifier": "f17c868c-01b2-44c2-8388-78aaa4a55014"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/64d1d49f-57cb-47fd-8094-e80566b016d0",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Entre Ríos",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:58:10.099078",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/64d1d49f-57cb-47fd-8094-e80566b016d0/download/informacin-socioeconmica-indec-radios-censales-entre-ros.csv",
+                    "issued": "2017-05-04T15:58:10.399643",
+                    "identifier": "64d1d49f-57cb-47fd-8094-e80566b016d0"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/cd1d27a5-9eef-4c31-9f1b-ce603f45b6ad",
+                    "description": "",
+                    "title": "Información Socioeconómica INDEC Radios Censales Formosa",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:58:58.455106",
+                    "downloadURL": "http://190.3.64.19/dataset/8ca540f9-434b-40f1-8a2f-6e22cdb26503/resource/cd1d27a5-9eef-4c31-9f1b-ce603f45b6ad/download/informacin-socioeconmica-indec-radios-censales-formosa.csv",
+                    "issued": "2017-05-04T15:58:58.733516",
+                    "identifier": "cd1d27a5-9eef-4c31-9f1b-ce603f45b6ad"
                 }
             ]
         },
@@ -7151,7 +8265,7 @@
             "license": "Creative Commons Attribution",
             "title": "Información Socioeconómica Jefe de Hogar con educación media incompleta",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T17:52:47.443122",
+            "modified": "2017-05-04T18:25:09.545926",
             "theme": [],
             "keyword": [
                 "Información geográfica"
@@ -7248,6 +8362,42 @@
                     "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/53b9db58-6e6b-448d-af93-61e933e21907/download/corrientes.zip",
                     "issued": "2017-05-04T14:52:47.872831",
                     "identifier": "53b9db58-6e6b-448d-af93-61e933e21907"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/10e72523-3dff-4bfe-a3f8-ed0106a00517",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Entre Ríos",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:17:41.741063",
+                    "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/10e72523-3dff-4bfe-a3f8-ed0106a00517/download/entre-ros.zip",
+                    "issued": "2017-05-04T15:17:50.987396",
+                    "identifier": "10e72523-3dff-4bfe-a3f8-ed0106a00517"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/7ad524df-03d8-4856-8cf5-3181b916ebc9",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Entre Ríos",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:18:11.485914",
+                    "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/7ad524df-03d8-4856-8cf5-3181b916ebc9/download/entre-ros.zip",
+                    "issued": "2017-05-04T15:18:13.249675",
+                    "identifier": "7ad524df-03d8-4856-8cf5-3181b916ebc9"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/0cdb8cef-d92f-4a01-b5f5-2215a87b4fa8",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Formosa",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:25:09.452353",
+                    "downloadURL": "http://190.3.64.19/dataset/4d31208b-28d1-457c-95d3-044b5870bd26/resource/0cdb8cef-d92f-4a01-b5f5-2215a87b4fa8/download/formosa.zip",
+                    "issued": "2017-05-04T15:25:09.814389",
+                    "identifier": "0cdb8cef-d92f-4a01-b5f5-2215a87b4fa8"
                 }
             ]
         },
@@ -7261,7 +8411,7 @@
             "license": "Creative Commons Attribution",
             "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T17:53:02.498955",
+            "modified": "2017-05-04T18:25:13.551051",
             "theme": [],
             "keyword": [
                 "Información geográfica",
@@ -7407,6 +8557,42 @@
                     "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/377bb7ef-c49d-47e8-86f5-6a3cd63d1070/download/corrientes.zip",
                     "issued": "2017-05-04T14:53:04.654416",
                     "identifier": "377bb7ef-c49d-47e8-86f5-6a3cd63d1070"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c99d4cd8-34d8-48ec-9804-e3c169b6442a",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Entre Ríos",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:16:36.750285",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c99d4cd8-34d8-48ec-9804-e3c169b6442a/download/entre-ros.zip",
+                    "issued": "2017-05-04T15:16:37.467845",
+                    "identifier": "c99d4cd8-34d8-48ec-9804-e3c169b6442a"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/63eb21b9-711c-4091-9850-fcc43289a752",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Entre Ríos",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:16:39.903597",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/63eb21b9-711c-4091-9850-fcc43289a752/download/entre-ros.zip",
+                    "issued": "2017-05-04T15:16:40.448212",
+                    "identifier": "63eb21b9-711c-4091-9850-fcc43289a752"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/e5a3e975-53ed-43c8-a2c2-c684802f2740",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Formosa",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:25:13.175454",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/e5a3e975-53ed-43c8-a2c2-c684802f2740/download/formosa.zip",
+                    "issued": "2017-05-04T15:25:13.962995",
+                    "identifier": "e5a3e975-53ed-43c8-a2c2-c684802f2740"
                 }
             ]
         },
@@ -7420,7 +8606,7 @@
             "license": "Creative Commons Attribution",
             "title": "Información Socioeconómica NBI (Deciles)",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T17:53:42.488610",
+            "modified": "2017-05-04T18:25:18.426884",
             "theme": [],
             "keyword": [
                 "Información geográfica",
@@ -7506,6 +8692,30 @@
                     "downloadURL": "http://190.3.64.19/dataset/9c116c36-f483-443b-9f4d-0b26c4a461e8/resource/21f60e15-b66a-492d-85ae-ba23b2c09e46/download/corrientes-deciles-.zip",
                     "issued": "2017-05-04T14:53:44.936436",
                     "identifier": "21f60e15-b66a-492d-85ae-ba23b2c09e46"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/9c116c36-f483-443b-9f4d-0b26c4a461e8/resource/8d237c5f-99c8-4185-bbde-dbab66a02afc",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Entre Ríos(Deciles)",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:18:34.026473",
+                    "downloadURL": "http://190.3.64.19/dataset/9c116c36-f483-443b-9f4d-0b26c4a461e8/resource/8d237c5f-99c8-4185-bbde-dbab66a02afc/download/entre-ros-deciles-.zip",
+                    "issued": "2017-05-04T15:18:35.780816",
+                    "identifier": "8d237c5f-99c8-4185-bbde-dbab66a02afc"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/9c116c36-f483-443b-9f4d-0b26c4a461e8/resource/cda97e68-9743-48f6-85d6-3cde92180b21",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Formosa(Deciles)",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:25:18.320270",
+                    "downloadURL": "http://190.3.64.19/dataset/9c116c36-f483-443b-9f4d-0b26c4a461e8/resource/cda97e68-9743-48f6-85d6-3cde92180b21/download/formosa-deciles-.zip",
+                    "issued": "2017-05-04T15:25:18.647568",
+                    "identifier": "cda97e68-9743-48f6-85d6-3cde92180b21"
                 }
             ]
         },
@@ -7904,7 +9114,7 @@
             "license": "Creative Commons Attribution",
             "title": "Inversiones en mercado de hidrocarburos upstream",
             "issued": "2017-01-20T16:34:33.150835",
-            "modified": "2017-05-04T17:26:07.903828",
+            "modified": "2017-05-04T18:51:55.451210",
             "theme": [],
             "keyword": [
                 "Hidrocarburos",
@@ -7954,6 +9164,30 @@
                     "downloadURL": "http://190.3.64.19/dataset/83fd2c3f-e0f5-4d56-a3ef-828eac226ba9/resource/6101d127-7632-4cd4-af08-7c2785086ed8/download/resolucin-2057-inversiones-realizadas-mensual.csv",
                     "issued": "2017-05-04T14:21:36.274359",
                     "identifier": "6101d127-7632-4cd4-af08-7c2785086ed8"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/83fd2c3f-e0f5-4d56-a3ef-828eac226ba9/resource/a0c40b5b-47d2-44c8-bfd3-b5a786874948",
+                    "description": "",
+                    "title": "Resolución 2057 - Inversiones realizadas año anterior",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:51:40.550708",
+                    "downloadURL": "http://190.3.64.19/dataset/83fd2c3f-e0f5-4d56-a3ef-828eac226ba9/resource/a0c40b5b-47d2-44c8-bfd3-b5a786874948/download/resolucin-2057-inversiones-realizadas-ao-anterior.csv",
+                    "issued": "2017-05-04T15:51:40.651517",
+                    "identifier": "a0c40b5b-47d2-44c8-bfd3-b5a786874948"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/83fd2c3f-e0f5-4d56-a3ef-828eac226ba9/resource/6c8c1c0b-c05e-4cd4-9ad7-afd934512ca6",
+                    "description": "",
+                    "title": "Resolución 2057 - Inversiones realizadas año anterior",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:51:55.379167",
+                    "downloadURL": "http://190.3.64.19/dataset/83fd2c3f-e0f5-4d56-a3ef-828eac226ba9/resource/6c8c1c0b-c05e-4cd4-9ad7-afd934512ca6/download/resolucin-2057-inversiones-realizadas-ao-anterior.csv",
+                    "issued": "2017-05-04T15:51:55.527409",
+                    "identifier": "6c8c1c0b-c05e-4cd4-9ad7-afd934512ca6"
                 }
             ]
         },
@@ -9009,7 +10243,7 @@
             "license": "Creative Commons Attribution",
             "title": "Medición de petróleo y gas",
             "issued": "2017-01-20T16:34:38.859992",
-            "modified": "2017-05-04T14:45:54.857947",
+            "modified": "2017-05-04T18:52:25.571175",
             "theme": [],
             "keyword": [
                 "Gas",
@@ -9025,7 +10259,32 @@
                 "fn": ""
             },
             "identifier": "df832dab-b67c-4952-9f37-1bd28136967a",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/df832dab-b67c-4952-9f37-1bd28136967a/resource/c6bfee9c-8482-4dee-b9a4-e8edba805cc0",
+                    "description": "",
+                    "title": "Resolución 318 -  Control de Auditorías",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:22:40.263480",
+                    "downloadURL": "http://190.3.64.19/dataset/df832dab-b67c-4952-9f37-1bd28136967a/resource/c6bfee9c-8482-4dee-b9a4-e8edba805cc0/download/resolucin-318-control-de-auditoras.csv",
+                    "issued": "2017-05-04T15:22:40.381138",
+                    "identifier": "c6bfee9c-8482-4dee-b9a4-e8edba805cc0"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/df832dab-b67c-4952-9f37-1bd28136967a/resource/890c4e5e-ad4a-4a99-92fa-f535fb7413e7",
+                    "description": "",
+                    "title": "Resolución 318 - Instalaciones Empadronadas",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:50:08.457449",
+                    "downloadURL": "http://190.3.64.19/dataset/df832dab-b67c-4952-9f37-1bd28136967a/resource/890c4e5e-ad4a-4a99-92fa-f535fb7413e7/download/resolucin-318-instalaciones-empadronadas.csv",
+                    "issued": "2017-05-04T15:50:08.557436",
+                    "identifier": "890c4e5e-ad4a-4a99-92fa-f535fb7413e7"
+                }
+            ]
         },
         {
             "publisher": {
@@ -9565,7 +10824,7 @@
             "license": "Creative Commons Attribution",
             "title": "Plan gas",
             "issued": "2017-01-20T16:34:36.748480",
-            "modified": "2017-05-04T14:45:53.621940",
+            "modified": "2017-05-04T18:11:33.766792",
             "theme": [],
             "keyword": [
                 "Gas",
@@ -9580,7 +10839,32 @@
                 "fn": ""
             },
             "identifier": "2291de42-90bc-478e-a75a-252e8992fb78",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/2291de42-90bc-478e-a75a-252e8992fb78/resource/5a78201f-a61b-4bc3-99cd-84b72e9301d6",
+                    "description": "",
+                    "title": "Plan Gas - Inyección Diaria",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:10:02.282942",
+                    "downloadURL": "http://190.3.64.19/dataset/2291de42-90bc-478e-a75a-252e8992fb78/resource/5a78201f-a61b-4bc3-99cd-84b72e9301d6/download/plan-gas-inyeccin-diaria.csv",
+                    "issued": "2017-05-04T15:10:02.376607",
+                    "identifier": "5a78201f-a61b-4bc3-99cd-84b72e9301d6"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/2291de42-90bc-478e-a75a-252e8992fb78/resource/aa7df0f2-b483-4375-b2d3-40710e68cd4e",
+                    "description": "",
+                    "title": "Plan Gas - Facturación",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:11:32.626956",
+                    "downloadURL": "http://190.3.64.19/dataset/2291de42-90bc-478e-a75a-252e8992fb78/resource/aa7df0f2-b483-4375-b2d3-40710e68cd4e/download/plan-gas-facturacin.csv",
+                    "issued": "2017-05-04T15:11:36.022731",
+                    "identifier": "aa7df0f2-b483-4375-b2d3-40710e68cd4e"
+                }
+            ]
         },
         {
             "publisher": {
@@ -9891,7 +11175,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios de combustibles",
             "issued": "2017-01-20T17:07:34.802629",
-            "modified": "2017-05-04T17:03:50.214735",
+            "modified": "2017-05-04T18:59:54.890949",
             "theme": [],
             "keyword": [
                 "Combustibles",
@@ -9942,6 +11226,18 @@
                     "downloadURL": "http://190.3.64.19/dataset/f0d16ab4-b45d-4069-80ba-6fa0ffe40ecb/resource/ecb7b469-bba9-4819-9adc-395a2f5e4d70/download/precios-de-venta-ant-2009.csv",
                     "issued": "2017-05-04T14:03:09.919893",
                     "identifier": "ecb7b469-bba9-4819-9adc-395a2f5e4d70"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/f0d16ab4-b45d-4069-80ba-6fa0ffe40ecb/resource/b0e5cd59-197e-46e5-b07b-34d020e87aff",
+                    "description": "",
+                    "title": "Precios en planta por canales de comercialización (2003-2012)",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:52:37.077117",
+                    "downloadURL": "http://190.3.64.19/dataset/f0d16ab4-b45d-4069-80ba-6fa0ffe40ecb/resource/b0e5cd59-197e-46e5-b07b-34d020e87aff/download/precios-en-planta-por-canales-de-comercializacin-2003-2012-.csv",
+                    "issued": "2017-05-04T15:52:37.203161",
+                    "identifier": "b0e5cd59-197e-46e5-b07b-34d020e87aff"
                 }
             ]
         },
@@ -10241,7 +11537,9 @@
             "title": "Precios en Surtidor - Resolución 314/2016",
             "issued": "2017-01-18T18:09:35.180560",
             "modified": "2017-05-04T16:37:01.244237",
-            "theme": [],
+            "theme": [
+                "comercializacion-de-los-hidrocarburos"
+            ],
             "keyword": [
                 "Combustibles",
                 "Precios",
@@ -10386,7 +11684,7 @@
             "license": "Creative Commons Attribution",
             "title": "Producción de gas",
             "issued": "2017-01-20T16:34:29.905951",
-            "modified": "2017-05-04T17:35:42.177792",
+            "modified": "2017-05-04T18:39:12.955831",
             "theme": [],
             "keyword": [
                 "Gas",
@@ -10461,6 +11759,30 @@
                     "downloadURL": "http://190.3.64.19/dataset/3c15b2eb-3a0f-4651-907f-4387945aa1b3/resource/97c5e1f1-e8f0-402d-a5ef-8ac73b871d12/download/gas-entregado-por-plantas.csv",
                     "issued": "2017-05-04T14:35:43.241566",
                     "identifier": "97c5e1f1-e8f0-402d-a5ef-8ac73b871d12"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/3c15b2eb-3a0f-4651-907f-4387945aa1b3/resource/8a03dd83-b8e5-40ed-a62e-1fc078b2589f",
+                    "description": "",
+                    "title": "Producción de gas por yacimiento",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:24:24.704667",
+                    "downloadURL": "http://190.3.64.19/dataset/3c15b2eb-3a0f-4651-907f-4387945aa1b3/resource/8a03dd83-b8e5-40ed-a62e-1fc078b2589f/download/produccin-de-gas-por-yacimiento.csv",
+                    "issued": "2017-05-04T15:24:24.832374",
+                    "identifier": "8a03dd83-b8e5-40ed-a62e-1fc078b2589f"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/3c15b2eb-3a0f-4651-907f-4387945aa1b3/resource/e48103c4-cefe-44cf-b3f4-da8050450683",
+                    "description": "",
+                    "title": "Gas entregado por plantas",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:27:01.874949",
+                    "downloadURL": "http://190.3.64.19/dataset/3c15b2eb-3a0f-4651-907f-4387945aa1b3/resource/e48103c4-cefe-44cf-b3f4-da8050450683/download/gas-entregado-por-plantas.csv",
+                    "issued": "2017-05-04T15:27:01.994541",
+                    "identifier": "e48103c4-cefe-44cf-b3f4-da8050450683"
                 }
             ]
         },
@@ -10538,7 +11860,7 @@
             "license": "Creative Commons Attribution",
             "title": "Producción de GLP por planta",
             "issued": "2017-01-20T16:34:27.432916",
-            "modified": "2017-05-04T14:44:58.597578",
+            "modified": "2017-05-04T18:23:58.533590",
             "theme": [],
             "keyword": [
                 "GLP",
@@ -10554,7 +11876,20 @@
                 "fn": ""
             },
             "identifier": "31f5df04-0028-46f1-8e98-b15948e0f206",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/31f5df04-0028-46f1-8e98-b15948e0f206/resource/cb2008a3-1ab5-401e-a2bc-49f30680e961",
+                    "description": "",
+                    "title": "Produccion de Productores de GLP por planta",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:09:40.133699",
+                    "downloadURL": "http://190.3.64.19/dataset/31f5df04-0028-46f1-8e98-b15948e0f206/resource/cb2008a3-1ab5-401e-a2bc-49f30680e961/download/produccion-de-productores-de-glp-por-planta.csv",
+                    "issued": "2017-05-04T15:09:40.287780",
+                    "identifier": "cb2008a3-1ab5-401e-a2bc-49f30680e961"
+                }
+            ]
         },
         {
             "publisher": {
@@ -10566,7 +11901,7 @@
             "license": "Creative Commons Attribution",
             "title": "Producción de petróleo",
             "issued": "2017-01-20T16:33:23.659119",
-            "modified": "2017-05-04T17:58:28.388365",
+            "modified": "2017-05-04T18:40:08.927523",
             "theme": [],
             "keyword": [],
             "superTheme": [
@@ -10697,6 +12032,18 @@
                     "downloadURL": "http://190.3.64.19/dataset/54e20b13-e946-4161-a5bc-b4497cbb6fe0/resource/e7857bde-110c-4498-81e8-7656e674f580/download/distribucin-de-petrleo-y-existencias-a-fin-de-mes-ant-2009.csv",
                     "issued": "2017-05-04T14:58:29.657258",
                     "identifier": "e7857bde-110c-4498-81e8-7656e674f580"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/54e20b13-e946-4161-a5bc-b4497cbb6fe0/resource/dac30e41-13b8-4916-8c92-cda2eaf03bc9",
+                    "description": "",
+                    "title": "Producción de petróleo por yacimiento",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:25:25.513327",
+                    "downloadURL": "http://190.3.64.19/dataset/54e20b13-e946-4161-a5bc-b4497cbb6fe0/resource/dac30e41-13b8-4916-8c92-cda2eaf03bc9/download/produccin-de-petrleo-por-yacimiento.csv",
+                    "issued": "2017-05-04T15:25:25.788340",
+                    "identifier": "dac30e41-13b8-4916-8c92-cda2eaf03bc9"
                 }
             ]
         },
@@ -10803,7 +12150,7 @@
             "license": "Creative Commons Attribution",
             "title": "Producción de petróleo y gas por pozo",
             "issued": "2017-01-20T16:34:31.665991",
-            "modified": "2017-05-04T18:02:12.375949",
+            "modified": "2017-05-04T18:50:57.715077",
             "theme": [],
             "keyword": [
                 "Gas",
@@ -10904,6 +12251,54 @@
                     "downloadURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/7b5328f4-0af5-45cc-a03b-54f194e7afbf/download/produccin-de-pozos-de-gas-y-petrleo-crdoba.csv",
                     "issued": "2017-05-04T15:02:13.361978",
                     "identifier": "7b5328f4-0af5-45cc-a03b-54f194e7afbf"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/30373427-4f1e-4763-a017-54d09062e850",
+                    "description": "",
+                    "title": "Producción de Pozos de Gas y Petróleo - Formosa",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:03:13.330942",
+                    "downloadURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/30373427-4f1e-4763-a017-54d09062e850/download/produccin-de-pozos-de-gas-y-petrleo-formosa.csv",
+                    "issued": "2017-05-04T15:03:17.537828",
+                    "identifier": "30373427-4f1e-4763-a017-54d09062e850"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/c41e6cda-b6dd-4de0-9acc-807d9ace3cd0",
+                    "description": "",
+                    "title": "Producción de Pozos de Gas y Petróleo - Neuquén",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:18:43.894055",
+                    "downloadURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/c41e6cda-b6dd-4de0-9acc-807d9ace3cd0/download/produccin-de-pozos-de-gas-y-petrleo-neuqun.csv",
+                    "issued": "2017-05-04T15:18:44.086447",
+                    "identifier": "c41e6cda-b6dd-4de0-9acc-807d9ace3cd0"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/5b4641a7-e01b-408e-aaac-312f0084a923",
+                    "description": "",
+                    "title": "Producción de Pozos de Gas y Petróleo - Jujuy",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:19:45.319332",
+                    "downloadURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/5b4641a7-e01b-408e-aaac-312f0084a923/download/produccin-de-pozos-de-gas-y-petrleo-jujuy.csv",
+                    "issued": "2017-05-04T15:19:47.082352",
+                    "identifier": "5b4641a7-e01b-408e-aaac-312f0084a923"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/992e1a7e-a6ef-4ac8-8351-378ea08041ef",
+                    "description": "",
+                    "title": "Producción de Pozos de Gas y Petróleo - Río Negro",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:22:07.087262",
+                    "downloadURL": "http://190.3.64.19/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/992e1a7e-a6ef-4ac8-8351-378ea08041ef/download/produccin-de-pozos-de-gas-y-petrleo-ro-negro.csv",
+                    "issued": "2017-05-04T15:22:07.274982",
+                    "identifier": "992e1a7e-a6ef-4ac8-8351-378ea08041ef"
                 }
             ]
         },
@@ -11257,7 +12652,7 @@
             "license": "Creative Commons Attribution",
             "title": "Pronóstico de producción de gas licuado",
             "issued": "2017-01-20T16:34:28.033219",
-            "modified": "2017-05-04T16:42:57.702893",
+            "modified": "2017-05-04T18:24:35.271611",
             "theme": [],
             "keyword": [
                 "GLP",
@@ -11309,6 +12704,18 @@
                     "downloadURL": "http://190.3.64.19/dataset/bae78d77-e8ff-466a-8c7d-2ac75d352d7b/resource/63be2341-f9d5-465b-aa12-0cf428774fc3/download/pronstico-de-produccin-de-gas-licuado-anterior-al-2009.csv",
                     "issued": "2017-05-04T13:42:02.376303",
                     "identifier": "63be2341-f9d5-465b-aa12-0cf428774fc3"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/bae78d77-e8ff-466a-8c7d-2ac75d352d7b/resource/b508b6ce-c816-4cd5-a331-73c1da24fa6f",
+                    "description": "",
+                    "title": "Pronóstico de producción de gas licuado",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:13:10.849678",
+                    "downloadURL": "http://190.3.64.19/dataset/bae78d77-e8ff-466a-8c7d-2ac75d352d7b/resource/b508b6ce-c816-4cd5-a331-73c1da24fa6f/download/pronstico-de-produccin-de-gas-licuado.csv",
+                    "issued": "2017-05-04T15:13:10.970613",
+                    "identifier": "b508b6ce-c816-4cd5-a331-73c1da24fa6f"
                 }
             ]
         },
@@ -11322,7 +12729,7 @@
             "license": "Creative Commons Attribution",
             "title": "Pronóstico de producción de gas natural",
             "issued": "2017-01-20T16:34:32.341102",
-            "modified": "2017-05-04T14:44:55.280577",
+            "modified": "2017-05-04T18:24:45.110928",
             "theme": [],
             "keyword": [
                 "Gas",
@@ -11338,7 +12745,20 @@
                 "fn": ""
             },
             "identifier": "42d08a0d-b6ea-42a2-912d-72cd034aea94",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/42d08a0d-b6ea-42a2-912d-72cd034aea94/resource/2b2d67fa-3b7c-4eec-bdcb-78bb57d9871d",
+                    "description": "",
+                    "title": "Pronóstico de producción de gas natural anterior al 2009",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:11:08.724010",
+                    "downloadURL": "http://190.3.64.19/dataset/42d08a0d-b6ea-42a2-912d-72cd034aea94/resource/2b2d67fa-3b7c-4eec-bdcb-78bb57d9871d/download/pronstico-de-produccin-de-gas-natural-anterior-al-2009.csv",
+                    "issued": "2017-05-04T15:11:08.932461",
+                    "identifier": "2b2d67fa-3b7c-4eec-bdcb-78bb57d9871d"
+                }
+            ]
         },
         {
             "publisher": {
@@ -11350,7 +12770,7 @@
             "license": "Creative Commons Attribution",
             "title": "Pronóstico de producción de petróleo",
             "issued": "2017-01-20T16:34:29.175073",
-            "modified": "2017-05-04T14:45:49.332579",
+            "modified": "2017-05-04T18:30:30.599702",
             "theme": [],
             "keyword": [
                 "Hidrocarburos",
@@ -11366,7 +12786,32 @@
                 "fn": ""
             },
             "identifier": "741882c4-4159-4a7c-89ad-92c41d98d680",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/741882c4-4159-4a7c-89ad-92c41d98d680/resource/3f55ee19-d191-4461-8780-64352c5d8a7c",
+                    "description": "",
+                    "title": "Pronóstico de producción de petróleo anterior al 2009",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:12:26.546198",
+                    "downloadURL": "http://190.3.64.19/dataset/741882c4-4159-4a7c-89ad-92c41d98d680/resource/3f55ee19-d191-4461-8780-64352c5d8a7c/download/pronstico-de-produccin-de-petrleo-anterior-al-2009.csv",
+                    "issued": "2017-05-04T15:12:26.740869",
+                    "identifier": "3f55ee19-d191-4461-8780-64352c5d8a7c"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/741882c4-4159-4a7c-89ad-92c41d98d680/resource/b8ac66ae-3d7c-4d5b-9133-dd42dc079179",
+                    "description": "",
+                    "title": "Pronóstico de producción de petróleo",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:23:34.661617",
+                    "downloadURL": "http://190.3.64.19/dataset/741882c4-4159-4a7c-89ad-92c41d98d680/resource/b8ac66ae-3d7c-4d5b-9133-dd42dc079179/download/pronstico-de-produccin-de-petrleo.csv",
+                    "issued": "2017-05-04T15:23:35.024046",
+                    "identifier": "b8ac66ae-3d7c-4d5b-9133-dd42dc079179"
+                }
+            ]
         },
         {
             "publisher": {
@@ -11418,7 +12863,7 @@
             "license": "Creative Commons Attribution",
             "title": "PRONUREE alumbrado público",
             "issued": "2017-01-20T16:34:31.048912",
-            "modified": "2017-05-04T14:45:50.125033",
+            "modified": "2017-05-04T18:57:11.736119",
             "theme": [],
             "keyword": [
                 "Alumbrado público",
@@ -11432,7 +12877,20 @@
                 "fn": ""
             },
             "identifier": "0dacea79-16f5-4a55-bfb3-18c12e7746db",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/0dacea79-16f5-4a55-bfb3-18c12e7746db/resource/4f438494-357c-4b36-855e-9c31e421cb9e",
+                    "description": "",
+                    "title": "Resúmen de Recambio de Luminarias por Municipio",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:57:11.703369",
+                    "downloadURL": "http://190.3.64.19/dataset/0dacea79-16f5-4a55-bfb3-18c12e7746db/resource/4f438494-357c-4b36-855e-9c31e421cb9e/download/resmen-de-recambio-de-luminarias-por-municipio.csv",
+                    "issued": "2017-05-04T15:57:11.792135",
+                    "identifier": "4f438494-357c-4b36-855e-9c31e421cb9e"
+                }
+            ]
         },
         {
             "publisher": {
@@ -11687,7 +13145,7 @@
             "license": "Creative Commons Attribution",
             "title": "Redes de distribución eléctrica del Consejo Federal",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T17:53:24.516111",
+            "modified": "2017-05-04T18:25:24.622783",
             "theme": [],
             "keyword": [
                 "Consejo Federal",
@@ -11774,6 +13232,30 @@
                     "downloadURL": "http://190.3.64.19/dataset/ff99e7be-7bab-4617-9588-9a74ae046a40/resource/33d13995-c19a-4413-9913-c6b264c5e614/download/-corrientes-alta-tensin-media-tensin-lneas.zip",
                     "issued": "2017-05-04T14:53:25.733326",
                     "identifier": "33d13995-c19a-4413-9913-c6b264c5e614"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ff99e7be-7bab-4617-9588-9a74ae046a40/resource/933bf332-c615-46fe-b14d-2a086df3fdce",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "- Entre Ríos - Media Tensión Líneas",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:19:05.694847",
+                    "downloadURL": "http://190.3.64.19/dataset/ff99e7be-7bab-4617-9588-9a74ae046a40/resource/933bf332-c615-46fe-b14d-2a086df3fdce/download/-entre-ros-media-tensin-lneas.zip",
+                    "issued": "2017-05-04T15:19:06.038375",
+                    "identifier": "933bf332-c615-46fe-b14d-2a086df3fdce"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/ff99e7be-7bab-4617-9588-9a74ae046a40/resource/9b451d38-f808-454b-9624-aa8473a1e88b",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "- Formosa - Media Tensión Líneas",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:25:24.499879",
+                    "downloadURL": "http://190.3.64.19/dataset/ff99e7be-7bab-4617-9588-9a74ae046a40/resource/9b451d38-f808-454b-9624-aa8473a1e88b/download/-formosa-media-tensin-lneas.zip",
+                    "issued": "2017-05-04T15:25:24.960685",
+                    "identifier": "9b451d38-f808-454b-9624-aa8473a1e88b"
                 }
             ]
         },
@@ -12111,7 +13593,7 @@
             "license": "Creative Commons Attribution",
             "title": "Registro de empresas de hidrocarburos del upstream",
             "issued": "2017-01-20T16:33:21.697424",
-            "modified": "2017-05-04T18:00:48.375858",
+            "modified": "2017-05-04T18:15:04.709647",
             "theme": [],
             "keyword": [
                 "Empresas",
@@ -12277,7 +13759,7 @@
             "license": "Creative Commons Attribution",
             "title": "Padrón de operadores autorizados para la venta de combustibles líquidos",
             "issued": "2017-01-20T16:34:30.488389",
-            "modified": "2017-05-04T14:45:49.921916",
+            "modified": "2017-05-04T18:58:51.130748",
             "theme": [],
             "keyword": [],
             "superTheme": [
@@ -12288,7 +13770,20 @@
                 "fn": ""
             },
             "identifier": "21a54fa2-539d-4570-b1cd-679d54229d2f",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/21a54fa2-539d-4570-b1cd-679d54229d2f/resource/7bfcd98d-06d8-4935-bbb7-98524e8bdb10",
+                    "description": "",
+                    "title": "Padrón de Operadores Autorizados",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:56:40.129342",
+                    "downloadURL": "http://190.3.64.19/dataset/21a54fa2-539d-4570-b1cd-679d54229d2f/resource/7bfcd98d-06d8-4935-bbb7-98524e8bdb10/download/padrn-de-operadores-autorizados.csv",
+                    "issued": "2017-05-04T15:56:40.223734",
+                    "identifier": "7bfcd98d-06d8-4935-bbb7-98524e8bdb10"
+                }
+            ]
         },
         {
             "publisher": {
@@ -12300,7 +13795,7 @@
             "license": "Creative Commons Attribution",
             "title": "Reservas de gas",
             "issued": "2017-01-20T16:34:37.982398",
-            "modified": "2017-05-04T14:45:54.598473",
+            "modified": "2017-05-04T18:24:48.794444",
             "theme": [],
             "keyword": [
                 "Gas",
@@ -12314,7 +13809,20 @@
                 "fn": ""
             },
             "identifier": "38ed16d6-a044-4076-8ea9-669ed267463d",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/38ed16d6-a044-4076-8ea9-669ed267463d/resource/448611f7-7eb8-4d16-a914-c3ead9e6123d",
+                    "description": "",
+                    "title": "Reservas de gas anterior al 2009",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:12:01.745609",
+                    "downloadURL": "http://190.3.64.19/dataset/38ed16d6-a044-4076-8ea9-669ed267463d/resource/448611f7-7eb8-4d16-a914-c3ead9e6123d/download/reservas-de-gas-anterior-al-2009.csv",
+                    "issued": "2017-05-04T15:12:02.800313",
+                    "identifier": "448611f7-7eb8-4d16-a914-c3ead9e6123d"
+                }
+            ]
         },
         {
             "publisher": {
@@ -13086,7 +14594,7 @@
             "license": "Creative Commons Attribution",
             "title": "Ventas de combustibles líquidos terminales",
             "issued": "2017-01-20T16:39:17.528048",
-            "modified": "2017-05-04T14:45:57.685070",
+            "modified": "2017-05-04T18:51:47.457885",
             "theme": [],
             "keyword": [
                 "Combustibles",
@@ -13101,7 +14609,20 @@
                 "fn": ""
             },
             "identifier": "d086e6c8-237f-46cd-a1a5-1d4fadaffb33",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/d086e6c8-237f-46cd-a1a5-1d4fadaffb33/resource/841447d6-cb18-484d-9106-4ee779bd6a66",
+                    "description": "",
+                    "title": "Resolución 1834 - Movimientos realizados",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-04T15:49:43.833674",
+                    "downloadURL": "http://190.3.64.19/dataset/d086e6c8-237f-46cd-a1a5-1d4fadaffb33/resource/841447d6-cb18-484d-9106-4ee779bd6a66/download/resolucin-1834-movimientos-realizados.csv",
+                    "issued": "2017-05-04T15:49:43.927949",
+                    "identifier": "841447d6-cb18-484d-9106-4ee779bd6a66"
+                }
+            ]
         },
         {
             "publisher": {
@@ -13113,7 +14634,7 @@
             "license": "Creative Commons Attribution",
             "title": "Ventas GLP",
             "issued": "2017-01-20T16:34:33.853590",
-            "modified": "2017-05-04T17:52:28.052924",
+            "modified": "2017-05-04T18:03:49.291627",
             "theme": [],
             "keyword": [
                 "GLP",
