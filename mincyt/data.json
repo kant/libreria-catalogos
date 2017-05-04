@@ -7,6 +7,39 @@
                 "@type": "org:Organization",
                 "name": "Dirección Nacional de Programas y Proyectos"
             },
+            "description": "Equipamiento científico-tecnológico registrado en Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino adheridas al Programa de Grandes Instrumentos y Bases de Datos (Argentina, 2016). Registro Nacional de Instituciones de Ciencia, Tecnología e Innovación",
+            "language": [
+                "[\"spa\"]"
+            ],
+            "title": "Equipamiento científico-tecnológico",
+            "distribution": [
+                {
+                    "downloadURL": "http://datosdesa.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/1ec32c8e-6931-4f24-a2de-063097338621/download/equipos-sistemas-nacionales.csv",
+                    "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
+                    "title": "Equipamiento científico-tecnológico según tipo de institución y provincia",
+                    "@type": "dcat:Distribution",
+                    "format": "CSV"
+                },
+                {
+                    "downloadURL": "http://datosdesa.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/84147f97-2f89-46af-b732-647e322f5959/download/equipos-sistemas-nacionales.json",
+                    "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
+                    "title": "Equipamiento científico-tecnológico según tipo de institución y provincia",
+                    "@type": "dcat:Distribution",
+                    "format": "JSON"
+                }
+            ],
+            "modified": "2017-05-04T19:01:58.662219",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            },
+            "accessLevel": "public",
+            "@type": "dcat:Dataset"
+        },
+        {
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dirección Nacional de Programas y Proyectos"
+            },
             "description": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino adheridas al Registro CVar (Argentina, 2016)",
             "language": [
                 "[\"spa\"]"
@@ -14,14 +47,21 @@
             "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino",
             "distribution": [
                 {
-                    "downloadURL": "http://datosdesa.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/b2d2e501-5c3e-44ac-9ea7-36b2fbbbfb1b/download/inst-set-4.js",
+                    "downloadURL": "http://datosdesa.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/763fd787-8b0a-4b52-8700-1c983c195982/download/personal-instituciones.csv",
+                    "description": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución, provincia de localización, tipo de RRHH que se desempeña en ellas, máximo nivel educativo alcanzado y disciplina de experticia de sus RRHH",
+                    "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución y provincia",
+                    "@type": "dcat:Distribution",
+                    "format": "CSV"
+                },
+                {
+                    "downloadURL": "http://datosdesa.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/7b15c7ce-a065-477b-af6d-414c5293819d/download/personal-instituciones.json",
                     "description": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución, provincia de localización, tipo de RRHH que se desempeña en ellas, máximo nivel educativo alcanzado y disciplina de experticia de sus RRHH",
                     "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución y provincia",
                     "@type": "dcat:Distribution",
                     "format": "JSON"
                 }
             ],
-            "modified": "2017-05-04T18:58:20.650933",
+            "modified": "2017-05-04T18:59:59.618729",
             "contactPoint": {
                 "@type": "vcard:Contact"
             },
@@ -114,39 +154,6 @@
                 }
             ],
             "modified": "2017-05-04T17:55:29.838426",
-            "contactPoint": {
-                "@type": "vcard:Contact"
-            },
-            "accessLevel": "public",
-            "@type": "dcat:Dataset"
-        },
-        {
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Dirección Nacional de Programas y Proyectos"
-            },
-            "description": "Equipamiento científico-tecnológico registrado en Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino adheridas al Programa de Grandes Instrumentos y Bases de Datos (Argentina, 2016). Registro Nacional de Instituciones de Ciencia, Tecnología e Innovación",
-            "language": [
-                "[\"spa\"]"
-            ],
-            "title": "Equipamiento científico-tecnológico",
-            "distribution": [
-                {
-                    "downloadURL": "http://192.168.120.143/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/c21cbf1e-a4da-45db-a8ec-2dc5a11e7d5c/download/equi-set-3.csv",
-                    "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
-                    "title": "Equipamiento científico-tecnológico según tipo de institución y provincia",
-                    "@type": "dcat:Distribution",
-                    "format": "CSV"
-                },
-                {
-                    "downloadURL": "http://192.168.120.143/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/2450aab8-93dc-4d19-8255-dceef1654997/download/equi-set-3.js",
-                    "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
-                    "title": "Equipamiento científico-tecnológico según tipo de institución y provincia",
-                    "@type": "dcat:Distribution",
-                    "format": "JSON"
-                }
-            ],
-            "modified": "2016-11-17T19:40:24.063155",
             "contactPoint": {
                 "@type": "vcard:Contact"
             },
