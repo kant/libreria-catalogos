@@ -1,20 +1,20 @@
 
-# Catálogo: Datos Justicia Argentina
+# Catálogo: DatosMINEM
 
 ## Información General
 
-- **Autor**: Datos Justicia Argentina
-- **Correo Electrónico**: justiciaabierta@jus.gob.ar
-- **Nombre del catálogo**: Datos Justicia Argentina
+- **Autor**: DatosMINEM
+- **Correo Electrónico**: gcastineiras@minem.gob.ar
+- **Nombre del catálogo**: DatosMINEM
 - **Descripción**:
 
-> Portal de Datos de Justicia de la República Argentina
+> Iniciativa de apertura de datos del Ministerio de Energíy MineríOB
 
 ## Estado de los metadatos y cantidad de recursos
 
 Estado metadatos globales | Estado metadatos catálogo | # de Datasets | # de Distribuciones
 --------------------------|---------------------------|---------------|--------------------
-ERROR | OK | 20 | 95
+ERROR | OK | 199 | 1571
 
 ## Datasets incluidos
 
