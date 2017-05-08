@@ -1,0 +1,297 @@
+{
+    "publisher": {
+        "mbox": "ciencia.abierta@mincyt.gob.ar",
+        "name": "Datos de la Ciencia y la Tecnología Argentina"
+    },
+    "description": "Encontrá datos abiertos sobre ciencia y tecnología argentina disponibles para descargar y usa",
+    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
+    "title": "Datos de la Ciencia y la Tecnología Argentina",
+    "dataset": [
+        {
+            "publisher": {
+                "mbox": "contactosicytar@mincyt.gob.ar",
+                "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)"
+            },
+            "landingPage": "http://www.sicytar.mincyt.gob.ar",
+            "description": "Empresas de ejecución de proyectos financiados por la Agencia Nacional de Promoción Científica y Tecnológica (Argentina, 2001-2016). Registro Nacional de Proyectos de Investigación, Desarrollo e Innovación",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación",
+            "issued": "2016-11-17T15:06:07.216839",
+            "modified": "2017-05-08T17:40:08.228213",
+            "theme": [
+                "donde",
+                "que",
+                "que-t-i"
+            ],
+            "keyword": [
+                "Empresas",
+                "Proyectos"
+            ],
+            "contactPoint": {
+                "hasEmail": "",
+                "fn": ""
+            },
+            "identifier": "6f44589b-5dc5-4585-abf2-98b759e406bf",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/dataset/6f44589b-5dc5-4585-abf2-98b759e406bf/resource/7bc7d092-a5ed-48ad-b7b0-3c626de64ed8",
+                    "description": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación según cantidad de proyectos, tipo de proyectos, provincia argentina y fecha de inicio de proyectos",
+                    "title": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación por provincia",
+                    "byteSize": null,
+                    "format": "JSON",
+                    "mediaType": null,
+                    "modified": "2017-05-05T22:08:04.309927",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/6f44589b-5dc5-4585-abf2-98b759e406bf/resource/7bc7d092-a5ed-48ad-b7b0-3c626de64ed8/download/empresas-ejecutoras-proyectos.json",
+                    "issued": "2017-05-04T17:55:29.883894",
+                    "identifier": "7bc7d092-a5ed-48ad-b7b0-3c626de64ed8"
+                },
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/dataset/6f44589b-5dc5-4585-abf2-98b759e406bf/resource/5eb1aa5e-4a9d-4cc6-8ca3-517d5448830f",
+                    "description": "Empresas de ejecución de proyectos financiados por la Agencia Nacional de Promoción Científica y Tecnológica (Argentina, 2001-2016). Registro Nacional de Proyectos de Investigación, Desarrollo e Innovación",
+                    "title": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación por provincia",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-08T17:40:08.203403",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/6f44589b-5dc5-4585-abf2-98b759e406bf/resource/5eb1aa5e-4a9d-4cc6-8ca3-517d5448830f/download/empresas-ejecutoras-proyectos.csv",
+                    "issued": "2017-05-05T21:57:04.306660",
+                    "identifier": "5eb1aa5e-4a9d-4cc6-8ca3-517d5448830f"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "contactosicytar@mincyt.gob.ar",
+                "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)"
+            },
+            "landingPage": "http://sistemasnacionales.mincyt.gob.ar/",
+            "description": "Equipamiento científico-tecnológico registrado en Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino adheridas al Programa de Grandes Instrumentos y Bases de Datos (Argentina, 2016). Registro Nacional de Instituciones de Ciencia, Tecnología e Innovación",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Equipamiento científico-tecnológico",
+            "issued": "2016-11-17T15:14:19.897373",
+            "modified": "2017-05-08T19:23:02.481701",
+            "theme": [
+                "con-que"
+            ],
+            "keyword": [
+                "Equipamiento",
+                "Instituciones"
+            ],
+            "contactPoint": {
+                "hasEmail": "",
+                "fn": ""
+            },
+            "identifier": "bd660ae2-98ce-4f0f-8e90-127319cbe175",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/1ec32c8e-6931-4f24-a2de-063097338621",
+                    "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
+                    "title": "Equipamiento científico-tecnológico según tipo de institución y provincia",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-08T19:22:32.173775",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/1ec32c8e-6931-4f24-a2de-063097338621/download/equipos-sistemas-nacionales.csv",
+                    "issued": "2017-05-04T19:01:22.795827",
+                    "identifier": "1ec32c8e-6931-4f24-a2de-063097338621"
+                },
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/84147f97-2f89-46af-b732-647e322f5959",
+                    "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
+                    "title": "Equipamiento científico-tecnológico según tipo de institución y provincia",
+                    "byteSize": null,
+                    "format": "JSON",
+                    "mediaType": null,
+                    "modified": "2017-05-08T19:23:02.450342",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/84147f97-2f89-46af-b732-647e322f5959/download/equipos-sistemas-nacionales.json",
+                    "issued": "2017-05-04T19:01:58.701429",
+                    "identifier": "84147f97-2f89-46af-b732-647e322f5959"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "contactosicytar@mincyt.gob.ar",
+                "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)"
+            },
+            "landingPage": "http://www.sicytar.mincyt.gob.ar/",
+            "description": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino adheridas al Registro CVar (Argentina, 2016)",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino",
+            "issued": "2016-11-17T15:20:43.441584",
+            "modified": "2017-05-08T19:53:56.933672",
+            "theme": [
+                "donde"
+            ],
+            "keyword": [
+                "Ciencia",
+                "Innovación",
+                "Instituciones",
+                "Tecnología"
+            ],
+            "contactPoint": {
+                "hasEmail": "",
+                "fn": ""
+            },
+            "identifier": "2a9cef3e-2ba9-45a0-a02c-a988d7021c41",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/763fd787-8b0a-4b52-8700-1c983c195982",
+                    "description": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución, provincia de localización, tipo de RRHH que se desempeña en ellas, máximo nivel educativo alcanzado y disciplina de experticia de sus RRHH",
+                    "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución y provincia",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-08T19:53:56.909140",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/763fd787-8b0a-4b52-8700-1c983c195982/download/personal-instituciones.csv",
+                    "issued": "2017-05-04T18:58:55.845266",
+                    "identifier": "763fd787-8b0a-4b52-8700-1c983c195982"
+                },
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/7b15c7ce-a065-477b-af6d-414c5293819d",
+                    "description": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución, provincia de localización, tipo de RRHH que se desempeña en ellas, máximo nivel educativo alcanzado y disciplina de experticia de sus RRHH",
+                    "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución y provincia",
+                    "byteSize": null,
+                    "format": "JSON",
+                    "mediaType": null,
+                    "modified": "2017-05-05T22:21:03.245593",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/7b15c7ce-a065-477b-af6d-414c5293819d/download/personal-instituciones.json",
+                    "issued": "2017-05-04T18:59:59.664181",
+                    "identifier": "7b15c7ce-a065-477b-af6d-414c5293819d"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "contactosicytar@mincyt.gob.ar",
+                "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)"
+            },
+            "landingPage": "http://www.sicytar.mincyt.gob.ar/",
+            "description": "Registro Nacional de Proyectos de Investigación, Desarrollo e Innovación (Argentina, 2001-2016)",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Proyectos de ciencia, tecnología e innovación",
+            "issued": "2016-11-17T14:21:20.395887",
+            "modified": "2017-05-08T17:52:00.813741",
+            "theme": [
+                "que",
+                "que-t-i"
+            ],
+            "keyword": [
+                "Ciencia",
+                "Innovación",
+                "Proyectos",
+                "Tecnología"
+            ],
+            "contactPoint": {
+                "hasEmail": "",
+                "fn": ""
+            },
+            "identifier": "5e62bdac-52d9-4e66-ac6b-aa47dd219aa3",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/641981b3-2ec4-402b-88ca-117f56500332",
+                    "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
+                    "title": "Proyectos de Ciencia Tecnología e Innovación",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-08T17:50:55.081794",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/641981b3-2ec4-402b-88ca-117f56500332/download/proyectos-cyt.csv",
+                    "issued": "2017-05-05T20:52:52.564172",
+                    "identifier": "641981b3-2ec4-402b-88ca-117f56500332"
+                },
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0",
+                    "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
+                    "title": "Proyectos de Ciencia Tecnología e Innovación",
+                    "byteSize": null,
+                    "format": "JSON",
+                    "mediaType": null,
+                    "modified": "2017-05-08T17:52:00.394712",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0/download/proyectos-cyt.json",
+                    "issued": "2017-05-05T20:53:21.804050",
+                    "identifier": "cea2d395-167e-4f31-b692-cb05100be5b0"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "contactosicytar@mincyt.gob.ar",
+                "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)"
+            },
+            "landingPage": "http://www.sicytar.mincyt.gob.ar/",
+            "description": "Registro Unificado y Normalizado a nivel nacional de los Datos Curriculares del personal científico y tecnológico que se desempeña en las instituciones argentinas (Registro CVar) (Argentina, 2016)",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Recursos humanos en ciencia y tecnología",
+            "issued": "2016-11-17T15:49:05.436771",
+            "modified": "2017-05-08T17:56:14.963874",
+            "theme": [
+                "quien"
+            ],
+            "keyword": [
+                "Ciencia",
+                "Innovación",
+                "RRHH",
+                "Tecnología"
+            ],
+            "contactPoint": {
+                "hasEmail": "",
+                "fn": ""
+            },
+            "identifier": "0c8285cb-ecec-410c-accc-5261718b459d",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/93b23e91-ba14-4146-8368-6a50b62b1890",
+                    "description": "Recursos humanos en Ciencia y Tecnología por provincia, máximo nivel educativo alcanzado, género, rangos de edad, tipo de personal de I+D y gran área del conocimiento de la formación de grado, tipo de institución de trabajo, categoría en CONICET y categoría en el Programa de Incentivos a los Docentes Investigadores",
+                    "title": "Recursos humanos en Ciencia y Tecnología",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-08T17:56:14.935625",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/93b23e91-ba14-4146-8368-6a50b62b1890/download/recursos-humanos-cyt.csv",
+                    "issued": "2017-05-05T20:50:45.909585",
+                    "identifier": "93b23e91-ba14-4146-8368-6a50b62b1890"
+                },
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/b57a401f-7a6a-49d0-af05-d9aae3c97e14",
+                    "description": "Recursos humanos en Ciencia y Tecnología por provincia, máximo nivel educativo alcanzado, género, rangos de edad, tipo de personal de I+D y gran área del conocimiento de la formación de grado, tipo de institución de trabajo, categoría en CONICET y categoría en el Programa de Incentivos a los Docentes Investigadores",
+                    "title": "Recursos humanos en Ciencia y Tecnología",
+                    "byteSize": null,
+                    "format": "JSON",
+                    "mediaType": null,
+                    "modified": "2017-05-05T22:22:59.686845",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/b57a401f-7a6a-49d0-af05-d9aae3c97e14/download/recursos-humanos-cyt.json",
+                    "issued": "2017-05-05T20:51:14.171465",
+                    "identifier": "b57a401f-7a6a-49d0-af05-d9aae3c97e14"
+                }
+            ]
+        }
+    ],
+    "themeTaxonomy": [
+        {
+            "description": "",
+            "id": "con-que",
+            "label": "Equipamiento científico-tecnológico"
+        },
+        {
+            "description": "",
+            "id": "donde",
+            "label": "Instituciones científico-tecnológicas"
+        },
+        {
+            "description": "",
+            "id": "que",
+            "label": "Proyectos científicos"
+        },
+        {
+            "description": "",
+            "id": "que-t-i",
+            "label": "Proyectos tecnológicos"
+        },
+        {
+            "description": "",
+            "id": "quien",
+            "label": "Personal científico-tecnológico"
+        }
+    ]
+}
