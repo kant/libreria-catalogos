@@ -35,11 +35,11 @@ transporte-ckan:
   formato: "ckan"
 
 mincyt:
-  url: "http://datosdesa.mincyt.gob.ar/datasets/data.json"
+  url: "http://datos.mincyt.gob.ar/datasets/data.json"
   formato: "json"
 
 mincyt-ckan:
-  url: "http://datosdesa.mincyt.gob.ar/datasets"
+  url: "http://datos.mincyt.gob.ar/datasets"
   formato: "ckan"
 
 energia:
