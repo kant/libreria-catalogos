@@ -22,13 +22,13 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 20,Centrales Eléctricas,b036f967-a78a-49c7-950c-7cb29625080d,OK,0,1
 21,Central Nuclear Atucha,c5e0ffdd-29ba-4a62-b69e-efb0af059e94,OK,0,1
 22,Central Nuclear Embalse,1baf09f3-11fe-416f-a4d8-178bd421db65,OK,0,1
-23,Certificados de importación según régimen de inversiones mineras,022eb3e3-e2ff-47e9-a770-7d54f6bcbefa,OK,0,2
+23,Certificados de importación según régimen de inversiones mineras,022eb3e3-e2ff-47e9-a770-7d54f6bcbefa,OK,0,1
 24,Comercialización de combustibles,2b673b14-f585-4c15-a425-a3f5f9cda5d3,OK,0,7
 25,Comercialización Hidrocarburos Combustibles Líquidos,669615be-17f4-41ad-9aad-4c438cb974f9,OK,0,4
 26,Comercialización Hidrocarburos Combustibles Líquidos Aeroplantas,4adf2cf0-621c-49e6-8434-9d787765d9ea,OK,0,3
 27,Comercialización Hidrocarburos Combustibles Líquidos Terminales de Despacho,99ba34a0-08f2-48e3-8d37-4d92542f740e,OK,0,3
 28,Comercialización Hidrocarburos GLP Depósitos,315cbe4f-0de0-426a-90c7-8ca7533d4fac,OK,0,4
-29,Comercialización Hidrocarburos GLP Plantas Fraccionadoras,075c393d-5ad1-4cb0-a653-e953c313796d,OK,0,4
+29,Comercialización Hidrocarburos GLP Plantas Fraccionadoras,075c393d-5ad1-4cb0-a653-e953c313796d,OK,0,2
 30,Compras GLP,bada5328-3e7d-47b7-8fdc-85dbe2bc748e,OK,0,16
 31,Conceptos sobre Energía,81be8f1b-bcfa-4650-a8c8-d95885e23335,OK,0,1
 32,Conceptos sobre Hidrocarburos,88d29723-5f35-4949-8bd2-d15661ab2f5e,OK,0,1
@@ -38,7 +38,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 36,Cuadros Tarifarios Eléctricos,fca32aa8-ace4-4da6-9a2f-c8ea9119ac9a,ERROR,1,46
 37,Detección Satelital de Venteos,7ef45681-a7de-440c-a343-b7d989261b58,ERROR,1,61
 38,Disponibilidad de petróleo a fin de mes,65101748-c98b-47f1-bf35-c282ba7b492a,OK,0,3
-39,Distribución de petróleo,1de93a11-047b-4665-93b7-f2927fc50f89,OK,0,5
+39,Distribución de petróleo,1de93a11-047b-4665-93b7-f2927fc50f89,OK,0,3
 40,Distribución Eléctrica Apelp La Pampa MT Líneas,69feceec-2e8c-4baf-af45-dd00b202aca6,OK,0,4
 41,Distribución Eléctrica Áreas de Distribución de Cooperativas,edefded9-3329-468a-9c56-bc377a703200,OK,0,4
 42,Distribución Eléctrica Concesiones de Empresas Distribuidoras,96d78704-874e-44eb-920b-2a13f346622c,OK,0,4
@@ -51,7 +51,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 49,Energías Renovables Plantas Biocombustibles,eccce607-f934-4e93-a40b-1cca44fd6cd6,OK,0,4
 50,Plantas Productoras de Aceite Vegetal,bc71d6c7-677b-4fcd-807b-882747339fbf,OK,0,4
 51,Energías Renovables Puntos de Interés Geotérmico,aaea4a47-34d3-4528-98ab-8cb33483eef9,OK,0,4
-52,Energías Renovables Radiación Solar Incidente,292d47b8-07f7-4acc-b37f-2544ee8c89b4,OK,0,49
+52,Energías Renovables Radiación Solar Incidente,292d47b8-07f7-4acc-b37f-2544ee8c89b4,OK,0,46
 53,Refinerías de Aceite Vegetal,ab6c7e10-1b43-4e6f-a833-0adb996b0814,OK,0,4
 54,Escenarios Energéticos,9e2a8087-1b49-446a-8e86-712b476122fb,ERROR,1,1
 55,Estadísticas de biodiesel y bioetanol,5ce77ad1-c729-42cd-a8b5-2407de005e5b,OK,0,6
@@ -59,10 +59,10 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 57,Evaluación de Formaciones en la Argentina,2bd8b9fe-63c6-4fa0-85d6-bab880b0e137,OK,0,1
 58,Evolución de la Demanda Eléctrica de Grandes Usuarios,7dac6812-021a-4a2f-a1c5-922fd4b8ae8b,OK,0,4
 59,Exploración Hidrocarburos Cuencas Sedimentarias,0d4a18ee-9371-439a-8a94-4f53a9822664,OK,0,2
-60,Exploración Hidrocarburos Lineas Sísmicas 2D,071b7a3e-0a34-426c-a605-d24e7bdef9a3,OK,0,5
+60,Exploración Hidrocarburos Lineas Sísmicas 2D,071b7a3e-0a34-426c-a605-d24e7bdef9a3,OK,0,2
 61,Exploración Hidrocarburos Permisos de Exploración,66044d22-6657-47d1-b0bb-ecc7c1d37a44,OK,0,4
-62,Exploración Hidrocarburos Sísmicas 3D,11540156-6454-47c8-9748-c8f8705f62c0,OK,0,4
-63,Exportaciones minerales y derivados por provincia,0f1182d4-28a0-4ae3-85a4-cf806a59a8b7,OK,0,2
+62,Exploración Hidrocarburos Sísmicas 3D,11540156-6454-47c8-9748-c8f8705f62c0,OK,0,2
+63,Exportaciones minerales y derivados por provincia,0f1182d4-28a0-4ae3-85a4-cf806a59a8b7,OK,0,1
 64,Exportaciones mineras por rubro,dea26f6a-a016-40aa-87eb-09f624c240fa,OK,0,2
 65,Facturación de Energía Eléctrica en MWh (1970-2012),deba83e1-21aa-4efd-8545-7412c5387cbf,ERROR,3,1
 66,Gas Entregado a Grandes Usuarios por Distribuidora,4923ff1e-f3db-4664-be56-4fde6bc3eb61,OK,0,1
@@ -77,16 +77,16 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 75,Geología Climatología Curvas de Nivel IGN,915c306b-e1c4-42e1-ae10-bc1285e7e72c,OK,0,6
 76,Geología Climatología Isobatas,2dddc76d-1b55-4076-883a-cbc38546b9d2,OK,0,4
 77,Geología Climatología Yacimientos Minerales,ac7f614e-622e-43d1-b480-7af68ef9d881,OK,0,4
-78,GLP: Área de Influencia de Depósitos,1684cdae-01b8-4987-abe9-532c2ef2b94a,OK,0,5
+78,GLP: Área de Influencia de Depósitos,1684cdae-01b8-4987-abe9-532c2ef2b94a,OK,0,2
 79,GLP: Distancia Areas Urbanas a Depósitos y Fraccionadoras,b2b9f9b2-0282-4c84-b815-a2366326f92f,OK,0,2
 80,GLP - Paridad de Exportación de referencia,c604f147-913a-45c7-9ae7-c403a70ff970,OK,0,1
 81,Historia del Alumbrado,e785b4af-59eb-4969-a393-522098479571,OK,0,1
-82,Importaciones en el marco del régimen de inversiones mineras,0b2c26b8-7919-4ac6-8ffe-7f911b26fe58,OK,0,2
+82,Importaciones en el marco del régimen de inversiones mineras,0b2c26b8-7919-4ac6-8ffe-7f911b26fe58,OK,0,1
 83,Importaciones mineras por rubro,847259dd-c788-463d-ac89-edad029dd767,ERROR,2,0
 84,Impuestos sobre las tarifas eléctricas a usuario final de Cooperativas Eléctricas de Bs. As,b73a7255-b413-4a9f-a7b0-0db70782583a,OK,0,1
 85,Impuestos y Subsidios sobre Tarifas Eléctricas a Usuario Final,baba3db6-7438-46b3-a02f-7ee80e9e9a8b,OK,0,2
-86,Información Socioeconómica Áreas Urbanas Según Calles OSM,0761fc22-bb12-4b6b-8d87-c71ce3e52e02,OK,0,5
-87,Información Socioeconómica Asentamientos y Villas ONG Techo,1c58835a-4590-41e1-9ba2-5a41fd6da0d1,OK,0,4
+86,Información Socioeconómica Áreas Urbanas Según Calles OSM,0761fc22-bb12-4b6b-8d87-c71ce3e52e02,OK,0,2
+87,Información Socioeconómica Asentamientos y Villas ONG Techo,1c58835a-4590-41e1-9ba2-5a41fd6da0d1,OK,0,2
 88,Información Socioeconómica Asentamientos y Villas Wikimapia,8eba1cb4-37d4-4533-8f34-a8e48c2fe1af,OK,0,4
 89,Información Socioeconómica Ejidos Urbanos,bfbe9495-7ec1-4198-9c93-8da043582481,OK,0,4
 90,Información Socioeconómica INDEC Radios Censales,8ca540f9-434b-40f1-8a2f-6e22cdb26503,OK,0,97
@@ -98,7 +98,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 96,Informes Estadísticos del Sector Eléctrico (Quinquenales y Decenales),2d788688-1a20-4595-841d-4786cf3595e8,ERROR,2,5
 97,Informe Trimestral de Coyuntura Energética,82496485-c054-4623-be52-fb2bdec9b587,ERROR,1,4
 98,Instalaciones Hidrocarburos Ductos Res. 319 93,84681f81-dbbb-49eb-be30-e61778736ad9,OK,0,3
-99,Instalaciones Hidrocarburos Instalaciones Res.318,164e7197-3222-4d21-81df-9db30ccd3940,OK,0,4
+99,Instalaciones Hidrocarburos Instalaciones Res.318,164e7197-3222-4d21-81df-9db30ccd3940,OK,0,2
 100,Instalaciones Hidrocarburos Instalaciones Res.319 93 (P. Característicos),e5c525ff-6dbd-4e1e-a52e-14e9d742c4f1,OK,0,4
 101,Instalaciones Hidrocarburos Puertos Regasificadores de GNL,bf7914d6-1174-4766-a632-0e7d62068b25,OK,0,4
 102,Inventario de Presas y Centrales Hidroeléctricas de la República Argentina,ae7886fe-7919-402c-9296-bd9ec05f29a0,OK,0,4
@@ -106,8 +106,8 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 104,Irradiancia normal directa,2d730da0-632f-4722-8e6f-4e4f5f40b9ab,OK,0,4
 105,Isotermas Atlas 2002,5a005898-adf2-4c23-984b-8a46467b7868,OK,0,4
 106,La Generación Eléctrica,4294caf6-6b5c-462a-be3a-3fd70dc04848,OK,0,1
-107,Límites maritimos internacionales ONU 2016,1145e8af-6853-4b9e-a7d1-d59ed0b95780,OK,0,4
-108,Límites maritimos internacionales por distancia,094b0574-78df-4b52-b594-05dad5591e02,OK,0,5
+107,Límites maritimos internacionales ONU 2016,1145e8af-6853-4b9e-a7d1-d59ed0b95780,OK,0,2
+108,Límites maritimos internacionales por distancia,094b0574-78df-4b52-b594-05dad5591e02,OK,0,2
 109,Localidades BAHRA,7a6a7cf9-235c-4c9a-85c1-9415d82055e9,OK,0,5
 110,Mapas de Comercialización de Gas Licuado de Petróleo (GLP),a8c18002-a031-4054-94a4-3a83bec7529c,OK,0,10
 111,Mapas de Exploración y Producción de Hidrocarburos,d778c2e7-cb4b-4200-90a7-d711eb58030b,OK,0,9
@@ -126,13 +126,13 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 124,Participación de importaciones mineras por rubro,4d8592fc-0ced-4e58-8d6b-0e8548190c26,OK,0,2
 125,Perforación de pozos de petróleo y gas,7ea2ac77-d7a0-4129-9fbf-6f1a25d94e21,OK,0,7
 126,Plan de Acción e Inversiones a Ejecutar (Tablas Dinámicas),47c5b0c3-456d-4621-a166-1e3fa74643ba,ERROR,2,4
-127,Plan gas,2291de42-90bc-478e-a75a-252e8992fb78,OK,0,6
+127,Plan gas,2291de42-90bc-478e-a75a-252e8992fb78,OK,0,3
 128,Potencia Instalada (1976-2012),597cc7ae-6bb6-489d-bb8f-1f74631cd9f4,ERROR,2,1
 129,Potencia Máxima del Sistema Eléctrico (1980-2013),6dd0bcd6-b339-408e-8a6e-e5021ed42f2d,ERROR,1,1
 130,Pozos de Petróleo y Gas,4f43e690-4cac-4385-8a7a-89a163516dcc,OK,0,4
 131,Pozos y Metros Perforados (Tablas Dinámicas),363d43a7-34cd-49e7-9878-61ef4f7b2654,OK,0,1
 132,Precio Internacional (PI) del petróleo crudo (Res. MEyFP 1077/2014),e80b32fa-5abd-49b8-85cd-901c929ba29e,ERROR,1,1
-133,Precios de Bioetanol,227cd0b0-2b36-4d4f-8a12-36c9c0ec4875,OK,0,3
+133,Precios de Bioetanol,227cd0b0-2b36-4d4f-8a12-36c9c0ec4875,OK,0,2
 134,Precios de Biodiesel,30fcb906-5374-4790-aa89-368c0d3ef314,OK,0,2
 135,Precios de combustibles,f0d16ab4-b45d-4069-80ba-6fa0ffe40ecb,OK,0,6
 136,Precios de Comercio Exterior,14a1ee5c-ab0c-42b5-b2cc-fbd4e9a9f7a6,OK,0,1
@@ -157,13 +157,13 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 155,Producción Hidrocarburos Puntos de Venteo Declarados,530bb019-32f4-4eaf-b550-1fc05f8b129f,ERROR,1,4
 156,Producción Hidrocarburos Yacimientos,7378520e-4d10-48a9-92e9-7e20e69a8277,OK,0,4
 157,Producción Hidrocarburos Yacimientos Según Profundidad Promedio,bd26f4e9-74cc-4444-ae6d-2dadcf491057,OK,0,4
-158,Productos exentos al ITC,02365d33-c504-4e31-814c-bd5f4f1eec81,OK,0,9
+158,Productos exentos al ITC,02365d33-c504-4e31-814c-bd5f4f1eec81,OK,0,4
 159,Programa RENOVATE,a3f0afe3-00b4-4a9e-b759-c12b73db328c,OK,0,4
 160,Pronóstico de producción de gas licuado,bae78d77-e8ff-466a-8c7d-2ac75d352d7b,OK,0,7
 161,Pronóstico de producción de gas natural,42d08a0d-b6ea-42a2-912d-72cd034aea94,ERROR,1,4
-162,Pronóstico de producción de petróleo,741882c4-4159-4a7c-89ad-92c41d98d680,OK,0,4
+162,Pronóstico de producción de petróleo,741882c4-4159-4a7c-89ad-92c41d98d680,OK,0,2
 163,Pronósticos de Producción de Petróleo y Gas(Tablas Dinámicas),dbb36686-fb66-4364-bded-d55ff4de516c,ERROR,1,1
-164,PRONUREE alumbrado público,0dacea79-16f5-4a55-bfb3-18c12e7746db,OK,0,2
+164,PRONUREE alumbrado público,0dacea79-16f5-4a55-bfb3-18c12e7746db,OK,0,1
 165,PRONUREE alumbrado público en municipios,ff133f5c-14ca-4fb1-9b16-26eed5840f25,ERROR,1,2
 166,Prospectiva Eléctrica,f14fa84f-cb50-405e-ad8d-d4eb73a02ee7,OK,0,6
 167,Provincias IGN,6368bbfc-2b4d-422c-8490-08969a5e649e,OK,0,4
@@ -176,9 +176,9 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 174,"Refinación y Comercialización de Petróleo, Gas y Derivados (Tablas Dinámicas)",5bdc436c-60d4-4c86-98ab-59834d047700,OK,0,10
 175,"Regalías de Petróleo Crudo, Gas Natural, GLP, Gasolina y Condensado",91818b43-e6cd-43cb-916f-15987b87de69,OK,0,4
 176,Registro de empresas de hidrocarburos del upstream,2b227214-829d-4ef5-9f3e-c9bb49fa2f4c,OK,0,5
-177,Registro de empresas de transporte de hidrocarburos por ductos,c126ad73-399a-4fa4-be8e-bd0142f3608c,OK,0,2
+177,Registro de empresas de transporte de hidrocarburos por ductos,c126ad73-399a-4fa4-be8e-bd0142f3608c,OK,0,1
 178,Registro de empresas e instalaciones con tanques aéreos de hidrocarburos líquidos,c9611150-ed6d-4751-9a61-2dbb6dcfebb7,OK,0,2
-179,Registro de empresas e instalaciones de GLP,7689a7b6-f12d-43f4-8a41-486ad7912b6c,ERROR,1,2
+179,Registro de empresas e instalaciones de GLP,7689a7b6-f12d-43f4-8a41-486ad7912b6c,ERROR,1,1
 180,Padrón de operadores autorizados para la venta de combustibles líquidos,21a54fa2-539d-4570-b1cd-679d54229d2f,ERROR,1,1
 181,Reservas de gas,38ed16d6-a044-4076-8ea9-669ed267463d,OK,0,4
 182,Reservas de petróleo,b3b8cc43-ec9e-4973-bbca-65f1070d96d9,OK,0,3
