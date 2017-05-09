@@ -60,7 +60,7 @@
             "license": "Creative Commons Attribution",
             "title": "Actividad ambiental petróleo y gas",
             "issued": "2017-01-20T16:34:36.208388",
-            "modified": "2017-05-08T19:14:56.022806",
+            "modified": "2017-05-09T11:44:36.029172",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -75,7 +75,7 @@
             "accrualPeriodicity": "R/P1Y",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Exploración y Producción."
             },
             "identifier": "d961b791-19b5-4ada-a64c-66cba740f532",
             "distribution": [
@@ -1582,7 +1582,7 @@
             "license": "Creative Commons Attribution",
             "title": "Auditorías e inspecciones en instalaciones de hidrocarburos",
             "issued": "2017-01-20T16:34:42.931471",
-            "modified": "2017-05-08T19:15:39.110597",
+            "modified": "2017-05-09T11:43:25.626921",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -1598,7 +1598,7 @@
             "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Refinación y Comercialización."
             },
             "identifier": "a20cc1db-1bd1-4706-9a6b-28d921af293b",
             "distribution": [
@@ -2716,7 +2716,7 @@
             "license": "Creative Commons Attribution",
             "title": "Comercialización de combustibles",
             "issued": "2017-01-20T16:34:28.593171",
-            "modified": "2017-05-08T13:34:08.089466",
+            "modified": "2017-05-09T11:58:50.317651",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -2724,9 +2724,10 @@
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": " Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Dirección Nacional de Economía de Hidrocarburos. "
             },
             "identifier": "2b673b14-f585-4c15-a425-a3f5f9cda5d3",
             "distribution": [
@@ -2815,18 +2816,6 @@
                     "identifier": "baeec413-4346-4f7f-9d37-88cfb16aa493"
                 },
                 {
-                    "accessURL": "http://190.3.64.19/dataset/2b673b14-f585-4c15-a425-a3f5f9cda5d3/resource/534b4455-8c05-4cd9-b2f0-71bc3df25ae7",
-                    "description": "",
-                    "title": "Decreto1016 - Volúmenes Compras y Ventas",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T14:54:27.415928",
-                    "downloadURL": "http://190.3.64.19/dataset/2b673b14-f585-4c15-a425-a3f5f9cda5d3/resource/534b4455-8c05-4cd9-b2f0-71bc3df25ae7/download/decreto1016-volmenes-compras-y-ventas.csv",
-                    "issued": "2017-05-04T14:54:29.475020",
-                    "identifier": "534b4455-8c05-4cd9-b2f0-71bc3df25ae7"
-                },
-                {
                     "accessURL": "http://190.3.64.19/dataset/2b673b14-f585-4c15-a425-a3f5f9cda5d3/resource/94435db4-6adf-46c1-9800-3cca132b373a",
                     "description": "",
                     "title": "Comercialización de petróleo y Subproductos",
@@ -2861,30 +2850,6 @@
                     "downloadURL": "http://190.3.64.19/dataset/2b673b14-f585-4c15-a425-a3f5f9cda5d3/resource/ab90b3c8-d070-439a-bc28-fcecdf8e2e8e/download/resolucin-1834-existencias-por-producto-en-instalaciones.csv",
                     "issued": "2017-05-04T15:23:07.312686",
                     "identifier": "ab90b3c8-d070-439a-bc28-fcecdf8e2e8e"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/2b673b14-f585-4c15-a425-a3f5f9cda5d3/resource/cf8b4e95-9fbf-49c4-9731-d5712041387b",
-                    "description": "",
-                    "title": "Decreto1016 - Volúmenes Compras y Ventas",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T16:59:10.258876",
-                    "downloadURL": "http://190.3.64.19/dataset/2b673b14-f585-4c15-a425-a3f5f9cda5d3/resource/cf8b4e95-9fbf-49c4-9731-d5712041387b/download/decreto1016-volmenes-compras-y-ventas.csv",
-                    "issued": "2017-05-04T16:59:10.390074",
-                    "identifier": "cf8b4e95-9fbf-49c4-9731-d5712041387b"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/2b673b14-f585-4c15-a425-a3f5f9cda5d3/resource/5cd143ea-5764-419e-8841-bc99143de93a",
-                    "description": "",
-                    "title": "Decreto1016 - Volúmenes Compras y Ventas",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:01:22.673870",
-                    "downloadURL": "http://190.3.64.19/dataset/2b673b14-f585-4c15-a425-a3f5f9cda5d3/resource/5cd143ea-5764-419e-8841-bc99143de93a/download/decreto1016-volmenes-compras-y-ventas.csv",
-                    "issued": "2017-05-04T17:01:24.210542",
-                    "identifier": "5cd143ea-5764-419e-8841-bc99143de93a"
                 },
                 {
                     "accessURL": "http://190.3.64.19/dataset/2b673b14-f585-4c15-a425-a3f5f9cda5d3/resource/c34a91de-69e2-4e2a-85ba-0ef5d82b4c61",
@@ -3299,7 +3264,7 @@
             "license": "Creative Commons Attribution",
             "title": "Compras GLP",
             "issued": "2017-01-20T16:34:34.409962",
-            "modified": "2017-05-08T19:16:53.072108",
+            "modified": "2017-05-09T11:42:21.692548",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -3314,7 +3279,7 @@
             "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Refinación y Comercialización.Dirección Nacional de Refinación y Comercialización. Dirección de Gas Licuado.\t"
             },
             "identifier": "bada5328-3e7d-47b7-8fdc-85dbe2bc748e",
             "distribution": [
@@ -3691,7 +3656,7 @@
             "license": "Creative Commons Attribution",
             "title": "Control de calidad de combustibles",
             "issued": "2017-01-20T16:34:37.332374",
-            "modified": "2017-05-08T19:15:17.568476",
+            "modified": "2017-05-09T11:43:48.545966",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -3707,7 +3672,7 @@
             "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Refinación y Comercialización."
             },
             "identifier": "6088d0ad-1798-41a4-8e76-5f3156874238",
             "distribution": [
@@ -5139,7 +5104,7 @@
             "license": "Creative Commons Attribution",
             "title": "Disponibilidad de petróleo a fin de mes",
             "issued": "2017-01-20T16:34:21.369041",
-            "modified": "2017-05-08T19:18:05.106242",
+            "modified": "2017-05-09T11:37:25.008162",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -5154,7 +5119,7 @@
             "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": " Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Exploración y Producción.Dirección Nacional de Exploración y Producción."
             },
             "identifier": "65101748-c98b-47f1-bf35-c282ba7b492a",
             "distribution": [
@@ -5199,14 +5164,14 @@
         {
             "publisher": {
                 "mbox": " tienerg@minem.gob.ar",
-                "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información."
+                "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos.Dirección Nacional de Información Energética.Tecnología de la Información. "
             },
             "landingPage": "",
             "description": "Distribución de Petróleo",
             "license": "Creative Commons Attribution",
             "title": "Distribución de petróleo",
             "issued": "2017-01-20T16:33:24.803724",
-            "modified": "2017-05-08T19:17:44.473714",
+            "modified": "2017-05-09T11:39:56.850820",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -5217,7 +5182,7 @@
             "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": " Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Exploración y Producción.Dirección Nacional de Exploración y Producción.               "
             },
             "identifier": "1de93a11-047b-4665-93b7-f2927fc50f89",
             "distribution": [
@@ -6574,7 +6539,7 @@
             "license": "Creative Commons Attribution",
             "title": "Elaboración de combustibles",
             "issued": "2017-01-20T16:33:24.296370",
-            "modified": "2017-05-08T19:12:49.002628",
+            "modified": "2017-05-09T11:51:22.613530",
             "theme": [
                 "refinacion-de-hidrocarburos"
             ],
@@ -6588,7 +6553,7 @@
             "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Dirección Nacional de Economía de Hidrocarburos. "
             },
             "identifier": "b7204bc6-6b63-46b8-93cf-730379bb8335",
             "distribution": [
@@ -12744,14 +12709,11 @@
             "license": "Creative Commons Attribution",
             "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-08T19:01:08.433642",
+            "modified": "2017-05-09T11:58:36.290863",
             "theme": [
                 "socioeconomico"
             ],
-            "keyword": [
-                "Información geográfica",
-                "Información socioeconómica"
-            ],
+            "keyword": [],
             "superTheme": [
                 "ENER"
             ],
@@ -12763,1192 +12725,196 @@
             "identifier": "be49d6c7-46e2-432f-8d97-aed1370ba36c",
             "distribution": [
                 {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/21fd3d7c-3aa7-45e5-82d3-614d30f0098e",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Buenos Aires",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T13:48:28.115809",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/21fd3d7c-3aa7-45e5-82d3-614d30f0098e/download/buenos-aires.zip",
-                    "issued": "2017-05-04T13:48:30.397869",
-                    "identifier": "21fd3d7c-3aa7-45e5-82d3-614d30f0098e"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/3c3dbd3c-9db4-4312-acf9-0581ef067e75",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Catamarca",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T14:14:47.878688",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/3c3dbd3c-9db4-4312-acf9-0581ef067e75/download/catamarca.zip",
-                    "issued": "2017-05-04T14:14:48.307469",
-                    "identifier": "3c3dbd3c-9db4-4312-acf9-0581ef067e75"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/bf9725b3-4728-46e7-96c0-c096a3c78558",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Catamarca",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T14:14:50.825894",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/bf9725b3-4728-46e7-96c0-c096a3c78558/download/catamarca.zip",
-                    "issued": "2017-05-04T14:14:50.972430",
-                    "identifier": "bf9725b3-4728-46e7-96c0-c096a3c78558"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/5e3a4ed6-157d-4c97-a82e-e77ff4e819d3",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Chaco",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T14:15:28.498669",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/5e3a4ed6-157d-4c97-a82e-e77ff4e819d3/download/chaco.zip",
-                    "issued": "2017-05-04T14:15:28.687893",
-                    "identifier": "5e3a4ed6-157d-4c97-a82e-e77ff4e819d3"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/720c3b07-61bd-402d-9cab-8a6e1a9bdf14",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Chubut",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T14:15:57.986672",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/720c3b07-61bd-402d-9cab-8a6e1a9bdf14/download/chubut.zip",
-                    "issued": "2017-05-04T14:15:58.146386",
-                    "identifier": "720c3b07-61bd-402d-9cab-8a6e1a9bdf14"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/82639809-ad32-4256-a188-5946e99c7ce0",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Chubut",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T14:15:59.922024",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/82639809-ad32-4256-a188-5946e99c7ce0/download/chubut.zip",
-                    "issued": "2017-05-04T14:16:00.290097",
-                    "identifier": "82639809-ad32-4256-a188-5946e99c7ce0"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/6c275eae-7a2e-4551-8bc9-8c7676264cdf",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Ciudad de Buenos Aires",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T14:16:26.979253",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/6c275eae-7a2e-4551-8bc9-8c7676264cdf/download/ciudad-de-buenos-aires.zip",
-                    "issued": "2017-05-04T14:16:27.246512",
-                    "identifier": "6c275eae-7a2e-4551-8bc9-8c7676264cdf"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/096486f0-c780-4dae-b29f-128bca9421be",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Ciudad de Buenos Aires",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T14:16:31.755473",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/096486f0-c780-4dae-b29f-128bca9421be/download/ciudad-de-buenos-aires.zip",
-                    "issued": "2017-05-04T14:16:32.254432",
-                    "identifier": "096486f0-c780-4dae-b29f-128bca9421be"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/36f90161-7770-428c-a01e-2ea801b9ec6b",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Córdoba",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T14:49:18.995672",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/36f90161-7770-428c-a01e-2ea801b9ec6b/download/crdoba.zip",
-                    "issued": "2017-05-04T14:49:23.246402",
-                    "identifier": "36f90161-7770-428c-a01e-2ea801b9ec6b"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/377bb7ef-c49d-47e8-86f5-6a3cd63d1070",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Corrientes",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T14:53:01.105375",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/377bb7ef-c49d-47e8-86f5-6a3cd63d1070/download/corrientes.zip",
-                    "issued": "2017-05-04T14:53:04.654416",
-                    "identifier": "377bb7ef-c49d-47e8-86f5-6a3cd63d1070"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c99d4cd8-34d8-48ec-9804-e3c169b6442a",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Entre Ríos",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T15:16:36.750285",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c99d4cd8-34d8-48ec-9804-e3c169b6442a/download/entre-ros.zip",
-                    "issued": "2017-05-04T15:16:37.467845",
-                    "identifier": "c99d4cd8-34d8-48ec-9804-e3c169b6442a"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/63eb21b9-711c-4091-9850-fcc43289a752",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Entre Ríos",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T15:16:39.903597",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/63eb21b9-711c-4091-9850-fcc43289a752/download/entre-ros.zip",
-                    "issued": "2017-05-04T15:16:40.448212",
-                    "identifier": "63eb21b9-711c-4091-9850-fcc43289a752"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/e5a3e975-53ed-43c8-a2c2-c684802f2740",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Formosa",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T15:25:13.175454",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/e5a3e975-53ed-43c8-a2c2-c684802f2740/download/formosa.zip",
-                    "issued": "2017-05-04T15:25:13.962995",
-                    "identifier": "e5a3e975-53ed-43c8-a2c2-c684802f2740"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/92a1a782-2bae-417b-a23e-52bb6b455c1f",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Chubut",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:13:58.731540",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/92a1a782-2bae-417b-a23e-52bb6b455c1f/download/chubut.zip",
-                    "issued": "2017-05-04T17:13:59.218001",
-                    "identifier": "92a1a782-2bae-417b-a23e-52bb6b455c1f"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/8d1f6576-cfc3-4e31-ae6c-79dd2a88b154",
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/66746255-4dd9-4c65-8305-acb00f63db5a",
                     "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Buenos Aires",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Santa Cruz",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-04T17:17:30.831025",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/8d1f6576-cfc3-4e31-ae6c-79dd2a88b154/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-buenos-aires.csv",
-                    "issued": "2017-05-04T17:17:31.054420",
-                    "identifier": "8d1f6576-cfc3-4e31-ae6c-79dd2a88b154"
+                    "modified": "2017-05-09T08:42:05.898627",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/66746255-4dd9-4c65-8305-acb00f63db5a/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-santa-cruz.csv",
+                    "issued": "2017-05-09T08:42:06.129583",
+                    "identifier": "66746255-4dd9-4c65-8305-acb00f63db5a"
                 },
                 {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/beae0720-87ee-4e42-9b29-93e610d92b31",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Catamarca",
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/64e22b92-64e1-4d97-b2c8-7249d7875dd7",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Santa Cruz",
                     "byteSize": null,
-                    "format": "CSV",
+                    "format": "SHP",
                     "mediaType": null,
-                    "modified": "2017-05-04T17:18:34.163753",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/beae0720-87ee-4e42-9b29-93e610d92b31/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-catamarca.csv",
-                    "issued": "2017-05-04T17:18:34.402333",
-                    "identifier": "beae0720-87ee-4e42-9b29-93e610d92b31"
+                    "modified": "2017-05-09T08:42:11.756737",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/64e22b92-64e1-4d97-b2c8-7249d7875dd7/download/santa-cruz.zip",
+                    "issued": "2017-05-09T08:42:12.230226",
+                    "identifier": "64e22b92-64e1-4d97-b2c8-7249d7875dd7"
                 },
                 {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/9cd8a68d-176e-4626-abae-c4877d1f36cf",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Chaco",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:19:19.847170",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/9cd8a68d-176e-4626-abae-c4877d1f36cf/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-chaco.csv",
-                    "issued": "2017-05-04T17:19:20.144132",
-                    "identifier": "9cd8a68d-176e-4626-abae-c4877d1f36cf"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/8d36ee9a-a607-4eef-9c10-a74bd31dae54",
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/575ec0a3-7ce3-410c-95ce-4f3a83cbac8e",
                     "description": "",
                     "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Chubut",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-04T17:20:01.820559",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/8d36ee9a-a607-4eef-9c10-a74bd31dae54/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-chubut.csv",
-                    "issued": "2017-05-04T17:20:02.102353",
-                    "identifier": "8d36ee9a-a607-4eef-9c10-a74bd31dae54"
+                    "modified": "2017-05-09T08:42:25.390997",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/575ec0a3-7ce3-410c-95ce-4f3a83cbac8e/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-chubut.csv",
+                    "issued": "2017-05-09T08:42:25.738377",
+                    "identifier": "575ec0a3-7ce3-410c-95ce-4f3a83cbac8e"
                 },
                 {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/5c147909-3691-4158-8004-fcebd76d8189",
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/9a0d39ca-5760-4cdb-b082-d45c090dcf49",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Santiago del Estero",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-09T08:42:34.287222",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/9a0d39ca-5760-4cdb-b082-d45c090dcf49/download/santiago-del-estero.zip",
+                    "issued": "2017-05-09T08:42:34.614329",
+                    "identifier": "9a0d39ca-5760-4cdb-b082-d45c090dcf49"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/e4a52d57-f04c-4425-8d95-125a1dc31208",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Tierra del Fuego",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-09T08:42:36.822794",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/e4a52d57-f04c-4425-8d95-125a1dc31208/download/tierra-del-fuego.zip",
+                    "issued": "2017-05-09T08:42:37.159212",
+                    "identifier": "e4a52d57-f04c-4425-8d95-125a1dc31208"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/b7525cd6-2217-4d9e-aafa-b4ae355f2899",
                     "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Ciudad de Buenos Aires",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Tierra del Fuego",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-04T17:20:48.027146",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/5c147909-3691-4158-8004-fcebd76d8189/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-ciudad-de-buenos-aires.csv",
-                    "issued": "2017-05-04T17:20:48.578402",
-                    "identifier": "5c147909-3691-4158-8004-fcebd76d8189"
+                    "modified": "2017-05-09T08:42:48.785456",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/b7525cd6-2217-4d9e-aafa-b4ae355f2899/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-tierra-del-fuego.csv",
+                    "issued": "2017-05-09T08:42:49.123256",
+                    "identifier": "b7525cd6-2217-4d9e-aafa-b4ae355f2899"
                 },
                 {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/0e3cb38b-7122-4d1a-8078-2d232347eb68",
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/002a62bb-5797-40eb-84db-052757f9ca13",
                     "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Córdoba",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa San Juan",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-04T17:21:46.122702",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/0e3cb38b-7122-4d1a-8078-2d232347eb68/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-crdoba.csv",
-                    "issued": "2017-05-04T17:21:46.361262",
-                    "identifier": "0e3cb38b-7122-4d1a-8078-2d232347eb68"
+                    "modified": "2017-05-09T08:43:50.098252",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/002a62bb-5797-40eb-84db-052757f9ca13/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-san-juan.csv",
+                    "issued": "2017-05-09T08:43:50.458345",
+                    "identifier": "002a62bb-5797-40eb-84db-052757f9ca13"
                 },
                 {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/504494d2-1a4c-48df-98a8-c190b4a666fd",
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/8ce3d9fa-163a-415b-b373-b3fe29ef26f8",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "La Pampa",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-09T08:44:37.991542",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/8ce3d9fa-163a-415b-b373-b3fe29ef26f8/download/la-pampa.zip",
+                    "issued": "2017-05-09T08:44:38.349052",
+                    "identifier": "8ce3d9fa-163a-415b-b373-b3fe29ef26f8"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/cfcfaaae-55c7-4450-b687-28f248ad32ab",
                     "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Córdoba",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Santiago del Estero",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-04T17:22:18.521108",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/504494d2-1a4c-48df-98a8-c190b4a666fd/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-crdoba.csv",
-                    "issued": "2017-05-04T17:22:18.763043",
-                    "identifier": "504494d2-1a4c-48df-98a8-c190b4a666fd"
+                    "modified": "2017-05-09T08:44:50.703391",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/cfcfaaae-55c7-4450-b687-28f248ad32ab/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-santiago-del-estero.csv",
+                    "issued": "2017-05-09T08:44:51.678334",
+                    "identifier": "cfcfaaae-55c7-4450-b687-28f248ad32ab"
                 },
                 {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/a4de727e-f54d-482f-899c-413145181104",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Corrientes",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:25:14.223918",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/a4de727e-f54d-482f-899c-413145181104/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-corrientes.csv",
-                    "issued": "2017-05-04T17:25:14.486320",
-                    "identifier": "a4de727e-f54d-482f-899c-413145181104"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/8aa95e5d-4180-49dd-a358-7c8c76c0e059",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Corrientes",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:28:48.631429",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/8aa95e5d-4180-49dd-a358-7c8c76c0e059/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-corrientes.csv",
-                    "issued": "2017-05-04T17:28:50.075889",
-                    "identifier": "8aa95e5d-4180-49dd-a358-7c8c76c0e059"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/fce631d8-fc70-493f-99e2-f17c3899277e",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Entre Ríos",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:30:28.458056",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/fce631d8-fc70-493f-99e2-f17c3899277e/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-entre-ros.csv",
-                    "issued": "2017-05-04T17:30:28.734762",
-                    "identifier": "fce631d8-fc70-493f-99e2-f17c3899277e"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/28fca194-3270-4cba-b0a5-67e7ed527f0f",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Formosa",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:32:04.991280",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/28fca194-3270-4cba-b0a5-67e7ed527f0f/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-formosa.csv",
-                    "issued": "2017-05-04T17:32:05.255085",
-                    "identifier": "28fca194-3270-4cba-b0a5-67e7ed527f0f"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/80ddf85e-52bb-42c4-9f4f-18ac009005e9",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Formosa",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:33:24.435370",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/80ddf85e-52bb-42c4-9f4f-18ac009005e9/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-formosa.csv",
-                    "issued": "2017-05-04T17:35:13.390013",
-                    "identifier": "80ddf85e-52bb-42c4-9f4f-18ac009005e9"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c4757bdd-f148-4089-9955-68368ba0749e",
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c353f117-c11b-4e40-8897-eb99b13e3576",
                     "description": "",
                     "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Jujuy",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-04T17:35:56.983309",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c4757bdd-f148-4089-9955-68368ba0749e/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-jujuy.csv",
-                    "issued": "2017-05-04T17:35:57.264215",
-                    "identifier": "c4757bdd-f148-4089-9955-68368ba0749e"
+                    "modified": "2017-05-09T08:46:01.258190",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c353f117-c11b-4e40-8897-eb99b13e3576/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-jujuy.csv",
+                    "issued": "2017-05-09T08:46:01.880651",
+                    "identifier": "c353f117-c11b-4e40-8897-eb99b13e3576"
                 },
                 {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c9aa2681-f501-4415-8e27-9e467f0a045d",
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/f44d5f28-6a7d-4b4a-8d4c-845519772e16",
                     "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Santa Fe",
+                    "title": "Tucumán",
                     "byteSize": null,
                     "format": "SHP",
                     "mediaType": null,
-                    "modified": "2017-05-04T17:37:21.389773",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c9aa2681-f501-4415-8e27-9e467f0a045d/download/santa-fe.zip",
-                    "issued": "2017-05-04T17:37:21.672906",
-                    "identifier": "c9aa2681-f501-4415-8e27-9e467f0a045d"
+                    "modified": "2017-05-09T08:46:38.931238",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/f44d5f28-6a7d-4b4a-8d4c-845519772e16/download/tucumn.zip",
+                    "issued": "2017-05-09T08:46:39.287172",
+                    "identifier": "f44d5f28-6a7d-4b4a-8d4c-845519772e16"
                 },
                 {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/ef013378-d157-4e17-9077-b8d2227e6fb3",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa La Pampa",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:37:28.536468",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/ef013378-d157-4e17-9077-b8d2227e6fb3/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-la-pampa.csv",
-                    "issued": "2017-05-04T17:37:28.818346",
-                    "identifier": "ef013378-d157-4e17-9077-b8d2227e6fb3"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/4f7a2092-43f3-4e1e-8e29-cb349babd44f",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Mendoza",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:43:24.649838",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/4f7a2092-43f3-4e1e-8e29-cb349babd44f/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-mendoza.csv",
-                    "issued": "2017-05-04T17:43:24.937852",
-                    "identifier": "4f7a2092-43f3-4e1e-8e29-cb349babd44f"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/fade2dc4-583b-4edf-8b79-fa67bf5c4fe0",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Misiones",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:44:45.056376",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/fade2dc4-583b-4edf-8b79-fa67bf5c4fe0/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-misiones.csv",
-                    "issued": "2017-05-04T17:44:45.346343",
-                    "identifier": "fade2dc4-583b-4edf-8b79-fa67bf5c4fe0"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/55685c17-a0de-42a3-b324-c94bd5a8c00d",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Neuquén",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:45:45.507515",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/55685c17-a0de-42a3-b324-c94bd5a8c00d/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-neuqun.csv",
-                    "issued": "2017-05-04T17:45:45.806317",
-                    "identifier": "55685c17-a0de-42a3-b324-c94bd5a8c00d"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/35c211dd-f0b4-4cac-a579-6f62a865a846",
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/6b6f67d3-7c5c-4196-a75d-b744d37ea102",
                     "description": "",
                     "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Río Negro",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-04T17:46:55.600782",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/35c211dd-f0b4-4cac-a579-6f62a865a846/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-ro-negro.csv",
-                    "issued": "2017-05-04T17:46:55.907845",
-                    "identifier": "35c211dd-f0b4-4cac-a579-6f62a865a846"
+                    "modified": "2017-05-09T08:46:52.438874",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/6b6f67d3-7c5c-4196-a75d-b744d37ea102/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-ro-negro.csv",
+                    "issued": "2017-05-09T08:46:52.812701",
+                    "identifier": "6b6f67d3-7c5c-4196-a75d-b744d37ea102"
                 },
                 {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/e657e60e-9002-437d-9b30-477f89db5f97",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Salta",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:48:03.193712",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/e657e60e-9002-437d-9b30-477f89db5f97/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-salta.csv",
-                    "issued": "2017-05-04T17:48:03.516025",
-                    "identifier": "e657e60e-9002-437d-9b30-477f89db5f97"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/76bf25e5-b656-4152-bc3e-3b2c2e39cc2d",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa San Juan",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:48:25.373586",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/76bf25e5-b656-4152-bc3e-3b2c2e39cc2d/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-san-juan.csv",
-                    "issued": "2017-05-04T17:48:25.688803",
-                    "identifier": "76bf25e5-b656-4152-bc3e-3b2c2e39cc2d"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/72ebbaeb-9dee-4162-a9b3-191501d7ad12",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa San Luis",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:50:40.871592",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/72ebbaeb-9dee-4162-a9b3-191501d7ad12/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-san-luis.csv",
-                    "issued": "2017-05-04T17:50:41.192047",
-                    "identifier": "72ebbaeb-9dee-4162-a9b3-191501d7ad12"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/85283caa-bac5-447f-9e48-2baa1e74ea8d",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa San Luis",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:51:03.348084",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/85283caa-bac5-447f-9e48-2baa1e74ea8d/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-san-luis.csv",
-                    "issued": "2017-05-04T17:51:04.928703",
-                    "identifier": "85283caa-bac5-447f-9e48-2baa1e74ea8d"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/f7b708ca-ca23-4397-bf9f-2ac92cb6b8c9",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Santa Cruz",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:53:37.819768",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/f7b708ca-ca23-4397-bf9f-2ac92cb6b8c9/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-santa-cruz.csv",
-                    "issued": "2017-05-04T17:53:38.181366",
-                    "identifier": "f7b708ca-ca23-4397-bf9f-2ac92cb6b8c9"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/4327bf14-2bfa-4420-a855-816cfdb1f9e3",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Santa Fe",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:55:51.608271",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/4327bf14-2bfa-4420-a855-816cfdb1f9e3/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-santa-fe.csv",
-                    "issued": "2017-05-04T17:55:51.928456",
-                    "identifier": "4327bf14-2bfa-4420-a855-816cfdb1f9e3"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c418dc10-9186-4d60-be31-bd5909d8ecf0",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Santiago del Estero",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T17:59:08.351654",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c418dc10-9186-4d60-be31-bd5909d8ecf0/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-santiago-del-estero.csv",
-                    "issued": "2017-05-04T17:59:08.860942",
-                    "identifier": "c418dc10-9186-4d60-be31-bd5909d8ecf0"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/bf02d487-c6d8-477b-a9ae-f2dcda3c7651",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Tierra del Fuego",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T18:00:15.185481",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/bf02d487-c6d8-477b-a9ae-f2dcda3c7651/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-tierra-del-fuego.csv",
-                    "issued": "2017-05-04T18:00:15.701011",
-                    "identifier": "bf02d487-c6d8-477b-a9ae-f2dcda3c7651"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/cbffb2ce-b8d7-4757-9019-30d34a0e466f",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Jujuy",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T18:25:17.980923",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/cbffb2ce-b8d7-4757-9019-30d34a0e466f/download/jujuy.zip",
-                    "issued": "2017-05-04T18:25:18.397363",
-                    "identifier": "cbffb2ce-b8d7-4757-9019-30d34a0e466f"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/34163ff9-bd84-455e-b48f-c305e6aa95e4",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Río Negro",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T18:38:52.320752",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/34163ff9-bd84-455e-b48f-c305e6aa95e4/download/ro-negro.zip",
-                    "issued": "2017-05-04T18:38:52.721737",
-                    "identifier": "34163ff9-bd84-455e-b48f-c305e6aa95e4"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/3aa01649-bcc4-4694-971c-b7dcb27a14f1",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Salta",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T18:47:02.026756",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/3aa01649-bcc4-4694-971c-b7dcb27a14f1/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-salta.csv",
-                    "issued": "2017-05-04T18:47:02.436582",
-                    "identifier": "3aa01649-bcc4-4694-971c-b7dcb27a14f1"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/50664a1b-f2c1-4be2-a0d8-8dcf58d3c936",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Santiago del Estero",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T19:18:48.339171",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/50664a1b-f2c1-4be2-a0d8-8dcf58d3c936/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-santiago-del-estero.csv",
-                    "issued": "2017-05-04T19:18:48.890499",
-                    "identifier": "50664a1b-f2c1-4be2-a0d8-8dcf58d3c936"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/59ff5ad5-7de4-4fac-8868-854f0143ab98",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Jujuy",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T19:24:06.231637",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/59ff5ad5-7de4-4fac-8868-854f0143ab98/download/jujuy.zip",
-                    "issued": "2017-05-04T19:24:06.823785",
-                    "identifier": "59ff5ad5-7de4-4fac-8868-854f0143ab98"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/9370e00c-9bd1-4909-b6f6-99ebaa30805b",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "La Pampa",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T19:24:35.112769",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/9370e00c-9bd1-4909-b6f6-99ebaa30805b/download/la-pampa.zip",
-                    "issued": "2017-05-04T19:24:35.557037",
-                    "identifier": "9370e00c-9bd1-4909-b6f6-99ebaa30805b"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/6dc8fe42-1a8d-41e8-8e28-903e8313de0f",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "La Rioja",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T19:25:07.031801",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/6dc8fe42-1a8d-41e8-8e28-903e8313de0f/download/la-rioja.zip",
-                    "issued": "2017-05-04T19:25:07.457161",
-                    "identifier": "6dc8fe42-1a8d-41e8-8e28-903e8313de0f"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/9452b160-8bd0-4772-8b08-61029309ce0e",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Corrientes",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T19:27:42.146461",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/9452b160-8bd0-4772-8b08-61029309ce0e/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-corrientes.csv",
-                    "issued": "2017-05-04T19:27:42.705139",
-                    "identifier": "9452b160-8bd0-4772-8b08-61029309ce0e"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/63377967-26ce-43e8-9c6d-fa73dd77adc4",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Ciudad de Buenos Aires",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T19:28:01.591792",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/63377967-26ce-43e8-9c6d-fa73dd77adc4/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-ciudad-de-buenos-aires.csv",
-                    "issued": "2017-05-04T19:28:01.986328",
-                    "identifier": "63377967-26ce-43e8-9c6d-fa73dd77adc4"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/4b1caf7e-6dca-4139-9119-130c6e6ed83a",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Mendoza",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T19:34:00.030666",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/4b1caf7e-6dca-4139-9119-130c6e6ed83a/download/mendoza.zip",
-                    "issued": "2017-05-04T19:34:00.607139",
-                    "identifier": "4b1caf7e-6dca-4139-9119-130c6e6ed83a"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/d4cd150c-6f4a-40c9-9eff-d2de0711b922",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Misiones",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T19:35:02.534051",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/d4cd150c-6f4a-40c9-9eff-d2de0711b922/download/misiones.zip",
-                    "issued": "2017-05-04T19:35:02.923854",
-                    "identifier": "d4cd150c-6f4a-40c9-9eff-d2de0711b922"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/b3454ed4-4667-498c-a933-0e931c676ff0",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Neuquén",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T19:38:14.222703",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/b3454ed4-4667-498c-a933-0e931c676ff0/download/neuqun.zip",
-                    "issued": "2017-05-04T19:38:15.562294",
-                    "identifier": "b3454ed4-4667-498c-a933-0e931c676ff0"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/802d2bc8-e76b-42d4-8d27-a0ff7b78a528",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Buenos Aires",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T19:46:47.293310",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/802d2bc8-e76b-42d4-8d27-a0ff7b78a528/download/buenos-aires.zip",
-                    "issued": "2017-05-04T19:46:47.876849",
-                    "identifier": "802d2bc8-e76b-42d4-8d27-a0ff7b78a528"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/03e7aeaa-3d2d-4caf-be76-a324669a4c5c",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Córdoba",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T19:59:23.239227",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/03e7aeaa-3d2d-4caf-be76-a324669a4c5c/download/crdoba.zip",
-                    "issued": "2017-05-04T19:59:23.654383",
-                    "identifier": "03e7aeaa-3d2d-4caf-be76-a324669a4c5c"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/bfdba07d-d502-4e22-a36f-00a7ec7a88f4",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Córdoba",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T20:01:27.265261",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/bfdba07d-d502-4e22-a36f-00a7ec7a88f4/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-crdoba.csv",
-                    "issued": "2017-05-04T20:01:27.844355",
-                    "identifier": "bfdba07d-d502-4e22-a36f-00a7ec7a88f4"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/51a2184c-4f2b-47f9-9094-b237389382c4",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Catamarca",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T20:07:37.566152",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/51a2184c-4f2b-47f9-9094-b237389382c4/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-catamarca.csv",
-                    "issued": "2017-05-04T20:07:38.006700",
-                    "identifier": "51a2184c-4f2b-47f9-9094-b237389382c4"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/160fee95-5494-4047-83b2-21c97a952512",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Misiones",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T20:10:40.780048",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/160fee95-5494-4047-83b2-21c97a952512/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-misiones.csv",
-                    "issued": "2017-05-04T20:10:41.218096",
-                    "identifier": "160fee95-5494-4047-83b2-21c97a952512"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/e5a04551-4065-49c7-a030-b20a21b08d97",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Neuquén",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T20:23:30.772597",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/e5a04551-4065-49c7-a030-b20a21b08d97/download/neuqun.zip",
-                    "issued": "2017-05-04T20:23:31.460190",
-                    "identifier": "e5a04551-4065-49c7-a030-b20a21b08d97"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/4943cf06-c293-4af7-ad05-7beb2b7ed2ea",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Santiago del Estero",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T20:27:28.716233",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/4943cf06-c293-4af7-ad05-7beb2b7ed2ea/download/santiago-del-estero.zip",
-                    "issued": "2017-05-04T20:27:29.158675",
-                    "identifier": "4943cf06-c293-4af7-ad05-7beb2b7ed2ea"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/cee6d5f4-f5cc-4786-95fe-128c5eeee148",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Santa Cruz",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T20:27:33.196162",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/cee6d5f4-f5cc-4786-95fe-128c5eeee148/download/santa-cruz.zip",
-                    "issued": "2017-05-04T20:27:33.650806",
-                    "identifier": "cee6d5f4-f5cc-4786-95fe-128c5eeee148"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/f81e7d27-f43f-4607-a7f0-3cf3e6c06f31",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Tierra del Fuego",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T20:29:13.616202",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/f81e7d27-f43f-4607-a7f0-3cf3e6c06f31/download/tierra-del-fuego.zip",
-                    "issued": "2017-05-04T20:29:14.074766",
-                    "identifier": "f81e7d27-f43f-4607-a7f0-3cf3e6c06f31"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/a66daa29-52aa-41da-a2fb-366c3bb7b0eb",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Tucumán",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T20:33:30.878929",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/a66daa29-52aa-41da-a2fb-366c3bb7b0eb/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-tucumn.csv",
-                    "issued": "2017-05-04T20:33:33.382433",
-                    "identifier": "a66daa29-52aa-41da-a2fb-366c3bb7b0eb"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/34eaa187-95bf-4e30-91d6-2069fc5df1d8",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Catamarca",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T20:39:59.146820",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/34eaa187-95bf-4e30-91d6-2069fc5df1d8/download/catamarca.zip",
-                    "issued": "2017-05-04T20:39:59.608916",
-                    "identifier": "34eaa187-95bf-4e30-91d6-2069fc5df1d8"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/90b553b5-f474-4b99-bbec-f03483e20e21",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Mendoza",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T20:40:18.627303",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/90b553b5-f474-4b99-bbec-f03483e20e21/download/mendoza.zip",
-                    "issued": "2017-05-04T20:40:19.094591",
-                    "identifier": "90b553b5-f474-4b99-bbec-f03483e20e21"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/8de88cc7-0e9e-42c8-94f9-7a4e9a3101e3",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "La Rioja",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T20:40:23.253977",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/8de88cc7-0e9e-42c8-94f9-7a4e9a3101e3/download/la-rioja.zip",
-                    "issued": "2017-05-04T20:40:23.724960",
-                    "identifier": "8de88cc7-0e9e-42c8-94f9-7a4e9a3101e3"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/aff78565-6f01-499f-852a-2e6e12689139",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Misiones",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T20:41:12.852259",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/aff78565-6f01-499f-852a-2e6e12689139/download/misiones.zip",
-                    "issued": "2017-05-04T20:41:13.346347",
-                    "identifier": "aff78565-6f01-499f-852a-2e6e12689139"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/106aa310-d3ca-4f25-b7e5-a11787791347",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Santa Cruz",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T20:41:26.942319",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/106aa310-d3ca-4f25-b7e5-a11787791347/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-santa-cruz.csv",
-                    "issued": "2017-05-04T20:41:27.410686",
-                    "identifier": "106aa310-d3ca-4f25-b7e5-a11787791347"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/79d6d93b-d83a-4536-8105-b68bfbd9fa87",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Chubut",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T20:50:50.275802",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/79d6d93b-d83a-4536-8105-b68bfbd9fa87/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-chubut.csv",
-                    "issued": "2017-05-04T20:50:50.830885",
-                    "identifier": "79d6d93b-d83a-4536-8105-b68bfbd9fa87"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/61c2d512-6241-4bb9-b0b9-f49a017c260b",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Tierra del Fuego",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T20:53:18.910373",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/61c2d512-6241-4bb9-b0b9-f49a017c260b/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-tierra-del-fuego.csv",
-                    "issued": "2017-05-04T20:53:19.406047",
-                    "identifier": "61c2d512-6241-4bb9-b0b9-f49a017c260b"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/a85d403f-b425-48ed-a225-96efac16029d",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Entre Ríos",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T21:02:53.913237",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/a85d403f-b425-48ed-a225-96efac16029d/download/entre-ros.zip",
-                    "issued": "2017-05-04T21:02:54.388403",
-                    "identifier": "a85d403f-b425-48ed-a225-96efac16029d"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/3cfc42a9-f71d-405a-94f7-093b9c44171f",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Santa Fe",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T21:26:31.677498",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/3cfc42a9-f71d-405a-94f7-093b9c44171f/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-santa-fe.csv",
-                    "issued": "2017-05-04T21:26:32.181022",
-                    "identifier": "3cfc42a9-f71d-405a-94f7-093b9c44171f"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/9c677332-a33e-4d5b-b8f0-af1981159be6",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Chaco",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T21:27:01.735393",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/9c677332-a33e-4d5b-b8f0-af1981159be6/download/chaco.zip",
-                    "issued": "2017-05-04T21:27:02.216225",
-                    "identifier": "9c677332-a33e-4d5b-b8f0-af1981159be6"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/2d06e48e-412e-4819-8271-7a0238a36170",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Buenos Aires",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T21:32:08.396507",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/2d06e48e-412e-4819-8271-7a0238a36170/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-buenos-aires.csv",
-                    "issued": "2017-05-04T21:32:08.928090",
-                    "identifier": "2d06e48e-412e-4819-8271-7a0238a36170"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/563133bd-5c60-4b9b-9256-d13ac4cf4171",
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/646e0fa5-51ae-44b0-a2e3-f5009f95629f",
                     "description": "",
                     "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Chaco",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-04T21:35:24.148505",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/563133bd-5c60-4b9b-9256-d13ac4cf4171/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-chaco.csv",
-                    "issued": "2017-05-04T21:35:24.651759",
-                    "identifier": "563133bd-5c60-4b9b-9256-d13ac4cf4171"
+                    "modified": "2017-05-09T08:47:33.162998",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/646e0fa5-51ae-44b0-a2e3-f5009f95629f/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-chaco.csv",
+                    "issued": "2017-05-09T08:47:33.534334",
+                    "identifier": "646e0fa5-51ae-44b0-a2e3-f5009f95629f"
                 },
                 {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c7dc2dbf-728b-4b8e-801d-0d4878dd627f",
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/461b2775-c6e6-4fd2-a7df-5bb0e6c981c7",
                     "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Catamarca",
+                    "title": "Formosa",
                     "byteSize": null,
                     "format": "SHP",
                     "mediaType": null,
-                    "modified": "2017-05-04T21:35:46.616659",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c7dc2dbf-728b-4b8e-801d-0d4878dd627f/download/catamarca.zip",
-                    "issued": "2017-05-04T21:35:47.139683",
-                    "identifier": "c7dc2dbf-728b-4b8e-801d-0d4878dd627f"
+                    "modified": "2017-05-09T08:50:35.165938",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/461b2775-c6e6-4fd2-a7df-5bb0e6c981c7/download/formosa.zip",
+                    "issued": "2017-05-09T08:53:55.942634",
+                    "identifier": "461b2775-c6e6-4fd2-a7df-5bb0e6c981c7"
                 },
                 {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/0f57f91e-4b62-4637-b50b-3a8538ffd2d3",
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/4bee05e7-5933-442d-beb9-3ea7f579ff40",
+                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+                    "title": "Entre Ríos",
+                    "byteSize": null,
+                    "format": "SHP",
+                    "mediaType": null,
+                    "modified": "2017-05-09T08:54:14.434510",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/4bee05e7-5933-442d-beb9-3ea7f579ff40/download/entre-ros.zip",
+                    "issued": "2017-05-09T08:54:14.953698",
+                    "identifier": "4bee05e7-5933-442d-beb9-3ea7f579ff40"
+                },
+                {
+                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/5bc6128f-9a7a-41be-ad89-14a65bde1f6e",
                     "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Jujuy",
+                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Mendoza",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-04T21:46:35.560670",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/0f57f91e-4b62-4637-b50b-3a8538ffd2d3/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-jujuy.csv",
-                    "issued": "2017-05-04T21:46:36.113499",
-                    "identifier": "0f57f91e-4b62-4637-b50b-3a8538ffd2d3"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/613d0479-2303-4947-baac-3d10dc306268",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa La Pampa",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T21:51:57.951710",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/613d0479-2303-4947-baac-3d10dc306268/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-la-pampa.csv",
-                    "issued": "2017-05-04T21:51:58.826616",
-                    "identifier": "613d0479-2303-4947-baac-3d10dc306268"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/843ee61c-c8c4-45b9-8d60-12925734ecc7",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Corrientes",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T21:58:53.731890",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/843ee61c-c8c4-45b9-8d60-12925734ecc7/download/corrientes.zip",
-                    "issued": "2017-05-04T21:58:54.249481",
-                    "identifier": "843ee61c-c8c4-45b9-8d60-12925734ecc7"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/bae00909-92cb-4cb2-9daa-04d4ccc7b67f",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Ciudad de Buenos Aires",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:01:44.735636",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/bae00909-92cb-4cb2-9daa-04d4ccc7b67f/download/ciudad-de-buenos-aires.zip",
-                    "issued": "2017-05-04T22:01:47.169488",
-                    "identifier": "bae00909-92cb-4cb2-9daa-04d4ccc7b67f"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/fd75e166-bb60-4ede-ae4b-fcf1dcc725e7",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Ciudad de Buenos Aires",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:02:05.970048",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/fd75e166-bb60-4ede-ae4b-fcf1dcc725e7/download/ciudad-de-buenos-aires.zip",
-                    "issued": "2017-05-04T22:02:09.055432",
-                    "identifier": "fd75e166-bb60-4ede-ae4b-fcf1dcc725e7"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/dc7281bb-b187-4d54-83af-b37707cbbf76",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa Entre Ríos",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:22:16.855966",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/dc7281bb-b187-4d54-83af-b37707cbbf76/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-entre-ros.csv",
-                    "issued": "2017-05-04T22:22:17.418771",
-                    "identifier": "dc7281bb-b187-4d54-83af-b37707cbbf76"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/0f6cb3bb-814f-4ab7-86d6-5a7a1dcee629",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "San Juan",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:34:23.129585",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/0f6cb3bb-814f-4ab7-86d6-5a7a1dcee629/download/san-juan.zip",
-                    "issued": "2017-05-04T22:34:23.677108",
-                    "identifier": "0f6cb3bb-814f-4ab7-86d6-5a7a1dcee629"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/9717a6f4-ba93-4d0e-8638-c00b98c4fe9b",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Río Negro",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:35:51.844652",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/9717a6f4-ba93-4d0e-8638-c00b98c4fe9b/download/ro-negro.zip",
-                    "issued": "2017-05-04T22:35:52.728487",
-                    "identifier": "9717a6f4-ba93-4d0e-8638-c00b98c4fe9b"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/192548e1-7fc2-47e3-961b-639c1ab19973",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Salta",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:37:03.344172",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/192548e1-7fc2-47e3-961b-639c1ab19973/download/salta.zip",
-                    "issued": "2017-05-04T22:37:03.946891",
-                    "identifier": "192548e1-7fc2-47e3-961b-639c1ab19973"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/8ed6ce54-a952-42c4-a24b-a68c62424d85",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "San Juan",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:37:26.376230",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/8ed6ce54-a952-42c4-a24b-a68c62424d85/download/san-juan.zip",
-                    "issued": "2017-05-04T22:37:29.415552",
-                    "identifier": "8ed6ce54-a952-42c4-a24b-a68c62424d85"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/724a7ab2-cd96-40c6-a1a1-9406d7e33629",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "San Luis",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:38:00.893743",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/724a7ab2-cd96-40c6-a1a1-9406d7e33629/download/san-luis.zip",
-                    "issued": "2017-05-04T22:38:01.447697",
-                    "identifier": "724a7ab2-cd96-40c6-a1a1-9406d7e33629"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/f350037d-91dd-4392-84a6-0be9702c0278",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Santa Cruz",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:38:36.555642",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/f350037d-91dd-4392-84a6-0be9702c0278/download/santa-cruz.zip",
-                    "issued": "2017-05-04T22:38:37.139094",
-                    "identifier": "f350037d-91dd-4392-84a6-0be9702c0278"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/36970425-12d5-4f03-a4fd-c5ccecba9b99",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Santa Fe",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:39:19.184762",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/36970425-12d5-4f03-a4fd-c5ccecba9b99/download/santa-fe.zip",
-                    "issued": "2017-05-04T22:39:19.780350",
-                    "identifier": "36970425-12d5-4f03-a4fd-c5ccecba9b99"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/d5e07fa2-8e77-457f-8c9b-9da2e1c3f70a",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Santiago del Estero",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:40:28.626756",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/d5e07fa2-8e77-457f-8c9b-9da2e1c3f70a/download/santiago-del-estero.zip",
-                    "issued": "2017-05-04T22:40:29.217233",
-                    "identifier": "d5e07fa2-8e77-457f-8c9b-9da2e1c3f70a"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/23d1511e-ce47-44fb-b1e7-d823e983e700",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Tierra del Fuego",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:41:05.142183",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/23d1511e-ce47-44fb-b1e7-d823e983e700/download/tierra-del-fuego.zip",
-                    "issued": "2017-05-04T22:41:06.004556",
-                    "identifier": "23d1511e-ce47-44fb-b1e7-d823e983e700"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/1bac7f14-320d-4a40-955d-7bf83f56f6cf",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa San Juan",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:43:32.529444",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/1bac7f14-320d-4a40-955d-7bf83f56f6cf/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-san-juan.csv",
-                    "issued": "2017-05-04T22:43:33.122335",
-                    "identifier": "1bac7f14-320d-4a40-955d-7bf83f56f6cf"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/85f9b35b-6df6-4440-9f67-999ecff215a3",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Tucumán",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:45:04.980743",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/85f9b35b-6df6-4440-9f67-999ecff215a3/download/tucumn.zip",
-                    "issued": "2017-05-04T22:45:05.576327",
-                    "identifier": "85f9b35b-6df6-4440-9f67-999ecff215a3"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/b9d9ad36-f94a-47e6-b598-846cb7d790cf",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "La Pampa",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:46:33.460320",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/b9d9ad36-f94a-47e6-b598-846cb7d790cf/download/la-pampa.zip",
-                    "issued": "2017-05-04T22:46:41.331083",
-                    "identifier": "b9d9ad36-f94a-47e6-b598-846cb7d790cf"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/f3cd7909-e431-4463-89b8-a1631c6eb105",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Tucumán",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T22:50:54.305104",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/f3cd7909-e431-4463-89b8-a1631c6eb105/download/tucumn.zip",
-                    "issued": "2017-05-04T22:50:57.831759",
-                    "identifier": "f3cd7909-e431-4463-89b8-a1631c6eb105"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c3c53301-d9d2-4047-9a25-afd844a082f9",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "Salta",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T23:09:14.685039",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/c3c53301-d9d2-4047-9a25-afd844a082f9/download/salta.zip",
-                    "issued": "2017-05-04T23:09:16.542766",
-                    "identifier": "c3c53301-d9d2-4047-9a25-afd844a082f9"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/311ecb45-fb53-47d4-8694-132efbcfc6f2",
-                    "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
-                    "title": "San Luis",
-                    "byteSize": null,
-                    "format": "SHP",
-                    "mediaType": null,
-                    "modified": "2017-05-04T23:11:12.221563",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/311ecb45-fb53-47d4-8694-132efbcfc6f2/download/san-luis.zip",
-                    "issued": "2017-05-04T23:11:12.934400",
-                    "identifier": "311ecb45-fb53-47d4-8694-132efbcfc6f2"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/358e9ac2-fa8f-40c5-b583-87459245edce",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa San Luis",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T23:11:29.056560",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/358e9ac2-fa8f-40c5-b583-87459245edce/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-san-luis.csv",
-                    "issued": "2017-05-04T23:11:33.511974",
-                    "identifier": "358e9ac2-fa8f-40c5-b583-87459245edce"
-                },
-                {
-                    "accessURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/8c4725cc-50d6-497c-ac03-709317a89b0f",
-                    "description": "",
-                    "title": "Información Socioeconómica Jefe de Hogar con educación primaria completa La Rioja",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-04T23:17:36.254726",
-                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/8c4725cc-50d6-497c-ac03-709317a89b0f/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-la-rioja.csv",
-                    "issued": "2017-05-04T23:17:41.957539",
-                    "identifier": "8c4725cc-50d6-497c-ac03-709317a89b0f"
+                    "modified": "2017-05-09T08:54:29.586061",
+                    "downloadURL": "http://190.3.64.19/dataset/be49d6c7-46e2-432f-8d97-aed1370ba36c/resource/5bc6128f-9a7a-41be-ad89-14a65bde1f6e/download/informacin-socioeconmica-jefe-de-hogar-con-educacin-primaria-completa-mendoza.csv",
+                    "issued": "2017-05-09T08:54:29.990529",
+                    "identifier": "5bc6128f-9a7a-41be-ad89-14a65bde1f6e"
                 }
             ]
         },
@@ -17333,7 +16299,7 @@
             "license": "Creative Commons Attribution",
             "title": "Notas y multas a empresas de GLP",
             "issued": "2017-01-20T16:34:40.972496",
-            "modified": "2017-05-08T19:13:37.546298",
+            "modified": "2017-05-09T11:54:21.627180",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -17348,7 +16314,7 @@
             "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Refinación y Comercialización.Dirección Nacional de Refinación y Comercialización.Dirección de Gas Licuado."
             },
             "identifier": "ce3693c7-4cab-40a1-9705-5b25b3d9145c",
             "distribution": [
@@ -17616,7 +16582,7 @@
             "license": "Creative Commons Attribution",
             "title": "Padrón 1104",
             "issued": "2017-02-21T13:39:24.358917",
-            "modified": "2017-05-08T19:19:41.066311",
+            "modified": "2017-05-09T11:34:45.277098",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -17630,7 +16596,7 @@
             "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Dirección Nacional de Economía de Hidrocarburos. "
             },
             "identifier": "bf070f3d-c983-42d6-901b-1e4b810203df",
             "distribution": [
@@ -18172,7 +17138,7 @@
             "license": "Creative Commons Attribution",
             "title": "Plan gas",
             "issued": "2017-01-20T16:34:36.748480",
-            "modified": "2017-05-08T19:13:17.065732",
+            "modified": "2017-05-09T11:52:15.182264",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -18187,7 +17153,7 @@
             "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Ministerio de Energía y Minería.Subsecretaría de Coordinación Administrativa. "
             },
             "identifier": "2291de42-90bc-478e-a75a-252e8992fb78",
             "distribution": [
@@ -19111,7 +18077,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios en Surtidor - Resolución 314/2016",
             "issued": "2017-01-18T18:09:35.180560",
-            "modified": "2017-05-08T19:27:34.502704",
+            "modified": "2017-05-09T11:02:10.239361",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -19136,7 +18102,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-08T16:00:57.369189",
+                    "modified": "2017-05-09T08:01:59.229160",
                     "downloadURL": "http://190.3.64.19/dataset/e095db78-a5df-451c-b966-971d0a6b7887/resource/7147dbd6-03c1-4da3-922e-f0b8645bf097/download/precios-en-surtidor-resolucin-3142016.csv",
                     "issued": "2017-05-04T12:15:28.243942",
                     "identifier": "7147dbd6-03c1-4da3-922e-f0b8645bf097"
@@ -19285,7 +18251,7 @@
             "license": "Creative Commons Attribution",
             "title": "Producción de combustibles",
             "issued": "2017-01-20T16:33:23.081038",
-            "modified": "2017-05-08T19:19:04.408553",
+            "modified": "2017-05-09T11:36:13.810956",
             "theme": [
                 "refinacion-de-hidrocarburos"
             ],
@@ -19301,7 +18267,7 @@
             "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Dirección Nacional de Economía de Hidrocarburos. "
             },
             "identifier": "c1c73b3a-0811-4441-9b65-e461fdce52e8",
             "distribution": [
@@ -19456,7 +18422,7 @@
             "license": "Creative Commons Attribution",
             "title": "Producción de GLP",
             "issued": "2017-01-20T16:33:27.594071",
-            "modified": "2017-05-08T19:18:25.020248",
+            "modified": "2017-05-09T11:37:05.806979",
             "theme": [
                 "refinacion-de-hidrocarburos"
             ],
@@ -19471,7 +18437,7 @@
             "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": " Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Exploración y Producción.Dirección Nacional de Exploración y Producción."
             },
             "identifier": "55b83784-8f04-4018-91c7-027163c615b3",
             "distribution": [
@@ -23117,7 +22083,7 @@
             "license": "Creative Commons Attribution",
             "title": "Registro de empresas de hidrocarburos del upstream",
             "issued": "2017-01-20T16:33:21.697424",
-            "modified": "2017-05-08T19:17:23.775144",
+            "modified": "2017-05-09T11:40:52.993056",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -23131,7 +22097,7 @@
             "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Exploración y Producción.Dirección Nacional de Exploración y Producción."
             },
             "identifier": "2b227214-829d-4ef5-9f3e-c9bb49fa2f4c",
             "distribution": [
@@ -23368,7 +22334,7 @@
             "license": "Creative Commons Attribution",
             "title": "Padrón de operadores autorizados para la venta de combustibles líquidos",
             "issued": "2017-01-20T16:34:30.488389",
-            "modified": "2017-05-08T19:14:34.582865",
+            "modified": "2017-05-09T11:59:20.294313",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -23378,7 +22344,7 @@
             ],
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Refinación y Comercialización."
             },
             "identifier": "21a54fa2-539d-4570-b1cd-679d54229d2f",
             "distribution": [
@@ -24650,7 +23616,7 @@
             "license": "Creative Commons Attribution",
             "title": "Ventas de combustibles líquidos",
             "issued": "2017-01-20T16:33:22.406027",
-            "modified": "2017-05-08T19:19:20.529562",
+            "modified": "2017-05-09T11:35:38.852582",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -24663,9 +23629,10 @@
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Dirección Nacional de Economía de Hidrocarburos. "
             },
             "identifier": "eba07414-a6c0-446f-bc9b-7980c072a490",
             "distribution": [
