@@ -15,15 +15,15 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 13,"Cálculo del Factor de Emisión de CO2, de la Red Argentina de Energía Eléctrica",7d47693a-c533-4e76-ae24-374c3205715a,ERROR,3,12
 14,Cantidad de Usuarios de Energía Eléctrica - Total País (1991-2012),419044fb-6bf1-4d3d-8620-616eaf59b886,ERROR,2,1
 15,Cantidad de usuarios de gas de red por segmento de calle,d850c7a4-e2cb-4a2e-9b15-666dd9e27398,OK,0,4
-16,Cantidad de Usuarios por Provincia de Redes de Gas Natural,bcffc058-227b-426a-8a23-71a89ee73a21,OK,0,2
-17,Cantidad de Usuarios por Tipo de Usuario de Redes de Gas Natural,eba8a57c-d9a7-40bc-b97a-dddb8d2ede55,OK,0,2
+16,Cantidad de Usuarios por Provincia de Redes de Gas Natural,bcffc058-227b-426a-8a23-71a89ee73a21,OK,0,1
+17,Cantidad de Usuarios por Tipo de Usuario de Redes de Gas Natural,eba8a57c-d9a7-40bc-b97a-dddb8d2ede55,OK,0,1
 18,Carbón Río Turbio,d8228e77-977a-490f-bd35-c5b8f25d3f1e,OK,0,1
 19,Catálogo de Recursos Hídricos,f6504a35-7776-4cba-8eec-9630469e4053,OK,0,1
 20,Centrales Eléctricas,b036f967-a78a-49c7-950c-7cb29625080d,OK,0,1
 21,Central Nuclear Atucha,c5e0ffdd-29ba-4a62-b69e-efb0af059e94,OK,0,1
 22,Central Nuclear Embalse,1baf09f3-11fe-416f-a4d8-178bd421db65,OK,0,1
 23,Certificados de importación según régimen de inversiones mineras,022eb3e3-e2ff-47e9-a770-7d54f6bcbefa,OK,0,2
-24,Comercialización de combustibles,2b673b14-f585-4c15-a425-a3f5f9cda5d3,OK,0,12
+24,Comercialización de combustibles,2b673b14-f585-4c15-a425-a3f5f9cda5d3,OK,0,7
 25,Comercialización Hidrocarburos Combustibles Líquidos,669615be-17f4-41ad-9aad-4c438cb974f9,OK,0,4
 26,Comercialización Hidrocarburos Combustibles Líquidos Aeroplantas,4adf2cf0-621c-49e6-8434-9d787765d9ea,OK,0,3
 27,Comercialización Hidrocarburos Combustibles Líquidos Terminales de Despacho,99ba34a0-08f2-48e3-8d37-4d92542f740e,OK,0,3
@@ -65,10 +65,10 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 63,Exportaciones minerales y derivados por provincia,0f1182d4-28a0-4ae3-85a4-cf806a59a8b7,OK,0,2
 64,Exportaciones mineras por rubro,dea26f6a-a016-40aa-87eb-09f624c240fa,OK,0,2
 65,Facturación de Energía Eléctrica en MWh (1970-2012),deba83e1-21aa-4efd-8545-7412c5387cbf,ERROR,3,1
-66,Gas Entregado a Grandes Usuarios por Distribuidora,4923ff1e-f3db-4664-be56-4fde6bc3eb61,OK,0,2
-67,Gas Entregado a Grandes Usuarios por Provincia,7abff795-d834-4a19-aae5-6deafa2983ea,OK,0,4
-68,Gas Entregado por Área de Licencia,ce7b5038-d07e-4334-a810-348bca859810,OK,0,2
-69,Gas Entregado por Provincia,c5d8e29a-912a-44ad-80d7-7a35cae0aeba,OK,0,3
+66,Gas Entregado a Grandes Usuarios por Distribuidora,4923ff1e-f3db-4664-be56-4fde6bc3eb61,OK,0,1
+67,Gas Entregado a Grandes Usuarios por Provincia,7abff795-d834-4a19-aae5-6deafa2983ea,OK,0,1
+68,Gas Entregado por Área de Licencia,ce7b5038-d07e-4334-a810-348bca859810,OK,0,1
+69,Gas Entregado por Provincia,c5d8e29a-912a-44ad-80d7-7a35cae0aeba,OK,0,1
 70,Generación Eléctrica Bruta Asociada a redes desde 1930,3933032d-779b-4653-a069-7ad230674e79,OK,0,2
 71,Generación Eléctrica - Centrales de Generación,c62df6c6-73af-4039-b956-db081ff6eebe,OK,0,4
 72,Generación Eléctrica Centrales de Generación Con Biomasa,d8f0c569-8fea-4243-bd82-59fcba73c041,OK,0,0
@@ -92,7 +92,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 90,Información Socioeconómica INDEC Radios Censales,8ca540f9-434b-40f1-8a2f-6e22cdb26503,OK,0,97
 91,Información Socioeconómica Índice de Pobreza Multidimensional,ed0ea922-2379-4c1e-87ae-94a99b508bd0,OK,0,7
 92,Información Socioeconómica Jefe de Hogar con educación media incompleta,4d31208b-28d1-457c-95d3-044b5870bd26,OK,0,92
-93,Información Socioeconómica Jefe de Hogar con educación primaria completa,be49d6c7-46e2-432f-8d97-aed1370ba36c,OK,0,47
+93,Información Socioeconómica Jefe de Hogar con educación primaria completa,be49d6c7-46e2-432f-8d97-aed1370ba36c,OK,0,48
 94,Información Socioeconómica NBI (Deciles),9c116c36-f483-443b-9f4d-0b26c4a461e8,OK,0,88
 95,Información Socioeconómica Urbanizaciones Cerradas Wikimapia,a1b39f04-e852-4e2d-b51e-ef3a6c3be0a5,OK,0,4
 96,Informes Estadísticos del Sector Eléctrico (Quinquenales y Decenales),2d788688-1a20-4595-841d-4786cf3595e8,ERROR,2,5
@@ -134,7 +134,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 132,Precio Internacional (PI) del petróleo crudo (Res. MEyFP 1077/2014),e80b32fa-5abd-49b8-85cd-901c929ba29e,ERROR,1,1
 133,Precios de Bioetanol,227cd0b0-2b36-4d4f-8a12-36c9c0ec4875,OK,0,3
 134,Precios de Biodiesel,30fcb906-5374-4790-aa89-368c0d3ef314,OK,0,2
-135,Precios de combustibles,f0d16ab4-b45d-4069-80ba-6fa0ffe40ecb,OK,0,11
+135,Precios de combustibles,f0d16ab4-b45d-4069-80ba-6fa0ffe40ecb,OK,0,10
 136,Precios de Comercio Exterior,14a1ee5c-ab0c-42b5-b2cc-fbd4e9a9f7a6,OK,0,1
 137,Precios de Venta al Mercado Interno de Petróleo Escalante,c8f6b6c5-1e2d-4d9f-b65d-01a6f9a231bc,OK,0,1
 138,Precios EESS - Resolución 1104/04,708f9ab4-829b-4f02-b507-f303c5bc4800,OK,0,16
@@ -185,7 +185,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 183,Reservas de Petróleo y Gas,61c8fc78-540f-463b-aefb-ef854e6baed1,ERROR,3,25
 184,Salto Grande,3476af68-65ad-42e4-967a-916ec57bb4e0,OK,0,1
 185,Síntesis del Mercado Eléctrico Mayorista,f2acbbca-85c6-43a3-994f-c843f466d245,ERROR,2,1
-186,The beginning of the transformation,182d2184-49a2-4769-a33b-e4204eac3183,ERROR,1,1
+186,The beginning of the transformation,182d2184-49a2-4769-a33b-e4204eac3183,OK,0,1
 187,Transporte Eléctrico AT Estaciones Transformadoras,5ae5fbf9-5ab3-407b-a047-625bf27835aa,OK,0,4
 188,Transporte Eléctrico AT Estructuras,caf271e7-a89e-4c09-ac6c-1864eb8faf3a,OK,0,4
 189,Transporte Eléctrico AT Líneas,53014951-6ee1-4e99-a830-c4d0eb373496,OK,0,3
@@ -195,5 +195,5 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 193,Transporte Hidrocarburos Ductos Troncales Poliductos,72d74a8e-872e-4bc4-907a-c57b2d063158,OK,0,4
 194,Transporte Hidrocarburos Ductos Troncales Propanoductos,b5681530-fb92-4fff-ae89-9a327f28120f,OK,0,4
 195,Ventas de combustibles líquidos,eba07414-a6c0-446f-bc9b-7980c072a490,OK,0,1
-196,Ventas de combustibles líquidos terminales,d086e6c8-237f-46cd-a1a5-1d4fadaffb33,OK,0,3
+196,Ventas de combustibles líquidos terminales,d086e6c8-237f-46cd-a1a5-1d4fadaffb33,OK,0,1
 197,Ventas GLP,63ab43cc-7055-4969-87d3-6a969f1d5386,OK,0,11
