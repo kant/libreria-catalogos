@@ -34,7 +34,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 32,Conceptos sobre Hidrocarburos,88d29723-5f35-4949-8bd2-d15661ab2f5e,OK,0,1
 33,Consumo de Combustibles en Centrales de Generación de Energía Eléctrica (1970-2012),1bda175c-8243-4927-9cb0-eb8513be3b09,ERROR,1,1
 34,Consumos Energéticos Mercosur,ea82587b-3262-4276-b8a2-0b9f4bcb291a,OK,0,1
-35,Control de calidad de combustibles,6088d0ad-1798-41a4-8e76-5f3156874238,OK,0,6
+35,Control de calidad de combustibles,6088d0ad-1798-41a4-8e76-5f3156874238,OK,0,3
 36,Cuadros Tarifarios Eléctricos,fca32aa8-ace4-4da6-9a2f-c8ea9119ac9a,ERROR,1,46
 37,Detección Satelital de Venteos,7ef45681-a7de-440c-a343-b7d989261b58,ERROR,1,61
 38,Disponibilidad de petróleo a fin de mes,65101748-c98b-47f1-bf35-c282ba7b492a,OK,0,3
@@ -116,7 +116,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 114,Mapas históricos de Argentina,7d7a73f8-7478-441b-b18b-42d1c71b4f28,ERROR,1,28
 115,Medición de petróleo y gas,df832dab-b67c-4952-9f37-1bd28136967a,OK,0,7
 116,Mercado Eléctrico Mayorista,e8c0778b-69de-4b19-b525-d9d4af833fb1,OK,0,1
-117,Notas y multas a empresas de GLP,ce3693c7-4cab-40a1-9705-5b25b3d9145c,OK,0,6
+117,Notas y multas a empresas de GLP,ce3693c7-4cab-40a1-9705-5b25b3d9145c,OK,0,3
 118,Obras de GAS,768d848f-22eb-4d6f-b878-77982fb5f65d,OK,0,2
 119,Obras de generación de electricidad,84bf14b4-47bf-4efb-ad7c-0d70684a50d3,OK,0,2
 120,Obras de transmisión y distribución,a94977b7-d6a2-4501-b422-a20c909cc60f,OK,0,2
@@ -124,7 +124,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 122,Parques Nacionales Protegidos,cf1a80d1-ecce-4cf8-92b7-36c2a793a59f,OK,0,4
 123,Parques Provinciales Protegidos,59fc9e1e-b7b2-425e-839c-e4c0af10b5f3,OK,0,4
 124,Participación de importaciones mineras por rubro,4d8592fc-0ced-4e58-8d6b-0e8548190c26,OK,0,2
-125,Perforación de pozos de petróleo y gas,7ea2ac77-d7a0-4129-9fbf-6f1a25d94e21,OK,0,14
+125,Perforación de pozos de petróleo y gas,7ea2ac77-d7a0-4129-9fbf-6f1a25d94e21,OK,0,7
 126,Plan de Acción e Inversiones a Ejecutar (Tablas Dinámicas),47c5b0c3-456d-4621-a166-1e3fa74643ba,ERROR,2,4
 127,Plan gas,2291de42-90bc-478e-a75a-252e8992fb78,OK,0,6
 128,Potencia Instalada (1976-2012),597cc7ae-6bb6-489d-bb8f-1f74631cd9f4,ERROR,2,1
@@ -134,7 +134,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 132,Precio Internacional (PI) del petróleo crudo (Res. MEyFP 1077/2014),e80b32fa-5abd-49b8-85cd-901c929ba29e,ERROR,1,1
 133,Precios de Bioetanol,227cd0b0-2b36-4d4f-8a12-36c9c0ec4875,OK,0,3
 134,Precios de Biodiesel,30fcb906-5374-4790-aa89-368c0d3ef314,OK,0,2
-135,Precios de combustibles,f0d16ab4-b45d-4069-80ba-6fa0ffe40ecb,OK,0,10
+135,Precios de combustibles,f0d16ab4-b45d-4069-80ba-6fa0ffe40ecb,OK,0,6
 136,Precios de Comercio Exterior,14a1ee5c-ab0c-42b5-b2cc-fbd4e9a9f7a6,OK,0,1
 137,Precios de Venta al Mercado Interno de Petróleo Escalante,c8f6b6c5-1e2d-4d9f-b65d-01a6f9a231bc,OK,0,1
 138,Precios EESS - Resolución 1104/04,708f9ab4-829b-4f02-b507-f303c5bc4800,OK,0,16
@@ -179,7 +179,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 177,Registro de empresas de transporte de hidrocarburos por ductos,c126ad73-399a-4fa4-be8e-bd0142f3608c,OK,0,2
 178,Registro de empresas e instalaciones con tanques aéreos de hidrocarburos líquidos,c9611150-ed6d-4751-9a61-2dbb6dcfebb7,OK,0,2
 179,Registro de empresas e instalaciones de GLP,7689a7b6-f12d-43f4-8a41-486ad7912b6c,ERROR,1,2
-180,Padrón de operadores autorizados para la venta de combustibles líquidos,21a54fa2-539d-4570-b1cd-679d54229d2f,ERROR,1,2
+180,Padrón de operadores autorizados para la venta de combustibles líquidos,21a54fa2-539d-4570-b1cd-679d54229d2f,ERROR,1,1
 181,Reservas de gas,38ed16d6-a044-4076-8ea9-669ed267463d,OK,0,4
 182,Reservas de petróleo,b3b8cc43-ec9e-4973-bbca-65f1070d96d9,OK,0,3
 183,Reservas de Petróleo y Gas,61c8fc78-540f-463b-aefb-ef854e6baed1,ERROR,3,25
