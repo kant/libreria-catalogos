@@ -49,7 +49,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 47,Elaboración de combustibles,b7204bc6-6b63-46b8-93cf-730379bb8335,OK,0,3
 48,Energías Renovables Balance por radio censal de Energía derivada de la Biomasa WISDOM,d29ba763-7ae5-4e18-85bf-03c323bbd163,OK,0,15
 49,Energías Renovables Plantas Biocombustibles,eccce607-f934-4e93-a40b-1cca44fd6cd6,OK,0,4
-50,Plantas Productoras de Aceite Vegetal,bc71d6c7-677b-4fcd-807b-882747339fbf,OK,0,3
+50,Plantas Productoras de Aceite Vegetal,bc71d6c7-677b-4fcd-807b-882747339fbf,OK,0,2
 51,Energías Renovables Puntos de Interés Geotérmico,aaea4a47-34d3-4528-98ab-8cb33483eef9,OK,0,2
 52,Energías Renovables Radiación Solar Incidente,292d47b8-07f7-4acc-b37f-2544ee8c89b4,OK,0,24
 53,Refinerías de Aceite Vegetal,ab6c7e10-1b43-4e6f-a833-0adb996b0814,OK,0,2
@@ -70,7 +70,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 68,Gas Entregado por Área de Licencia,ce7b5038-d07e-4334-a810-348bca859810,OK,0,1
 69,Gas Entregado por Provincia,c5d8e29a-912a-44ad-80d7-7a35cae0aeba,OK,0,1
 70,Generación Eléctrica Bruta Asociada a redes desde 1930,3933032d-779b-4653-a069-7ad230674e79,OK,0,1
-71,Generación Eléctrica - Centrales de Generación,c62df6c6-73af-4039-b956-db081ff6eebe,OK,0,4
+71,Generación Eléctrica - Centrales de Generación,c62df6c6-73af-4039-b956-db081ff6eebe,OK,0,2
 72,Generación Eléctrica Centrales de Generación Con Biomasa,d8f0c569-8fea-4243-bd82-59fcba73c041,OK,0,0
 73,Generación Eléctrica Pequeños Aprovechamientos Hidroeléctricos,d4aaab4e-ea13-4fbd-9ca2-52adb1478284,OK,0,4
 74,Mapas de Generación y Transporte Eléctrico,d2c5f860-548c-44f5-a63c-03a66189a345,OK,0,11
@@ -88,8 +88,8 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 86,Información Socioeconómica Áreas Urbanas Según Calles OSM,0761fc22-bb12-4b6b-8d87-c71ce3e52e02,OK,0,2
 87,Información Socioeconómica Asentamientos y Villas ONG Techo,1c58835a-4590-41e1-9ba2-5a41fd6da0d1,OK,0,2
 88,Información Socioeconómica Asentamientos y Villas Wikimapia,8eba1cb4-37d4-4533-8f34-a8e48c2fe1af,OK,0,2
-89,Información Socioeconómica Ejidos Urbanos,bfbe9495-7ec1-4198-9c93-8da043582481,OK,0,4
-90,Información Socioeconómica INDEC Radios Censales,8ca540f9-434b-40f1-8a2f-6e22cdb26503,OK,0,96
+89,Información Socioeconómica Ejidos Urbanos,bfbe9495-7ec1-4198-9c93-8da043582481,OK,0,2
+90,Información Socioeconómica INDEC Radios Censales,8ca540f9-434b-40f1-8a2f-6e22cdb26503,OK,0,80
 91,Información Socioeconómica Índice de Pobreza Multidimensional,ed0ea922-2379-4c1e-87ae-94a99b508bd0,OK,0,7
 92,Información Socioeconómica Jefe de Hogar con educación media incompleta,4d31208b-28d1-457c-95d3-044b5870bd26,OK,0,45
 93,Información Socioeconómica Jefe de Hogar con educación primaria completa,be49d6c7-46e2-432f-8d97-aed1370ba36c,OK,0,48
@@ -100,7 +100,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 98,Instalaciones Hidrocarburos Ductos Res. 319 93,84681f81-dbbb-49eb-be30-e61778736ad9,OK,0,2
 99,Instalaciones Hidrocarburos Instalaciones Res.318,164e7197-3222-4d21-81df-9db30ccd3940,OK,0,2
 100,Instalaciones Hidrocarburos Instalaciones Res.319 93 (P. Característicos),e5c525ff-6dbd-4e1e-a52e-14e9d742c4f1,OK,0,4
-101,Instalaciones Hidrocarburos Puertos Regasificadores de GNL,bf7914d6-1174-4766-a632-0e7d62068b25,OK,0,4
+101,Instalaciones Hidrocarburos Puertos Regasificadores de GNL,bf7914d6-1174-4766-a632-0e7d62068b25,OK,0,2
 102,Inventario de Presas y Centrales Hidroeléctricas de la República Argentina,ae7886fe-7919-402c-9296-bd9ec05f29a0,OK,0,4
 103,Inversiones en mercado de hidrocarburos upstream,83fd2c3f-e0f5-4d56-a3ef-828eac226ba9,OK,0,4
 104,Irradiancia normal directa,2d730da0-632f-4722-8e6f-4e4f5f40b9ab,OK,0,2
@@ -148,7 +148,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 146,Producción de petróleo,54e20b13-e946-4161-a5bc-b4497cbb6fe0,OK,0,7
 147,Producción de Petróleo desde 1950,f91e3405-2bd0-47eb-81bd-5d73835ec005,OK,0,2
 148,Producción de petróleo y gas,a1e9795c-5fe0-49e3-984d-85d50a3448e1,OK,0,2
-149,Producción de petróleo y gas por pozo,c846e79c-026c-4040-897f-1ad3543b407c,OK,0,27
+149,Producción de petróleo y gas por pozo,c846e79c-026c-4040-897f-1ad3543b407c,OK,0,14
 150,Producción de Petróleo y Gas (Tablas Dinámicas),590d1284-fd6d-4686-afd8-b3da5d90a6e9,OK,0,3
 151,Producción Gas Natural desde 1950,5210866d-2caf-43fd-95d8-085dc18f39cc,OK,0,1
 152,Producción Hidrocarburos Concesiones de Explotación,81cfad0a-4162-4f85-ad71-837f5a5fae57,OK,0,2
@@ -169,7 +169,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 167,Provincias IGN,6368bbfc-2b4d-422c-8490-08969a5e649e,OK,0,2
 168,Proyectos hidroeléctricos,b33aca04-81d8-44ef-8842-162aa69330ca,OK,0,1
 169,Publicaciones CAMMESA,2b4dfee6-6fca-4e4d-9611-a12d65cd4aa8,ERROR,1,2
-170,Redes de distribución eléctrica del Consejo Federal,ff99e7be-7bab-4617-9588-9a74ae046a40,OK,0,74
+170,Redes de distribución eléctrica del Consejo Federal,ff99e7be-7bab-4617-9588-9a74ae046a40,OK,0,63
 171,"Redes Inteligentes - Realidad, utopía o futuro",5f59d24f-2560-4cfd-b0eb-a3f4b3e39b94,ERROR,1,1
 172,Refinación Hidrocarburos Petroquímicas,8fc4e505-bd4d-431e-863e-1e44b4f6ee01,OK,0,3
 173,Refinación Hidrocarburos Refinerías,a9eed347-78ab-45c0-a489-b227fe42ee1b,OK,0,2
@@ -177,7 +177,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 175,"Regalías de Petróleo Crudo, Gas Natural, GLP, Gasolina y Condensado",91818b43-e6cd-43cb-916f-15987b87de69,OK,0,4
 176,Registro de empresas de hidrocarburos del upstream,2b227214-829d-4ef5-9f3e-c9bb49fa2f4c,OK,0,3
 177,Registro de empresas de transporte de hidrocarburos por ductos,c126ad73-399a-4fa4-be8e-bd0142f3608c,OK,0,1
-178,Registro de empresas e instalaciones con tanques aéreos de hidrocarburos líquidos,c9611150-ed6d-4751-9a61-2dbb6dcfebb7,OK,0,2
+178,Registro de empresas e instalaciones con tanques aéreos de hidrocarburos líquidos,c9611150-ed6d-4751-9a61-2dbb6dcfebb7,OK,0,1
 179,Registro de empresas e instalaciones de GLP,7689a7b6-f12d-43f4-8a41-486ad7912b6c,ERROR,1,1
 180,Padrón de operadores autorizados para la venta de combustibles líquidos,21a54fa2-539d-4570-b1cd-679d54229d2f,ERROR,1,1
 181,Reservas de gas,38ed16d6-a044-4076-8ea9-669ed267463d,OK,0,2
@@ -187,7 +187,7 @@ indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
 185,Síntesis del Mercado Eléctrico Mayorista,f2acbbca-85c6-43a3-994f-c843f466d245,ERROR,2,1
 186,The beginning of the transformation,182d2184-49a2-4769-a33b-e4204eac3183,OK,0,1
 187,Transporte Eléctrico AT Estaciones Transformadoras,5ae5fbf9-5ab3-407b-a047-625bf27835aa,OK,0,2
-188,Transporte Eléctrico AT Estructuras,caf271e7-a89e-4c09-ac6c-1864eb8faf3a,OK,0,4
+188,Transporte Eléctrico AT Estructuras,caf271e7-a89e-4c09-ac6c-1864eb8faf3a,OK,0,2
 189,Transporte Eléctrico AT Líneas,53014951-6ee1-4e99-a830-c4d0eb373496,OK,0,1
 190,Transporte Hidrocarburos Ductos Troncales Gasoductos,8758101a-1e0d-413f-8cc5-83e21ece6391,OK,0,2
 191,Transporte Hidrocarburos Ductos Troncales JP Ducto,9ab57324-669c-4597-8f10-081f581629c1,OK,0,2
