@@ -54,23 +54,15 @@
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
             },
             "landingPage": "",
-            "description": "Base de documentos digitales normativos nacionales: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada.",
-            "license": "Open Data Commons Open Database License (ODbL)",
+            "description": "Base de documentos digitales normativos nacionales: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada",
+            "license": "Creative Commons Attribution",
             "title": "Base Infoleg de Normativa Nacional",
             "issued": "2017-05-11T14:26:19.737837",
-            "modified": "2017-05-11T14:33:17.247506",
+            "modified": "2017-05-11T20:15:07.051405",
             "theme": [
                 "just"
             ],
-            "keyword": [
-                "acordadas",
-                "boletín oficial",
-                "decisiones administrativas",
-                "decretos",
-                "disposiciones",
-                "leyes",
-                "resoluciones"
-            ],
+            "keyword": [],
             "contactPoint": {
                 "hasEmail": "datosabiertos@saij.gob.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
@@ -79,7 +71,7 @@
             "distribution": [
                 {
                     "accessURL": "http://datos.gob.ar/dataset/d996a477-a703-4875-a7ef-036fffac53c1/resource/535ae628-6ff9-41cf-955f-83fa6fcad5b0",
-                    "description": "Base de documentos digitales normativos nacionales: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República\\r\\nArgentina desde mayo 1997 más la normativa referenciada.",
+                    "description": "Base de documentos digitales normativos nacionales: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República\r\nArgentina desde mayo 1997 más la normativa referenciada",
                     "title": "Base Infoleg de Normativa Nacional",
                     "byteSize": null,
                     "format": "CSV",
@@ -91,7 +83,7 @@
                 },
                 {
                     "accessURL": "http://datos.gob.ar/dataset/d996a477-a703-4875-a7ef-036fffac53c1/resource/d99fa5af-01af-4b60-a51b-2c6be5a5fecb",
-                    "description": "Base complementaria Infoleg con normas nacionales modificadas: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada.",
+                    "description": "Base complementaria Infoleg con normas nacionales modificadas: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada",
                     "title": "Base Complementaria Infoleg de Normas Modificadas",
                     "byteSize": null,
                     "format": "CSV",
@@ -121,21 +113,15 @@
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
             },
             "landingPage": "",
-            "description": "Base de documentos digitales normativos provinciales: leyes, decretos leyes, textos ordenados, códigos y Constituciones publicados en el Boletín Oficial de la Provincia\\r\\ncorrespondiente",
-            "license": "Open Data Commons Open Database License (ODbL)",
+            "description": "Base de documentos digitales normativos provinciales: leyes, decretos leyes, textos ordenados, códigos y Constituciones publicados en el Boletín Oficial de la Provincia\r\ncorrespondiente",
+            "license": "Creative Commons Attribution",
             "title": "Base SAIJ de Normativa Provincial",
             "issued": "2017-05-11T14:21:13.136294",
-            "modified": "2017-05-11T14:35:03.771726",
+            "modified": "2017-05-11T20:14:47.970860",
             "theme": [
                 "just"
             ],
-            "keyword": [
-                "boletín oficial",
-                "codigos provinciales",
-                "constituciones provinciales",
-                "decretos",
-                "leyes"
-            ],
+            "keyword": [],
             "contactPoint": {
                 "hasEmail": "datosabiertos@saij.gob.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
@@ -144,7 +130,7 @@
             "distribution": [
                 {
                     "accessURL": "http://datos.gob.ar/dataset/91aa24be-35c2-47b4-bdae-714cb592fa72/resource/c79d51a6-f93d-466f-865b-1be353907dd3",
-                    "description": "Base de documentos digitales normativos provinciales: leyes,\\r\\ndecretos leyes, textos ordenados, códigos y Constituciones\\r\\npublicados en el Boletín Oficial de la Provincia\\r\\ncorrespondiente.",
+                    "description": "Base de documentos digitales normativos provinciales: leyes,\r\ndecretos leyes, textos ordenados, códigos y Constituciones\r\npublicados en el Boletín Oficial de la Provincia\r\ncorrespondiente.",
                     "title": "Base SAIJ de Normativa Provincial",
                     "byteSize": null,
                     "format": "CSV",
@@ -162,11 +148,11 @@
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia"
             },
             "landingPage": "",
-            "description": "Este conjunto de datos contiene la información correspondiente a los Centros de Acceso a la Justicia -CAJ- que están activos. Los CAJ tienen por objetivo promover y facilitar el acceso a la justicia de los sectores más vulnerables, a través de asesoramiento y atención profesional, ya sea jurídico o psicosocial.",
+            "description": "Este conjunto de datos contiene la información correspondiente a los Centros de Acceso a la Justicia -CAJ- que están activos. Los CAJ tienen por objetivo promover y facilitar el acceso a la justicia de los sectores más vulnerables, a través de asesoramiento y atención profesional, ya sea jurídico o psicosocial.\r\n",
             "license": "Creative Commons Attribution",
             "title": "Centros de Acceso a la Justicia -CAJ-",
             "issued": "2017-05-10T20:11:36.415358",
-            "modified": "2017-05-10T22:02:36.639283",
+            "modified": "2017-05-11T20:14:45.689409",
             "theme": [
                 "just"
             ],
@@ -201,7 +187,7 @@
             "license": "ODbL-1.0",
             "title": "Contratos de Alquiler del Estado Nacional como Locador",
             "issued": "2016-10-24T14:43:18.578156",
-            "modified": "2017-01-25T13:54:06.012136",
+            "modified": "2017-05-11T20:54:38.876643",
             "theme": [
                 "gove"
             ],
@@ -240,9 +226,9 @@
             "landingPage": "",
             "description": "Datos correspondiente a las Declaraciones Juradas Patrimoniales Integrales presentadas por los sujetos obligados conforme lo normado en la Ley de Ética Pública 25.188 modificada por la Ley 26.857, reglamentada por el Decreto Nro. 895/2013 y la Resolución General AFIP Nro. 3511/2013 y Resolución M.J. y D.H. Nro. 1695/2013. La utilización de este conjunto de datos se encuentra regulada por el Art. 11 de la Ley de Ética Pública 25.188.",
             "license": "Creative Commons Attribution",
-            "title": "Declaración Jurada Patrimonial Integral de carácter público",
+            "title": "Declaración Jurada Patrimonial Integral de Carácter Público",
             "issued": "2017-05-10T20:11:40.058444",
-            "modified": "2017-05-10T22:47:16.016462",
+            "modified": "2017-05-11T20:15:11.759756",
             "theme": [
                 "just"
             ],
@@ -313,7 +299,7 @@
             "license": "ODbL-1.0",
             "title": "Ejecución Presupuestaria de la Administración Pública Nacional",
             "issued": "2016-03-07T21:17:11.594671",
-            "modified": "2017-04-14T17:06:00.037557",
+            "modified": "2017-05-11T20:51:59.703579",
             "theme": [
                 "econ",
                 "gove"
@@ -365,7 +351,7 @@
             "license": "Creative Commons Attribution",
             "title": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación",
             "issued": "2017-05-10T20:11:34.452411",
-            "modified": "2017-05-11T02:32:23.850237",
+            "modified": "2017-05-11T19:48:28.556347",
             "theme": [
                 "tech"
             ],
@@ -378,18 +364,6 @@
             "distribution": [
                 {
                     "accessURL": "http://datos.gob.ar/dataset/ddc3f696-2f42-4a5c-ad6c-b302f2e2a7d0/resource/b4179c31-2ef8-4471-81cf-0a2cdb483a59",
-                    "description": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación según cantidad de proyectos, tipo de proyectos, provincia argentina y fecha de inicio de proyectos",
-                    "title": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación por provincia",
-                    "byteSize": null,
-                    "format": "JSON",
-                    "mediaType": null,
-                    "modified": null,
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/6f44589b-5dc5-4585-abf2-98b759e406bf/resource/7bc7d092-a5ed-48ad-b7b0-3c626de64ed8/download/empresas-ejecutoras-proyectos.json",
-                    "issued": "2017-05-10T20:45:26.976520",
-                    "identifier": "b4179c31-2ef8-4471-81cf-0a2cdb483a59"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/ddc3f696-2f42-4a5c-ad6c-b302f2e2a7d0/resource/9da70112-b82d-476c-9be2-ff03a274c0fe",
                     "description": "Empresas de ejecución de proyectos financiados por la Agencia Nacional de Promoción Científica y Tecnológica (Argentina, 2001-2016). Registro Nacional de Proyectos de Investigación, Desarrollo e Innovación",
                     "title": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación por provincia",
                     "byteSize": null,
@@ -397,8 +371,20 @@
                     "mediaType": null,
                     "modified": null,
                     "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/6f44589b-5dc5-4585-abf2-98b759e406bf/resource/5eb1aa5e-4a9d-4cc6-8ca3-517d5448830f/download/empresas-ejecutoras-proyectos.csv",
-                    "issued": "2017-05-10T22:22:38.729503",
-                    "identifier": "9da70112-b82d-476c-9be2-ff03a274c0fe"
+                    "issued": "2017-05-10T20:45:26.976520",
+                    "identifier": "b4179c31-2ef8-4471-81cf-0a2cdb483a59"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/ddc3f696-2f42-4a5c-ad6c-b302f2e2a7d0/resource/4ad6c989-e2d9-4b96-9be5-6bf23610db83",
+                    "description": "Empresas de ejecución de proyectos financiados por la Agencia Nacional de Promoción Científica y Tecnológica (Argentina, 2001-2016). Registro Nacional de Proyectos de Investigación, Desarrollo e Innovación",
+                    "title": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación por provincia",
+                    "byteSize": null,
+                    "format": "JSON",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/6f44589b-5dc5-4585-abf2-98b759e406bf/resource/7bc7d092-a5ed-48ad-b7b0-3c626de64ed8/download/empresas-ejecutoras-proyectos.json",
+                    "issued": "2017-05-11T19:25:15.747367",
+                    "identifier": "4ad6c989-e2d9-4b96-9be5-6bf23610db83"
                 }
             ]
         },
@@ -410,9 +396,9 @@
             "landingPage": "",
             "description": "Datos de Entidades, Domicilios, Balances, Autoridades y Asambleas de las Entidades constituidas en la Inspección General de Justicia - IGJ",
             "license": "Creative Commons Attribution",
-            "title": "Entidades constituidas en la Inspección General de Justicia",
+            "title": "Entidades Constituidas en la Inspección General de Justicia",
             "issued": "2017-05-10T20:11:39.644234",
-            "modified": "2017-05-11T00:30:56.351577",
+            "modified": "2017-05-11T20:17:09.874764",
             "theme": [
                 "just"
             ],
@@ -602,6 +588,306 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/b7311dd0-0a40-4bcf-aead-dbc2250cef5a/download/igj-domicilios.csv",
                     "issued": "2017-05-11T00:30:56.377837",
                     "identifier": "cb8f48e0-6ead-4445-be72-4f33604e2849"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/deb1947b-df63-43c4-be45-cf6949c0e857",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2016-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/5d39a3d6-b9c3-4427-acfd-f484fe790704/download/igj-entidades.csv",
+                    "issued": "2017-05-11T19:27:15.373665",
+                    "identifier": "deb1947b-df63-43c4-be45-cf6949c0e857"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/5b5fcd92-7da4-4d5b-99cf-c9ad714c6eae",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ.  Asambleas de entidades constituidas en la IGJ 2016-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/20f311ea-826e-4687-9144-36da68083a7a/download/igj-asambleas.csv",
+                    "issued": "2017-05-11T19:27:16.789022",
+                    "identifier": "5b5fcd92-7da4-4d5b-99cf-c9ad714c6eae"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/1c63d273-65e3-4519-8dcf-a74d78f1af71",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ. Autoridades de entidades 2016-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1e304fcf-5a77-4c63-8e4d-e560e14389c3/download/igj-autoridades.csv",
+                    "issued": "2017-05-11T19:27:18.189140",
+                    "identifier": "1c63d273-65e3-4519-8dcf-a74d78f1af71"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/9c4b0ca0-a065-4b9b-957b-d590dcd55b82",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2016-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/083c6bfc-7f20-41ca-8b2c-8584aa1babfc/download/igj-domicilios.csv",
+                    "issued": "2017-05-11T19:27:19.651549",
+                    "identifier": "9c4b0ca0-a065-4b9b-957b-d590dcd55b82"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/5c153e63-981b-4edd-b381-bd98c2c36496",
+                    "description": "Balances de entidades constituidas en la IGJ",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2016-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1dda9e3b-5e60-49b1-8aeb-e0901916d229/download/igj-balances.csv",
+                    "issued": "2017-05-11T19:27:21.099383",
+                    "identifier": "5c153e63-981b-4edd-b381-bd98c2c36496"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/47a25931-3dba-4af6-96a9-66392b96f6d3",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2017-01",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1715382e-0c5e-400b-9550-d1c395311cad/download/igj-entidades.csv",
+                    "issued": "2017-05-11T19:27:22.535731",
+                    "identifier": "47a25931-3dba-4af6-96a9-66392b96f6d3"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/1b0ac149-c999-4317-ac28-c60086388a6c",
+                    "description": "Balances de entidades constituidas en la IGJ",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2017-01",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/6e90dced-64df-4c13-9a22-081bb3b872de/download/igj-balances.csv",
+                    "issued": "2017-05-11T19:27:24.014031",
+                    "identifier": "1b0ac149-c999-4317-ac28-c60086388a6c"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/d510369a-eb83-4e67-9f29-09279b35ea60",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ.  Asambleas de entidades constituidas en la IGJ 2017-01",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/9f31723c-8569-4dd4-ae7d-fdc46bc7ec8e/download/igj-asambleas.csv",
+                    "issued": "2017-05-11T19:27:25.492580",
+                    "identifier": "d510369a-eb83-4e67-9f29-09279b35ea60"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/388a950a-53fc-48cd-b1e7-424ccfd69065",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ. Autoridades de entidades 2017-01",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/e41edb57-f798-443d-8932-c06d275aca18/download/igj-autoridades.csv",
+                    "issued": "2017-05-11T19:27:26.939818",
+                    "identifier": "388a950a-53fc-48cd-b1e7-424ccfd69065"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/7ce2530f-d425-48fb-a5af-cd601d45207e",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2017-01",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/15e4fb9d-c195-40f1-b0a3-27c0ffe3591a/download/igj-domicilios.csv",
+                    "issued": "2017-05-11T19:27:28.524293",
+                    "identifier": "7ce2530f-d425-48fb-a5af-cd601d45207e"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/6f2c2aba-b447-4b62-b8c8-57f55ae2f743",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2017-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1771cf76-5210-4169-b833-45f212906cdd/download/igj-entidades.csv",
+                    "issued": "2017-05-11T19:27:30.031309",
+                    "identifier": "6f2c2aba-b447-4b62-b8c8-57f55ae2f743"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/ba14ae33-caad-46ec-bc2b-efbcd3e1b7c7",
+                    "description": "Balances presentados por entidades constituidas en la IGJ",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2017-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/6de27ecf-eff1-4351-9433-dc6c98e30e46/download/igj-balances.csv",
+                    "issued": "2017-05-11T19:27:31.560796",
+                    "identifier": "ba14ae33-caad-46ec-bc2b-efbcd3e1b7c7"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/7799da32-5ca2-4559-b522-1ea276d8703f",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ.  Asambleas de entidades constituidas en la IGJ 2017-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/a1e16899-e356-4d89-a32a-04cd56efa8b7/download/igj-asambleas.csv",
+                    "issued": "2017-05-11T19:27:33.122908",
+                    "identifier": "7799da32-5ca2-4559-b522-1ea276d8703f"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/fcf50850-2a66-436d-856e-c48bb45b75d3",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ. Autoridades de entidades 2017-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/06205444-fc47-4080-83f2-5658ca6b6615/download/igj-entidades.csv",
+                    "issued": "2017-05-11T19:27:34.742335",
+                    "identifier": "fcf50850-2a66-436d-856e-c48bb45b75d3"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/bdd1df82-423e-485c-b659-f46276ca3325",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2017-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1225e990-7c7a-4437-8df6-da58c216de64/download/igj-domicilios.csv",
+                    "issued": "2017-05-11T19:27:36.316970",
+                    "identifier": "bdd1df82-423e-485c-b659-f46276ca3325"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/9145c629-f703-4bf5-8d7d-3159a2c6676a",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ. Autoridades de entidades 2017-03",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/548b1588-7141-423d-9c78-27dfe2200de1/download/igj-autoridades.csv",
+                    "issued": "2017-05-11T19:27:37.862031",
+                    "identifier": "9145c629-f703-4bf5-8d7d-3159a2c6676a"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/0c02701c-03e9-4840-ace2-4d98cd728a63",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2017-03",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/be8a6b2f-80ea-47e7-a033-b2db866014f8/download/igj-entidades.csv",
+                    "issued": "2017-05-11T19:27:39.516482",
+                    "identifier": "0c02701c-03e9-4840-ace2-4d98cd728a63"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/455197f2-08d2-4dc1-b544-9fbb3b476999",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2017-03",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/14464ae4-eb5b-4216-9690-26426e5f6d71/download/igj-domicilios.csv",
+                    "issued": "2017-05-11T19:27:41.123953",
+                    "identifier": "455197f2-08d2-4dc1-b544-9fbb3b476999"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/d82bc15b-dbad-4646-92c4-cbaab96e94dd",
+                    "description": "Balances presentados por entidades constituidas en la IGJ",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2017-03",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/ee4fb267-6140-461e-8db4-1e4fee5fb3ea/download/igj-balances.csv",
+                    "issued": "2017-05-11T19:27:42.740057",
+                    "identifier": "d82bc15b-dbad-4646-92c4-cbaab96e94dd"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/e6233483-dc87-44c8-9125-38117101039f",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ.  Asambleas de entidades constituidas en la IGJ 2017-03",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/d4530368-c7db-4eea-b09c-4362639e657a/download/igj-asambleas.csv",
+                    "issued": "2017-05-11T19:27:44.364725",
+                    "identifier": "e6233483-dc87-44c8-9125-38117101039f"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/50399ab3-805f-41ce-95b0-7e91ccb43f28",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2017-04",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/9169143b-cc40-401d-8ee3-6062ba6fe952/download/igj-entidades.csv",
+                    "issued": "2017-05-11T19:27:45.993472",
+                    "identifier": "50399ab3-805f-41ce-95b0-7e91ccb43f28"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/fcd03819-46c2-455b-81c6-bff2d7533707",
+                    "description": "Balances presentados por entidades constituidas en la IGJ",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2017-04",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/7433ab57-2065-42dc-b310-6ca5e02e91f2/download/igj-balances.csv",
+                    "issued": "2017-05-11T19:27:47.740306",
+                    "identifier": "fcd03819-46c2-455b-81c6-bff2d7533707"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/3ddef885-acf8-4442-a653-2699a48a91cd",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2017-04",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/24a4e493-046d-49e6-a4b6-09bdf6f041b6/download/igj-domicilios.csv",
+                    "issued": "2017-05-11T19:27:49.478492",
+                    "identifier": "3ddef885-acf8-4442-a653-2699a48a91cd"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/4c9b9651-e859-4e5a-bf07-e86983dc767b",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ. Asambleas de entidades constituidas en la IGJ 2017-04",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/90c24f92-f027-4d17-8979-a8602eaacfa4/download/igj-asambleas.csv",
+                    "issued": "2017-05-11T19:27:51.122209",
+                    "identifier": "4c9b9651-e859-4e5a-bf07-e86983dc767b"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/e33ac7e8-8140-40c0-98e8-e4f8a8c49d3d/resource/e2b48ec1-3428-4634-b049-ba50a945cdef",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ.  Autoridades de entidades 2017-04",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/5ac15f52-1b0e-494c-8718-b21e696e90aa/download/igj-autoridades.csv",
+                    "issued": "2017-05-11T19:27:52.909178",
+                    "identifier": "e2b48ec1-3428-4634-b049-ba50a945cdef"
                 }
             ]
         },
@@ -615,7 +901,7 @@
             "license": "Creative Commons Attribution",
             "title": "Equipamiento científico-tecnológico",
             "issued": "2017-05-10T20:11:34.608260",
-            "modified": "2017-05-11T02:31:14.116895",
+            "modified": "2017-05-11T19:37:57.722279",
             "theme": [
                 "tech"
             ],
@@ -639,7 +925,7 @@
                     "identifier": "b8d154ec-5b4a-44ce-8ff7-ea5ce3762ecd"
                 },
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/f0fe2a50-ae98-4963-bb20-510c874bda29/resource/8d54b7d2-14b6-43fe-9b52-a78e0769fa02",
+                    "accessURL": "http://datos.gob.ar/dataset/f0fe2a50-ae98-4963-bb20-510c874bda29/resource/984d5a26-2b86-46e9-a1ab-1669c60a17e8",
                     "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
                     "title": "Equipamiento científico-tecnológico según tipo de institución y provincia",
                     "byteSize": null,
@@ -647,8 +933,8 @@
                     "mediaType": null,
                     "modified": null,
                     "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/84147f97-2f89-46af-b732-647e322f5959/download/equipos-sistemas-nacionales.json",
-                    "issued": "2017-05-10T22:12:43.040812",
-                    "identifier": "8d54b7d2-14b6-43fe-9b52-a78e0769fa02"
+                    "issued": "2017-05-11T19:23:43.715220",
+                    "identifier": "984d5a26-2b86-46e9-a1ab-1669c60a17e8"
                 }
             ]
         },
@@ -695,9 +981,9 @@
             "landingPage": "",
             "description": "En este conjunto de datos se detalla la cantidad de mediaciones prejudiciales y judiciales (remitidas por el Juez una vez iniciado el juicio) registradas en el Sistema Mepre, que está operativo desde febrero de 2014 y que registra la totalidad de las mediaciones prejudiciales efectuadas desde la fecha de su implementación.",
             "license": "Creative Commons Attribution",
-            "title": "Estadística de mediaciones prejudiciales y judiciales",
+            "title": "Estadística de Mediaciones Prejudiciales y Judiciales",
             "issued": "2017-05-10T20:11:39.991995",
-            "modified": "2017-05-10T22:02:37.507378",
+            "modified": "2017-05-11T20:14:26.023197",
             "theme": [
                 "just"
             ],
@@ -716,9 +1002,56 @@
                     "format": "CSV",
                     "mediaType": null,
                     "modified": null,
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/fee87e15-3d5b-4d30-a29f-2dd8815fc015/download/estadisticas-mediaciones-prejudiciales-y-judiciales.csv",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/fee87e15-3d5b-4d30-a29f-2dd8815fc015/download/estadistica-mediaciones-prejudiciales-y-judiciales.csv",
                     "issued": "2017-05-10T20:11:47.791390",
                     "identifier": "5094efd7-f9f9-46af-af9c-2f8450e16559"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
+            },
+            "landingPage": "",
+            "description": "En este conjunto de datos se detalla la cantidad de automotores 0km inscriptos y automotores transferidos, discriminados por año, mes, provincia. Se consideran automotores: automóviles,  camiones,  inclusive  los  llamados  tractores  para  semirremolque,  camionetas,  rurales,  jeeps,  furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aún  cuando  no  estuvieran  carrozados. Se consideran motovehículos: ciclomotores, motocicletas, motocarro (motocargas y motofurgones), motonetas, triciclos y cuatriciclos con motor. En cuanto a maquinarias están incluidas aquellas de uso agrícola, vial e industrial.",
+            "license": "Creative Commons Attribution",
+            "title": "Estadística de Trámites de Automotores, Motovehículos y Maquinarias",
+            "issued": "2017-05-11T19:22:57.258187",
+            "modified": "2017-05-11T20:14:58.173442",
+            "theme": [
+                "just"
+            ],
+            "keyword": [],
+            "contactPoint": {
+                "hasEmail": "accesobd@dnrpa.gov.ar",
+                "fn": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
+            },
+            "identifier": "3e9a07cf-57fa-466f-823e-6b60542f8f7f",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/3e9a07cf-57fa-466f-823e-6b60542f8f7f/resource/64d23d9c-df22-4502-8ade-daafb1aa31d1",
+                    "description": "Estadística mensual de inscripciones iniciales de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
+                    "title": "Estadística de inscripciones iniciales de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/2436ab65-44da-4f45-a59d-5e09136e1df2/download/estadistica-inscripciones-iniciales-autos-motos-maquinarias.csv",
+                    "issued": "2017-05-11T19:23:16.919606",
+                    "identifier": "64d23d9c-df22-4502-8ade-daafb1aa31d1"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/3e9a07cf-57fa-466f-823e-6b60542f8f7f/resource/ce6d6a48-b882-430b-9133-ecdfa27af796",
+                    "description": "Estadística mensual de transferencias de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
+                    "title": "Estadística de transferencias de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/65219d23-89af-4b19-85cb-c37364c4f9cb/download/estadistica-transferencias-autos-motos-maquinarias.csv",
+                    "issued": "2017-05-11T19:23:36.236359",
+                    "identifier": "ce6d6a48-b882-430b-9133-ecdfa27af796"
                 }
             ]
         },
@@ -773,7 +1106,7 @@
             "license": "Creative Commons Attribution",
             "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino",
             "issued": "2017-05-10T20:11:34.560262",
-            "modified": "2017-05-11T02:34:41.564498",
+            "modified": "2017-05-11T19:43:23.950251",
             "theme": [
                 "tech"
             ],
@@ -789,24 +1122,24 @@
                     "description": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución, provincia de localización, tipo de RRHH que se desempeña en ellas, máximo nivel educativo alcanzado y disciplina de experticia de sus RRHH",
                     "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución y provincia",
                     "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": null,
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/763fd787-8b0a-4b52-8700-1c983c195982/download/personal-instituciones.csv",
-                    "issued": "2017-05-10T20:45:28.253767",
-                    "identifier": "759eb973-8248-4581-b689-c6157713091c"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/155204f6-632f-4952-8613-def9f588be45/resource/35a18a67-5759-453d-ae51-a0647ab823be",
-                    "description": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución, provincia de localización, tipo de RRHH que se desempeña en ellas, máximo nivel educativo alcanzado y disciplina de experticia de sus RRHH",
-                    "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución y provincia",
-                    "byteSize": null,
                     "format": "JSON",
                     "mediaType": null,
                     "modified": null,
                     "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/7b15c7ce-a065-477b-af6d-414c5293819d/download/personal-instituciones.json",
-                    "issued": "2017-05-10T22:12:22.941845",
-                    "identifier": "35a18a67-5759-453d-ae51-a0647ab823be"
+                    "issued": "2017-05-10T20:45:28.253767",
+                    "identifier": "759eb973-8248-4581-b689-c6157713091c"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/155204f6-632f-4952-8613-def9f588be45/resource/1feaf0cd-fc1f-46d7-bb7c-b021ee383a5b",
+                    "description": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución, provincia de localización, tipo de RRHH que se desempeña en ellas, máximo nivel educativo alcanzado y disciplina de experticia de sus RRHH",
+                    "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución y provincia",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/763fd787-8b0a-4b52-8700-1c983c195982/download/personal-instituciones.csv",
+                    "issued": "2017-05-11T19:25:19.442854",
+                    "identifier": "1feaf0cd-fc1f-46d7-bb7c-b021ee383a5b"
                 }
             ]
         },
@@ -820,7 +1153,7 @@
             "license": "Creative Commons Attribution",
             "title": "Internos del Servicio Penitenciario Federal - SPF",
             "issued": "2017-05-10T20:11:40.126797",
-            "modified": "2017-05-10T23:08:07.844843",
+            "modified": "2017-05-11T20:16:06.015433",
             "theme": [
                 "just"
             ],
@@ -902,6 +1235,114 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/28dd97a3-df32-442d-8f4e-2e845ce18c43/download/internos-spf-procesados-2016-10.csv",
                     "issued": "2017-05-10T21:21:11.592024",
                     "identifier": "8b93532e-f49f-4a0b-8681-6ca9eb82fe07"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/3107b683-45f6-4494-89f1-4c8dcc59e41f/resource/08997938-46c8-4758-b194-1145259818d9",
+                    "description": "Este conjunto de datos registra los condenados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Condenados 2016-11",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/c496b296-5930-425f-bfa4-1c1a80d34d89/download/internos-spf-condenados-2016-11.csv",
+                    "issued": "2017-05-11T19:24:21.487616",
+                    "identifier": "08997938-46c8-4758-b194-1145259818d9"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/3107b683-45f6-4494-89f1-4c8dcc59e41f/resource/48172a9b-0d0d-48e1-bbee-94cdad4d2fa2",
+                    "description": "Este conjunto de datos registra los procesados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Procesados 2016-11",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/ea713323-7e8e-42ce-b1e9-f920982ebcac/download/internos-spf-procesados-2016-11.csv",
+                    "issued": "2017-05-11T19:24:24.164511",
+                    "identifier": "48172a9b-0d0d-48e1-bbee-94cdad4d2fa2"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/3107b683-45f6-4494-89f1-4c8dcc59e41f/resource/8375b8d3-f7a6-4e0b-8e98-f7228a22afb9",
+                    "description": "Este conjunto de datos registra los inimputables alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Inimputables 2016-11",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/8b5a01c5-b8a6-479c-9e1b-49d87f8964c5/download/internos-spf-inimputables-2016-11.csv",
+                    "issued": "2017-05-11T19:24:27.098345",
+                    "identifier": "8375b8d3-f7a6-4e0b-8e98-f7228a22afb9"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/3107b683-45f6-4494-89f1-4c8dcc59e41f/resource/f70eb543-755a-4743-bcf9-1eef6b1c1310",
+                    "description": "Este conjunto de datos registra los condenados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Condenados 2016-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/1f29c7a1-2803-4158-bfa8-069d73ecbb2a/download/internos-spf-condenados-2016-12.csv",
+                    "issued": "2017-05-11T19:24:29.850316",
+                    "identifier": "f70eb543-755a-4743-bcf9-1eef6b1c1310"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/3107b683-45f6-4494-89f1-4c8dcc59e41f/resource/748bef8b-6fa4-41a7-81ab-df9c69322d21",
+                    "description": "Este conjunto de datos registra los procesados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Procesados 2016-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/780e828b-fe57-40b2-b180-750278873211/download/internos-spf-procesados-2016-12.csv",
+                    "issued": "2017-05-11T19:24:32.661635",
+                    "identifier": "748bef8b-6fa4-41a7-81ab-df9c69322d21"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/3107b683-45f6-4494-89f1-4c8dcc59e41f/resource/bd60f8f3-d5cd-4907-824c-4252b7e7e7c8",
+                    "description": "Este conjunto de datos registra los inimputables alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Inimputables 2016-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/b55dd711-03c5-4526-a8a7-1635851f9a8f/download/internos-spf-inimputables-2016-12.csv",
+                    "issued": "2017-05-11T19:24:35.889264",
+                    "identifier": "bd60f8f3-d5cd-4907-824c-4252b7e7e7c8"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/3107b683-45f6-4494-89f1-4c8dcc59e41f/resource/7c759502-ebc6-4539-b725-d957d02ef9fd",
+                    "description": "Este conjunto de datos registra los inimputables alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Inimputables 2017-01",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/5400ccd1-734c-4995-8b7f-4190b94c8576/download/internos-spf-inimputables-2017-01.csv",
+                    "issued": "2017-05-11T19:24:38.924651",
+                    "identifier": "7c759502-ebc6-4539-b725-d957d02ef9fd"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/3107b683-45f6-4494-89f1-4c8dcc59e41f/resource/99f57e35-1207-4a68-953e-41b4c91933a9",
+                    "description": "Este conjunto de datos registra los procesados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Procesados 2017-01",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/c702d1c7-ed24-467a-ab27-e835ac7de44c/download/internos-spf-procesados-2017-01.csv",
+                    "issued": "2017-05-11T19:27:08.597196",
+                    "identifier": "99f57e35-1207-4a68-953e-41b4c91933a9"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/3107b683-45f6-4494-89f1-4c8dcc59e41f/resource/76f225a5-7010-4f18-a7be-b2744dfe3715",
+                    "description": "Este conjunto de datos registra los condenados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Condenados 2017-01",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/2ca8266e-6bff-4a97-8d77-0e4c0355ff82/download/internos-spf-condenados-2017-01.csv",
+                    "issued": "2017-05-11T19:27:11.635291",
+                    "identifier": "76f225a5-7010-4f18-a7be-b2744dfe3715"
                 }
             ]
         },
@@ -915,7 +1356,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Listado de Registros Seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios",
             "issued": "2017-05-11T14:57:55.075163",
-            "modified": "2017-05-11T14:58:43.193638",
+            "modified": "2017-05-11T20:14:44.365411",
             "theme": [
                 "just"
             ],
@@ -958,7 +1399,7 @@
             "license": "Creative Commons Attribution",
             "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
             "issued": "2017-05-10T20:11:39.801773",
-            "modified": "2017-05-10T22:35:46.449966",
+            "modified": "2017-05-11T20:15:05.634371",
             "theme": [
                 "just"
             ],
@@ -1017,7 +1458,7 @@
             "license": "ODbL-1.0",
             "title": "Pauta Oficial",
             "issued": "2016-09-02T18:38:21.940714",
-            "modified": "2017-02-28T22:58:03.147938",
+            "modified": "2017-05-11T20:54:13.988368",
             "theme": [
                 "gove"
             ],
@@ -1094,7 +1535,7 @@
             "license": "Creative Commons Attribution",
             "title": "Planes de Apertura de Datos",
             "issued": "2017-01-25T19:18:44.364167",
-            "modified": "2017-01-27T19:56:06.155852",
+            "modified": "2017-05-11T20:54:24.162478",
             "theme": [
                 "gove"
             ],
@@ -1136,7 +1577,7 @@
             "license": "Creative Commons Attribution",
             "title": "Proyectos de ciencia, tecnología e innovación",
             "issued": "2017-05-10T20:11:34.533192",
-            "modified": "2017-05-11T02:33:14.430780",
+            "modified": "2017-05-11T19:45:43.492283",
             "theme": [
                 "tech"
             ],
@@ -1148,7 +1589,7 @@
             "identifier": "8366c56e-1259-462c-baa0-167d9106cff4",
             "distribution": [
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/8366c56e-1259-462c-baa0-167d9106cff4/resource/31fb8e68-4deb-4173-af21-9f6719667a61",
+                    "accessURL": "http://datos.gob.ar/dataset/8366c56e-1259-462c-baa0-167d9106cff4/resource/1ce32e11-37e5-4155-970a-49af9c0b48a6",
                     "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
                     "title": "Proyectos de Ciencia Tecnología e Innovación",
                     "byteSize": null,
@@ -1156,20 +1597,20 @@
                     "mediaType": null,
                     "modified": null,
                     "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0/download/proyectos-cyt.json",
-                    "issued": "2017-05-10T20:11:36.564118",
-                    "identifier": "31fb8e68-4deb-4173-af21-9f6719667a61"
+                    "issued": "2017-05-10T20:45:25.815933",
+                    "identifier": "1ce32e11-37e5-4155-970a-49af9c0b48a6"
                 },
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/8366c56e-1259-462c-baa0-167d9106cff4/resource/1ce32e11-37e5-4155-970a-49af9c0b48a6",
+                    "accessURL": "http://datos.gob.ar/dataset/8366c56e-1259-462c-baa0-167d9106cff4/resource/939bcb5a-29ee-4972-93b4-7b9dcaeb21a8",
                     "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
                     "title": "Proyectos de Ciencia Tecnología e Innovación",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
                     "modified": null,
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0/download/proyectos-cyt.json",
-                    "issued": "2017-05-10T20:45:25.815933",
-                    "identifier": "1ce32e11-37e5-4155-970a-49af9c0b48a6"
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/641981b3-2ec4-402b-88ca-117f56500332/download/proyectos-cyt.csv",
+                    "issued": "2017-05-11T19:25:16.972647",
+                    "identifier": "939bcb5a-29ee-4972-93b4-7b9dcaeb21a8"
                 }
             ]
         },
@@ -1183,7 +1624,7 @@
             "license": "Creative Commons Attribution",
             "title": "Recursos humanos en ciencia y tecnología",
             "issued": "2017-05-10T20:11:34.599080",
-            "modified": "2017-05-11T02:32:05.280055",
+            "modified": "2017-05-11T19:48:43.370241",
             "theme": [
                 "tech"
             ],
@@ -1195,18 +1636,6 @@
             "identifier": "0768ec0a-dfd6-4291-8e2b-6676197a7878",
             "distribution": [
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/0768ec0a-dfd6-4291-8e2b-6676197a7878/resource/fc583a3b-5bcc-4c0f-9e0e-6dc6a0a2e487",
-                    "description": "Recursos humanos en Ciencia y Tecnología por provincia, máximo nivel educativo alcanzado, género, rangos de edad, tipo de personal de I+D y gran área del conocimiento de la formación de grado, tipo de institución de trabajo, categoría en CONICET y categoría en el Programa de Incentivos a los Docentes Investigadores",
-                    "title": "Recursos humanos en Ciencia y Tecnología",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": null,
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/93b23e91-ba14-4146-8368-6a50b62b1890/download/recursos-humanos-cyt.csv",
-                    "issued": "2017-05-10T20:45:28.615853",
-                    "identifier": "fc583a3b-5bcc-4c0f-9e0e-6dc6a0a2e487"
-                },
-                {
                     "accessURL": "http://datos.gob.ar/dataset/0768ec0a-dfd6-4291-8e2b-6676197a7878/resource/a579fcb9-1561-4260-8c61-bd737f4cda49",
                     "description": "Recursos humanos en Ciencia y Tecnología por provincia, máximo nivel educativo alcanzado, género, rangos de edad, tipo de personal de I+D y gran área del conocimiento de la formación de grado, tipo de institución de trabajo, categoría en CONICET y categoría en el Programa de Incentivos a los Docentes Investigadores",
                     "title": "Recursos humanos en Ciencia y Tecnología",
@@ -1217,6 +1646,18 @@
                     "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/b57a401f-7a6a-49d0-af05-d9aae3c97e14/download/recursos-humanos-cyt.json",
                     "issued": "2017-05-10T22:12:58.347111",
                     "identifier": "a579fcb9-1561-4260-8c61-bd737f4cda49"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/0768ec0a-dfd6-4291-8e2b-6676197a7878/resource/ad45574b-68ea-4b42-b26e-8dc58aef9dbd",
+                    "description": "Recursos humanos en Ciencia y Tecnología por provincia, máximo nivel educativo alcanzado, género, rangos de edad, tipo de personal de I+D y gran área del conocimiento de la formación de grado, tipo de institución de trabajo, categoría en CONICET y categoría en el Programa de Incentivos a los Docentes Investigadores",
+                    "title": "Recursos humanos en Ciencia y Tecnología",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/93b23e91-ba14-4146-8368-6a50b62b1890/download/recursos-humanos-cyt.csv",
+                    "issued": "2017-05-11T19:25:06.757658",
+                    "identifier": "ad45574b-68ea-4b42-b26e-8dc58aef9dbd"
                 }
             ]
         },
@@ -1230,7 +1671,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Registro Central de Personas Contratadas",
             "issued": "2016-04-14T23:20:52.644088",
-            "modified": "2017-03-20T16:35:08.348576",
+            "modified": "2017-05-11T20:53:28.617192",
             "theme": [
                 "gove"
             ],
@@ -1264,14 +1705,84 @@
         {
             "publisher": {
                 "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción."
+            },
+            "landingPage": "",
+            "description": "Conjunto de datos que detalla los obsequios a funcionarios públicos registrados en el ámbito de la Oficina Anticorrupción",
+            "license": "Creative Commons Attribution",
+            "title": "Registro de Obsequios a Funcionarios Públicos",
+            "issued": "2017-05-11T19:22:57.195884",
+            "modified": "2017-05-11T20:14:44.732660",
+            "theme": [
+                "just"
+            ],
+            "keyword": [],
+            "contactPoint": {
+                "hasEmail": "aferrer@anticorrupcion.gob.ar",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción."
+            },
+            "identifier": "327f76eb-7530-4653-907b-610a3bdcd661",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/327f76eb-7530-4653-907b-610a3bdcd661/resource/3c8d2795-2bc0-4f59-9778-2efd895094d5",
+                    "description": "Conjunto de datos que detalla los obsequios a funcionarios públicos registrados en el ámbito de la Oficina Anticorrupción",
+                    "title": "Registro de obsequios a funcionarios públicos",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/7c268f77-e007-43ba-8a18-d50ef022f8e3/resource/a861d92f-272b-4c9f-8f2f-52946558d337/download/registroobsequiosfuncionariospublicos.csv",
+                    "issued": "2017-05-11T19:23:19.016143",
+                    "identifier": "3c8d2795-2bc0-4f59-9778-2efd895094d5"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción."
+            },
+            "landingPage": "",
+            "description": "En este conjunto de datos se detalla el registro de viajes de los funcionarios públicos financiados por terceros a partir de la implementación del Decreto 1179/16, reglamentario de la Ley de Ética en el Ejercicio de la Función Pública N° 25.188. ",
+            "license": "Creative Commons Attribution",
+            "title": "Registro de Viajes Fincianciados por Terceros",
+            "issued": "2017-05-11T19:22:57.505613",
+            "modified": "2017-05-11T20:14:46.635579",
+            "theme": [
+                "just"
+            ],
+            "keyword": [],
+            "contactPoint": {
+                "hasEmail": "aferrer@anticorrupcion.gob.ar",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción."
+            },
+            "identifier": "12d96c60-2242-4eab-86d6-e5fd49c32b15",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/12d96c60-2242-4eab-86d6-e5fd49c32b15/resource/7d80aa6c-6ec0-48cb-a0cb-667171d5b7e5",
+                    "description": "Detalle del registro de viajes de los funcionarios públicos financiados por terceros a partir de la implementación del Decreto 1179/16, reglamentario de la Ley de Ética en el Ejercicio de la Función Pública N° 25.188 ",
+                    "title": "Registro de viajes financiados por terceros",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/4e1e49d5-686d-49bc-91d1-90bcf6d95658/download/registroviajesfinanciadosterceros.csv",
+                    "issued": "2017-05-11T19:23:19.000874",
+                    "identifier": "7d80aa6c-6ec0-48cb-a0cb-667171d5b7e5"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Dirección Nacional de Asuntos Jurídicos en materia de Derechos Humanos. Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género"
             },
             "landingPage": "",
-            "description": "Se registran los femicidios y homicidios agravados por el género desde el año 2012 a la fecha. La base se nutre de diversas fuentes: articulos de prensa escrita, denuncias policiales y judiciales, denuncias realizadas ante la Secretaría de Derechos Humanos.",
+            "description": "Se registran los femicidios y homicidios agravados por el género desde el año 2012 a la fecha. La base se nutre de diversas fuentes: artículos de prensa escrita, denuncias policiales y judiciales, denuncias realizadas ante la Secretaría de Derechos Humanos.",
             "license": "Creative Commons Attribution",
             "title": "Registro, Sistematización y Seguimiento de Femicidios y Homicidios Agravados por el Género",
             "issued": "2017-05-10T20:11:39.600763",
-            "modified": "2017-05-10T22:02:32.609590",
+            "modified": "2017-05-11T20:14:43.086467",
             "theme": [
                 "just"
             ],
@@ -1285,7 +1796,7 @@
                 {
                     "accessURL": "http://datos.gob.ar/dataset/167e9841-3644-49f5-8226-706a71930a45/resource/1d44baba-b29a-452c-85b5-8ee47ccc2f10",
                     "description": "Esta base registra los femicidios y homicidios agravados por el género desde el año 2012 a la fecha.",
-                    "title": "Registro, Sistematización y Seguimiento de Femicidios y Homicidios Agravados por el género",
+                    "title": "Registro, Sistematización y Seguimiento de  Femicidios y Homicidios Agravados por el Género",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
@@ -1306,7 +1817,7 @@
             "license": "Creative Commons Attribution",
             "title": "Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional",
             "issued": "2017-05-10T20:11:39.478327",
-            "modified": "2017-05-10T22:02:35.833141",
+            "modified": "2017-05-11T20:14:47.173776",
             "theme": [
                 "just"
             ],
@@ -1341,7 +1852,7 @@
             "license": "ODbL-1.0",
             "title": "Registro Único de Audiencias de Gestión de Intereses",
             "issued": "2016-03-07T19:03:12.554469",
-            "modified": "2017-01-12T06:12:35.854665",
+            "modified": "2017-05-11T20:55:23.469484",
             "theme": [
                 "gove"
             ],
@@ -1394,7 +1905,7 @@
             "license": "Creative Commons Attribution",
             "title": "Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-",
             "issued": "2017-05-10T20:11:40.162602",
-            "modified": "2017-05-10T22:22:59.113127",
+            "modified": "2017-05-11T20:14:58.462678",
             "theme": [
                 "just"
             ],
@@ -1441,7 +1952,7 @@
             "license": "Creative Commons Attribution",
             "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
             "issued": "2017-05-10T20:11:40.398833",
-            "modified": "2017-05-10T22:02:36.918726",
+            "modified": "2017-05-11T20:14:45.944056",
             "theme": [
                 "just"
             ],
@@ -1454,7 +1965,7 @@
             "distribution": [
                 {
                     "accessURL": "http://datos.gob.ar/dataset/2b3f30d7-7124-494a-b08c-a1cfc2d49aa3/resource/bb12735c-d218-45d2-b769-1e0c0a1a69f1",
-                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 21-12-2016",
+                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 11-05-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
                     "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
                     "byteSize": null,
                     "format": "CSV",
@@ -1476,7 +1987,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema de Contrataciones Electrónicas  (Argentina Compra)",
             "issued": "2016-04-14T19:48:05.433640",
-            "modified": "2017-05-11T18:57:18.222372",
+            "modified": "2017-05-11T20:51:53.865912",
             "theme": [
                 "econ",
                 "gove"
@@ -1621,7 +2132,7 @@
             "license": "Creative Commons Attribution",
             "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP",
             "issued": "2017-05-10T20:11:39.990104",
-            "modified": "2017-05-11T00:21:57.877670",
+            "modified": "2017-05-11T20:16:03.325452",
             "theme": [
                 "just"
             ],
@@ -1812,7 +2323,7 @@
             "license": "ODbL-1.0",
             "title": "Solicitudes de Acceso a la Información Pública",
             "issued": "2016-03-07T20:05:00.861941",
-            "modified": "2017-04-07T20:12:05.662591",
+            "modified": "2017-05-11T20:53:16.145297",
             "theme": [
                 "gove"
             ],
@@ -1862,11 +2373,11 @@
                 "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas."
             },
             "landingPage": "",
-            "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\n \n Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
+            "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\r\nLos datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
             "license": "Creative Commons Attribution",
             "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
             "issued": "2017-05-10T20:11:37.590245",
-            "modified": "2017-05-10T22:02:37.882787",
+            "modified": "2017-05-11T20:14:44.743583",
             "theme": [
                 "just"
             ],
@@ -1885,7 +2396,7 @@
                     "format": "CSV",
                     "mediaType": null,
                     "modified": null,
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/2e0a4e06-0d2e-4e78-861d-1105e558e493/download/solicitudes-de-autorizacion-de-portacion-de-armas-de-fuego.csv",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/2e0a4e06-0d2e-4e78-861d-1105e558e493/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
                     "issued": "2017-05-10T20:11:41.738647",
                     "identifier": "2c464abd-78d7-4911-b894-b22b8b1da7cd"
                 }
@@ -1897,11 +2408,11 @@
                 "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de materiales Controlados - Coordinación de Sistemas"
             },
             "landingPage": "",
-            "description": "En este conjunto de datos se detallan las solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\n \n Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
+            "description": "En este conjunto de datos se detallan las solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\r\nLos datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
             "license": "Creative Commons Attribution",
             "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
             "issued": "2017-05-10T20:11:37.966049",
-            "modified": "2017-05-10T22:02:35.592658",
+            "modified": "2017-05-11T20:14:47.248917",
             "theme": [
                 "just"
             ],
@@ -1920,7 +2431,7 @@
                     "format": "CSV",
                     "mediaType": null,
                     "modified": null,
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0ecec60a-0723-4232-a401-6565ebb282cf/download/solicitudes-de-condicion-de-legitimo-usuario-de-armas-de-fuego.csv",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0ecec60a-0723-4232-a401-6565ebb282cf/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv",
                     "issued": "2017-05-10T20:11:44.718347",
                     "identifier": "eec965a3-b33a-43c5-a5ff-d65b8ed04c8a"
                 }
@@ -1933,23 +2444,14 @@
             },
             "landingPage": "",
             "description": "El Tesauro SAIJ es un sistema de organización del conocimiento jurídico, en forma de lista de términos controlados que representan conceptos. Se utiliza para hacer más eficiente para el usuario el acceso a la información contenida en un archivo o centro de documentación que administre material vinculado con el Derecho argentino.",
-            "license": "Open Data Commons Open Database License (ODbL)",
+            "license": "Creative Commons Attribution",
             "title": "Tesauro SAIJ de Derecho Argentino",
             "issued": "2017-05-11T14:07:44.282539",
-            "modified": "2017-05-11T14:14:09.809950",
+            "modified": "2017-05-11T20:14:47.509364",
             "theme": [
                 "just"
             ],
-            "keyword": [
-                "acordadas",
-                "decisiones administrativas",
-                "decretos",
-                "disposiciones",
-                "inteligencia jurídica",
-                "leyes",
-                "tesauro jurídico",
-                "vocabularios controlados"
-            ],
+            "keyword": [],
             "contactPoint": {
                 "hasEmail": "datosabiertos@saij.gob.ar",
                 "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
@@ -1957,16 +2459,16 @@
             "identifier": "ed3f5e85-b3d8-48ee-be3e-5c9d03469ec8",
             "distribution": [
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/ed3f5e85-b3d8-48ee-be3e-5c9d03469ec8/resource/00670432-43ce-4a9e-aac6-3533e83ae4ad",
-                    "description": "Tesauro SAIJ de Derecho Argentino.",
-                    "title": "Tesauro SAIJ de Derecho Argentino.",
+                    "accessURL": "http://datos.gob.ar/dataset/ed3f5e85-b3d8-48ee-be3e-5c9d03469ec8/resource/eb5cb327-d484-4bc4-afb0-4e1fd8662d03",
+                    "description": "Tesauro SAIJ de Derecho Argentino",
+                    "title": "Tesauro SAIJ de Derecho Argentino",
                     "byteSize": null,
-                    "format": "CSV",
+                    "format": "RDF",
                     "mediaType": null,
                     "modified": null,
                     "downloadURL": "http://datos.jus.gob.ar/dataset/e41e8224-f868-4688-9fae-94d320f8ee5e/resource/0a823ec3-4609-41b6-8af8-93afd23aaf9c/download/tesauro-saij.rdf",
-                    "issued": "2017-05-11T14:14:08.993998",
-                    "identifier": "00670432-43ce-4a9e-aac6-3533e83ae4ad"
+                    "issued": "2017-05-11T19:23:19.345646",
+                    "identifier": "eb5cb327-d484-4bc4-afb0-4e1fd8662d03"
                 }
             ]
         }
