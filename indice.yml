@@ -53,3 +53,7 @@ procuracion-penitenciaria:
 procuracion-penitenciaria-ckan:
   url: "http://190.210.168.211"
   formato: "ckan"
+
+arsat:
+  url: "http://datos.arsat.com.ar/data.json"
+  formato: "json"
