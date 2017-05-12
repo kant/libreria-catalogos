@@ -45,3 +45,11 @@ mincyt-ckan:
 energia:
   url: "http://190.3.64.19"
   formato: "ckan"
+
+procuracion-penitenciaria:
+  url: "http://190.210.168.211/data.json"
+  formato: "json"
+  
+procuracion-penitenciaria-ckan:
+  url: "http://190.210.168.211"
+  formato: "ckan"
