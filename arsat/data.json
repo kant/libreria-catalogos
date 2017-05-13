@@ -12,6 +12,340 @@
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
+            "language": [
+                "spa"
+            ],
+            "title": "Áreas de cobertura de la televisión digital abierta",
+            "issued": "2017-05-13T10:48:52",
+            "modified": "2017-05-13T10:49:02",
+            "theme": [
+                "television-digital-abierta"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "TDA"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
+                    "title": "Áreas de cobertura de la televisión digital abierta",
+                    "issued": "2017-05-13T10:48:52",
+                    "format": "CSV",
+                    "modified": "2017-05-13T10:49:02",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
+                    "title": "Áreas de cobertura de la televisión digital abierta",
+                    "issued": "2017-05-13T10:48:52",
+                    "format": "XLS",
+                    "modified": "2017-05-13T10:49:02",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
+                    "title": "Áreas de cobertura de la televisión digital abierta",
+                    "issued": "2017-05-13T10:48:52",
+                    "format": "JSON",
+                    "modified": "2017-05-13T10:49:02",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@gmail.com",
+                "name": "ARSAT"
+            },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+            "language": [
+                "spa"
+            ],
+            "title": "Datos de las estaciones transmisoras",
+            "issued": "2017-05-13T10:41:32",
+            "modified": "2017-05-13T10:41:37",
+            "theme": [
+                "television-digital-abierta"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "TDA"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+                    "title": "Datos de las estaciones transmisoras",
+                    "issued": "2017-05-13T10:41:32",
+                    "format": "CSV",
+                    "modified": "2017-05-13T10:41:37",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+                    "title": "Datos de las estaciones transmisoras",
+                    "issued": "2017-05-13T10:41:32",
+                    "format": "XLS",
+                    "modified": "2017-05-13T10:41:37",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+                    "title": "Datos de las estaciones transmisoras",
+                    "issued": "2017-05-13T10:41:32",
+                    "format": "JSON",
+                    "modified": "2017-05-13T10:41:37",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio norte del continente americano",
+            "language": [
+                "spa"
+            ],
+            "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica",
+            "issued": "2017-05-13T10:25:50",
+            "modified": "2017-05-13T10:25:55",
+            "theme": [
+                "servicios-satelitales"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "ARSAT 2",
+                "satelital"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236045/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-2-en-norteamerica/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio norte del continente americano",
+                    "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica",
+                    "issued": "2017-05-13T10:25:50",
+                    "format": "CSV",
+                    "modified": "2017-05-13T10:25:55",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236045/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-2-en-norteamerica/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio norte del continente americano",
+                    "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica",
+                    "issued": "2017-05-13T10:25:50",
+                    "format": "XLS",
+                    "modified": "2017-05-13T10:25:55",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236045/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-2-en-norteamerica/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio norte del continente americano",
+                    "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica",
+                    "issued": "2017-05-13T10:25:50",
+                    "format": "JSON",
+                    "modified": "2017-05-13T10:25:55",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/236045/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-2-en-norteamerica/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Esta tabla muestra las coordenadas espaciales que demarcan los límites del área de cobertura del satélite ARSAT-1.",
+            "language": [
+                "spa"
+            ],
+            "title": "Datos del área de cobertura del satélite ARSAT-1",
+            "issued": "2017-05-13T10:23:41",
+            "modified": "2017-05-13T10:23:52",
+            "theme": [
+                "servicios-satelitales"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "ARSAT 1",
+                "satelital"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236042/datos-del-area-de-cobertura-del-satelite-arsat-1/",
+                    "description": "Esta tabla muestra las coordenadas espaciales que demarcan los límites del área de cobertura del satélite ARSAT-1.",
+                    "title": "Datos del área de cobertura del satélite ARSAT-1",
+                    "issued": "2017-05-13T10:23:41",
+                    "format": "CSV",
+                    "modified": "2017-05-13T10:23:52",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236042/datos-del-area-de-cobertura-del-satelite-arsat-1/",
+                    "description": "Esta tabla muestra las coordenadas espaciales que demarcan los límites del área de cobertura del satélite ARSAT-1.",
+                    "title": "Datos del área de cobertura del satélite ARSAT-1",
+                    "issued": "2017-05-13T10:23:41",
+                    "format": "XLS",
+                    "modified": "2017-05-13T10:23:52",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236042/datos-del-area-de-cobertura-del-satelite-arsat-1/",
+                    "description": "Esta tabla muestra las coordenadas espaciales que demarcan los límites del área de cobertura del satélite ARSAT-1.",
+                    "title": "Datos del área de cobertura del satélite ARSAT-1",
+                    "issued": "2017-05-13T10:23:41",
+                    "format": "JSON",
+                    "modified": "2017-05-13T10:23:52",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/236042/datos-del-area-de-cobertura-del-satelite-arsat-1/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda C del satélite ARSAT-2 en el continente americano.",
+            "language": [
+                "spa"
+            ],
+            "title": "Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América",
+            "issued": "2017-05-13T10:21:22",
+            "modified": "2017-05-13T10:21:28",
+            "theme": [
+                "servicios-satelitales"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "ARSAT 2",
+                "satelital"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236043/datos-del-area-de-cobertura-de-la-banda-c-del-satelite-arsat-2-en-america/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda C del satélite ARSAT-2 en el continente americano.",
+                    "title": "Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América",
+                    "issued": "2017-05-13T10:21:22",
+                    "format": "CSV",
+                    "modified": "2017-05-13T10:21:28",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236043/datos-del-area-de-cobertura-de-la-banda-c-del-satelite-arsat-2-en-america/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda C del satélite ARSAT-2 en el continente americano.",
+                    "title": "Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América",
+                    "issued": "2017-05-13T10:21:22",
+                    "format": "XLS",
+                    "modified": "2017-05-13T10:21:28",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236043/datos-del-area-de-cobertura-de-la-banda-c-del-satelite-arsat-2-en-america/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda C del satélite ARSAT-2 en el continente americano.",
+                    "title": "Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América",
+                    "issued": "2017-05-13T10:21:22",
+                    "format": "JSON",
+                    "modified": "2017-05-13T10:21:28",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/236043/datos-del-area-de-cobertura-de-la-banda-c-del-satelite-arsat-2-en-america/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-21886/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio sur del continente americano",
+            "language": [
+                "spa"
+            ],
+            "title": "Datos del área de cobertura en Banda KU del satélite ARSAT-2 en América del Sur",
+            "issued": "2017-05-13T10:17:44",
+            "modified": "2017-05-13T10:17:54",
+            "theme": [
+                "servicios-satelitales"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "ARSAT 2",
+                "satelital"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236048/datos-del-area-de-cobertura-en-banda-ku-del-satelite-arsat-2-en-america-del-sur/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio sur del continente americano",
+                    "title": "Datos del área de cobertura en Banda KU del satélite ARSAT-2 en América del Sur",
+                    "issued": "2017-05-13T10:17:44",
+                    "format": "CSV",
+                    "modified": "2017-05-13T10:17:54",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-21886/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236048/datos-del-area-de-cobertura-en-banda-ku-del-satelite-arsat-2-en-america-del-sur/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio sur del continente americano",
+                    "title": "Datos del área de cobertura en Banda KU del satélite ARSAT-2 en América del Sur",
+                    "issued": "2017-05-13T10:17:44",
+                    "format": "XLS",
+                    "modified": "2017-05-13T10:17:54",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-21886/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236048/datos-del-area-de-cobertura-en-banda-ku-del-satelite-arsat-2-en-america-del-sur/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio sur del continente americano",
+                    "title": "Datos del área de cobertura en Banda KU del satélite ARSAT-2 en América del Sur",
+                    "issued": "2017-05-13T10:17:44",
+                    "format": "JSON",
+                    "modified": "2017-05-13T10:17:54",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-21886/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/236048/datos-del-area-de-cobertura-en-banda-ku-del-satelite-arsat-2-en-america-del-sur/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
             "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-FEDER-DE-INTER-TRAZA/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
             "description": "El listado muestra las coordenadas de los diferentes tramos de la Red de Fibra Óptica que actualmente se encuentran en condiciones de transportar internet de alta velocidad según sus coordenadas.",
             "language": [
@@ -400,62 +734,6 @@
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "Polígonos de Cobertura ARSAT-2 Banda C Hemisférica",
-            "language": [
-                "spa"
-            ],
-            "title": "Cobertura ARSAT-2 Banda C Hemisférica",
-            "issued": "2017-05-11T09:19:40",
-            "modified": "2017-05-12T14:56:54",
-            "theme": [
-                "servicios-satelitales"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "ARSAT 2",
-                "satelital"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236043/cobertura-arsat-2-banda-c-hemisferica/",
-                    "description": "Polígonos de Cobertura ARSAT-2 Banda C Hemisférica",
-                    "title": "Cobertura ARSAT-2 Banda C Hemisférica",
-                    "issued": "2017-05-11T09:19:40",
-                    "format": "CSV",
-                    "modified": "2017-05-12T14:56:54",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236043/cobertura-arsat-2-banda-c-hemisferica/",
-                    "description": "Polígonos de Cobertura ARSAT-2 Banda C Hemisférica",
-                    "title": "Cobertura ARSAT-2 Banda C Hemisférica",
-                    "issued": "2017-05-11T09:19:40",
-                    "format": "XLS",
-                    "modified": "2017-05-12T14:56:54",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236043/cobertura-arsat-2-banda-c-hemisferica/",
-                    "description": "Polígonos de Cobertura ARSAT-2 Banda C Hemisférica",
-                    "title": "Cobertura ARSAT-2 Banda C Hemisférica",
-                    "issued": "2017-05-11T09:19:40",
-                    "format": "JSON",
-                    "modified": "2017-05-12T14:56:54",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/236043/cobertura-arsat-2-banda-c-hemisferica/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
             "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/DECLA-JURAD-DIREC-Y-GEREN/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
             "description": "Detalle de las declaraciones juradas patrimoniales presentadas por Directorio y Gerentes de ARSAT",
             "language": [
@@ -506,174 +784,6 @@
                 }
             ],
             "landingPage": "http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "Polígonos de Cobertura del ARSAT-1",
-            "language": [
-                "spa"
-            ],
-            "title": "Cobertura ARSAT-1",
-            "issued": "2017-05-11T09:13:59",
-            "modified": "2017-05-11T09:14:04",
-            "theme": [
-                "servicios-satelitales"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "ARSAT 1",
-                "satelital"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236042/cobertura-arsat-1/",
-                    "description": "Polígonos de Cobertura del ARSAT-1",
-                    "title": "Cobertura ARSAT-1",
-                    "issued": "2017-05-11T09:13:59",
-                    "format": "CSV",
-                    "modified": "2017-05-11T09:14:04",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236042/cobertura-arsat-1/",
-                    "description": "Polígonos de Cobertura del ARSAT-1",
-                    "title": "Cobertura ARSAT-1",
-                    "issued": "2017-05-11T09:13:59",
-                    "format": "XLS",
-                    "modified": "2017-05-11T09:14:04",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236042/cobertura-arsat-1/",
-                    "description": "Polígonos de Cobertura del ARSAT-1",
-                    "title": "Cobertura ARSAT-1",
-                    "issued": "2017-05-11T09:13:59",
-                    "format": "JSON",
-                    "modified": "2017-05-11T09:14:04",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/236042/cobertura-arsat-1/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-21886/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "Polígonos de Cobertura ARSAT-2 Banda Ku Sud América",
-            "language": [
-                "spa"
-            ],
-            "title": "Cobertura ARSAT-2 Banda Ku Sud América",
-            "issued": "2017-05-11T09:12:47",
-            "modified": "2017-05-11T09:12:51",
-            "theme": [
-                "servicios-satelitales"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "ARSAT 2",
-                "satelital"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236048/cobertura-arsat-2-banda-ku-sud-america/",
-                    "description": "Polígonos de Cobertura ARSAT-2 Banda Ku Sud América",
-                    "title": "Cobertura ARSAT-2 Banda Ku Sud América",
-                    "issued": "2017-05-11T09:12:47",
-                    "format": "CSV",
-                    "modified": "2017-05-11T09:12:51",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-21886/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236048/cobertura-arsat-2-banda-ku-sud-america/",
-                    "description": "Polígonos de Cobertura ARSAT-2 Banda Ku Sud América",
-                    "title": "Cobertura ARSAT-2 Banda Ku Sud América",
-                    "issued": "2017-05-11T09:12:47",
-                    "format": "XLS",
-                    "modified": "2017-05-11T09:12:51",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-21886/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236048/cobertura-arsat-2-banda-ku-sud-america/",
-                    "description": "Polígonos de Cobertura ARSAT-2 Banda Ku Sud América",
-                    "title": "Cobertura ARSAT-2 Banda Ku Sud América",
-                    "issued": "2017-05-11T09:12:47",
-                    "format": "JSON",
-                    "modified": "2017-05-11T09:12:51",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-21886/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/236048/cobertura-arsat-2-banda-ku-sud-america/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "Polígonos de Cobertura ARSAT-2 Banda Ku Norte América",
-            "language": [
-                "spa"
-            ],
-            "title": "Cobertura ARSAT-2 Banda Ku Norte América",
-            "issued": "2017-05-11T09:12:05",
-            "modified": "2017-05-11T09:12:10",
-            "theme": [
-                "servicios-satelitales"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "ARSAT 2",
-                "satelital"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236045/cobertura-arsat-2-banda-ku-norte-america/",
-                    "description": "Polígonos de Cobertura ARSAT-2 Banda Ku Norte América",
-                    "title": "Cobertura ARSAT-2 Banda Ku Norte América",
-                    "issued": "2017-05-11T09:12:05",
-                    "format": "CSV",
-                    "modified": "2017-05-11T09:12:10",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236045/cobertura-arsat-2-banda-ku-norte-america/",
-                    "description": "Polígonos de Cobertura ARSAT-2 Banda Ku Norte América",
-                    "title": "Cobertura ARSAT-2 Banda Ku Norte América",
-                    "issued": "2017-05-11T09:12:05",
-                    "format": "XLS",
-                    "modified": "2017-05-11T09:12:10",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236045/cobertura-arsat-2-banda-ku-norte-america/",
-                    "description": "Polígonos de Cobertura ARSAT-2 Banda Ku Norte América",
-                    "title": "Cobertura ARSAT-2 Banda Ku Norte América",
-                    "issued": "2017-05-11T09:12:05",
-                    "format": "JSON",
-                    "modified": "2017-05-11T09:12:10",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/236045/cobertura-arsat-2-banda-ku-norte-america/"
         },
         {
             "publisher": {
@@ -1671,116 +1781,6 @@
                 }
             ],
             "landingPage": "http://datos.arsat.com.ar/dataviews/237560/licitaciones-2016-2017/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@gmail.com",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "Estaciones de Transmisión de la TDA",
-            "language": [
-                "spa"
-            ],
-            "title": "Estaciones de Transmisión",
-            "issued": "2017-03-23T14:30:41",
-            "modified": "2017-03-23T14:30:45",
-            "theme": [
-                "television-digital-abierta"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "TDA"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/estaciones-de-transmision/",
-                    "description": "Estaciones de Transmisión de la TDA",
-                    "title": "Estaciones de Transmisión",
-                    "issued": "2017-03-23T14:30:41",
-                    "format": "CSV",
-                    "modified": "2017-03-23T14:30:45",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/estaciones-de-transmision/",
-                    "description": "Estaciones de Transmisión de la TDA",
-                    "title": "Estaciones de Transmisión",
-                    "issued": "2017-03-23T14:30:41",
-                    "format": "XLS",
-                    "modified": "2017-03-23T14:30:45",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/estaciones-de-transmision/",
-                    "description": "Estaciones de Transmisión de la TDA",
-                    "title": "Estaciones de Transmisión",
-                    "issued": "2017-03-23T14:30:41",
-                    "format": "JSON",
-                    "modified": "2017-03-23T14:30:45",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/236036/estaciones-de-transmision/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "Polígonos de Cobertura de la TDA",
-            "language": [
-                "spa"
-            ],
-            "title": "Polígonos de Cobertura",
-            "issued": "2017-03-23T14:29:52",
-            "modified": "2017-03-23T14:29:59",
-            "theme": [
-                "television-digital-abierta"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "TDA"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/poligonos-de-cobertura/",
-                    "description": "Polígonos de Cobertura de la TDA",
-                    "title": "Polígonos de Cobertura",
-                    "issued": "2017-03-23T14:29:52",
-                    "format": "CSV",
-                    "modified": "2017-03-23T14:29:59",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/poligonos-de-cobertura/",
-                    "description": "Polígonos de Cobertura de la TDA",
-                    "title": "Polígonos de Cobertura",
-                    "issued": "2017-03-23T14:29:52",
-                    "format": "XLS",
-                    "modified": "2017-03-23T14:29:59",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/poligonos-de-cobertura/",
-                    "description": "Polígonos de Cobertura de la TDA",
-                    "title": "Polígonos de Cobertura",
-                    "issued": "2017-03-23T14:29:52",
-                    "format": "JSON",
-                    "modified": "2017-03-23T14:29:59",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/236037/poligonos-de-cobertura/"
         }
     ],
     "themeTaxonomy": [
