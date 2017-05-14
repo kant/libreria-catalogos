@@ -12,14 +12,14 @@
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
             "language": [
                 "spa"
             ],
-            "title": "Datos de las estaciones de transmisión en construcción y planificadas",
-            "issued": "2017-05-14T11:56:13",
-            "modified": "2017-05-14T11:56:19",
+            "title": "Áreas de cobertura de la televisión digital abierta",
+            "issued": "2017-05-14T12:12:02",
+            "modified": "2017-05-14T12:12:11",
             "theme": [
                 "television-digital-abierta"
             ],
@@ -33,34 +33,89 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-y-planificadas/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
-                    "title": "Datos de las estaciones de transmisión en construcción y planificadas",
-                    "issued": "2017-05-14T11:56:13",
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
+                    "title": "Áreas de cobertura de la televisión digital abierta",
+                    "issued": "2017-05-14T12:12:02",
                     "format": "CSV",
-                    "modified": "2017-05-14T11:56:19",
+                    "modified": "2017-05-14T12:12:11",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
+                    "title": "Áreas de cobertura de la televisión digital abierta",
+                    "issued": "2017-05-14T12:12:02",
+                    "format": "XLS",
+                    "modified": "2017-05-14T12:12:11",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
+                    "title": "Áreas de cobertura de la televisión digital abierta",
+                    "issued": "2017-05-14T12:12:02",
+                    "format": "JSON",
+                    "modified": "2017-05-14T12:12:11",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
+            "language": [
+                "spa"
+            ],
+            "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+            "issued": "2017-05-14T12:01:10",
+            "modified": "2017-05-14T12:01:14",
+            "theme": [
+                "television-digital-abierta"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "TDA"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
+                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+                    "issued": "2017-05-14T12:01:10",
+                    "format": "CSV",
+                    "modified": "2017-05-14T12:01:14",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-y-planificadas/",
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
                     "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
-                    "title": "Datos de las estaciones de transmisión en construcción y planificadas",
-                    "issued": "2017-05-14T11:56:13",
+                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+                    "issued": "2017-05-14T12:01:10",
                     "format": "XLS",
-                    "modified": "2017-05-14T11:56:19",
+                    "modified": "2017-05-14T12:01:14",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-y-planificadas/",
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
                     "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
-                    "title": "Datos de las estaciones de transmisión en construcción y planificadas",
-                    "issued": "2017-05-14T11:56:13",
+                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+                    "issued": "2017-05-14T12:01:10",
                     "format": "JSON",
-                    "modified": "2017-05-14T11:56:19",
+                    "modified": "2017-05-14T12:01:14",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-y-planificadas/"
+            "landingPage": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/"
         },
         {
             "publisher": {
@@ -1272,61 +1327,6 @@
                 }
             ],
             "landingPage": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
-            "language": [
-                "spa"
-            ],
-            "title": "Áreas de cobertura de la televisión digital abierta",
-            "issued": "2017-05-13T10:48:52",
-            "modified": "2017-05-13T10:49:02",
-            "theme": [
-                "television-digital-abierta"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "TDA"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
-                    "title": "Áreas de cobertura de la televisión digital abierta",
-                    "issued": "2017-05-13T10:48:52",
-                    "format": "CSV",
-                    "modified": "2017-05-13T10:49:02",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
-                    "title": "Áreas de cobertura de la televisión digital abierta",
-                    "issued": "2017-05-13T10:48:52",
-                    "format": "XLS",
-                    "modified": "2017-05-13T10:49:02",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
-                    "title": "Áreas de cobertura de la televisión digital abierta",
-                    "issued": "2017-05-13T10:48:52",
-                    "format": "JSON",
-                    "modified": "2017-05-13T10:49:02",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/"
         },
         {
             "publisher": {
