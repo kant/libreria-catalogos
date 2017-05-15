@@ -821,7 +821,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Internos del Servicio Penitenciario Federal - SPF",
             "issued": "2016-09-29T12:32:11.583547",
-            "modified": "2017-03-31T18:02:35.816830",
+            "modified": "2017-05-15T14:59:10.002690",
             "theme": [
                 "sistema-penitenciario"
             ],
@@ -1025,6 +1025,66 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/2ca8266e-6bff-4a97-8d77-0e4c0355ff82/download/internos-spf-condenados-2017-01.csv",
                     "issued": "2017-02-24T10:58:33.008294",
                     "identifier": "2ca8266e-6bff-4a97-8d77-0e4c0355ff82"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/98d9e481-42e1-4db0-bd67-4493ad6c3d06",
+                    "description": "Este conjunto de datos registra los condenados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Condenados 2017-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-15T11:42:20.616441",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/98d9e481-42e1-4db0-bd67-4493ad6c3d06/download/internos-spf-condenados-2017-02.csv",
+                    "issued": "2017-05-15T11:42:20.864341",
+                    "identifier": "98d9e481-42e1-4db0-bd67-4493ad6c3d06"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/71102e13-e9c6-4346-9797-d2596fc701df",
+                    "description": "Este conjunto de datos registra los procesados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Procesados 2017-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-15T11:47:11.921734",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/71102e13-e9c6-4346-9797-d2596fc701df/download/internos-spf-procesados-2017-02.csv",
+                    "issued": "2017-05-15T11:47:12.190105",
+                    "identifier": "71102e13-e9c6-4346-9797-d2596fc701df"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/92c9437b-1066-4fb2-9713-28917ee9ba96",
+                    "description": "Este conjunto de datos registra los inimputables alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Inimputables 2017-02",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-15T11:51:19.847742",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/92c9437b-1066-4fb2-9713-28917ee9ba96/download/internos-spf-inimputables-2017-02.csv",
+                    "issued": "2017-05-15T11:51:20.113713",
+                    "identifier": "92c9437b-1066-4fb2-9713-28917ee9ba96"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/a896a931-132d-4e04-a579-fd9da55ed0e7",
+                    "description": "Este conjunto de datos registra los procesados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Procesados 2017-03",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-15T11:56:35.467963",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/a896a931-132d-4e04-a579-fd9da55ed0e7/download/internos-spf-procesados-2017-03.csv",
+                    "issued": "2017-05-15T11:56:35.720432",
+                    "identifier": "a896a931-132d-4e04-a579-fd9da55ed0e7"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/19b0f81d-8807-42dc-b184-dfa377c07098",
+                    "description": "Este conjunto de datos registra los inimputables alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Inimputables 2017-03",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-15T11:59:02.797991",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/19b0f81d-8807-42dc-b184-dfa377c07098/download/internos-spf-inimputables-2017-03.csv",
+                    "issued": "2017-05-15T11:59:03.059666",
+                    "identifier": "19b0f81d-8807-42dc-b184-dfa377c07098"
                 }
             ]
         },
