@@ -570,7 +570,7 @@
             "contactPoint": {
                 "hasEmail": "mailto:bgarcia@ppn.gov.ar",
                 "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y base de datos"
+                "fn": "Equipo de estadística y bases de datos"
             },
             "issued": "2017-04-27T13:48:21.909008",
             "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
@@ -596,13 +596,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
-                    "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
-                    "title": "BASE DE DATOS DE FALLECIMIENTOS EN PRISION",
-                    "issued": "2017-04-27T13:51:30.804506",
+                    "accessURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
+                    "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
+                    "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
+                    "issued": "2017-05-08T15:59:46.177309",
                     "format": "CSV",
-                    "modified": "2017-04-27T13:51:30.649796",
-                    "downloadURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
+                    "modified": "2017-05-08T15:59:45.943455",
+                    "downloadURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -770,13 +770,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/poblacion-y-alojamiento-en-el-servicio-penitenciario-federal.csv",
-                    "description": "En esta base se reponen los datos remitidos por el SERVICIO PENITENCIARIO FEDERAL en las síntesis semanales de población. La misma está construida mediante la última información disponible de cada mes. Su principal función es la de dar cuenta de la situación de superpoblación y manejo arbitrario de los cupos de alojamiento. El volumen de detenidos alojados en cada establecimiento puede ser observado así en su dinamismo a lo largo del tiempo.",
-                    "title": "Población y alojamiento en el Servicio Penitenciario Federal",
-                    "issued": "2017-04-27T14:26:09.130963",
+                    "accessURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
+                    "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
+                    "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
+                    "issued": "2017-05-08T15:59:46.177309",
                     "format": "CSV",
-                    "modified": "2017-05-02T15:22:13.053808",
-                    "downloadURL": "http://172.17.0.4/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/poblacion-y-alojamiento-en-el-servicio-penitenciario-federal.csv",
+                    "modified": "2017-05-08T15:59:45.943455",
+                    "downloadURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -1290,13 +1290,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/bfda0076-5a4a-489e-9e46-a75d931811e7/resource/9f5f0189-ce2e-4156-8bfe-bb4951d61a66/download/relevamiento-sobre-trabajo-en-el-servicio-penitenciario-federal.csv",
-                    "description": "En esta base se recopila la información producida en el marco de un relevamiento temático acerca de las condiciones generales, locales e individuales de trabajo en unidades federales durante 2013. Contiene datos sobre las prácticas más extendidas en torno al proceso para acceder a trabajo, la asignación y tipo de tareas laborales, la coordinación de dicho trabajo, la administración del dinero del peculio, entre otras cuestiones.",
-                    "title": "Relevamiento sobre Trabajo en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-08T15:31:37.574156",
+                    "accessURL": "http://172.17.0.4/dataset/66d16782-24eb-462a-856f-4af29e1c9124/resource/4d0fa795-cdd0-4dd0-92cc-7cf736dad469/download/respuesta-judicial-ante-fallecimientos.csv",
+                    "description": "Esta base reúne información del seguimiento de la PPN sobre el proceso de investigación de las muertes bajo custodia estatal. Dispone de datos acerca del trámite judicial realizado en el marco de las muertes ocurridas en cárceles dependientes del SERVICIO PENITENCIARIO FEDERAL.  Contiene los avances registrados en la investigación e información detallada relacionada al estado de la causa y eventuales imputados.",
+                    "title": "Respuesta judicial ante fallecimientos",
+                    "issued": "2017-05-03T15:41:33.097833",
                     "format": "CSV",
-                    "modified": "2017-05-08T15:31:37.346182",
-                    "downloadURL": "http://172.17.0.4/dataset/bfda0076-5a4a-489e-9e46-a75d931811e7/resource/9f5f0189-ce2e-4156-8bfe-bb4951d61a66/download/relevamiento-sobre-trabajo-en-el-servicio-penitenciario-federal.csv",
+                    "modified": "2017-05-03T15:41:32.795269",
+                    "downloadURL": "http://172.17.0.4/dataset/66d16782-24eb-462a-856f-4af29e1c9124/resource/4d0fa795-cdd0-4dd0-92cc-7cf736dad469/download/respuesta-judicial-ante-fallecimientos.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -1463,13 +1463,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/7759f43e-22d4-4d80-bdca-e04e13b6540c/resource/2902fc3b-5fc0-4e16-8769-b38d3629dd59/download/dataset-base-aple-2-1.csv",
-                    "description": "Esta base recopila información de los argentinos presos en el exterior a partir de un instrumento elaborado por la PPN y aplicado por el Ministerio de Relaciones Exteriores y Culto. Hasta el momento ha tenido aplicación en nueve países y pretende seguir extendiendo el relevamiento que consiste en obtener información acerca del lugar de alojamiento, características de esta población, situación legal y condiciones de encierro, principalmente.",
-                    "title": "Argentinos privados de libertad en el exterior",
-                    "issued": "2017-05-08T15:20:39.526947",
+                    "accessURL": "http://172.17.0.4/dataset/c44d3e2f-5367-40b0-a162-35b82c97d2f9/resource/00952704-dfa3-4585-a5cd-22f2ab9e9728/download/medidas-de-fuerza.csv",
+                    "description": "La información resultante acerca de las medidas de fuerza de las que toma conocimiento y registra la PPN es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada uno de los casos relevados en unidades penitenciarias. Se registra tipo de medida de fuerza realizada, alcance, motivos que la originaron, eventuales represalias institucionales, efectividad para la resolución del reclamo presentado, entre otras variables de alta sensibilidad.",
+                    "title": "Medidas de fuerza",
+                    "issued": "2017-04-27T14:01:36.850639",
                     "format": "CSV",
-                    "modified": "2017-05-08T15:20:39.327878",
-                    "downloadURL": "http://172.17.0.4/dataset/7759f43e-22d4-4d80-bdca-e04e13b6540c/resource/2902fc3b-5fc0-4e16-8769-b38d3629dd59/download/dataset-base-aple-2-1.csv",
+                    "modified": "2017-05-02T15:37:46.955021",
+                    "downloadURL": "http://172.17.0.4/dataset/c44d3e2f-5367-40b0-a162-35b82c97d2f9/resource/00952704-dfa3-4585-a5cd-22f2ab9e9728/download/medidas-de-fuerza.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
