@@ -44,13 +44,43 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
-                    "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
-                    "title": "BASE DE DATOS DE FALLECIMIENTOS EN PRISION",
-                    "issued": "2017-04-27T13:51:30.804506",
-                    "format": "CSV",
-                    "modified": "2017-04-27T13:51:30.649796",
-                    "downloadURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
+                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/6897c04c-7473-4157-bce5-ccd9dd440481/download/registro-de-central-telefonica-ano-2013.xlsx",
+                    "description": "Registros generados por la central telefónica informatizada con la que presta el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
+                    "title": "Atención telefónica 2013",
+                    "issued": "2017-05-11T12:50:48.362237",
+                    "format": "XLSX",
+                    "modified": "2017-05-11T12:50:48.198247",
+                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/6897c04c-7473-4157-bce5-ccd9dd440481/download/registro-de-central-telefonica-ano-2013.xlsx",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/276cf63a-1277-493a-9eb4-5cc1f9642b77/download/registro-de-central-telefonica-ano-2014.xlsx",
+                    "description": "Registros generados por la central telefónica informatizada con la que presta el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
+                    "title": "Atención telefónica 2014",
+                    "issued": "2017-05-11T12:52:21.617696",
+                    "format": "XLSX",
+                    "modified": "2017-05-11T12:52:21.424451",
+                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/276cf63a-1277-493a-9eb4-5cc1f9642b77/download/registro-de-central-telefonica-ano-2014.xlsx",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/e6e732b8-0118-42ea-bfcf-395bcde3afd4/download/registro-menu-procuracion-ano-2013-2.xlsx",
+                    "description": "Registros generados por el programa informático con el que realiza el registro y gestiona el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
+                    "title": "Gestión de reclamos 2013",
+                    "issued": "2017-05-11T12:56:35.457792",
+                    "format": "XLSX",
+                    "modified": "2017-05-11T12:59:27.065532",
+                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/e6e732b8-0118-42ea-bfcf-395bcde3afd4/download/registro-menu-procuracion-ano-2013-2.xlsx",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/68024510-3446-45e4-a4e8-9f3e7f91cc95/download/registro-menu-procuracion-ano-2014-2.xlsx",
+                    "description": "Registros generados por el programa informático con el que realiza el registro y gestiona el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
+                    "title": "Gestión de reclamos 2014",
+                    "issued": "2017-05-11T13:01:29.593936",
+                    "format": "XLSX",
+                    "modified": "2017-05-11T13:01:29.404432",
+                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/68024510-3446-45e4-a4e8-9f3e7f91cc95/download/registro-menu-procuracion-ano-2014-2.xlsx",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -540,7 +570,7 @@
             "contactPoint": {
                 "hasEmail": "mailto:bgarcia@ppn.gov.ar",
                 "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y base de datos"
+                "fn": "Equipo de estadística y bases de datos"
             },
             "issued": "2017-04-27T13:48:21.909008",
             "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
@@ -566,13 +596,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
-                    "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
-                    "title": "BASE DE DATOS DE FALLECIMIENTOS EN PRISION",
-                    "issued": "2017-04-27T13:51:30.804506",
+                    "accessURL": "http://172.17.0.4/dataset/4c483379-af82-43ca-808e-7907c11cbe66/resource/1858d344-8e95-47b9-9298-e377ed1c97c5/download/listado-de-personas-afectadas-al-encope.csv",
+                    "description": "La información remitida por el Ente de Cooperación Técnica y Financiera(ENCOPE) en respuesta a nuestro pedido específico da cuenta de los detenidos formalmente inscriptos a talleres laborales al mes de Julio de los años 2011, 2012, 2013 y 2014 en todas las unidades federales. La misma muestra las variaciones históricas en la cantidad de afectados formales al trabajo, la cantidad de horas que efectúa cada trabajador, el valor de la hora de trabajo, la distribución del peculio en Monto Disponible y Monto de Reserva.",
+                    "title": "Listado de personas afectadas al ENCOPE",
+                    "issued": "2017-05-08T18:36:26.012105",
                     "format": "CSV",
-                    "modified": "2017-04-27T13:51:30.649796",
-                    "downloadURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
+                    "modified": "2017-05-08T18:36:25.816850",
+                    "downloadURL": "http://172.17.0.4/dataset/4c483379-af82-43ca-808e-7907c11cbe66/resource/1858d344-8e95-47b9-9298-e377ed1c97c5/download/listado-de-personas-afectadas-al-encope.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -913,13 +943,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/listado-de-personas-en-resguardo-en-el-servicio-penitenciario-federal.csv",
-                    "description": "En la base se vuelca el listado de personas bajo resguardo que se solicita a cada unidad con frecuencia semestral. Incluye información sobre el origen de la medida, lugar de alojamiento, fecha desde la cual poseen la medida, etc.",
-                    "title": "Listado de personas en Resguardo en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-08T15:50:05.650679",
+                    "accessURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
+                    "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
+                    "title": "BASE DE DATOS DE FALLECIMIENTOS EN PRISION",
+                    "issued": "2017-04-27T13:51:30.804506",
                     "format": "CSV",
-                    "modified": "2017-05-08T15:50:05.450898",
-                    "downloadURL": "http://172.17.0.4/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/listado-de-personas-en-resguardo-en-el-servicio-penitenciario-federal.csv",
+                    "modified": "2017-04-27T13:51:30.649796",
+                    "downloadURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -1260,13 +1290,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/0f42f8c4-7885-4c17-a0d2-3c09f9989429/resource/7e3024e9-c43f-4160-ae29-dab67855f57b/download/procedimientos-de-requisa-en-el-servicio-penitenciario-federal.csv",
-                    "description": "En esta base se recopila la información producida en el marco de un relevamiento temático que abordó los procedimientos de registro personal y requisas que se realizan en cárceles federales. Contiene datos sobre contextos y condiciones de realización, tipo de requisas, circunstancias, uso de la violencia, entre otras características sensibles del fenómeno.",
-                    "title": "Procedimientos de requisa en el Servicio Penitenciario Federal",
-                    "issued": "2017-04-27T14:35:47.742187",
+                    "accessURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
+                    "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
+                    "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
+                    "issued": "2017-05-08T15:59:46.177309",
                     "format": "CSV",
-                    "modified": "2017-05-02T15:33:09.497803",
-                    "downloadURL": "http://172.17.0.4/dataset/0f42f8c4-7885-4c17-a0d2-3c09f9989429/resource/7e3024e9-c43f-4160-ae29-dab67855f57b/download/procedimientos-de-requisa-en-el-servicio-penitenciario-federal.csv",
+                    "modified": "2017-05-08T15:59:45.943455",
+                    "downloadURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -1433,40 +1463,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
-                    "description": "Se recopila la información suministrada semestralmente por la División de Traslados del Servicio Penitenciario Federal. La base de datos registra unidad de origen y destino y motivo del traslado.",
-                    "title": "Traslados en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-02T15:10:05.274966",
+                    "accessURL": "http://172.17.0.4/dataset/7759f43e-22d4-4d80-bdca-e04e13b6540c/resource/2902fc3b-5fc0-4e16-8769-b38d3629dd59/download/dataset-base-aple-2-1.csv",
+                    "description": "Esta base recopila información de los argentinos presos en el exterior a partir de un instrumento elaborado por la PPN y aplicado por el Ministerio de Relaciones Exteriores y Culto. Hasta el momento ha tenido aplicación en nueve países y pretende seguir extendiendo el relevamiento que consiste en obtener información acerca del lugar de alojamiento, características de esta población, situación legal y condiciones de encierro, principalmente.",
+                    "title": "Argentinos privados de libertad en el exterior",
+                    "issued": "2017-05-08T15:20:39.526947",
                     "format": "CSV",
-                    "modified": "2017-05-02T15:10:05.131824",
-                    "downloadURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Unidad desde donde se origina el traslado",
-                            "title": "Desde"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Región desde donde se origina el traslado.",
-                            "title": "Unidad_orig"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Destino final del traslado",
-                            "title": "Hasta"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Región donde finaliza el traslado.",
-                            "title": "Unid_dest"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha en que se realizo el traslado.",
-                            "title": "Fecha"
-                        }
-                    ],
+                    "modified": "2017-05-08T15:20:39.327878",
+                    "downloadURL": "http://172.17.0.4/dataset/7759f43e-22d4-4d80-bdca-e04e13b6540c/resource/2902fc3b-5fc0-4e16-8769-b38d3629dd59/download/dataset-base-aple-2-1.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -2678,7 +2681,7 @@
             "contactPoint": {
                 "hasEmail": "mailto:bgarcia@ppn.gov.ar",
                 "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y base de datos"
+                "fn": "Equipo de estadística y bases de datos"
             },
             "issued": "2017-04-27T14:23:40.200122",
             "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
@@ -2704,13 +2707,40 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/poblacion-y-alojamiento-en-el-servicio-penitenciario-federal.csv",
-                    "description": "En esta base se reponen los datos remitidos por el SERVICIO PENITENCIARIO FEDERAL en las síntesis semanales de población. La misma está construida mediante la última información disponible de cada mes. Su principal función es la de dar cuenta de la situación de superpoblación y manejo arbitrario de los cupos de alojamiento. El volumen de detenidos alojados en cada establecimiento puede ser observado así en su dinamismo a lo largo del tiempo.",
-                    "title": "Población y alojamiento en el Servicio Penitenciario Federal",
-                    "issued": "2017-04-27T14:26:09.130963",
+                    "accessURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
+                    "description": "Se recopila la información suministrada semestralmente por la División de Traslados del Servicio Penitenciario Federal. La base de datos registra unidad de origen y destino y motivo del traslado.",
+                    "title": "Traslados en el Servicio Penitenciario Federal",
+                    "issued": "2017-05-02T15:10:05.274966",
                     "format": "CSV",
-                    "modified": "2017-05-02T15:22:13.053808",
-                    "downloadURL": "http://172.17.0.4/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/poblacion-y-alojamiento-en-el-servicio-penitenciario-federal.csv",
+                    "modified": "2017-05-02T15:10:05.131824",
+                    "downloadURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Unidad desde donde se origina el traslado",
+                            "title": "Desde"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Región desde donde se origina el traslado.",
+                            "title": "Unidad_orig"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Destino final del traslado",
+                            "title": "Hasta"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Región donde finaliza el traslado.",
+                            "title": "Unid_dest"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha en que se realizo el traslado.",
+                            "title": "Fecha"
+                        }
+                    ],
                     "@type": "dcat:Distribution"
                 }
             ],
