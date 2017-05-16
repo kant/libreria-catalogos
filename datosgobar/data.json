@@ -443,28 +443,28 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda C del satélite ARSAT-2 en el continente americano.",
-                    "title": "Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América",
-                    "issued": "2017-05-16T01:05:06.819105",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Honorarios de Directores de ARSAT",
+                    "title": "Honorarios de Directores",
+                    "issued": "2017-05-16T01:01:36.442352",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda C del satélite ARSAT-2 en el continente americano.",
-                    "title": "Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América",
-                    "issued": "2017-05-16T01:05:08.247915",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Honorarios de Directores de ARSAT",
+                    "title": "Honorarios de Directores",
+                    "issued": "2017-05-16T01:01:37.543274",
                     "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febf",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda C del satélite ARSAT-2 en el continente americano.",
-                    "title": "Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América",
-                    "issued": "2017-05-16T01:05:09.694607",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febf",
+                    "description": "Honorarios de Directores de ARSAT",
+                    "title": "Honorarios de Directores",
+                    "issued": "2017-05-16T01:01:38.771223",
                     "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/datos-del-rea-de-cobertura-de-la-banda-c-del-satlite-arsat-2-en-amrica"
@@ -2065,28 +2065,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/archivo/3c8c1fea-c97b-4368-b31b-da244d66adb3",
-                    "description": "Listado actual de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional. No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación.",
-                    "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
-                    "issued": "2017-05-10T20:11:46.373335",
+                    "accessURL": "http://datos.gob.ar/dataset/b9602e2a-163f-4d12-adcb-c0c92f3a49f0/archivo/91219296-dc6a-4bdd-932b-7d0535def6f2",
+                    "description": "Información de los contratos donde el Estado Nacional arrienda, como locador, inmuebles de su propiedad. Esta información se actualizará conforme los contratos sean digitalizados y cargados por la Agencia de Administración de Bienes del Estado.",
+                    "title": "Contratos de alquiler ENA como locador",
+                    "issued": "2016-10-24T11:48:41.794340",
                     "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/archivo/ac34ee63-7e86-4f15-b57b-c6a35f71ea6e",
-                    "description": "Designacion de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
-                    "title": "Designación de magistrados de la Justicia Federal y de la Justicia Nacional",
-                    "issued": "2017-05-10T20:45:36.169511",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/ac34ee63-7e86-4f15-b57b-c6a35f71ea6e/download/magistrados-justicia-federal-nacional-designaciones.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/archivo/551c8132-4aef-419a-8f7b-020bb613980b",
-                    "description": "Renuncia de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
-                    "title": "Renuncia de magistrados de la Justicia Federal y de la Justicia Nacional",
-                    "issued": "2017-05-10T20:54:22.462681",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/551c8132-4aef-419a-8f7b-020bb613980b/download/magistrados-justicia-federal-nacional-renuncias.csv"
+                    "modified": "2016-11-14T13:36:34.959766",
+                    "downloadURL": "http://datos.gob.ar/dataset/b9602e2a-163f-4d12-adcb-c0c92f3a49f0/resource/91219296-dc6a-4bdd-932b-7d0535def6f2/download/contratos-alquiler-estado-nacional-locador.csv"
                 }
             ],
             "landingPage": "http://datos.jus.gob.ar/dataset/magistrados-de-la-justicia-federal-y-de-la-justicia-nacional"
