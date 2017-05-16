@@ -5,6 +5,7 @@ datosgobar:
 justicia:
   url: "http://datos.jus.gob.ar"
   formato: "ckan"
+  federado: true
 
 datosgobar-ckan:
   url: "http://datos.gob.ar"
@@ -17,18 +18,12 @@ datosgobar-dev:
 pami:
   url: "http://datos.pami.org.ar:5000"
   formato: "ckan"
-
-mendoza:
-  url: "http://www.datosabiertos.mendoza.gov.ar/data.json"
-  formato: "json"
-
-mendoza-ckan:
-  url: "http://www.datosabiertos.mendoza.gov.ar"
-  formato: "ckan"
+  federado: true
 
 transporte:
   url: "http://datos.transporte.gob.ar/data.json"
   formato: "json"
+  federado: true
 
 transporte-ckan:
   url: "http://datos.transporte.gob.ar"
@@ -37,6 +32,7 @@ transporte-ckan:
 mincyt:
   url: "http://datos.mincyt.gob.ar/datasets/data.json"
   formato: "json"
+  federado: true
 
 mincyt-ckan:
   url: "http://datos.mincyt.gob.ar/datasets"
@@ -45,11 +41,13 @@ mincyt-ckan:
 energia:
   url: "http://190.3.64.19"
   formato: "ckan"
+  federado: true
 
 procuracion-penitenciaria:
   url: "http://190.210.168.211/data.json"
   formato: "json"
-  
+  federado: true
+
 procuracion-penitenciaria-ckan:
   url: "http://190.210.168.211"
   formato: "ckan"
@@ -57,3 +55,4 @@ procuracion-penitenciaria-ckan:
 arsat:
   url: "http://datos.arsat.com.ar/data.json"
   formato: "json"
+  federado: true
