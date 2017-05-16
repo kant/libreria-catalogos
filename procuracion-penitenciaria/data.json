@@ -943,13 +943,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/listado-de-personas-en-resguardo-en-el-servicio-penitenciario-federal.csv",
-                    "description": "En la base se vuelca el listado de personas bajo resguardo que se solicita a cada unidad con frecuencia semestral. Incluye información sobre el origen de la medida, lugar de alojamiento, fecha desde la cual poseen la medida, etc.",
-                    "title": "Listado de personas en Resguardo en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-08T15:50:05.650679",
+                    "accessURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
+                    "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
+                    "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
+                    "issued": "2017-05-08T15:59:46.177309",
                     "format": "CSV",
-                    "modified": "2017-05-08T15:50:05.450898",
-                    "downloadURL": "http://172.17.0.4/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/listado-de-personas-en-resguardo-en-el-servicio-penitenciario-federal.csv",
+                    "modified": "2017-05-08T15:59:45.943455",
+                    "downloadURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -1638,13 +1638,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
-                    "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
-                    "title": "BASE DE DATOS DE FALLECIMIENTOS EN PRISION",
-                    "issued": "2017-04-27T13:51:30.804506",
+                    "accessURL": "http://172.17.0.4/dataset/5ae382d8-e6c0-486c-bc6a-05bba3408c81/resource/d9127014-2ca9-4f7d-bca6-50c3ff25af11/download/sanciones-de-aislamiento-en-el-servicio-penitenciario-federal.csv",
+                    "description": "La base recupera información que obtiene de los listados semestrales que se solicita a la totalidad de unidades federales sobre la aplicación de sanciones. Contiene datos acerca de las infracciones sancionadas, lugar donde se cumple el aislamiento,  duración de la medida, recurso o apelación del proceso, etc.",
+                    "title": "Sanciones de aislamiento en el Servicio Penitenciario Federal",
+                    "issued": "2017-05-08T15:04:27.500195",
                     "format": "CSV",
-                    "modified": "2017-04-27T13:51:30.649796",
-                    "downloadURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
+                    "modified": "2017-05-08T15:04:27.283824",
+                    "downloadURL": "http://172.17.0.4/dataset/5ae382d8-e6c0-486c-bc6a-05bba3408c81/resource/d9127014-2ca9-4f7d-bca6-50c3ff25af11/download/sanciones-de-aislamiento-en-el-servicio-penitenciario-federal.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
