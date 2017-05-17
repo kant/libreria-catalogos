@@ -12,6 +12,60 @@
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/SALAR-GEREN/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Memo firmado en Agosto 2016 por Rodrigo De Loredo - Presidente de ARSAT",
+            "language": [
+                "spa"
+            ],
+            "title": "Salarios Gerentes",
+            "issued": "2017-05-17T01:42:02",
+            "modified": "2017-05-17T01:42:27",
+            "theme": [
+                "gestion-transparente"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                ""
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238792/salarios-gerentes/",
+                    "description": "Memo firmado en Agosto 2016 por Rodrigo De Loredo - Presidente de ARSAT",
+                    "title": "Salarios Gerentes",
+                    "issued": "2017-05-17T01:42:02",
+                    "format": "CSV",
+                    "modified": "2017-05-17T01:42:27",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SALAR-GEREN/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238792/salarios-gerentes/",
+                    "description": "Memo firmado en Agosto 2016 por Rodrigo De Loredo - Presidente de ARSAT",
+                    "title": "Salarios Gerentes",
+                    "issued": "2017-05-17T01:42:02",
+                    "format": "XLS",
+                    "modified": "2017-05-17T01:42:27",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SALAR-GEREN/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238792/salarios-gerentes/",
+                    "description": "Memo firmado en Agosto 2016 por Rodrigo De Loredo - Presidente de ARSAT",
+                    "title": "Salarios Gerentes",
+                    "issued": "2017-05-17T01:42:02",
+                    "format": "JSON",
+                    "modified": "2017-05-17T01:42:27",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SALAR-GEREN/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/238792/salarios-gerentes/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
             "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
             "description": "Honorarios de Directores de ARSAT",
             "language": [
