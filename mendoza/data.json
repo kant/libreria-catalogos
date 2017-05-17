@@ -9,17 +9,18 @@
     "dataset": [
         {
             "publisher": {
-                "mbox": "@mendoza.gov.ar",
-                "name": "Ministerio de Hacienda y Finanzas"
+                "mbox": "politicaspublicas@mendoza.gov.ar",
+                "name": "Dirección de Políticas Públicas e Innovación "
             },
             "accessLevel": "public",
-            "description": "Datos correspondientes al stock de la Deuda Pública de la Provincia de Mendoza.",
+            "description": "Sistema basado en el concepto de Gobierno Electrónico, se implementó como una herramienta de gestión de consultas, denuncias y reclamos, que busca tanto mejorar la comunicación del gobierno con el ciudadano como facilitar la gestión interna entre distintas áreas del gobierno.\r\nAl sistema el ciudadano puede acceder a través del Portal web del Gobierno, telefónicamente al Centro de Atención Ciudadana, email o redes sociales y tiene por objeto promover la transparencia de la gestión posibilitando el control del ciudadano respecto del proceso de evolución de su consulta, reclamo o denuncia a través de un número único identificador de su gestión.",
             "license": "Creative Commons Non-Commercial (Cualquiera)",
-            "title": "Deuda Pública de la Provincia de Mendoza",
-            "issued": "2017-03-27T19:17:09.039647",
-            "modified": "2017-05-17T14:35:12.658618",
+            "title": "Sistema de Consultas Ciudadanas",
+            "issued": "2017-03-27T17:52:15.944872",
+            "modified": "2017-05-17T15:24:38.383460",
             "language": "spa",
             "theme": [
+                "Gobierno",
                 "Finanzas Públicas",
                 "Medio Ambiente",
                 "Medio Ambiente",
@@ -30,30 +31,52 @@
                 "Finanzas Públicas",
                 "Salud",
                 "Sociedad ",
-                "Medio Ambiente",
-                "Gobierno"
+                "Medio Ambiente"
             ],
             "distribution": [
                 {
-                    "accessURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/e0c0f61c-fc1c-4846-84fb-3a8f3f4662b1/resource/6bd9f940-fe09-4725-b859-2da7b1d0f83c/download/stockdeudaod.csv",
-                    "description": "Detalla el stock de la deuda pública de la provincia de mendoza al 31 de diciembre de 2016.",
-                    "title": "Deuda Pública al 31 de Diciembre de 2016",
-                    "issued": "2017-03-27T19:19:21.689061",
+                    "accessURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/44d947ad-20e3-4cdf-8cc4-b9aec53a039f/resource/ea3d5cd9-d783-4c39-a1af-ee6f922164db/download/consulta-ciudadana-2014.csv",
+                    "description": "Conjunto de datos donde se detallan las consultas, reclamos o denuncias realizadas por los ciudadanos en el año 2014 y que ingresan al Sistema Consulta Ciudadana a través del Portal web del Gobierno de Mendoza, telefónicamente en el Programa de Atención al Ciudadano (PAC) por mail o redes sociales.",
+                    "title": "Gestiones realizadas en el Sistema Consulta Ciudadana año 2014",
+                    "issued": "2017-03-27T17:55:01.344832",
                     "format": "CSV",
-                    "modified": "2017-03-27T19:19:21.644073",
-                    "downloadURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/e0c0f61c-fc1c-4846-84fb-3a8f3f4662b1/resource/6bd9f940-fe09-4725-b859-2da7b1d0f83c/download/stockdeudaod.csv"
+                    "modified": "2017-03-27T17:55:01.296001",
+                    "downloadURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/44d947ad-20e3-4cdf-8cc4-b9aec53a039f/resource/ea3d5cd9-d783-4c39-a1af-ee6f922164db/download/consulta-ciudadana-2014.csv"
                 },
                 {
-                    "accessURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/e0c0f61c-fc1c-4846-84fb-3a8f3f4662b1/resource/e7b9b642-d947-4d52-9b1a-c7309a6e1a4d/download/prueba-deuda.csv",
-                    "description": "Detalle del stock de la deuda de la Provincia al mes de septiembre de 2016",
-                    "title": "Deuda Pública Septiembre 2016",
-                    "issued": "2017-03-27T19:25:48.942082",
+                    "accessURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/44d947ad-20e3-4cdf-8cc4-b9aec53a039f/resource/0928050a-81ea-45f3-a643-54255a0889f6/download/consulta-ciudadana-2015.csv",
+                    "description": "Conjunto de datos donde se detallan las consultas, reclamos o denuncias realizadas por los ciudadanos en el año 2015 y que ingresan al Sistema Consulta Ciudadana a través del Portal web del Gobierno de Mendoza, telefónicamente en el Programa de Atención al Ciudadano (PAC) por mail o redes sociales.",
+                    "title": "Gestiones realizadas en el Sistema Consulta Ciudadana año 2015",
+                    "issued": "2017-03-27T17:56:10.261803",
                     "format": "CSV",
-                    "modified": "2017-03-27T19:30:43.809478",
-                    "downloadURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/e0c0f61c-fc1c-4846-84fb-3a8f3f4662b1/resource/e7b9b642-d947-4d52-9b1a-c7309a6e1a4d/download/prueba-deuda.csv"
+                    "modified": "2017-03-27T17:56:10.209029",
+                    "downloadURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/44d947ad-20e3-4cdf-8cc4-b9aec53a039f/resource/0928050a-81ea-45f3-a643-54255a0889f6/download/consulta-ciudadana-2015.csv"
+                },
+                {
+                    "accessURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/44d947ad-20e3-4cdf-8cc4-b9aec53a039f/resource/0cd570aa-dfe1-4e95-8168-7d90c490ca72/download/consulta-ciudadana-2016.csv",
+                    "description": "Conjunto de datos donde se detallan las consultas, reclamos o denuncias realizadas por los ciudadanos en el año 2016 y que ingresan al Sistema Consulta Ciudadana a través del Portal web del Gobierno de Mendoza, telefónicamente en el Programa de Atención al Ciudadano (PAC) por mail o redes sociales.",
+                    "title": "Gestiones realizadas en el Sistema Consulta Ciudadana año 2016",
+                    "issued": "2017-03-27T17:57:37.057587",
+                    "format": "CSV",
+                    "modified": "2017-03-27T17:57:36.999877",
+                    "downloadURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/44d947ad-20e3-4cdf-8cc4-b9aec53a039f/resource/0cd570aa-dfe1-4e95-8168-7d90c490ca72/download/consulta-ciudadana-2016.csv"
                 }
             ],
             "keyword": [
+                "ciudadano",
+                "comunicación",
+                "consulta",
+                "control",
+                "denuncia",
+                "evolución",
+                "gestión",
+                "gestión interna",
+                "gobierno electrónico",
+                "incidente",
+                "portal",
+                "procedimiento",
+                "proceso",
+                "reclamo",
                 "birf",
                 "bono",
                 "crédito",
@@ -120,7 +143,67 @@
                 "estaciones fijas manuales",
                 "inmisión",
                 "material particulado",
-                "monitoreo ambiental",
+                "monitoreo ambiental"
+            ],
+            "accrualPeriodicity": "R/P0.5M",
+            "superTheme": [
+                "GOVE"
+            ],
+            "landingPage": "http://www.datosabiertos.mendoza.gov.ar/dataset/sistema-de-consultas-ciudadanas",
+            "identifier": "44d947ad-20e3-4cdf-8cc4-b9aec53a039f",
+            "contactPoint": {
+                "hasEmail": "mailto:mgodoy@mendoza.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Marina Godoy Crotto"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "@mendoza.gov.ar",
+                "name": "Ministerio de Hacienda y Finanzas"
+            },
+            "accessLevel": "public",
+            "description": "Datos correspondientes al stock de la Deuda Pública de la Provincia de Mendoza.",
+            "license": "Creative Commons Non-Commercial (Cualquiera)",
+            "title": "Deuda Pública de la Provincia de Mendoza",
+            "issued": "2017-03-27T19:17:09.039647",
+            "modified": "2017-05-17T14:35:12.658618",
+            "language": "spa",
+            "theme": [
+                "Gobierno",
+                "Finanzas Públicas",
+                "Medio Ambiente",
+                "Medio Ambiente",
+                "Medio Ambiente",
+                "Medio Ambiente",
+                "Finanzas Públicas",
+                "Sociedad ",
+                "Finanzas Públicas",
+                "Salud",
+                "Sociedad ",
+                "Medio Ambiente"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/e0c0f61c-fc1c-4846-84fb-3a8f3f4662b1/resource/6bd9f940-fe09-4725-b859-2da7b1d0f83c/download/stockdeudaod.csv",
+                    "description": "Detalla el stock de la deuda pública de la provincia de mendoza al 31 de diciembre de 2016.",
+                    "title": "Deuda Pública al 31 de Diciembre de 2016",
+                    "issued": "2017-03-27T19:19:21.689061",
+                    "format": "CSV",
+                    "modified": "2017-03-27T19:19:21.644073",
+                    "downloadURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/e0c0f61c-fc1c-4846-84fb-3a8f3f4662b1/resource/6bd9f940-fe09-4725-b859-2da7b1d0f83c/download/stockdeudaod.csv"
+                },
+                {
+                    "accessURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/e0c0f61c-fc1c-4846-84fb-3a8f3f4662b1/resource/e7b9b642-d947-4d52-9b1a-c7309a6e1a4d/download/prueba-deuda.csv",
+                    "description": "Detalle del stock de la deuda de la Provincia al mes de septiembre de 2016",
+                    "title": "Deuda Pública Septiembre 2016",
+                    "issued": "2017-03-27T19:25:48.942082",
+                    "format": "CSV",
+                    "modified": "2017-03-27T19:30:43.809478",
+                    "downloadURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/e0c0f61c-fc1c-4846-84fb-3a8f3f4662b1/resource/e7b9b642-d947-4d52-9b1a-c7309a6e1a4d/download/prueba-deuda.csv"
+                }
+            ],
+            "keyword": [
                 "ciudadano",
                 "comunicación",
                 "consulta",
@@ -134,7 +217,74 @@
                 "portal",
                 "procedimiento",
                 "proceso",
-                "reclamo"
+                "reclamo",
+                "birf",
+                "bono",
+                "crédito",
+                "deuda consolidada",
+                "deuda pública",
+                "letras",
+                "multilateral",
+                "préstamo sindicado",
+                "tesorería",
+                "Cajas Farmacéuticas",
+                "Cajas Patogénicas",
+                "Centros de Salud",
+                "Generador",
+                "Residuos Farmacéuticos",
+                "Residuos Patogénicos",
+                "Generadores",
+                "Operadores",
+                "Residuos Peligrosos",
+                "Transportistas",
+                "contaminación sonora",
+                "ruido ambiente",
+                "automática",
+                "calidad del aire",
+                "dBa",
+                "dióxido de azufre",
+                "estaciones",
+                "estaciones fijas",
+                "estaciones manuales",
+                "material particulado",
+                "unidad movil",
+                "óxidos de nitrógeno",
+                "estadisticas",
+                "fiscalización",
+                "glosario",
+                "ingresos",
+                "juego responsable",
+                "juegos de azar",
+                "juegos lotéricos",
+                "licitaciones",
+                "maquinas de azar",
+                "normativas",
+                "responsabilidad fiscal",
+                "sanciones",
+                "transferencia de fondos",
+                "carácter",
+                "crédito líquido",
+                "definitivo",
+                "devengado",
+                "egresos",
+                "ejecución",
+                "ejercicio",
+                "ingresos",
+                "jurisdicción",
+                "liquidado",
+                "pagado",
+                "presupuesto",
+                "preventivo",
+                "aire",
+                "ambiente",
+                "atmósfera",
+                "calidad",
+                "desarrollo sustentable",
+                "emisiones",
+                "estaciones fijas manuales",
+                "inmisión",
+                "material particulado",
+                "monitoreo ambiental"
             ],
             "accrualPeriodicity": "R/P2M",
             "superTheme": [
@@ -161,6 +311,7 @@
             "modified": "2017-05-17T11:59:10.295690",
             "language": "spa",
             "theme": [
+                "Gobierno",
                 "Finanzas Públicas",
                 "Medio Ambiente",
                 "Medio Ambiente",
@@ -171,8 +322,7 @@
                 "Finanzas Públicas",
                 "Salud",
                 "Sociedad ",
-                "Medio Ambiente",
-                "Gobierno"
+                "Medio Ambiente"
             ],
             "distribution": [
                 {
@@ -186,6 +336,20 @@
                 }
             ],
             "keyword": [
+                "ciudadano",
+                "comunicación",
+                "consulta",
+                "control",
+                "denuncia",
+                "evolución",
+                "gestión",
+                "gestión interna",
+                "gobierno electrónico",
+                "incidente",
+                "portal",
+                "procedimiento",
+                "proceso",
+                "reclamo",
                 "birf",
                 "bono",
                 "crédito",
@@ -252,21 +416,7 @@
                 "estaciones fijas manuales",
                 "inmisión",
                 "material particulado",
-                "monitoreo ambiental",
-                "ciudadano",
-                "comunicación",
-                "consulta",
-                "control",
-                "denuncia",
-                "evolución",
-                "gestión",
-                "gestión interna",
-                "gobierno electrónico",
-                "incidente",
-                "portal",
-                "procedimiento",
-                "proceso",
-                "reclamo"
+                "monitoreo ambiental"
             ],
             "accrualPeriodicity": "R/P2M",
             "superTheme": [
@@ -294,6 +444,7 @@
             "modified": "2017-05-16T16:43:47.488052",
             "language": "spa",
             "theme": [
+                "Gobierno",
                 "Finanzas Públicas",
                 "Medio Ambiente",
                 "Medio Ambiente",
@@ -304,8 +455,7 @@
                 "Finanzas Públicas",
                 "Salud",
                 "Sociedad ",
-                "Medio Ambiente",
-                "Gobierno"
+                "Medio Ambiente"
             ],
             "distribution": [
                 {
@@ -319,6 +469,20 @@
                 }
             ],
             "keyword": [
+                "ciudadano",
+                "comunicación",
+                "consulta",
+                "control",
+                "denuncia",
+                "evolución",
+                "gestión",
+                "gestión interna",
+                "gobierno electrónico",
+                "incidente",
+                "portal",
+                "procedimiento",
+                "proceso",
+                "reclamo",
                 "birf",
                 "bono",
                 "crédito",
@@ -385,21 +549,7 @@
                 "estaciones fijas manuales",
                 "inmisión",
                 "material particulado",
-                "monitoreo ambiental",
-                "ciudadano",
-                "comunicación",
-                "consulta",
-                "control",
-                "denuncia",
-                "evolución",
-                "gestión",
-                "gestión interna",
-                "gobierno electrónico",
-                "incidente",
-                "portal",
-                "procedimiento",
-                "proceso",
-                "reclamo"
+                "monitoreo ambiental"
             ],
             "accrualPeriodicity": "R/P1Y",
             "superTheme": [
@@ -427,6 +577,7 @@
             "modified": "2017-05-11T12:49:08.254493",
             "language": "spa",
             "theme": [
+                "Gobierno",
                 "Finanzas Públicas",
                 "Medio Ambiente",
                 "Medio Ambiente",
@@ -437,8 +588,7 @@
                 "Finanzas Públicas",
                 "Salud",
                 "Sociedad ",
-                "Medio Ambiente",
-                "Gobierno"
+                "Medio Ambiente"
             ],
             "distribution": [
                 {
@@ -479,6 +629,20 @@
                 }
             ],
             "keyword": [
+                "ciudadano",
+                "comunicación",
+                "consulta",
+                "control",
+                "denuncia",
+                "evolución",
+                "gestión",
+                "gestión interna",
+                "gobierno electrónico",
+                "incidente",
+                "portal",
+                "procedimiento",
+                "proceso",
+                "reclamo",
                 "birf",
                 "bono",
                 "crédito",
@@ -545,21 +709,7 @@
                 "estaciones fijas manuales",
                 "inmisión",
                 "material particulado",
-                "monitoreo ambiental",
-                "ciudadano",
-                "comunicación",
-                "consulta",
-                "control",
-                "denuncia",
-                "evolución",
-                "gestión",
-                "gestión interna",
-                "gobierno electrónico",
-                "incidente",
-                "portal",
-                "procedimiento",
-                "proceso",
-                "reclamo"
+                "monitoreo ambiental"
             ],
             "accrualPeriodicity": "R/P3M",
             "superTheme": [
@@ -587,6 +737,7 @@
             "issued": "2017-03-23T21:12:53.662833",
             "modified": "2017-05-11T12:35:50.670079",
             "theme": [
+                "Gobierno",
                 "Finanzas Públicas",
                 "Medio Ambiente",
                 "Medio Ambiente",
@@ -597,8 +748,7 @@
                 "Finanzas Públicas",
                 "Salud",
                 "Sociedad ",
-                "Medio Ambiente",
-                "Gobierno"
+                "Medio Ambiente"
             ],
             "distribution": [
                 {
@@ -639,6 +789,20 @@
                 }
             ],
             "keyword": [
+                "ciudadano",
+                "comunicación",
+                "consulta",
+                "control",
+                "denuncia",
+                "evolución",
+                "gestión",
+                "gestión interna",
+                "gobierno electrónico",
+                "incidente",
+                "portal",
+                "procedimiento",
+                "proceso",
+                "reclamo",
                 "birf",
                 "bono",
                 "crédito",
@@ -705,21 +869,7 @@
                 "estaciones fijas manuales",
                 "inmisión",
                 "material particulado",
-                "monitoreo ambiental",
-                "ciudadano",
-                "comunicación",
-                "consulta",
-                "control",
-                "denuncia",
-                "evolución",
-                "gestión",
-                "gestión interna",
-                "gobierno electrónico",
-                "incidente",
-                "portal",
-                "procedimiento",
-                "proceso",
-                "reclamo"
+                "monitoreo ambiental"
             ],
             "accrualPeriodicity": "R/P4M",
             "superTheme": [
@@ -747,6 +897,7 @@
             "modified": "2017-05-10T18:25:50.279349",
             "language": "spa",
             "theme": [
+                "Gobierno",
                 "Finanzas Públicas",
                 "Medio Ambiente",
                 "Medio Ambiente",
@@ -757,8 +908,7 @@
                 "Finanzas Públicas",
                 "Salud",
                 "Sociedad ",
-                "Medio Ambiente",
-                "Gobierno"
+                "Medio Ambiente"
             ],
             "distribution": [
                 {
@@ -835,6 +985,20 @@
                 }
             ],
             "keyword": [
+                "ciudadano",
+                "comunicación",
+                "consulta",
+                "control",
+                "denuncia",
+                "evolución",
+                "gestión",
+                "gestión interna",
+                "gobierno electrónico",
+                "incidente",
+                "portal",
+                "procedimiento",
+                "proceso",
+                "reclamo",
                 "birf",
                 "bono",
                 "crédito",
@@ -901,21 +1065,7 @@
                 "estaciones fijas manuales",
                 "inmisión",
                 "material particulado",
-                "monitoreo ambiental",
-                "ciudadano",
-                "comunicación",
-                "consulta",
-                "control",
-                "denuncia",
-                "evolución",
-                "gestión",
-                "gestión interna",
-                "gobierno electrónico",
-                "incidente",
-                "portal",
-                "procedimiento",
-                "proceso",
-                "reclamo"
+                "monitoreo ambiental"
             ],
             "accrualPeriodicity": "R/P2M",
             "superTheme": [
@@ -944,6 +1094,7 @@
             "modified": "2017-03-31T13:42:28.720636",
             "language": "spa",
             "theme": [
+                "Gobierno",
                 "Finanzas Públicas",
                 "Medio Ambiente",
                 "Medio Ambiente",
@@ -954,8 +1105,7 @@
                 "Finanzas Públicas",
                 "Salud",
                 "Sociedad ",
-                "Medio Ambiente",
-                "Gobierno"
+                "Medio Ambiente"
             ],
             "distribution": [
                 {
@@ -978,6 +1128,20 @@
                 }
             ],
             "keyword": [
+                "ciudadano",
+                "comunicación",
+                "consulta",
+                "control",
+                "denuncia",
+                "evolución",
+                "gestión",
+                "gestión interna",
+                "gobierno electrónico",
+                "incidente",
+                "portal",
+                "procedimiento",
+                "proceso",
+                "reclamo",
                 "birf",
                 "bono",
                 "crédito",
@@ -1044,21 +1208,7 @@
                 "estaciones fijas manuales",
                 "inmisión",
                 "material particulado",
-                "monitoreo ambiental",
-                "ciudadano",
-                "comunicación",
-                "consulta",
-                "control",
-                "denuncia",
-                "evolución",
-                "gestión",
-                "gestión interna",
-                "gobierno electrónico",
-                "incidente",
-                "portal",
-                "procedimiento",
-                "proceso",
-                "reclamo"
+                "monitoreo ambiental"
             ],
             "accrualPeriodicity": "R/P1M",
             "superTheme": [
@@ -1085,6 +1235,7 @@
             "modified": "2017-03-27T21:32:53.905565",
             "language": "spa",
             "theme": [
+                "Gobierno",
                 "Finanzas Públicas",
                 "Medio Ambiente",
                 "Medio Ambiente",
@@ -1095,8 +1246,7 @@
                 "Finanzas Públicas",
                 "Salud",
                 "Sociedad ",
-                "Medio Ambiente",
-                "Gobierno"
+                "Medio Ambiente"
             ],
             "distribution": [
                 {
@@ -1128,6 +1278,20 @@
                 }
             ],
             "keyword": [
+                "ciudadano",
+                "comunicación",
+                "consulta",
+                "control",
+                "denuncia",
+                "evolución",
+                "gestión",
+                "gestión interna",
+                "gobierno electrónico",
+                "incidente",
+                "portal",
+                "procedimiento",
+                "proceso",
+                "reclamo",
                 "birf",
                 "bono",
                 "crédito",
@@ -1194,21 +1358,7 @@
                 "estaciones fijas manuales",
                 "inmisión",
                 "material particulado",
-                "monitoreo ambiental",
-                "ciudadano",
-                "comunicación",
-                "consulta",
-                "control",
-                "denuncia",
-                "evolución",
-                "gestión",
-                "gestión interna",
-                "gobierno electrónico",
-                "incidente",
-                "portal",
-                "procedimiento",
-                "proceso",
-                "reclamo"
+                "monitoreo ambiental"
             ],
             "accrualPeriodicity": "R/P3M",
             "superTheme": [
@@ -1238,6 +1388,7 @@
             "modified": "2017-03-27T18:15:21.869381",
             "language": "spa",
             "theme": [
+                "Gobierno",
                 "Finanzas Públicas",
                 "Medio Ambiente",
                 "Medio Ambiente",
@@ -1248,8 +1399,7 @@
                 "Finanzas Públicas",
                 "Salud",
                 "Sociedad ",
-                "Medio Ambiente",
-                "Gobierno"
+                "Medio Ambiente"
             ],
             "distribution": [
                 {
@@ -1263,6 +1413,20 @@
                 }
             ],
             "keyword": [
+                "ciudadano",
+                "comunicación",
+                "consulta",
+                "control",
+                "denuncia",
+                "evolución",
+                "gestión",
+                "gestión interna",
+                "gobierno electrónico",
+                "incidente",
+                "portal",
+                "procedimiento",
+                "proceso",
+                "reclamo",
                 "birf",
                 "bono",
                 "crédito",
@@ -1329,21 +1493,7 @@
                 "estaciones fijas manuales",
                 "inmisión",
                 "material particulado",
-                "monitoreo ambiental",
-                "ciudadano",
-                "comunicación",
-                "consulta",
-                "control",
-                "denuncia",
-                "evolución",
-                "gestión",
-                "gestión interna",
-                "gobierno electrónico",
-                "incidente",
-                "portal",
-                "procedimiento",
-                "proceso",
-                "reclamo"
+                "monitoreo ambiental"
             ],
             "accrualPeriodicity": "R/P2M",
             "superTheme": [
@@ -1355,156 +1505,6 @@
                 "hasEmail": "mailto:abullaude@hotmail.com",
                 "@type": "vcard:Contact",
                 "fn": "Ing. Andrés Bullaude"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "mgodoy@mendoza.gov.ar",
-                "name": "Marina Godoy Crotto"
-            },
-            "accessLevel": "public",
-            "description": "Sistema basado en el concepto de Gobierno Electrónico, se implementó como una herramienta de gestión de consultas, denuncias y reclamos, que busca tanto mejorar la comunicación del gobierno con el ciudadano como facilitar la gestión interna entre distintas áreas del gobierno.\r\nAl sistema el ciudadano puede acceder a través del Portal web del Gobierno, telefónicamente al Centro de Atención Ciudadana, email o redes sociales y tiene por objeto promover la transparencia de la gestión posibilitando el control del ciudadano respecto del proceso de evolución de su consulta, reclamo o denuncia a través de un número único identificador de su gestión.",
-            "license": "Creative Commons Non-Commercial (Cualquiera)",
-            "title": "Sistema de Consultas Ciudadanas",
-            "issued": "2017-03-27T17:52:15.944872",
-            "modified": "2017-03-27T17:57:43.030033",
-            "language": "spa",
-            "theme": [
-                "Finanzas Públicas",
-                "Medio Ambiente",
-                "Medio Ambiente",
-                "Medio Ambiente",
-                "Medio Ambiente",
-                "Finanzas Públicas",
-                "Sociedad ",
-                "Finanzas Públicas",
-                "Salud",
-                "Sociedad ",
-                "Medio Ambiente",
-                "Gobierno"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/44d947ad-20e3-4cdf-8cc4-b9aec53a039f/resource/ea3d5cd9-d783-4c39-a1af-ee6f922164db/download/consulta-ciudadana-2014.csv",
-                    "description": "Conjunto de datos donde se detallan las consultas, reclamos o denuncias realizadas por los ciudadanos en el año 2014 y que ingresan al Sistema Consulta Ciudadana a través del Portal web del Gobierno de Mendoza, telefónicamente en el Programa de Atención al Ciudadano (PAC) por mail o redes sociales.",
-                    "title": "Gestiones realizadas en el Sistema Consulta Ciudadana año 2014",
-                    "issued": "2017-03-27T17:55:01.344832",
-                    "format": "CSV",
-                    "modified": "2017-03-27T17:55:01.296001",
-                    "downloadURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/44d947ad-20e3-4cdf-8cc4-b9aec53a039f/resource/ea3d5cd9-d783-4c39-a1af-ee6f922164db/download/consulta-ciudadana-2014.csv"
-                },
-                {
-                    "accessURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/44d947ad-20e3-4cdf-8cc4-b9aec53a039f/resource/0928050a-81ea-45f3-a643-54255a0889f6/download/consulta-ciudadana-2015.csv",
-                    "description": "Conjunto de datos donde se detallan las consultas, reclamos o denuncias realizadas por los ciudadanos en el año 2015 y que ingresan al Sistema Consulta Ciudadana a través del Portal web del Gobierno de Mendoza, telefónicamente en el Programa de Atención al Ciudadano (PAC) por mail o redes sociales.",
-                    "title": "Gestiones realizadas en el Sistema Consulta Ciudadana año 2015",
-                    "issued": "2017-03-27T17:56:10.261803",
-                    "format": "CSV",
-                    "modified": "2017-03-27T17:56:10.209029",
-                    "downloadURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/44d947ad-20e3-4cdf-8cc4-b9aec53a039f/resource/0928050a-81ea-45f3-a643-54255a0889f6/download/consulta-ciudadana-2015.csv"
-                },
-                {
-                    "accessURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/44d947ad-20e3-4cdf-8cc4-b9aec53a039f/resource/0cd570aa-dfe1-4e95-8168-7d90c490ca72/download/consulta-ciudadana-2016.csv",
-                    "description": "Conjunto de datos donde se detallan las consultas, reclamos o denuncias realizadas por los ciudadanos en el año 2016 y que ingresan al Sistema Consulta Ciudadana a través del Portal web del Gobierno de Mendoza, telefónicamente en el Programa de Atención al Ciudadano (PAC) por mail o redes sociales.",
-                    "title": "Gestiones realizadas en el Sistema Consulta Ciudadana año 2016",
-                    "issued": "2017-03-27T17:57:37.057587",
-                    "format": "CSV",
-                    "modified": "2017-03-27T17:57:36.999877",
-                    "downloadURL": "http://www.datosabiertos.mendoza.gov.ar/dataset/44d947ad-20e3-4cdf-8cc4-b9aec53a039f/resource/0cd570aa-dfe1-4e95-8168-7d90c490ca72/download/consulta-ciudadana-2016.csv"
-                }
-            ],
-            "keyword": [
-                "birf",
-                "bono",
-                "crédito",
-                "deuda consolidada",
-                "deuda pública",
-                "letras",
-                "multilateral",
-                "préstamo sindicado",
-                "tesorería",
-                "Cajas Farmacéuticas",
-                "Cajas Patogénicas",
-                "Centros de Salud",
-                "Generador",
-                "Residuos Farmacéuticos",
-                "Residuos Patogénicos",
-                "Generadores",
-                "Operadores",
-                "Residuos Peligrosos",
-                "Transportistas",
-                "contaminación sonora",
-                "ruido ambiente",
-                "automática",
-                "calidad del aire",
-                "dBa",
-                "dióxido de azufre",
-                "estaciones",
-                "estaciones fijas",
-                "estaciones manuales",
-                "material particulado",
-                "unidad movil",
-                "óxidos de nitrógeno",
-                "estadisticas",
-                "fiscalización",
-                "glosario",
-                "ingresos",
-                "juego responsable",
-                "juegos de azar",
-                "juegos lotéricos",
-                "licitaciones",
-                "maquinas de azar",
-                "normativas",
-                "responsabilidad fiscal",
-                "sanciones",
-                "transferencia de fondos",
-                "carácter",
-                "crédito líquido",
-                "definitivo",
-                "devengado",
-                "egresos",
-                "ejecución",
-                "ejercicio",
-                "ingresos",
-                "jurisdicción",
-                "liquidado",
-                "pagado",
-                "presupuesto",
-                "preventivo",
-                "aire",
-                "ambiente",
-                "atmósfera",
-                "calidad",
-                "desarrollo sustentable",
-                "emisiones",
-                "estaciones fijas manuales",
-                "inmisión",
-                "material particulado",
-                "monitoreo ambiental",
-                "ciudadano",
-                "comunicación",
-                "consulta",
-                "control",
-                "denuncia",
-                "evolución",
-                "gestión",
-                "gestión interna",
-                "gobierno electrónico",
-                "incidente",
-                "portal",
-                "procedimiento",
-                "proceso",
-                "reclamo"
-            ],
-            "accrualPeriodicity": "R/P0.5M",
-            "superTheme": [
-                "GOVE"
-            ],
-            "landingPage": "http://www.datosabiertos.mendoza.gov.ar/dataset/sistema-de-consultas-ciudadanas",
-            "identifier": "44d947ad-20e3-4cdf-8cc4-b9aec53a039f",
-            "contactPoint": {
-                "hasEmail": "mailto:mgodoy@mendoza.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Marina Godoy Crotto"
             }
         }
     ],
