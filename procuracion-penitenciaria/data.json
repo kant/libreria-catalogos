@@ -742,9 +742,9 @@
             "license": "Creative Commons Attribution",
             "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
             "contactPoint": {
-                "hasEmail": "mailto:grodriguez@ppn.gov.ar",
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
                 "@type": "vcard:Contact",
-                "fn": "Área de Sistemas y Comunicaciones"
+                "fn": "Equipo de estadística y bases de datos"
             },
             "issued": "2017-05-08T15:57:47.307377",
             "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
@@ -770,43 +770,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/6897c04c-7473-4157-bce5-ccd9dd440481/download/registro-de-central-telefonica-ano-2013.xlsx",
-                    "description": "Registros generados por la central telefónica informatizada con la que presta el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Atención telefónica 2013",
-                    "issued": "2017-05-11T12:50:48.362237",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T12:50:48.198247",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/6897c04c-7473-4157-bce5-ccd9dd440481/download/registro-de-central-telefonica-ano-2013.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/276cf63a-1277-493a-9eb4-5cc1f9642b77/download/registro-de-central-telefonica-ano-2014.xlsx",
-                    "description": "Registros generados por la central telefónica informatizada con la que presta el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Atención telefónica 2014",
-                    "issued": "2017-05-11T12:52:21.617696",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T12:52:21.424451",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/276cf63a-1277-493a-9eb4-5cc1f9642b77/download/registro-de-central-telefonica-ano-2014.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/e6e732b8-0118-42ea-bfcf-395bcde3afd4/download/registro-menu-procuracion-ano-2013-2.xlsx",
-                    "description": "Registros generados por el programa informático con el que realiza el registro y gestiona el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Gestión de reclamos 2013",
-                    "issued": "2017-05-11T12:56:35.457792",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T12:59:27.065532",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/e6e732b8-0118-42ea-bfcf-395bcde3afd4/download/registro-menu-procuracion-ano-2013-2.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/68024510-3446-45e4-a4e8-9f3e7f91cc95/download/registro-menu-procuracion-ano-2014-2.xlsx",
-                    "description": "Registros generados por el programa informático con el que realiza el registro y gestiona el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Gestión de reclamos 2014",
-                    "issued": "2017-05-11T13:01:29.593936",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T13:01:29.404432",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/68024510-3446-45e4-a4e8-9f3e7f91cc95/download/registro-menu-procuracion-ano-2014-2.xlsx",
+                    "accessURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
+                    "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
+                    "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
+                    "issued": "2017-05-08T15:59:46.177309",
+                    "format": "CSV",
+                    "modified": "2017-05-08T15:59:45.943455",
+                    "downloadURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
