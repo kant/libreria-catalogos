@@ -3,9 +3,42 @@
         "mbox": "gcamporro@arsat.com.ar",
         "name": "ARSAT"
     },
+    "landingPage": "http://datos.arsat.com.ar/home/",
     "description": "ARSAT",
-    "title": "ARSAT",
     "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
+    "title": "ARSAT",
+    "themeTaxonomy": [
+        {
+            "label": "TELEVISION DIGITAL ABIERTA",
+            "id": "TECH",
+            "description": "Televisión Digital Abierta"
+        },
+        {
+            "label": "PLAN FEDERAL DE INTERNET",
+            "id": "TECH",
+            "description": "Plan Federal de Internet"
+        },
+        {
+            "label": "CINE.AR PLAY",
+            "id": "TECH",
+            "description": "Datos provenientes de la plataforma CINE.AR PLAY"
+        },
+        {
+            "label": "SERVICIOS SATELITALES",
+            "id": "TECH",
+            "description": "Datos de Satelital"
+        },
+        {
+            "label": "PLAN DE CONECTIVIDAD DE ESCUELAS RURALES",
+            "id": "TECH",
+            "description": "PLAN DE CONECTIVIDAD DE ESCUELAS RURALES"
+        },
+        {
+            "label": "GESTION TRANSPARENTE",
+            "id": "TECH",
+            "description": "GESTION TRANSPARENTE"
+        }
+    ],
     "dataset": [
         {
             "publisher": {
@@ -2217,38 +2250,5 @@
             ],
             "landingPage": "http://datos.arsat.com.ar/dataviews/238091/personal-por-gerencia/"
         }
-    ],
-    "themeTaxonomy": [
-        {
-            "label": "TELEVISION DIGITAL ABIERTA",
-            "id": "television-digital-abierta",
-            "description": "Televisión Digital Abierta"
-        },
-        {
-            "label": "PLAN FEDERAL DE INTERNET",
-            "id": "plan-federal-de-internet",
-            "description": "Plan Federal de Internet"
-        },
-        {
-            "label": "CINE.AR PLAY",
-            "id": "cinear-play",
-            "description": "Datos provenientes de la plataforma CINE.AR PLAY"
-        },
-        {
-            "label": "SERVICIOS SATELITALES",
-            "id": "servicios-satelitales",
-            "description": "Datos de Satelital"
-        },
-        {
-            "label": "PLAN DE CONECTIVIDAD DE ESCUELAS RURALES",
-            "id": "plan-de-conectividad-de-escuelas-rurales",
-            "description": "PLAN DE CONECTIVIDAD DE ESCUELAS RURALES"
-        },
-        {
-            "label": "GESTION TRANSPARENTE",
-            "id": "gestion-transparente",
-            "description": "GESTION TRANSPARENTE"
-        }
-    ],
-    "homePage": "http://datos.arsat.com.ar/home/"
+    ]
 }
