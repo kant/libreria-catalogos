@@ -1,7 +1,7 @@
 indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
-0,Datos de las estaciones de transmisión en construcción o planificadas,http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
-1,Datos de las estaciones transmisoras,http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
-2,Licitaciones,http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+0,Licitaciones,http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+1,Datos de las estaciones de transmisión en construcción o planificadas,http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+2,Datos de las estaciones transmisoras,http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
 3,Datos del área de cobertura de la Banda KU del satélite ARSAT-1,http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
 4,Datos de uso de la plataforma,http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
 5,Puntos de conexión al Plan Federal de Internet,http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-EN-SERVI-58179/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
