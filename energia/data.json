@@ -604,7 +604,7 @@
             "license": "Creative Commons Attribution",
             "title": "Anuarios de Cooperativas Eléctricas",
             "issued": "2016-12-28T15:48:22.458702",
-            "modified": "2017-05-08T12:09:21.770541",
+            "modified": "2017-05-18T16:08:24.406756",
             "theme": [
                 "distribucion-de-energia-electrica",
                 "generacion-de-energia-electrica"
@@ -13328,11 +13328,11 @@
                 "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
             },
             "landingPage": "",
-            "description": "",
+            "description": "Precio Internacional del petróleo crudo conforme la Res. MEyFP 1077/2014.",
             "license": "Creative Commons Attribution",
-            "title": "Precio Internacional (PI) del petróleo crudo (Res. MEyFP 1077/2014)",
+            "title": "Precio Internacional (PI) del petróleo crudo",
             "issued": "2016-12-22T17:46:21.223755",
-            "modified": "2017-05-08T12:08:15.693024",
+            "modified": "2017-05-18T16:55:40.708065",
             "theme": [
                 "otros"
             ],
@@ -14911,7 +14911,7 @@
             "license": "Creative Commons Attribution",
             "title": "Producción Hidrocarburos Puntos de Venteo Declarados",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-10T13:03:18.630073",
+            "modified": "2017-05-18T16:53:00.390755",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -14919,6 +14919,7 @@
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "tienerg@minem.gob.ar",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
@@ -15258,7 +15259,7 @@
             "license": "Creative Commons Attribution",
             "title": "Pronóstico de producción de gas natural",
             "issued": "2017-01-20T16:34:32.341102",
-            "modified": "2017-05-10T12:04:08.197324",
+            "modified": "2017-05-18T16:51:02.078344",
             "theme": [],
             "keyword": [
                 "Gas",
@@ -15269,6 +15270,7 @@
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "R/P1Y",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Exploración y Producción.Dirección Nacional de Exploración y Producción."
@@ -15453,7 +15455,7 @@
             "license": "Creative Commons Attribution",
             "title": "PRONUREE alumbrado público en municipios",
             "issued": "2017-01-20T16:39:18.290136",
-            "modified": "2017-05-10T16:05:45.951491",
+            "modified": "2017-05-18T16:44:53.584946",
             "theme": [
                 "eficiencia-energetica"
             ],
@@ -15464,6 +15466,7 @@
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Ahorro y Eficiencia Energética."
@@ -15695,13 +15698,16 @@
             "license": "Creative Commons Attribution",
             "title": "Publicaciones CAMMESA",
             "issued": "2017-03-29T13:49:40.876155",
-            "modified": "2017-05-10T12:44:01.670568",
+            "modified": "2017-05-18T16:42:19.321978",
             "theme": [],
             "keyword": [
                 "CAMMESA",
                 "Electricidad",
                 "Mercado Eléctrico Mayorista",
                 "Publicaciones MEMNet"
+            ],
+            "superTheme": [
+                "ENER"
             ],
             "accrualPeriodicity": "R/PT1H",
             "contactPoint": {
@@ -16228,12 +16234,12 @@
                 "mbox": "tienerg@minem.gob.ar",
                 "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información."
             },
-            "landingPage": "Secretaría de Energía ",
+            "landingPage": "",
             "description": "La inserción de las redes inteligentes traerá múltiples ventajas para los usuarios como poder gestionar en forma remota su consumo energético, monitorear su propia facturación,y vender electricidad a la red con micro-generación de energías renovables de paneles solares o mini-eólicos, como ya lo pueden hacer en muchos países del mundo y de la región. ",
             "license": "Creative Commons Attribution",
             "title": "Redes Inteligentes - Realidad, utopía o futuro",
             "issued": "2016-12-29T14:30:18.618476",
-            "modified": "2017-05-08T16:38:57.550867",
+            "modified": "2017-05-18T16:09:05.881563",
             "theme": [
                 "otros"
             ],
@@ -16762,7 +16768,7 @@
         },
         {
             "publisher": {
-                "mbox": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos.",
+                "mbox": "tienerg@minem.gob.ar",
                 "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
             },
             "landingPage": "",
@@ -16770,7 +16776,7 @@
             "license": "Creative Commons Attribution",
             "title": "Registro de empresas e instalaciones de GLP",
             "issued": "2017-01-20T16:34:40.028606",
-            "modified": "2017-05-10T12:12:50.841807",
+            "modified": "2017-05-18T16:40:02.020156",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -16814,7 +16820,7 @@
             "license": "Creative Commons Attribution",
             "title": "Padrón de operadores autorizados para la venta de combustibles líquidos",
             "issued": "2017-01-20T16:34:30.488389",
-            "modified": "2017-05-17T05:03:05.403103",
+            "modified": "2017-05-18T16:38:47.585754",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -16822,6 +16828,7 @@
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "R/PT1H",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Refinación y Comercialización."
@@ -16956,12 +16963,12 @@
                 "mbox": "tienerg@minem.gob.ar",
                 "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información.  "
             },
-            "landingPage": "Dirección Nacional de Exploración y Producción",
+            "landingPage": "",
             "description": "Datos de Reservas Comprobadas y Probables de Petróleo y Gas",
             "license": "Creative Commons Attribution",
             "title": "Reservas de Petróleo y Gas",
             "issued": "2016-12-22T19:05:03.262287",
-            "modified": "2017-05-08T16:37:48.591117",
+            "modified": "2017-05-18T16:37:42.014025",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -16970,6 +16977,10 @@
                 "Petróleo",
                 "Reservas"
             ],
+            "superTheme": [
+                "ENER"
+            ],
+            "accrualPeriodicity": "R/P1Y",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Exploración y Producción.Dirección Nacional de Exploración y Producción."
@@ -17332,7 +17343,7 @@
             "license": "Creative Commons Attribution",
             "title": "Síntesis del Mercado Eléctrico Mayorista",
             "issued": "2016-12-23T14:25:57.283041",
-            "modified": "2017-05-10T12:44:57.701161",
+            "modified": "2017-05-18T16:28:30.600229",
             "theme": [
                 "generacion-de-energia-electrica"
             ],
@@ -17340,6 +17351,10 @@
                 "Electricidad",
                 "MEM"
             ],
+            "superTheme": [
+                "ENER"
+            ],
+            "accrualPeriodicity": "R/P1M",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": ""
@@ -17366,11 +17381,11 @@
                 "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información."
             },
             "landingPage": "",
-            "description": "",
+            "description": "El trabajo tiene como objetivo descomponer los efectos que provocan variaciones en la demanda de electricidad diaria. Con el objeto de mejorar la toma de decisiones teniendo  en  cuenta  el  impacto  que  el  clima  y  otras  variables  tienen  sobre  la demanda  de  energía  eléctrica,  se  presentan  modelos  estacionales  y  cuadráticos para las regiones de AMBA, Córdoba, Mendoza, Tucumán y Santa Fe. ",
             "license": "Creative Commons Attribution",
             "title": "La temperatura y su influencia en la demanda de energía eléctrica: Un análisis regional para Argentina usando modelos econométricos",
             "issued": "2017-05-15T19:08:12.433556",
-            "modified": "2017-05-17T18:44:58.464613",
+            "modified": "2017-05-18T16:26:18.933502",
             "theme": [
                 "distribucion-de-energia-electrica",
                 "generacion-de-energia-electrica"
@@ -17378,6 +17393,9 @@
             "keyword": [
                 "Documentos de trabajo",
                 "Electricidad"
+            ],
+            "superTheme": [
+                "ENER"
             ],
             "accrualPeriodicity": "eventual",
             "contactPoint": {
