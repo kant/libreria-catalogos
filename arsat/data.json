@@ -45,6 +45,61 @@
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+            "language": [
+                "spa"
+            ],
+            "title": "Datos de las estaciones transmisoras",
+            "issued": "2017-05-18T12:32:30",
+            "modified": "2017-05-18T12:32:37",
+            "theme": [
+                "television-digital-abierta"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "TDA"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+                    "title": "Datos de las estaciones transmisoras",
+                    "issued": "2017-05-18T12:32:30",
+                    "format": "CSV",
+                    "modified": "2017-05-18T12:32:37",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+                    "title": "Datos de las estaciones transmisoras",
+                    "issued": "2017-05-18T12:32:30",
+                    "format": "XLS",
+                    "modified": "2017-05-18T12:32:37",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+                    "title": "Datos de las estaciones transmisoras",
+                    "issued": "2017-05-18T12:32:30",
+                    "format": "JSON",
+                    "modified": "2017-05-18T12:32:37",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
             "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
             "description": "Esta tabla muestra las coordenadas satelitales",
             "language": [
@@ -426,61 +481,6 @@
                 }
             ],
             "landingPage": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@gmail.com",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
-            "language": [
-                "spa"
-            ],
-            "title": "Datos de las estaciones transmisoras",
-            "issued": "2017-05-15T15:07:58",
-            "modified": "2017-05-15T15:08:02",
-            "theme": [
-                "television-digital-abierta"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "TDA"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
-                    "title": "Datos de las estaciones transmisoras",
-                    "issued": "2017-05-15T15:07:58",
-                    "format": "CSV",
-                    "modified": "2017-05-15T15:08:02",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
-                    "title": "Datos de las estaciones transmisoras",
-                    "issued": "2017-05-15T15:07:58",
-                    "format": "XLS",
-                    "modified": "2017-05-15T15:08:02",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
-                    "title": "Datos de las estaciones transmisoras",
-                    "issued": "2017-05-15T15:07:58",
-                    "format": "JSON",
-                    "modified": "2017-05-15T15:08:02",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/"
         },
         {
             "publisher": {
