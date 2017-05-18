@@ -10693,7 +10693,7 @@
             "license": "Creative Commons Attribution",
             "title": "Informe Trimestral de Coyuntura Energética",
             "issued": "2017-03-01T18:45:01.117181",
-            "modified": "2017-05-08T12:06:21.292032",
+            "modified": "2017-05-18T17:58:53.619987",
             "theme": [
                 "otros"
             ],
@@ -10705,6 +10705,7 @@
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "R/P3M",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. "
@@ -11997,12 +11998,15 @@
             "license": "Creative Commons Attribution",
             "title": "Mapas históricos de Argentina",
             "issued": "2017-03-17T18:40:21.832142",
-            "modified": "2017-05-10T13:16:14.695125",
+            "modified": "2017-05-18T17:47:27.516338",
             "theme": [
                 "otros"
             ],
             "keyword": [
                 "Mapas"
+            ],
+            "superTheme": [
+                "ENER"
             ],
             "accrualPeriodicity": "eventual",
             "contactPoint": {
@@ -13002,11 +13006,11 @@
                 "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
             },
             "landingPage": "",
-            "description": "",
+            "description": "Tablas dinámicas de inversiones",
             "license": "Creative Commons Attribution",
             "title": "Plan de Acción e Inversiones a Ejecutar (Tablas Dinámicas)",
             "issued": "2016-12-22T18:15:39.063554",
-            "modified": "2017-05-10T12:23:14.939149",
+            "modified": "2017-05-18T17:44:55.279204",
             "theme": [
                 "otros"
             ],
@@ -13022,6 +13026,18 @@
             },
             "identifier": "47c5b0c3-456d-4621-a166-1e3fa74643ba",
             "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/47c5b0c3-456d-4621-a166-1e3fa74643ba/resource/a2dafd3a-216a-48bf-809b-6f56427e6594",
+                    "description": "",
+                    "title": "Inversiones (2017)",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/mercado_hidrocarburos/tablas_dinamicas/inversiones/TD_2057_2017.zip",
+                    "issued": "2017-05-18T14:39:08.102077",
+                    "identifier": "a2dafd3a-216a-48bf-809b-6f56427e6594"
+                },
                 {
                     "accessURL": "http://190.3.64.19/dataset/47c5b0c3-456d-4621-a166-1e3fa74643ba/resource/1ba2343d-83b9-4e54-8a77-501f8435ad39",
                     "description": "",
@@ -13149,7 +13165,7 @@
             "license": "Creative Commons Attribution",
             "title": "Potencia Instalada (1976-2012)",
             "issued": "2016-12-28T15:23:54.780667",
-            "modified": "2017-05-08T12:15:59.689445",
+            "modified": "2017-05-18T17:17:14.535120",
             "theme": [
                 "generacion-de-energia-electrica"
             ],
@@ -13159,6 +13175,7 @@
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Energía Eléctrica."
@@ -13185,11 +13202,11 @@
                 "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
             },
             "landingPage": "",
-            "description": "",
+            "description": "Evolución de la potencia máxima mensual del sistema interconectado nacional - período 1980 - 2013 en MW",
             "license": "Creative Commons Attribution",
             "title": "Potencia Máxima del Sistema Eléctrico (1980-2013)",
             "issued": "2016-12-28T15:32:54.566507",
-            "modified": "2017-05-08T12:06:03.123561",
+            "modified": "2017-05-18T17:14:29.029310",
             "theme": [
                 "generacion-de-energia-electrica"
             ],
@@ -13853,7 +13870,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios en Surtidor - Resolución 314/2016",
             "issued": "2017-01-18T18:09:35.180560",
-            "modified": "2017-05-18T15:00:38.498861",
+            "modified": "2017-05-18T18:00:23.551812",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -13878,7 +13895,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-18T11:00:22.733923",
+                    "modified": "2017-05-18T15:00:23.519175",
                     "downloadURL": "http://190.3.64.19/dataset/e095db78-a5df-451c-b966-971d0a6b7887/resource/7147dbd6-03c1-4da3-922e-f0b8645bf097/download/precios-en-surtidor-resolucin-3142016.csv",
                     "issued": "2017-05-04T12:15:28.243942",
                     "identifier": "7147dbd6-03c1-4da3-922e-f0b8645bf097"
