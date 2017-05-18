@@ -600,11 +600,11 @@
                 "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
             },
             "landingPage": "",
-            "description": "",
+            "description": "Anuarios de cooperativas eléctricas de la República Argentina.",
             "license": "Creative Commons Attribution",
             "title": "Anuarios de Cooperativas Eléctricas",
             "issued": "2016-12-28T15:48:22.458702",
-            "modified": "2017-05-18T16:08:24.406756",
+            "modified": "2017-05-18T18:33:12.469976",
             "theme": [
                 "distribucion-de-energia-electrica",
                 "generacion-de-energia-electrica"
@@ -615,6 +615,7 @@
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "R/P1Y",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Energía Eléctrica."
@@ -849,7 +850,7 @@
             "license": "Creative Commons Attribution",
             "title": "Anuarios de Energía Eléctrica",
             "issued": "2016-12-23T17:00:01.930783",
-            "modified": "2017-05-08T12:12:23.510699",
+            "modified": "2017-05-18T18:34:55.685667",
             "theme": [
                 "distribucion-de-energia-electrica",
                 "generacion-de-energia-electrica"
@@ -862,6 +863,7 @@
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "R/P1Y",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Energía Eléctrica."
@@ -1629,7 +1631,7 @@
             "license": "Creative Commons Attribution",
             "title": "Balances Energéticos",
             "issued": "2016-12-23T14:56:00.348697",
-            "modified": "2017-05-08T12:09:46.996845",
+            "modified": "2017-05-18T18:30:48.814130",
             "theme": [
                 "otros"
             ],
@@ -1639,6 +1641,7 @@
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "R/P1Y",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos.Dirección Nacional de Información Energética."
@@ -1943,11 +1946,11 @@
                 "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
             },
             "landingPage": "",
-            "description": "",
+            "description": "Cantidad de emisiones de CO2 que resulta de la producción de una unidad de energía eléctrica de la red Argentina . ",
             "license": "Creative Commons Attribution",
             "title": "Cálculo del Factor de Emisión de CO2, de la Red Argentina de Energía Eléctrica",
             "issued": "2016-12-23T14:32:09.764874",
-            "modified": "2017-05-10T13:16:10.881048",
+            "modified": "2017-05-18T18:29:54.506501",
             "theme": [
                 "generacion-de-energia-electrica"
             ],
@@ -1958,6 +1961,7 @@
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "R/P1Y",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Energía Eléctrica."
@@ -2092,11 +2096,11 @@
                 "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
             },
             "landingPage": "",
-            "description": "",
+            "description": "Cantidad de usuarios de electricidad desde 1991 a 2012 en el país.",
             "license": "Creative Commons Attribution",
             "title": "Cantidad de Usuarios de Energía Eléctrica - Total País (1991-2012)",
             "issued": "2016-12-28T15:14:33.703139",
-            "modified": "2017-05-08T12:16:46.151588",
+            "modified": "2017-05-18T18:25:57.881426",
             "theme": [
                 "generacion-de-energia-electrica"
             ],
@@ -3276,11 +3280,11 @@
                 "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
             },
             "landingPage": "",
-            "description": "",
+            "description": "Cuadros tarifarios desde 2000 hasta 2015.",
             "license": "Creative Commons Attribution",
             "title": "Cuadros Tarifarios Eléctricos",
             "issued": "2017-01-10T12:46:00.492565",
-            "modified": "2017-05-08T12:08:59.849478",
+            "modified": "2017-05-18T18:23:47.098655",
             "theme": [
                 "distribucion-de-energia-electrica"
             ],
@@ -3862,7 +3866,7 @@
             "license": "Creative Commons Attribution",
             "title": "Detección Satelital de Venteos",
             "issued": "2017-03-10T12:11:45.984324",
-            "modified": "2017-05-08T16:29:00.710394",
+            "modified": "2017-05-18T18:20:30.574397",
             "theme": [
                 "exploracion-y-produccion-de-hidrocarburos"
             ],
@@ -3872,6 +3876,9 @@
                 "Imágenes satelitales",
                 "Sensores remotos",
                 "Venteos"
+            ],
+            "superTheme": [
+                "ENER"
             ],
             "accrualPeriodicity": "R/P3M",
             "contactPoint": {
@@ -6199,7 +6206,7 @@
             "license": "Creative Commons Attribution",
             "title": "Escenarios Energéticos",
             "issued": "2017-03-01T19:06:05.630358",
-            "modified": "2017-05-08T12:10:15.102248",
+            "modified": "2017-05-18T18:19:07.334285",
             "theme": [
                 "otros"
             ],
@@ -6211,6 +6218,7 @@
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "R/P1Y",
             "contactPoint": {
                 "hasEmail": "tienerg@minem.gob.ar",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Escenarios y Evaluación de Proyectos Energéticos"
@@ -6818,12 +6826,12 @@
                 "mbox": "tienerg@minem.gob.ar",
                 "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
             },
-            "landingPage": "Secretaría de Energía Eléctrica ",
-            "description": "",
+            "landingPage": "",
+            "description": "Facturación de electricidad de 1970 a 2012.",
             "license": "Creative Commons Attribution",
             "title": "Facturación de Energía Eléctrica en MWh (1970-2012)",
             "issued": "2016-12-28T15:26:30.017403",
-            "modified": "2017-05-08T12:16:18.996847",
+            "modified": "2017-05-18T18:18:11.620698",
             "theme": [
                 "distribucion-de-energia-electrica"
             ],
@@ -7779,28 +7787,44 @@
         },
         {
             "publisher": {
-                "mbox": "",
-                "name": ""
+                "mbox": " tienerg@minem.gob.ar",
+                "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
             },
             "landingPage": "",
             "description": "Importaciones de sustancias minerales y productos derivados por rubro de producción minera. Años 2001-2015 ",
             "license": "Creative Commons Attribution",
             "title": "Importaciones mineras por rubro",
             "issued": "2016-11-07T13:33:34.985951",
-            "modified": "2017-05-04T14:45:31.002466",
-            "theme": [],
+            "modified": "2017-05-18T18:15:35.317110",
+            "theme": [
+                "mineria"
+            ],
             "keyword": [
                 "Minería"
             ],
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "eventual",
             "contactPoint": {
                 "hasEmail": "",
-                "fn": ""
+                "fn": "Ministerio de Energía y Minería.Secretaría de Minería."
             },
             "identifier": "847259dd-c788-463d-ac89-edad029dd767",
-            "distribution": []
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/847259dd-c788-463d-ac89-edad029dd767/resource/89ff97d7-7093-4ff7-ac83-72d93201377c",
+                    "description": "",
+                    "title": "Importaciones mineras por rubro",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-18T15:12:52.285014",
+                    "downloadURL": "http://190.3.64.19/dataset/847259dd-c788-463d-ac89-edad029dd767/resource/89ff97d7-7093-4ff7-ac83-72d93201377c/download/impo-mineria-por-rubro.csv",
+                    "issued": "2017-05-18T15:12:52.374829",
+                    "identifier": "89ff97d7-7093-4ff7-ac83-72d93201377c"
+                }
+            ]
         },
         {
             "publisher": {
@@ -10598,11 +10622,11 @@
                 "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. "
             },
             "landingPage": "",
-            "description": "",
+            "description": "Informes del sector eléctrico decenales y quinquenales.",
             "license": "Creative Commons Attribution",
             "title": "Informes Estadísticos del Sector Eléctrico (Quinquenales y Decenales)",
             "issued": "2016-12-23T18:37:27.939164",
-            "modified": "2017-05-08T12:08:29.993415",
+            "modified": "2017-05-18T18:05:43.670348",
             "theme": [
                 "distribucion-de-energia-electrica",
                 "generacion-de-energia-electrica"
@@ -10615,6 +10639,7 @@
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "R/P10Y",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": ""
@@ -13010,7 +13035,7 @@
             "license": "Creative Commons Attribution",
             "title": "Plan de Acción e Inversiones a Ejecutar (Tablas Dinámicas)",
             "issued": "2016-12-22T18:15:39.063554",
-            "modified": "2017-05-18T17:44:55.279204",
+            "modified": "2017-05-18T18:40:43.157202",
             "theme": [
                 "otros"
             ],
@@ -13020,6 +13045,7 @@
             "superTheme": [
                 "ENER"
             ],
+            "accrualPeriodicity": "R/P1Y",
             "contactPoint": {
                 "hasEmail": "",
                 "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Exploración y Producción.Dirección Nacional de Exploración y Producción."
