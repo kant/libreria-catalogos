@@ -45,14 +45,69 @@
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
+            "language": [
+                "spa"
+            ],
+            "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+            "issued": "2017-05-18T13:53:49",
+            "modified": "2017-05-18T13:53:54",
+            "theme": [
+                "television-digital-abierta"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "TDA"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
+                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+                    "issued": "2017-05-18T13:53:49",
+                    "format": "CSV",
+                    "modified": "2017-05-18T13:53:54",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
+                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+                    "issued": "2017-05-18T13:53:49",
+                    "format": "XLS",
+                    "modified": "2017-05-18T13:53:54",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
+                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
+                    "issued": "2017-05-18T13:53:49",
+                    "format": "JSON",
+                    "modified": "2017-05-18T13:53:54",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
             "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
             "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
             "language": [
                 "spa"
             ],
             "title": "Datos de las estaciones transmisoras",
-            "issued": "2017-05-18T12:32:30",
-            "modified": "2017-05-18T12:32:37",
+            "issued": "2017-05-18T13:52:40",
+            "modified": "2017-05-18T13:52:46",
             "theme": [
                 "television-digital-abierta"
             ],
@@ -69,31 +124,87 @@
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
                     "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
                     "title": "Datos de las estaciones transmisoras",
-                    "issued": "2017-05-18T12:32:30",
+                    "issued": "2017-05-18T13:52:40",
                     "format": "CSV",
-                    "modified": "2017-05-18T12:32:37",
+                    "modified": "2017-05-18T13:52:46",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
                     "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
                     "title": "Datos de las estaciones transmisoras",
-                    "issued": "2017-05-18T12:32:30",
+                    "issued": "2017-05-18T13:52:40",
                     "format": "XLS",
-                    "modified": "2017-05-18T12:32:37",
+                    "modified": "2017-05-18T13:52:46",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/",
                     "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
                     "title": "Datos de las estaciones transmisoras",
-                    "issued": "2017-05-18T12:32:30",
+                    "issued": "2017-05-18T13:52:40",
                     "format": "JSON",
-                    "modified": "2017-05-18T12:32:37",
+                    "modified": "2017-05-18T13:52:46",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "landingPage": "http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Procesos de Licitaciones Públicas, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
+            "language": [
+                "spa"
+            ],
+            "title": "Licitaciones",
+            "issued": "2017-05-18T13:33:51",
+            "modified": "2017-05-18T13:33:57",
+            "theme": [
+                "gestion-transparente"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "transparencia",
+                "Licitaciones Públicas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
+                    "description": "Procesos de Licitaciones Públicas, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
+                    "title": "Licitaciones",
+                    "issued": "2017-05-18T13:33:51",
+                    "format": "CSV",
+                    "modified": "2017-05-18T13:33:57",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
+                    "description": "Procesos de Licitaciones Públicas, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
+                    "title": "Licitaciones",
+                    "issued": "2017-05-18T13:33:51",
+                    "format": "XLS",
+                    "modified": "2017-05-18T13:33:57",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
+                    "description": "Procesos de Licitaciones Públicas, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
+                    "title": "Licitaciones",
+                    "issued": "2017-05-18T13:33:51",
+                    "format": "JSON",
+                    "modified": "2017-05-18T13:33:57",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/"
         },
         {
             "publisher": {
@@ -426,61 +537,6 @@
                 }
             ],
             "landingPage": "http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
-            "language": [
-                "spa"
-            ],
-            "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-            "issued": "2017-05-15T15:09:06",
-            "modified": "2017-05-15T15:09:11",
-            "theme": [
-                "television-digital-abierta"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "TDA"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
-                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-                    "issued": "2017-05-15T15:09:06",
-                    "format": "CSV",
-                    "modified": "2017-05-15T15:09:11",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
-                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-                    "issued": "2017-05-15T15:09:06",
-                    "format": "XLS",
-                    "modified": "2017-05-15T15:09:11",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/",
-                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión que se encuentran en construcción o planificadas en todo el país.",
-                    "title": "Datos de las estaciones de transmisión en construcción o planificadas",
-                    "issued": "2017-05-15T15:09:06",
-                    "format": "JSON",
-                    "modified": "2017-05-15T15:09:11",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/"
         },
         {
             "publisher": {
@@ -1524,62 +1580,6 @@
                 }
             ],
             "landingPage": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "Procesos de Licitaciones Públicas, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
-            "language": [
-                "spa"
-            ],
-            "title": "Licitaciones",
-            "issued": "2017-05-13T17:47:10",
-            "modified": "2017-05-13T17:47:15",
-            "theme": [
-                "gestion-transparente"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "transparencia",
-                "Licitaciones Públicas"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
-                    "description": "Procesos de Licitaciones Públicas, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
-                    "title": "Licitaciones",
-                    "issued": "2017-05-13T17:47:10",
-                    "format": "CSV",
-                    "modified": "2017-05-13T17:47:15",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
-                    "description": "Procesos de Licitaciones Públicas, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
-                    "title": "Licitaciones",
-                    "issued": "2017-05-13T17:47:10",
-                    "format": "XLS",
-                    "modified": "2017-05-13T17:47:15",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/",
-                    "description": "Procesos de Licitaciones Públicas, adjudicadas y en proceso, correspondientes a los años 2016 y 2017.",
-                    "title": "Licitaciones",
-                    "issued": "2017-05-13T17:47:10",
-                    "format": "JSON",
-                    "modified": "2017-05-13T17:47:15",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/237560/licitaciones/"
         },
         {
             "publisher": {
