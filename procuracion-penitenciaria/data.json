@@ -1463,13 +1463,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/7759f43e-22d4-4d80-bdca-e04e13b6540c/resource/2902fc3b-5fc0-4e16-8769-b38d3629dd59/download/dataset-base-aple-2-1.csv",
-                    "description": "Esta base recopila información de los argentinos presos en el exterior a partir de un instrumento elaborado por la PPN y aplicado por el Ministerio de Relaciones Exteriores y Culto. Hasta el momento ha tenido aplicación en nueve países y pretende seguir extendiendo el relevamiento que consiste en obtener información acerca del lugar de alojamiento, características de esta población, situación legal y condiciones de encierro, principalmente.",
-                    "title": "Argentinos privados de libertad en el exterior",
-                    "issued": "2017-05-08T15:20:39.526947",
+                    "accessURL": "http://172.17.0.4/dataset/8dc50506-2d71-418c-9f28-47fa922410b1/resource/eb70bc04-90d0-45c3-95f8-9bc6a7f47b9d/download/relevamiento-sobre-extranjeros-en-prision.csv",
+                    "description": "Esta base contiene información producida durante un relevamiento temático realizado por la PPN. Recopila datos acerca de las características demográficas de los extranjeros presos en Argentina, su situación legal y alojamiento, sus condiciones laborales, educativas, recreativas y sanitarias; su acceso y posibilidad de vinculación familiar y a la asistencia consular y problemas específicos de la situación de ser extranjeros privados de su libertad en el país.",
+                    "title": "Relevamiento sobre Extranjeros en prisión",
+                    "issued": "2017-05-08T15:41:30.302891",
                     "format": "CSV",
-                    "modified": "2017-05-08T15:20:39.327878",
-                    "downloadURL": "http://172.17.0.4/dataset/7759f43e-22d4-4d80-bdca-e04e13b6540c/resource/2902fc3b-5fc0-4e16-8769-b38d3629dd59/download/dataset-base-aple-2-1.csv",
+                    "modified": "2017-05-08T15:41:30.133375",
+                    "downloadURL": "http://172.17.0.4/dataset/8dc50506-2d71-418c-9f28-47fa922410b1/resource/eb70bc04-90d0-45c3-95f8-9bc6a7f47b9d/download/relevamiento-sobre-extranjeros-en-prision.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -2333,13 +2333,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/0f42f8c4-7885-4c17-a0d2-3c09f9989429/resource/7e3024e9-c43f-4160-ae29-dab67855f57b/download/procedimientos-de-requisa-en-el-servicio-penitenciario-federal.csv",
-                    "description": "En esta base se recopila la información producida en el marco de un relevamiento temático que abordó los procedimientos de registro personal y requisas que se realizan en cárceles federales. Contiene datos sobre contextos y condiciones de realización, tipo de requisas, circunstancias, uso de la violencia, entre otras características sensibles del fenómeno.",
-                    "title": "Procedimientos de requisa en el Servicio Penitenciario Federal",
-                    "issued": "2017-04-27T14:35:47.742187",
+                    "accessURL": "http://172.17.0.4/dataset/6979a167-c241-4e09-b9ab-38045ad3a98d/resource/cec55700-4163-4f86-97e2-fe64a76e1898/download/relevamiento-sobre-tics-en-el-servicio-penitencario-federal.csv",
+                    "description": "La base contiene información producida a partir de un relevamiento temático realizado en 2013. Se relevó tipos de TIC´s a las que los detenidos pueden acceder, frecuencia, usos, etc. Ante la imposibilidad de su utilización se señalan motivos argüidos y dificultades derivadas, entre otras cuestiones relevantes.",
+                    "title": "Relevamiento sobre TIC´s en el Servicio Penitenciario Federal",
+                    "issued": "2017-05-03T18:10:28.890348",
                     "format": "CSV",
-                    "modified": "2017-05-02T15:33:09.497803",
-                    "downloadURL": "http://172.17.0.4/dataset/0f42f8c4-7885-4c17-a0d2-3c09f9989429/resource/7e3024e9-c43f-4160-ae29-dab67855f57b/download/procedimientos-de-requisa-en-el-servicio-penitenciario-federal.csv",
+                    "modified": "2017-05-03T18:10:28.595452",
+                    "downloadURL": "http://172.17.0.4/dataset/6979a167-c241-4e09-b9ab-38045ad3a98d/resource/cec55700-4163-4f86-97e2-fe64a76e1898/download/relevamiento-sobre-tics-en-el-servicio-penitencario-federal.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -2507,40 +2507,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
-                    "description": "Se recopila la información suministrada semestralmente por la División de Traslados del Servicio Penitenciario Federal. La base de datos registra unidad de origen y destino y motivo del traslado.",
-                    "title": "Traslados en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-02T15:10:05.274966",
+                    "accessURL": "http://172.17.0.4/dataset/c44d3e2f-5367-40b0-a162-35b82c97d2f9/resource/00952704-dfa3-4585-a5cd-22f2ab9e9728/download/medidas-de-fuerza.csv",
+                    "description": "La información resultante acerca de las medidas de fuerza de las que toma conocimiento y registra la PPN es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada uno de los casos relevados en unidades penitenciarias. Se registra tipo de medida de fuerza realizada, alcance, motivos que la originaron, eventuales represalias institucionales, efectividad para la resolución del reclamo presentado, entre otras variables de alta sensibilidad.",
+                    "title": "Medidas de fuerza",
+                    "issued": "2017-04-27T14:01:36.850639",
                     "format": "CSV",
-                    "modified": "2017-05-02T15:10:05.131824",
-                    "downloadURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Unidad desde donde se origina el traslado",
-                            "title": "Desde"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Región desde donde se origina el traslado.",
-                            "title": "Unidad_orig"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Destino final del traslado",
-                            "title": "Hasta"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Región donde finaliza el traslado.",
-                            "title": "Unid_dest"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha en que se realizo el traslado.",
-                            "title": "Fecha"
-                        }
-                    ],
+                    "modified": "2017-05-02T15:37:46.955021",
+                    "downloadURL": "http://172.17.0.4/dataset/c44d3e2f-5367-40b0-a162-35b82c97d2f9/resource/00952704-dfa3-4585-a5cd-22f2ab9e9728/download/medidas-de-fuerza.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
