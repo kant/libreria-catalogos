@@ -45,6 +45,280 @@
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Red de fibra óptica de la empresa Transener con convenio marco por la utilización de la infraestructura existente sobre las redes eléctricas.",
+            "language": [
+                "spa"
+            ],
+            "title": "Fibra óptica de la empresa Transener",
+            "issued": "2017-05-19T16:28:25",
+            "modified": "2017-05-19T16:28:29",
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "PLAN FEDERAL DE INTERNET"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/",
+                    "description": "Red de fibra óptica de la empresa Transener con convenio marco por la utilización de la infraestructura existente sobre las redes eléctricas.",
+                    "title": "Fibra óptica de la empresa Transener",
+                    "issued": "2017-05-19T16:28:25",
+                    "format": "CSV",
+                    "modified": "2017-05-19T16:28:29",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/",
+                    "description": "Red de fibra óptica de la empresa Transener con convenio marco por la utilización de la infraestructura existente sobre las redes eléctricas.",
+                    "title": "Fibra óptica de la empresa Transener",
+                    "issued": "2017-05-19T16:28:25",
+                    "format": "XLS",
+                    "modified": "2017-05-19T16:28:29",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/",
+                    "description": "Red de fibra óptica de la empresa Transener con convenio marco por la utilización de la infraestructura existente sobre las redes eléctricas.",
+                    "title": "Fibra óptica de la empresa Transener",
+                    "issued": "2017-05-19T16:28:25",
+                    "format": "JSON",
+                    "modified": "2017-05-19T16:28:29",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@gmail.com",
+                "name": "ARSAT"
+            },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Red de fibra óptica en planificación",
+            "language": [
+                "spa"
+            ],
+            "title": "Fibra óptica planificada",
+            "issued": "2017-05-19T16:26:33",
+            "modified": "2017-05-19T16:26:39",
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238757/fibra-optica-planificada/",
+                    "description": "Red de fibra óptica en planificación",
+                    "title": "Fibra óptica planificada",
+                    "issued": "2017-05-19T16:26:33",
+                    "format": "CSV",
+                    "modified": "2017-05-19T16:26:39",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238757/fibra-optica-planificada/",
+                    "description": "Red de fibra óptica en planificación",
+                    "title": "Fibra óptica planificada",
+                    "issued": "2017-05-19T16:26:33",
+                    "format": "XLS",
+                    "modified": "2017-05-19T16:26:39",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238757/fibra-optica-planificada/",
+                    "description": "Red de fibra óptica en planificación",
+                    "title": "Fibra óptica planificada",
+                    "issued": "2017-05-19T16:26:33",
+                    "format": "JSON",
+                    "modified": "2017-05-19T16:26:39",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/238757/fibra-optica-planificada/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
+            "language": [
+                "spa"
+            ],
+            "title": "Fibra óptica en obra",
+            "issued": "2017-05-19T16:25:15",
+            "modified": "2017-05-19T16:25:20",
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/",
+                    "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
+                    "title": "Fibra óptica en obra",
+                    "issued": "2017-05-19T16:25:15",
+                    "format": "CSV",
+                    "modified": "2017-05-19T16:25:20",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/",
+                    "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
+                    "title": "Fibra óptica en obra",
+                    "issued": "2017-05-19T16:25:15",
+                    "format": "XLS",
+                    "modified": "2017-05-19T16:25:20",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/",
+                    "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
+                    "title": "Fibra óptica en obra",
+                    "issued": "2017-05-19T16:25:15",
+                    "format": "JSON",
+                    "modified": "2017-05-19T16:25:20",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Red de fibra óptica en etapa anterior al iluminar",
+            "language": [
+                "spa"
+            ],
+            "title": "Fibra óptica próxima a iluminar",
+            "issued": "2017-05-19T16:10:43",
+            "modified": "2017-05-19T16:10:48",
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "PLAN FEDERAL DE INTERNET"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238753/fibra-optica-proxima-a-iluminar/",
+                    "description": "Red de fibra óptica en etapa anterior al iluminar",
+                    "title": "Fibra óptica próxima a iluminar",
+                    "issued": "2017-05-19T16:10:43",
+                    "format": "CSV",
+                    "modified": "2017-05-19T16:10:48",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238753/fibra-optica-proxima-a-iluminar/",
+                    "description": "Red de fibra óptica en etapa anterior al iluminar",
+                    "title": "Fibra óptica próxima a iluminar",
+                    "issued": "2017-05-19T16:10:43",
+                    "format": "XLS",
+                    "modified": "2017-05-19T16:10:48",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238753/fibra-optica-proxima-a-iluminar/",
+                    "description": "Red de fibra óptica en etapa anterior al iluminar",
+                    "title": "Fibra óptica próxima a iluminar",
+                    "issued": "2017-05-19T16:10:43",
+                    "format": "JSON",
+                    "modified": "2017-05-19T16:10:48",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/238753/fibra-optica-proxima-a-iluminar/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales, al 25/04/2017",
+            "language": [
+                "spa"
+            ],
+            "title": "Porcentaje de avance del Plan",
+            "issued": "2017-05-19T16:04:39",
+            "modified": "2017-05-19T16:04:44",
+            "theme": [
+                "plan-de-conectividad-de-escuelas-rurales"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "ESCUELAS RURALES",
+                "conectividad"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/",
+                    "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales, al 25/04/2017",
+                    "title": "Porcentaje de avance del Plan",
+                    "issued": "2017-05-19T16:04:39",
+                    "format": "CSV",
+                    "modified": "2017-05-19T16:04:44",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/",
+                    "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales, al 25/04/2017",
+                    "title": "Porcentaje de avance del Plan",
+                    "issued": "2017-05-19T16:04:39",
+                    "format": "XLS",
+                    "modified": "2017-05-19T16:04:44",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/",
+                    "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales, al 25/04/2017",
+                    "title": "Porcentaje de avance del Plan",
+                    "issued": "2017-05-19T16:04:39",
+                    "format": "JSON",
+                    "modified": "2017-05-19T16:04:44",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
             "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
             "description": "Listado de visitas recibidas en Arsat desde el 20/03/17 hasta el presente.",
             "language": [
@@ -599,115 +873,6 @@
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "El mapa ilustra la red de fibra óptica de la empresa Transener.",
-            "language": [
-                "spa"
-            ],
-            "title": "Fibra óptica de la empresa Transener",
-            "issued": "2017-05-15T17:40:43",
-            "modified": "2017-05-15T17:40:48",
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "PLAN FEDERAL DE INTERNET"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/",
-                    "description": "El mapa ilustra la red de fibra óptica de la empresa Transener.",
-                    "title": "Fibra óptica de la empresa Transener",
-                    "issued": "2017-05-15T17:40:43",
-                    "format": "CSV",
-                    "modified": "2017-05-15T17:40:48",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/",
-                    "description": "El mapa ilustra la red de fibra óptica de la empresa Transener.",
-                    "title": "Fibra óptica de la empresa Transener",
-                    "issued": "2017-05-15T17:40:43",
-                    "format": "XLS",
-                    "modified": "2017-05-15T17:40:48",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/",
-                    "description": "El mapa ilustra la red de fibra óptica de la empresa Transener.",
-                    "title": "Fibra óptica de la empresa Transener",
-                    "issued": "2017-05-15T17:40:43",
-                    "format": "JSON",
-                    "modified": "2017-05-15T17:40:48",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "Traza de FO próxima a iluminar 13/05/2017",
-            "language": [
-                "spa"
-            ],
-            "title": "Traza de FO próxima a iluminar",
-            "issued": "2017-05-15T14:24:05",
-            "modified": "2017-05-15T14:24:13",
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238753/traza-de-fo-proxima-a-iluminar/",
-                    "description": "Traza de FO próxima a iluminar 13/05/2017",
-                    "title": "Traza de FO próxima a iluminar",
-                    "issued": "2017-05-15T14:24:05",
-                    "format": "CSV",
-                    "modified": "2017-05-15T14:24:13",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238753/traza-de-fo-proxima-a-iluminar/",
-                    "description": "Traza de FO próxima a iluminar 13/05/2017",
-                    "title": "Traza de FO próxima a iluminar",
-                    "issued": "2017-05-15T14:24:05",
-                    "format": "XLS",
-                    "modified": "2017-05-15T14:24:13",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238753/traza-de-fo-proxima-a-iluminar/",
-                    "description": "Traza de FO próxima a iluminar 13/05/2017",
-                    "title": "Traza de FO próxima a iluminar",
-                    "issued": "2017-05-15T14:24:05",
-                    "format": "JSON",
-                    "modified": "2017-05-15T14:24:13",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/238753/traza-de-fo-proxima-a-iluminar/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
             "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-TENDI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
             "description": "Fibra óptica tendida al 13/05/2017",
             "language": [
@@ -756,114 +921,6 @@
                 }
             ],
             "landingPage": "http://datos.arsat.com.ar/dataviews/238754/fibra-optica-tendida/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "El mapa ilustra la red de fibra óptica que actualmente se encuentra en construcción de obra civil",
-            "language": [
-                "spa"
-            ],
-            "title": "Fibra óptica en obra",
-            "issued": "2017-05-15T14:16:29",
-            "modified": "2017-05-15T14:16:33",
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/",
-                    "description": "El mapa ilustra la red de fibra óptica que actualmente se encuentra en construcción de obra civil",
-                    "title": "Fibra óptica en obra",
-                    "issued": "2017-05-15T14:16:29",
-                    "format": "CSV",
-                    "modified": "2017-05-15T14:16:33",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/",
-                    "description": "El mapa ilustra la red de fibra óptica que actualmente se encuentra en construcción de obra civil",
-                    "title": "Fibra óptica en obra",
-                    "issued": "2017-05-15T14:16:29",
-                    "format": "XLS",
-                    "modified": "2017-05-15T14:16:33",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/",
-                    "description": "El mapa ilustra la red de fibra óptica que actualmente se encuentra en construcción de obra civil",
-                    "title": "Fibra óptica en obra",
-                    "issued": "2017-05-15T14:16:29",
-                    "format": "JSON",
-                    "modified": "2017-05-15T14:16:33",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@gmail.com",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "El mapa ilustra la red de fibra óptica en planificación",
-            "language": [
-                "spa"
-            ],
-            "title": "Fibra óptica planificada",
-            "issued": "2017-05-15T14:12:28",
-            "modified": "2017-05-15T14:12:34",
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238757/fibra-optica-planificada/",
-                    "description": "El mapa ilustra la red de fibra óptica en planificación",
-                    "title": "Fibra óptica planificada",
-                    "issued": "2017-05-15T14:12:28",
-                    "format": "CSV",
-                    "modified": "2017-05-15T14:12:34",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238757/fibra-optica-planificada/",
-                    "description": "El mapa ilustra la red de fibra óptica en planificación",
-                    "title": "Fibra óptica planificada",
-                    "issued": "2017-05-15T14:12:28",
-                    "format": "XLS",
-                    "modified": "2017-05-15T14:12:34",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238757/fibra-optica-planificada/",
-                    "description": "El mapa ilustra la red de fibra óptica en planificación",
-                    "title": "Fibra óptica planificada",
-                    "issued": "2017-05-15T14:12:28",
-                    "format": "JSON",
-                    "modified": "2017-05-15T14:12:34",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/238757/fibra-optica-planificada/"
         },
         {
             "publisher": {
@@ -2082,62 +2139,6 @@
                 }
             ],
             "landingPage": "http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "Porcentaje de Avance de implementación de la Fase 1 del Proyecto al 25/04/2017",
-            "language": [
-                "spa"
-            ],
-            "title": "Avance de la Fase 1 del Proyecto",
-            "issued": "2017-05-10T18:24:08",
-            "modified": "2017-05-10T18:24:13",
-            "theme": [
-                "plan-de-conectividad-de-escuelas-rurales"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "ESCUELAS RURALES",
-                "conectividad"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237190/avance-de-la-fase-1-del-proyecto/",
-                    "description": "Porcentaje de Avance de implementación de la Fase 1 del Proyecto al 25/04/2017",
-                    "title": "Avance de la Fase 1 del Proyecto",
-                    "issued": "2017-05-10T18:24:08",
-                    "format": "CSV",
-                    "modified": "2017-05-10T18:24:13",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237190/avance-de-la-fase-1-del-proyecto/",
-                    "description": "Porcentaje de Avance de implementación de la Fase 1 del Proyecto al 25/04/2017",
-                    "title": "Avance de la Fase 1 del Proyecto",
-                    "issued": "2017-05-10T18:24:08",
-                    "format": "XLS",
-                    "modified": "2017-05-10T18:24:13",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237190/avance-de-la-fase-1-del-proyecto/",
-                    "description": "Porcentaje de Avance de implementación de la Fase 1 del Proyecto al 25/04/2017",
-                    "title": "Avance de la Fase 1 del Proyecto",
-                    "issued": "2017-05-10T18:24:08",
-                    "format": "JSON",
-                    "modified": "2017-05-10T18:24:13",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/237190/avance-de-la-fase-1-del-proyecto/"
         },
         {
             "publisher": {
