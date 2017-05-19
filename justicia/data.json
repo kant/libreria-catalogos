@@ -813,6 +813,49 @@
         },
         {
             "publisher": {
+                "mbox": "allamosa@jus.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos."
+            },
+            "landingPage": "",
+            "description": "En este conjunto de datos se detalla la cantidad de mediaciones prejudiciales y judiciales (remitidas por el Juez una vez iniciado el juicio) registradas en el Sistema Mepre, que está operativo desde febrero de 2014 y que registra la totalidad de las mediaciones prejudiciales efectuadas desde la fecha de su implementación.",
+            "license": "Creative Commons Attribution",
+            "title": "Estadística de Mediaciones Prejudiciales y Judiciales",
+            "issued": "2016-07-12T13:51:29.820576",
+            "modified": "2017-05-19T18:34:30.386056",
+            "theme": [
+                "acceso-a-justicia"
+            ],
+            "keyword": [
+                "mediación",
+                "prejudicial",
+                "resolución alternativa de conflictos"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "contactPoint": {
+                "hasEmail": "allamosa@jus.gov.ar",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos."
+            },
+            "identifier": "a9767469-d903-4158-aa76-b21dd37e8aff",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/fee87e15-3d5b-4d30-a29f-2dd8815fc015",
+                    "description": "Estadística de mediaciones prejudiciales y judiciales efectuadas desde febrero de 2014",
+                    "title": "Estadística de mediaciones prejudiciales y judiciales",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-03-10T09:16:12.862448",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/fee87e15-3d5b-4d30-a29f-2dd8815fc015/download/estadistica-mediaciones-prejudiciales-y-judiciales.csv",
+                    "issued": "2016-09-16T11:02:30.875312",
+                    "identifier": "fee87e15-3d5b-4d30-a29f-2dd8815fc015"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal"
             },
@@ -1219,49 +1262,6 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/551c8132-4aef-419a-8f7b-020bb613980b/download/magistrados-justicia-federal-nacional-renuncias.csv",
                     "issued": "2016-10-14T16:24:29.971004",
                     "identifier": "551c8132-4aef-419a-8f7b-020bb613980b"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "allamosa@jus.gov.ar",
-                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos."
-            },
-            "landingPage": "",
-            "description": "En este conjunto de datos se detalla la cantidad de mediaciones prejudiciales y judiciales (remitidas por el Juez una vez iniciado el juicio) registradas en el Sistema Mepre, que está operativo desde febrero de 2014 y que registra la totalidad de las mediaciones prejudiciales efectuadas desde la fecha de su implementación.",
-            "license": "Creative Commons Attribution",
-            "title": "Estadística de Mediaciones Prejudiciales y Judiciales",
-            "issued": "2016-07-12T13:51:29.820576",
-            "modified": "2017-05-09T15:19:03.195799",
-            "theme": [
-                "acceso-a-justicia"
-            ],
-            "keyword": [
-                "mediación",
-                "prejudicial",
-                "resolución alternativa de conflictos"
-            ],
-            "superTheme": [
-                "JUST"
-            ],
-            "accrualPeriodicity": "R/P1M",
-            "contactPoint": {
-                "hasEmail": "allamosa@jus.gov.ar",
-                "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos."
-            },
-            "identifier": "a9767469-d903-4158-aa76-b21dd37e8aff",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/fee87e15-3d5b-4d30-a29f-2dd8815fc015",
-                    "description": "Estadística de mediaciones prejudiciales y judiciales efectuadas desde febrero de 2014",
-                    "title": "Estadística de mediaciones prejudiciales y judiciales",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-03-10T09:16:12.862448",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/fee87e15-3d5b-4d30-a29f-2dd8815fc015/download/estadistica-mediaciones-prejudiciales-y-judiciales.csv",
-                    "issued": "2016-09-16T11:02:30.875312",
-                    "identifier": "fee87e15-3d5b-4d30-a29f-2dd8815fc015"
                 }
             ]
         },
