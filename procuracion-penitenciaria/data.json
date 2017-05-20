@@ -596,13 +596,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/listado-de-personas-en-resguardo-en-el-servicio-penitenciario-federal.csv",
-                    "description": "En la base se vuelca el listado de personas bajo resguardo que se solicita a cada unidad con frecuencia semestral. Incluye información sobre el origen de la medida, lugar de alojamiento, fecha desde la cual poseen la medida, etc.",
-                    "title": "Listado de personas en Resguardo en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-08T15:50:05.650679",
+                    "accessURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
+                    "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
+                    "title": "BASE DE DATOS DE FALLECIMIENTOS EN PRISION",
+                    "issued": "2017-04-27T13:51:30.804506",
                     "format": "CSV",
-                    "modified": "2017-05-08T15:50:05.450898",
-                    "downloadURL": "http://172.17.0.4/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/listado-de-personas-en-resguardo-en-el-servicio-penitenciario-federal.csv",
+                    "modified": "2017-04-27T13:51:30.649796",
+                    "downloadURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -1811,13 +1811,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/6979a167-c241-4e09-b9ab-38045ad3a98d/resource/cec55700-4163-4f86-97e2-fe64a76e1898/download/relevamiento-sobre-tics-en-el-servicio-penitencario-federal.csv",
-                    "description": "La base contiene información producida a partir de un relevamiento temático realizado en 2013. Se relevó tipos de TIC´s a las que los detenidos pueden acceder, frecuencia, usos, etc. Ante la imposibilidad de su utilización se señalan motivos argüidos y dificultades derivadas, entre otras cuestiones relevantes.",
-                    "title": "Relevamiento sobre TIC´s en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-03T18:10:28.890348",
+                    "accessURL": "http://172.17.0.4/dataset/c44d3e2f-5367-40b0-a162-35b82c97d2f9/resource/00952704-dfa3-4585-a5cd-22f2ab9e9728/download/medidas-de-fuerza.csv",
+                    "description": "La información resultante acerca de las medidas de fuerza de las que toma conocimiento y registra la PPN es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada uno de los casos relevados en unidades penitenciarias. Se registra tipo de medida de fuerza realizada, alcance, motivos que la originaron, eventuales represalias institucionales, efectividad para la resolución del reclamo presentado, entre otras variables de alta sensibilidad.",
+                    "title": "Medidas de fuerza",
+                    "issued": "2017-04-27T14:01:36.850639",
                     "format": "CSV",
-                    "modified": "2017-05-03T18:10:28.595452",
-                    "downloadURL": "http://172.17.0.4/dataset/6979a167-c241-4e09-b9ab-38045ad3a98d/resource/cec55700-4163-4f86-97e2-fe64a76e1898/download/relevamiento-sobre-tics-en-el-servicio-penitencario-federal.csv",
+                    "modified": "2017-05-02T15:37:46.955021",
+                    "downloadURL": "http://172.17.0.4/dataset/c44d3e2f-5367-40b0-a162-35b82c97d2f9/resource/00952704-dfa3-4585-a5cd-22f2ab9e9728/download/medidas-de-fuerza.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -1986,13 +1986,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/66d16782-24eb-462a-856f-4af29e1c9124/resource/4d0fa795-cdd0-4dd0-92cc-7cf736dad469/download/respuesta-judicial-ante-fallecimientos.csv",
-                    "description": "Esta base reúne información del seguimiento de la PPN sobre el proceso de investigación de las muertes bajo custodia estatal. Dispone de datos acerca del trámite judicial realizado en el marco de las muertes ocurridas en cárceles dependientes del SERVICIO PENITENCIARIO FEDERAL.  Contiene los avances registrados en la investigación e información detallada relacionada al estado de la causa y eventuales imputados.",
-                    "title": "Respuesta judicial ante fallecimientos",
-                    "issued": "2017-05-03T15:41:33.097833",
+                    "accessURL": "http://172.17.0.4/dataset/0f42f8c4-7885-4c17-a0d2-3c09f9989429/resource/7e3024e9-c43f-4160-ae29-dab67855f57b/download/procedimientos-de-requisa-en-el-servicio-penitenciario-federal.csv",
+                    "description": "En esta base se recopila la información producida en el marco de un relevamiento temático que abordó los procedimientos de registro personal y requisas que se realizan en cárceles federales. Contiene datos sobre contextos y condiciones de realización, tipo de requisas, circunstancias, uso de la violencia, entre otras características sensibles del fenómeno.",
+                    "title": "Procedimientos de requisa en el Servicio Penitenciario Federal",
+                    "issued": "2017-04-27T14:35:47.742187",
                     "format": "CSV",
-                    "modified": "2017-05-03T15:41:32.795269",
-                    "downloadURL": "http://172.17.0.4/dataset/66d16782-24eb-462a-856f-4af29e1c9124/resource/4d0fa795-cdd0-4dd0-92cc-7cf736dad469/download/respuesta-judicial-ante-fallecimientos.csv",
+                    "modified": "2017-05-02T15:33:09.497803",
+                    "downloadURL": "http://172.17.0.4/dataset/0f42f8c4-7885-4c17-a0d2-3c09f9989429/resource/7e3024e9-c43f-4160-ae29-dab67855f57b/download/procedimientos-de-requisa-en-el-servicio-penitenciario-federal.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -2360,13 +2360,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/0f42f8c4-7885-4c17-a0d2-3c09f9989429/resource/7e3024e9-c43f-4160-ae29-dab67855f57b/download/procedimientos-de-requisa-en-el-servicio-penitenciario-federal.csv",
-                    "description": "En esta base se recopila la información producida en el marco de un relevamiento temático que abordó los procedimientos de registro personal y requisas que se realizan en cárceles federales. Contiene datos sobre contextos y condiciones de realización, tipo de requisas, circunstancias, uso de la violencia, entre otras características sensibles del fenómeno.",
-                    "title": "Procedimientos de requisa en el Servicio Penitenciario Federal",
-                    "issued": "2017-04-27T14:35:47.742187",
+                    "accessURL": "http://172.17.0.4/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/poblacion-y-alojamiento-en-el-servicio-penitenciario-federal.csv",
+                    "description": "En esta base se reponen los datos remitidos por el SERVICIO PENITENCIARIO FEDERAL en las síntesis semanales de población. La misma está construida mediante la última información disponible de cada mes. Su principal función es la de dar cuenta de la situación de superpoblación y manejo arbitrario de los cupos de alojamiento. El volumen de detenidos alojados en cada establecimiento puede ser observado así en su dinamismo a lo largo del tiempo.",
+                    "title": "Población y alojamiento en el Servicio Penitenciario Federal",
+                    "issued": "2017-04-27T14:26:09.130963",
                     "format": "CSV",
-                    "modified": "2017-05-02T15:33:09.497803",
-                    "downloadURL": "http://172.17.0.4/dataset/0f42f8c4-7885-4c17-a0d2-3c09f9989429/resource/7e3024e9-c43f-4160-ae29-dab67855f57b/download/procedimientos-de-requisa-en-el-servicio-penitenciario-federal.csv",
+                    "modified": "2017-05-02T15:22:13.053808",
+                    "downloadURL": "http://172.17.0.4/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/poblacion-y-alojamiento-en-el-servicio-penitenciario-federal.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
