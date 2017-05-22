@@ -221,9 +221,9 @@
             "license": "Creative Commons Attribution",
             "title": "Nomina de trabajadores en el Servicio Penitenciario Federal",
             "contactPoint": {
-                "hasEmail": "mailto:grodriguez@ppn.gov.ar",
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
                 "@type": "vcard:Contact",
-                "fn": "Área de Sistemas y Comunicaciones"
+                "fn": "Equipo de estadística y bases de datos"
             },
             "issued": "2017-05-08T18:42:15.576230",
             "temporal": "2011-01-01T03:00:00.000Z/2013-12-31T03:00:00.000Z",
@@ -249,43 +249,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/6897c04c-7473-4157-bce5-ccd9dd440481/download/registro-de-central-telefonica-ano-2013.xlsx",
-                    "description": "Registros generados por la central telefónica informatizada con la que presta el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Atención telefónica 2013",
-                    "issued": "2017-05-11T12:50:48.362237",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T12:50:48.198247",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/6897c04c-7473-4157-bce5-ccd9dd440481/download/registro-de-central-telefonica-ano-2013.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/276cf63a-1277-493a-9eb4-5cc1f9642b77/download/registro-de-central-telefonica-ano-2014.xlsx",
-                    "description": "Registros generados por la central telefónica informatizada con la que presta el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Atención telefónica 2014",
-                    "issued": "2017-05-11T12:52:21.617696",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T12:52:21.424451",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/276cf63a-1277-493a-9eb4-5cc1f9642b77/download/registro-de-central-telefonica-ano-2014.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/e6e732b8-0118-42ea-bfcf-395bcde3afd4/download/registro-menu-procuracion-ano-2013-2.xlsx",
-                    "description": "Registros generados por el programa informático con el que realiza el registro y gestiona el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Gestión de reclamos 2013",
-                    "issued": "2017-05-11T12:56:35.457792",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T12:59:27.065532",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/e6e732b8-0118-42ea-bfcf-395bcde3afd4/download/registro-menu-procuracion-ano-2013-2.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/68024510-3446-45e4-a4e8-9f3e7f91cc95/download/registro-menu-procuracion-ano-2014-2.xlsx",
-                    "description": "Registros generados por el programa informático con el que realiza el registro y gestiona el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Gestión de reclamos 2014",
-                    "issued": "2017-05-11T13:01:29.593936",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T13:01:29.404432",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/68024510-3446-45e4-a4e8-9f3e7f91cc95/download/registro-menu-procuracion-ano-2014-2.xlsx",
+                    "accessURL": "http://172.17.0.4/dataset/e80cdaf3-996b-4ff7-887d-32d7cbd35770/resource/a19b2efe-889b-47ac-9516-f7a11cdf0347/download/nomina-de-trabajadores-en-el-servicio-penitenciario-federal.csv",
+                    "description": "Esta base fue elaborada con la información que se obtuvo de las distintas Unidades para un período específico de cada año, tomando como preferencia o prioridad el mes de Agosto. La unidad la compone cada interno afectado a trabajo en esa unidad en el período de un año, para evitar sesgos por traslados o cambios de taller a lo largo del tiempo. La información es aquella que fue enviada o adquirida en las unidades, por lo cual cualquier ausencia de unidad es por carencia de la nómina requerida.",
+                    "title": "Nomina de trabajadores en el Servicio Penitenciario Federal",
+                    "issued": "2017-05-08T18:43:12.372988",
+                    "format": "CSV",
+                    "modified": "2017-05-08T18:43:12.183372",
+                    "downloadURL": "http://172.17.0.4/dataset/e80cdaf3-996b-4ff7-887d-32d7cbd35770/resource/a19b2efe-889b-47ac-9516-f7a11cdf0347/download/nomina-de-trabajadores-en-el-servicio-penitenciario-federal.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -800,13 +770,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/8dc50506-2d71-418c-9f28-47fa922410b1/resource/eb70bc04-90d0-45c3-95f8-9bc6a7f47b9d/download/relevamiento-sobre-extranjeros-en-prision.csv",
-                    "description": "Esta base contiene información producida durante un relevamiento temático realizado por la PPN. Recopila datos acerca de las características demográficas de los extranjeros presos en Argentina, su situación legal y alojamiento, sus condiciones laborales, educativas, recreativas y sanitarias; su acceso y posibilidad de vinculación familiar y a la asistencia consular y problemas específicos de la situación de ser extranjeros privados de su libertad en el país.",
-                    "title": "Relevamiento sobre Extranjeros en prisión",
-                    "issued": "2017-05-08T15:41:30.302891",
+                    "accessURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
+                    "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
+                    "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
+                    "issued": "2017-05-08T15:59:46.177309",
                     "format": "CSV",
-                    "modified": "2017-05-08T15:41:30.133375",
-                    "downloadURL": "http://172.17.0.4/dataset/8dc50506-2d71-418c-9f28-47fa922410b1/resource/eb70bc04-90d0-45c3-95f8-9bc6a7f47b9d/download/relevamiento-sobre-extranjeros-en-prision.csv",
+                    "modified": "2017-05-08T15:59:45.943455",
+                    "downloadURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -1815,7 +1785,7 @@
             "contactPoint": {
                 "hasEmail": "mailto:bgarcia@ppn.gov.ar",
                 "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y base de datos"
+                "fn": "Equipo de estadística y bases de datos"
             },
             "issued": "2017-05-03T16:01:25.258542",
             "temporal": "2013-12-01T03:00:00.000Z/2013-12-31T03:00:00.000Z",
@@ -1841,13 +1811,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/poblacion-y-alojamiento-en-el-servicio-penitenciario-federal.csv",
-                    "description": "En esta base se reponen los datos remitidos por el SERVICIO PENITENCIARIO FEDERAL en las síntesis semanales de población. La misma está construida mediante la última información disponible de cada mes. Su principal función es la de dar cuenta de la situación de superpoblación y manejo arbitrario de los cupos de alojamiento. El volumen de detenidos alojados en cada establecimiento puede ser observado así en su dinamismo a lo largo del tiempo.",
-                    "title": "Población y alojamiento en el Servicio Penitenciario Federal",
-                    "issued": "2017-04-27T14:26:09.130963",
+                    "accessURL": "http://172.17.0.4/dataset/6979a167-c241-4e09-b9ab-38045ad3a98d/resource/cec55700-4163-4f86-97e2-fe64a76e1898/download/relevamiento-sobre-tics-en-el-servicio-penitencario-federal.csv",
+                    "description": "La base contiene información producida a partir de un relevamiento temático realizado en 2013. Se relevó tipos de TIC´s a las que los detenidos pueden acceder, frecuencia, usos, etc. Ante la imposibilidad de su utilización se señalan motivos argüidos y dificultades derivadas, entre otras cuestiones relevantes.",
+                    "title": "Relevamiento sobre TIC´s en el Servicio Penitenciario Federal",
+                    "issued": "2017-05-03T18:10:28.890348",
                     "format": "CSV",
-                    "modified": "2017-05-02T15:22:13.053808",
-                    "downloadURL": "http://172.17.0.4/dataset/c8a7c0ec-775f-4f3d-982f-72290d29e6e8/resource/06534f1d-c89d-42e3-87c3-8dc2894f0c8e/download/poblacion-y-alojamiento-en-el-servicio-penitenciario-federal.csv",
+                    "modified": "2017-05-03T18:10:28.595452",
+                    "downloadURL": "http://172.17.0.4/dataset/6979a167-c241-4e09-b9ab-38045ad3a98d/resource/cec55700-4163-4f86-97e2-fe64a76e1898/download/relevamiento-sobre-tics-en-el-servicio-penitencario-federal.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
