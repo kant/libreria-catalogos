@@ -4,7 +4,7 @@
 ## Información General
 
 - **Autor**: Datos Argentina
-- **Correo Electrónico**: datos@modernizacion.gob.ar
+- **Correo Electrónico**: 
 - **Nombre del catálogo**: Datos Argentina
 - **Descripción**:
 
@@ -14,7 +14,7 @@
 
 Estado metadatos globales | Estado metadatos catálogo | # de Datasets | # de Distribuciones
 --------------------------|---------------------------|---------------|--------------------
-ERROR | OK | 68 | 226
+ERROR | ERROR | 68 | 226
 
 ## Datasets incluidos
 
