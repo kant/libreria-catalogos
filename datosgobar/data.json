@@ -9,6 +9,49 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "barriospopulares@bienesdelestado.gob.ar",
+                "name": "Jefatura de Gabinete de Ministros"
+            },
+            "accessLevel": "public",
+            "description": "Mapa de los barrios populares de Argentina a diciembre 2016. Información recopilada en base a un relevamiento en territorio realizado por distintas organizaciones sociales y Jefatura de Gabinete de Ministros.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Barrios Populares de Argentina",
+            "issued": "2017-05-23T14:31:50.542261",
+            "modified": "2017-05-23T18:15:01.113328",
+            "language": "spa",
+            "theme": [
+                "Población y sociedad",
+                "Regiones y ciudades"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/89fb68b6-fce4-4297-8dee-24f5de8f20a8/resource/36c3e63d-7f56-4241-88fd-6a9142b76538/download/barriospopulares.csv",
+                    "description": "Mapa de los barrios populares de Argentina.",
+                    "title": "Barrios Populares de Argentina",
+                    "issued": "2017-05-23T14:39:33.221612",
+                    "format": "CSV",
+                    "modified": "2017-05-23T14:39:33.135890",
+                    "downloadURL": "http://datos.gob.ar/dataset/89fb68b6-fce4-4297-8dee-24f5de8f20a8/resource/36c3e63d-7f56-4241-88fd-6a9142b76538/download/barriospopulares.csv"
+                }
+            ],
+            "keyword": [
+                "asentamientos",
+                "barrios populares",
+                "mapas",
+                "territorio",
+                "villas"
+            ],
+            "accrualPeriodicity": "eventual",
+            "landingPage": "http://datos.gob.ar/dataset/barrios-populares-argentina",
+            "identifier": "89fb68b6-fce4-4297-8dee-24f5de8f20a8",
+            "contactPoint": {
+                "hasEmail": "mailto:barriospopulares@bienesdelestado.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Jefatura de Gabinete de Ministros"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "onc@modernizacion.gob.ar",
                 "name": "Ministerio de Modernización. Secretaría de Modernización Administrativa. Oficina Nacional de Contrataciones."
             },
