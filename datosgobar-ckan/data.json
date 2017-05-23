@@ -109,6 +109,48 @@
         },
         {
             "publisher": {
+                "mbox": "barriospopulares@bienesdelestado.gob.ar",
+                "name": "Jefatura de Gabinete de Ministros"
+            },
+            "landingPage": "",
+            "description": "Mapa de los barrios populares de Argentina a diciembre 2016. Información recopilada en base a un relevamiento en territorio realizado por distintas organizaciones sociales y Jefatura de Gabinete de Ministros.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Barrios Populares de Argentina",
+            "issued": "2017-05-23T14:31:50.542261",
+            "modified": "2017-05-23T18:15:01.113328",
+            "theme": [
+                "soci",
+                "regi"
+            ],
+            "keyword": [
+                "asentamientos",
+                "barrios populares",
+                "mapas",
+                "territorio",
+                "villas"
+            ],
+            "contactPoint": {
+                "hasEmail": "barriospopulares@bienesdelestado.gob.ar",
+                "fn": "Jefatura de Gabinete de Ministros"
+            },
+            "identifier": "89fb68b6-fce4-4297-8dee-24f5de8f20a8",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/89fb68b6-fce4-4297-8dee-24f5de8f20a8/resource/36c3e63d-7f56-4241-88fd-6a9142b76538",
+                    "description": "Mapa de los barrios populares de Argentina.",
+                    "title": "Barrios Populares de Argentina",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-05-23T14:39:33.135890",
+                    "downloadURL": "http://datos.gob.ar/dataset/89fb68b6-fce4-4297-8dee-24f5de8f20a8/resource/36c3e63d-7f56-4241-88fd-6a9142b76538/download/barriospopulares.csv",
+                    "issued": "2017-05-23T14:39:33.221612",
+                    "identifier": "36c3e63d-7f56-4241-88fd-6a9142b76538"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "datosabiertos@saij.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
             },
