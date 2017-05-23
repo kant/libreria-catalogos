@@ -2333,43 +2333,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/6897c04c-7473-4157-bce5-ccd9dd440481/download/registro-de-central-telefonica-ano-2013.xlsx",
-                    "description": "Registros generados por la central telefónica informatizada con la que presta el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Atención telefónica 2013",
-                    "issued": "2017-05-11T12:50:48.362237",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T12:50:48.198247",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/6897c04c-7473-4157-bce5-ccd9dd440481/download/registro-de-central-telefonica-ano-2013.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/276cf63a-1277-493a-9eb4-5cc1f9642b77/download/registro-de-central-telefonica-ano-2014.xlsx",
-                    "description": "Registros generados por la central telefónica informatizada con la que presta el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Atención telefónica 2014",
-                    "issued": "2017-05-11T12:52:21.617696",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T12:52:21.424451",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/276cf63a-1277-493a-9eb4-5cc1f9642b77/download/registro-de-central-telefonica-ano-2014.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/e6e732b8-0118-42ea-bfcf-395bcde3afd4/download/registro-menu-procuracion-ano-2013-2.xlsx",
-                    "description": "Registros generados por el programa informático con el que realiza el registro y gestiona el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Gestión de reclamos 2013",
-                    "issued": "2017-05-11T12:56:35.457792",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T12:59:27.065532",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/e6e732b8-0118-42ea-bfcf-395bcde3afd4/download/registro-menu-procuracion-ano-2013-2.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/68024510-3446-45e4-a4e8-9f3e7f91cc95/download/registro-menu-procuracion-ano-2014-2.xlsx",
-                    "description": "Registros generados por el programa informático con el que realiza el registro y gestiona el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Gestión de reclamos 2014",
-                    "issued": "2017-05-11T13:01:29.593936",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T13:01:29.404432",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/68024510-3446-45e4-a4e8-9f3e7f91cc95/download/registro-menu-procuracion-ano-2014-2.xlsx",
+                    "accessURL": "http://172.17.0.4/dataset/0f42f8c4-7885-4c17-a0d2-3c09f9989429/resource/7e3024e9-c43f-4160-ae29-dab67855f57b/download/procedimientos-de-requisa-en-el-servicio-penitenciario-federal.csv",
+                    "description": "En esta base se recopila la información producida en el marco de un relevamiento temático que abordó los procedimientos de registro personal y requisas que se realizan en cárceles federales. Contiene datos sobre contextos y condiciones de realización, tipo de requisas, circunstancias, uso de la violencia, entre otras características sensibles del fenómeno.",
+                    "title": "Procedimientos de requisa en el Servicio Penitenciario Federal",
+                    "issued": "2017-04-27T14:35:47.742187",
+                    "format": "CSV",
+                    "modified": "2017-05-02T15:33:09.497803",
+                    "downloadURL": "http://172.17.0.4/dataset/0f42f8c4-7885-4c17-a0d2-3c09f9989429/resource/7e3024e9-c43f-4160-ae29-dab67855f57b/download/procedimientos-de-requisa-en-el-servicio-penitenciario-federal.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
