@@ -1194,29 +1194,34 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/89f1a2dd-ad79-4211-87b4-44661d81ac0d/resource/b0c58264-64f3-4ee8-a642-7208745f8fa7/download/presupuesto-2017.csv",
-                    "description": "Distribución de los créditos presupuestarios y ejecución semanal correspondientes al año 2017.",
-                    "title": "Presupuesto Nacional Año 2017",
-                    "issued": "2017-02-07T14:17:20.423568",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-AUDIE-GESTI-DE/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Listado de Audiencias realizadas en Arsat desde el 20/03/17 hasta el presente.",
+                    "title": "Registro de Audiencias",
+                    "issued": "2017-05-16T01:03:26.537395",
                     "format": "CSV",
-                    "modified": "2017-03-10T15:31:53.276054",
-                    "downloadURL": "http://datos.gob.ar/dataset/89f1a2dd-ad79-4211-87b4-44661d81ac0d/resource/b0c58264-64f3-4ee8-a642-7208745f8fa7/download/presupuesto-2017.csv"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-AUDIE-GESTI-DE/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/89f1a2dd-ad79-4211-87b4-44661d81ac0d/resource/84e23782-7d52-4724-a4ba-2f9621fa5f4e/download/presupuesto-2016.csv",
-                    "description": "Distribución de los créditos presupuestarios y ejecución semanal correspondientes al año 2016.",
-                    "title": "Presupuesto Nacional Año 2016",
-                    "issued": "2016-03-07T18:20:49.849871",
-                    "format": "CSV",
-                    "modified": "2016-12-28T02:54:05.788868",
-                    "downloadURL": "http://datos.gob.ar/dataset/89f1a2dd-ad79-4211-87b4-44661d81ac0d/resource/84e23782-7d52-4724-a4ba-2f9621fa5f4e/download/presupuesto-2016.csv"
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-AUDIE-GESTI-DE/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Listado de Audiencias realizadas en Arsat desde el 20/03/17 hasta el presente.",
+                    "title": "Registro de Audiencias",
+                    "issued": "2017-05-16T01:03:27.690578",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-AUDIE-GESTI-DE/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-AUDIE-GESTI-DE/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Listado de Audiencias realizadas en Arsat desde el 20/03/17 hasta el presente.",
+                    "title": "Registro de Audiencias",
+                    "issued": "2017-05-16T01:03:28.911607",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-AUDIE-GESTI-DE/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/registro-de-audiencias",
             "identifier": "6e998124-9f7f-42f2-a30f-377853238f9b",
             "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Hacienda. Subsecretaría de Presupuesto."
+                "@type": "vcard:Contact"
             }
         },
         {
@@ -1235,28 +1240,28 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Cantidad de empleados por gerencia al 31/03/2017",
-                    "title": "Personal por Gerencia",
-                    "issued": "2017-05-16T01:06:47.172548",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "La tabla divide por provincia la cantidad de megabits por segundo de velocidad que se envía a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Megabits de velocidad entregados por provincia",
+                    "issued": "2017-05-16T01:03:16.581640",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Cantidad de empleados por gerencia al 31/03/2017",
-                    "title": "Personal por Gerencia",
-                    "issued": "2017-05-16T01:06:48.856597",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "La tabla divide por provincia la cantidad de megabits por segundo de velocidad que se envía a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Megabits de velocidad entregados por provincia",
+                    "issued": "2017-05-16T01:03:17.945697",
                     "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Cantidad de empleados por gerencia al 31/03/2017",
-                    "title": "Personal por Gerencia",
-                    "issued": "2017-05-16T01:06:50.454486",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "La tabla divide por provincia la cantidad de megabits por segundo de velocidad que se envía a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Megabits de velocidad entregados por provincia",
+                    "issued": "2017-05-16T01:03:19.156997",
                     "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/megabits-de-velocidad-entregados-por-provincia",
@@ -1511,28 +1516,28 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso que se conectarán al Plan Federal de Internet junto a otros datos como la población de la localidad.",
-                    "title": "Futuros puntos de conexión al Plan Federal de Internet",
-                    "issued": "2017-05-16T01:05:37.140083",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Traza de FO próxima a iluminar 13/05/2017",
+                    "title": "Traza de FO próxima a iluminar",
+                    "issued": "2017-05-16T01:02:16.313101",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso que se conectarán al Plan Federal de Internet junto a otros datos como la población de la localidad.",
-                    "title": "Futuros puntos de conexión al Plan Federal de Internet",
-                    "issued": "2017-05-16T01:05:38.829400",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Traza de FO próxima a iluminar 13/05/2017",
+                    "title": "Traza de FO próxima a iluminar",
+                    "issued": "2017-05-16T01:02:17.421722",
                     "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso que se conectarán al Plan Federal de Internet junto a otros datos como la población de la localidad.",
-                    "title": "Futuros puntos de conexión al Plan Federal de Internet",
-                    "issued": "2017-05-16T01:05:40.331659",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Traza de FO próxima a iluminar 13/05/2017",
+                    "title": "Traza de FO próxima a iluminar",
+                    "issued": "2017-05-16T01:02:18.565142",
                     "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/traza-de-fo-prxima-a-iluminar",
