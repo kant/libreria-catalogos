@@ -186,22 +186,36 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/89f1a2dd-ad79-4211-87b4-44661d81ac0d/resource/b0c58264-64f3-4ee8-a642-7208745f8fa7/download/presupuesto-2017.csv",
-                    "description": "Distribución de los créditos presupuestarios y ejecución semanal correspondientes al año 2017.",
-                    "title": "Presupuesto Nacional Año 2017",
-                    "issued": "2017-02-07T14:17:20.423568",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/b029969c-85a7-4adb-afe1-33165e835517/download/declaraciones-juradas-2015.csv",
+                    "description": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2015",
+                    "title": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2015",
+                    "issued": "2017-05-10T20:11:48.958718",
                     "format": "CSV",
-                    "modified": "2017-03-10T15:31:53.276054",
-                    "downloadURL": "http://datos.gob.ar/dataset/89f1a2dd-ad79-4211-87b4-44661d81ac0d/resource/b0c58264-64f3-4ee8-a642-7208745f8fa7/download/presupuesto-2017.csv"
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/b029969c-85a7-4adb-afe1-33165e835517/download/declaraciones-juradas-2015.csv"
                 },
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/89f1a2dd-ad79-4211-87b4-44661d81ac0d/resource/84e23782-7d52-4724-a4ba-2f9621fa5f4e/download/presupuesto-2016.csv",
-                    "description": "Distribución de los créditos presupuestarios y ejecución semanal correspondientes al año 2016.",
-                    "title": "Presupuesto Nacional Año 2016",
-                    "issued": "2016-03-07T18:20:49.849871",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/0bd85cd7-ef0a-4e62-be7b-6d58db17ebbc/download/declaraciones-juradas-2014.csv",
+                    "description": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2014",
+                    "title": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2014",
+                    "issued": "2017-05-10T20:45:33.663264",
                     "format": "CSV",
-                    "modified": "2016-12-28T02:54:05.788868",
-                    "downloadURL": "http://datos.gob.ar/dataset/89f1a2dd-ad79-4211-87b4-44661d81ac0d/resource/84e23782-7d52-4724-a4ba-2f9621fa5f4e/download/presupuesto-2016.csv"
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/0bd85cd7-ef0a-4e62-be7b-6d58db17ebbc/download/declaraciones-juradas-2014.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/357e0886-2b15-481b-9e4b-d7f663c214bb/download/declaraciones-juradas-2013.csv",
+                    "description": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2013",
+                    "title": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2013",
+                    "issued": "2017-05-10T20:54:42.021922",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/357e0886-2b15-481b-9e4b-d7f663c214bb/download/declaraciones-juradas-2013.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/daad6625-2610-4d7e-b4fc-45a235e48f07/download/declaraciones-juradas-2012.csv",
+                    "description": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2012",
+                    "title": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2012",
+                    "issued": "2017-05-10T21:03:31.707946",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/daad6625-2610-4d7e-b4fc-45a235e48f07/download/declaraciones-juradas-2012.csv"
                 }
             ],
             "keyword": [
@@ -213,8 +227,9 @@
             "landingPage": "http://sitiodelciudadano.mecon.gov.ar",
             "identifier": "89f1a2dd-ad79-4211-87b4-44661d81ac0d",
             "contactPoint": {
+                "hasEmail": "mailto:uniddjjoa@jus.gov.ar",
                 "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Hacienda. Subsecretaría de Presupuesto."
+                "fn": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción."
             }
         },
         {
@@ -366,34 +381,36 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Porcentaje de Avance de implementación de la Fase 1 del Proyecto al 25/04/2017",
-                    "title": "Avance de la Fase 1 del Proyecto",
-                    "issued": "2017-05-16T01:06:27.159709",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional.csv",
+                    "description": "Listado actual de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional. No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación.",
+                    "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
+                    "issued": "2017-05-10T20:11:46.373335",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional.csv"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Porcentaje de Avance de implementación de la Fase 1 del Proyecto al 25/04/2017",
-                    "title": "Avance de la Fase 1 del Proyecto",
-                    "issued": "2017-05-16T01:06:28.690121",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/ac34ee63-7e86-4f15-b57b-c6a35f71ea6e/download/magistrados-justicia-federal-nacional-designaciones.csv",
+                    "description": "Designacion de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
+                    "title": "Designación de magistrados de la Justicia Federal y de la Justicia Nacional",
+                    "issued": "2017-05-10T20:45:36.169511",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/ac34ee63-7e86-4f15-b57b-c6a35f71ea6e/download/magistrados-justicia-federal-nacional-designaciones.csv"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Porcentaje de Avance de implementación de la Fase 1 del Proyecto al 25/04/2017",
-                    "title": "Avance de la Fase 1 del Proyecto",
-                    "issued": "2017-05-16T01:06:30.256873",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/551c8132-4aef-419a-8f7b-020bb613980b/download/magistrados-justicia-federal-nacional-renuncias.csv",
+                    "description": "Renuncia de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
+                    "title": "Renuncia de magistrados de la Justicia Federal y de la Justicia Nacional",
+                    "issued": "2017-05-10T20:54:22.462681",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/551c8132-4aef-419a-8f7b-020bb613980b/download/magistrados-justicia-federal-nacional-renuncias.csv"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/avance-de-la-fase-1-del-proyecto",
             "identifier": "7d859f10-f90a-4b79-b6f3-530d8a0a294c",
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "hasEmail": "mailto:oficinadecretos@jus.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
             }
         },
         {
@@ -504,34 +521,28 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
-                    "title": "Datos de uso de la plataforma",
-                    "issued": "2017-05-16T01:05:56.927859",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/2436ab65-44da-4f45-a59d-5e09136e1df2/download/estadistica-inscripciones-iniciales-autos-motos-maquinarias.csv",
+                    "description": "Estadística mensual de inscripciones iniciales de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
+                    "title": "Estadística de inscripciones iniciales de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
+                    "issued": "2017-05-11T19:23:16.919606",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/2436ab65-44da-4f45-a59d-5e09136e1df2/download/estadistica-inscripciones-iniciales-autos-motos-maquinarias.csv"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
-                    "title": "Datos de uso de la plataforma",
-                    "issued": "2017-05-16T01:05:58.455184",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
-                    "title": "Datos de uso de la plataforma",
-                    "issued": "2017-05-16T01:05:59.942766",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "accessURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/65219d23-89af-4b19-85cb-c37364c4f9cb/download/estadistica-transferencias-autos-motos-maquinarias.csv",
+                    "description": "Estadística mensual de transferencias de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
+                    "title": "Estadística de transferencias de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
+                    "issued": "2017-05-11T19:23:36.236359",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/65219d23-89af-4b19-85cb-c37364c4f9cb/download/estadistica-transferencias-autos-motos-maquinarias.csv"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/datos-de-uso-de-la-plataforma",
             "identifier": "1a0cab04-aa89-4e22-a2b6-ada7529f8bf8",
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "hasEmail": "mailto:accesobd@dnrpa.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
             }
         },
         {
@@ -550,34 +561,20 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-EN-SERVI-58179/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión.",
-                    "title": "Puntos de conexión al Plan Federal de Internet",
-                    "issued": "2017-05-16T01:05:46.937197",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/d59c2d29-d561-4ad2-a032-cc82b40db2d3/resource/0ebc70cc-0e71-4158-ab75-9759339e4cbd/download/base-saij-normativa-provincial.csv",
+                    "description": "Base de documentos digitales normativos provinciales: leyes,\r\ndecretos leyes, textos ordenados, códigos y Constituciones\r\npublicados en el Boletín Oficial de la Provincia\r\ncorrespondiente.",
+                    "title": "Base SAIJ de Normativa Provincial",
+                    "issued": "2017-05-11T14:34:53.133816",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-EN-SERVI-58179/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-EN-SERVI-58179/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión.",
-                    "title": "Puntos de conexión al Plan Federal de Internet",
-                    "issued": "2017-05-16T01:05:48.397698",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-EN-SERVI-58179/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-EN-SERVI-58179/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión.",
-                    "title": "Puntos de conexión al Plan Federal de Internet",
-                    "issued": "2017-05-16T01:05:49.885606",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-EN-SERVI-58179/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/d59c2d29-d561-4ad2-a032-cc82b40db2d3/resource/0ebc70cc-0e71-4158-ab75-9759339e4cbd/download/base-saij-normativa-provincial.csv"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/puntos-de-conexin-al-plan-federal-de-internet",
             "identifier": "56b4acd5-99a6-4c22-9ecf-3cfe26eaf6fd",
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "hasEmail": "mailto:datosabiertos@saij.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
             }
         },
         {
@@ -734,34 +731,20 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda C del satélite ARSAT-2 en el continente americano.",
-                    "title": "Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América",
-                    "issued": "2017-05-16T01:05:06.819105",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/4e1e49d5-686d-49bc-91d1-90bcf6d95658/download/registroviajesfinanciadosterceros.csv",
+                    "description": "Detalle del registro de viajes de los funcionarios públicos financiados por terceros a partir de la implementación del Decreto 1179/16, reglamentario de la Ley de Ética en el Ejercicio de la Función Pública N° 25.188",
+                    "title": "Registro de viajes financiados por terceros",
+                    "issued": "2017-05-11T19:23:19.000874",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda C del satélite ARSAT-2 en el continente americano.",
-                    "title": "Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América",
-                    "issued": "2017-05-16T01:05:08.247915",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda C del satélite ARSAT-2 en el continente americano.",
-                    "title": "Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América",
-                    "issued": "2017-05-16T01:05:09.694607",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-BANDA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/4e1e49d5-686d-49bc-91d1-90bcf6d95658/download/registroviajesfinanciadosterceros.csv"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/datos-del-rea-de-cobertura-de-la-banda-c-del-satlite-arsat-2-en-amrica",
             "identifier": "0a7eeb32-46e1-4437-8ae2-13822d06e0e2",
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "hasEmail": "mailto:aferrer@anticorrupcion.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción."
             }
         },
         {
@@ -872,34 +855,20 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de escuelas rurales conectadas al 25/04/2017",
-                    "title": "Escuelas conectadas",
-                    "issued": "2017-05-16T01:04:36.811391",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/2e0a4e06-0d2e-4e78-861d-1105e558e493/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
+                    "issued": "2017-05-10T20:11:41.738647",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de escuelas rurales conectadas al 25/04/2017",
-                    "title": "Escuelas conectadas",
-                    "issued": "2017-05-16T01:04:38.210371",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Listado de escuelas rurales conectadas al 25/04/2017",
-                    "title": "Escuelas conectadas",
-                    "issued": "2017-05-16T01:04:39.553409",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/2e0a4e06-0d2e-4e78-861d-1105e558e493/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/escuelas-conectadas",
             "identifier": "66a9095a-a871-4907-90a3-78b7078abcd3",
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "hasEmail": "mailto:informatica@anmac.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas."
             }
         },
         {
@@ -1056,28 +1025,20 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados al 31/03/2017",
-                    "title": "Promedios de edad y antigüedad del personal",
-                    "issued": "2017-05-16T01:03:56.670907",
-                    "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados al 31/03/2017",
-                    "title": "Promedios de edad y antigüedad del personal",
-                    "issued": "2017-05-16T01:03:58.016309",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados al 31/03/2017",
-                    "title": "Promedios de edad y antigüedad del personal",
-                    "issued": "2017-05-16T01:03:59.311684",
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0/download/proyectos-cyt.json",
+                    "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
+                    "title": "Proyectos de Ciencia Tecnología e Innovación",
+                    "issued": "2017-05-10T20:45:25.815933",
                     "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0/download/proyectos-cyt.json"
+                },
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/641981b3-2ec4-402b-88ca-117f56500332/download/proyectos-cyt.csv",
+                    "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
+                    "title": "Proyectos de Ciencia Tecnología e Innovación",
+                    "issued": "2017-05-11T19:25:16.972647",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/641981b3-2ec4-402b-88ca-117f56500332/download/proyectos-cyt.csv"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/promedios-de-edad-y-antigedad-del-personal",
@@ -1102,28 +1063,20 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de categorías y escala salarial bruta en ARSAT.",
-                    "title": "Categorías y escalas salariales",
-                    "issued": "2017-05-16T01:03:47.102306",
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/1ec32c8e-6931-4f24-a2de-063097338621/download/equipos-sistemas-nacionales.csv",
+                    "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
+                    "title": "Equipamiento científico-tecnológico según tipo de institución y provincia",
+                    "issued": "2017-05-10T20:45:29.240145",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/1ec32c8e-6931-4f24-a2de-063097338621/download/equipos-sistemas-nacionales.csv"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de categorías y escala salarial bruta en ARSAT.",
-                    "title": "Categorías y escalas salariales",
-                    "issued": "2017-05-16T01:03:48.349378",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Listado de categorías y escala salarial bruta en ARSAT.",
-                    "title": "Categorías y escalas salariales",
-                    "issued": "2017-05-16T01:03:49.688060",
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/84147f97-2f89-46af-b732-647e322f5959/download/equipos-sistemas-nacionales.json",
+                    "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
+                    "title": "Equipamiento científico-tecnológico según tipo de institución y provincia",
+                    "issued": "2017-05-11T19:23:43.715220",
                     "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/84147f97-2f89-46af-b732-647e322f5959/download/equipos-sistemas-nacionales.json"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/categoras-y-escalas-salariales",
@@ -1378,34 +1331,49 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "El mapa ilustra la red de fibra óptica en planificación",
-                    "title": "Fibra óptica planificada",
-                    "issued": "2017-05-16T01:02:46.494365",
+                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/0c3cca0a-ccfa-4520-a614-dbdd58d74d79/download/pauta-oficial-primer-semestre-2016.csv",
+                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el primer semestre de 2016.",
+                    "title": "Pauta Oficial Primer Semestre 2016",
+                    "issued": "2016-09-02T15:41:50.241059",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "modified": "2017-01-17T18:49:16.640853",
+                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/0c3cca0a-ccfa-4520-a614-dbdd58d74d79/download/pauta-oficial-primer-semestre-2016.csv"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "El mapa ilustra la red de fibra óptica en planificación",
-                    "title": "Fibra óptica planificada",
-                    "issued": "2017-05-16T01:02:47.703792",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/eed67d08-3c9a-4c02-86ac-c51ff24fe99a/download/pauta-oficial-segundo-semestre-2016.csv",
+                    "description": "Montos destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el segundo semestre de 2016.",
+                    "title": "Pauta Oficial Segundo Semestre 2016",
+                    "issued": "2017-01-05T16:44:13.562265",
+                    "format": "CSV",
+                    "modified": "2017-01-05T19:44:13.501028",
+                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/eed67d08-3c9a-4c02-86ac-c51ff24fe99a/download/pauta-oficial-segundo-semestre-2016.csv"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "El mapa ilustra la red de fibra óptica en planificación",
-                    "title": "Fibra óptica planificada",
-                    "issued": "2017-05-16T01:02:48.942308",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/01bd7d9f-bc54-4fd7-b800-a4969a2a5b6f/download/pauta-oficial-2015.csv",
+                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el año 2015.",
+                    "title": "Pauta Oficial 2015",
+                    "issued": "2016-09-02T15:59:51.435179",
+                    "format": "CSV",
+                    "modified": "2017-01-17T18:47:17.000985",
+                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/01bd7d9f-bc54-4fd7-b800-a4969a2a5b6f/download/pauta-oficial-2015.csv",
+                    "field": "[]"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/98a8c15f-5937-47fe-92e3-05d755be7d43/download/pauta-oficial-2014.csv",
+                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el año 2014.",
+                    "title": "Pauta Oficial 2014",
+                    "issued": "2016-09-02T16:00:50.534613",
+                    "format": "CSV",
+                    "modified": "2016-09-02T19:00:50.469703",
+                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/98a8c15f-5937-47fe-92e3-05d755be7d43/download/pauta-oficial-2014.csv"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/fibra-ptica-planificada",
             "identifier": "2fcb8f90-f25b-4c8e-952a-2e4073244f77",
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "hasEmail": "mailto:pautas@medios.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Jefatura de Gabinete de Ministros. Secretaría de Comunicación Pública."
             }
         },
         {
