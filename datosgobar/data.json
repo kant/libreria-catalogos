@@ -1010,36 +1010,34 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional.csv",
-                    "description": "Listado actual de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional. No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación.",
-                    "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
-                    "issued": "2017-05-10T20:11:46.373335",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Listado de todos los empleados de ARSAT al 08/05/17",
+                    "title": "Listado de Personal",
+                    "issued": "2017-05-16T01:04:06.785910",
                     "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional.csv"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/ac34ee63-7e86-4f15-b57b-c6a35f71ea6e/download/magistrados-justicia-federal-nacional-designaciones.csv",
-                    "description": "Designacion de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
-                    "title": "Designación de magistrados de la Justicia Federal y de la Justicia Nacional",
-                    "issued": "2017-05-10T20:45:36.169511",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/ac34ee63-7e86-4f15-b57b-c6a35f71ea6e/download/magistrados-justicia-federal-nacional-designaciones.csv"
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Listado de todos los empleados de ARSAT al 08/05/17",
+                    "title": "Listado de Personal",
+                    "issued": "2017-05-16T01:04:08.066020",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/551c8132-4aef-419a-8f7b-020bb613980b/download/magistrados-justicia-federal-nacional-renuncias.csv",
-                    "description": "Renuncia de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
-                    "title": "Renuncia de magistrados de la Justicia Federal y de la Justicia Nacional",
-                    "issued": "2017-05-10T20:54:22.462681",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/551c8132-4aef-419a-8f7b-020bb613980b/download/magistrados-justicia-federal-nacional-renuncias.csv"
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Listado de todos los empleados de ARSAT al 08/05/17",
+                    "title": "Listado de Personal",
+                    "issued": "2017-05-16T01:04:09.407697",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/listado-de-personal",
             "identifier": "fc29b3d4-66a6-4eb6-a90a-16bd13342560",
             "contactPoint": {
-                "hasEmail": "mailto:oficinadecretos@jus.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
+                "@type": "vcard:Contact"
             }
         },
         {
@@ -1104,20 +1102,34 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/e41e8224-f868-4688-9fae-94d320f8ee5e/resource/0a823ec3-4609-41b6-8af8-93afd23aaf9c/download/tesauro-saij.rdf",
-                    "description": "Tesauro SAIJ de Derecho Argentino",
-                    "title": "Tesauro SAIJ de Derecho Argentino",
-                    "issued": "2017-05-11T19:23:19.345646",
-                    "format": "RDF",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/e41e8224-f868-4688-9fae-94d320f8ee5e/resource/0a823ec3-4609-41b6-8af8-93afd23aaf9c/download/tesauro-saij.rdf"
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Listado de categorías y escala salarial bruta en ARSAT.",
+                    "title": "Categorías y escalas salariales",
+                    "issued": "2017-05-16T01:03:47.102306",
+                    "format": "CSV",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Listado de categorías y escala salarial bruta en ARSAT.",
+                    "title": "Categorías y escalas salariales",
+                    "issued": "2017-05-16T01:03:48.349378",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Listado de categorías y escala salarial bruta en ARSAT.",
+                    "title": "Categorías y escalas salariales",
+                    "issued": "2017-05-16T01:03:49.688060",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/categoras-y-escalas-salariales",
             "identifier": "c0110b8e-236c-4166-ad19-0fa0005c76e0",
             "contactPoint": {
-                "hasEmail": "mailto:datosabiertos@saij.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
+                "@type": "vcard:Contact"
             }
         },
         {
@@ -1412,20 +1424,28 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0/download/proyectos-cyt.json",
-                    "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
-                    "title": "Proyectos de Ciencia Tecnología e Innovación",
-                    "issued": "2017-05-10T20:45:25.815933",
-                    "format": "JSON",
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0/download/proyectos-cyt.json"
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "El mapa ilustra la red de fibra óptica que actualmente se encuentra en construcción de obra civil",
+                    "title": "Fibra óptica en obra",
+                    "issued": "2017-05-16T01:02:36.531844",
+                    "format": "CSV",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/641981b3-2ec4-402b-88ca-117f56500332/download/proyectos-cyt.csv",
-                    "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
-                    "title": "Proyectos de Ciencia Tecnología e Innovación",
-                    "issued": "2017-05-11T19:25:16.972647",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/641981b3-2ec4-402b-88ca-117f56500332/download/proyectos-cyt.csv"
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "El mapa ilustra la red de fibra óptica que actualmente se encuentra en construcción de obra civil",
+                    "title": "Fibra óptica en obra",
+                    "issued": "2017-05-16T01:02:37.863163",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "El mapa ilustra la red de fibra óptica que actualmente se encuentra en construcción de obra civil",
+                    "title": "Fibra óptica en obra",
+                    "issued": "2017-05-16T01:02:39.098633",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/fibra-ptica-en-obra",
