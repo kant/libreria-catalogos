@@ -2507,40 +2507,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
-                    "description": "Se recopila la información suministrada semestralmente por la División de Traslados del Servicio Penitenciario Federal. La base de datos registra unidad de origen y destino y motivo del traslado.",
-                    "title": "Traslados en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-02T15:10:05.274966",
+                    "accessURL": "http://172.17.0.4/dataset/8dc50506-2d71-418c-9f28-47fa922410b1/resource/eb70bc04-90d0-45c3-95f8-9bc6a7f47b9d/download/relevamiento-sobre-extranjeros-en-prision.csv",
+                    "description": "Esta base contiene información producida durante un relevamiento temático realizado por la PPN. Recopila datos acerca de las características demográficas de los extranjeros presos en Argentina, su situación legal y alojamiento, sus condiciones laborales, educativas, recreativas y sanitarias; su acceso y posibilidad de vinculación familiar y a la asistencia consular y problemas específicos de la situación de ser extranjeros privados de su libertad en el país.",
+                    "title": "Relevamiento sobre Extranjeros en prisión",
+                    "issued": "2017-05-08T15:41:30.302891",
                     "format": "CSV",
-                    "modified": "2017-05-02T15:10:05.131824",
-                    "downloadURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Unidad desde donde se origina el traslado",
-                            "title": "Desde"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Región desde donde se origina el traslado.",
-                            "title": "Unidad_orig"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Destino final del traslado",
-                            "title": "Hasta"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Región donde finaliza el traslado.",
-                            "title": "Unid_dest"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha en que se realizo el traslado.",
-                            "title": "Fecha"
-                        }
-                    ],
+                    "modified": "2017-05-08T15:41:30.133375",
+                    "downloadURL": "http://172.17.0.4/dataset/8dc50506-2d71-418c-9f28-47fa922410b1/resource/eb70bc04-90d0-45c3-95f8-9bc6a7f47b9d/download/relevamiento-sobre-extranjeros-en-prision.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
