@@ -67,12 +67,85 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0ecec60a-0723-4232-a401-6565ebb282cf/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\"",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
-                    "issued": "2017-05-10T20:11:44.718347",
+                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/1e90e421-8173-43bc-ae26-41ce8a7e701d/download/convocatorias-2016.csv",
+                    "description": "Listado de convocatorias abiertas durante el 2016 en el nuevo sistema \"COMPR.AR\".",
+                    "title": "Convocatorias 2016",
+                    "issued": "2017-04-19T14:56:25.245356",
                     "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0ecec60a-0723-4232-a401-6565ebb282cf/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv"
+                    "modified": "2017-04-19T14:56:25.167974",
+                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/1e90e421-8173-43bc-ae26-41ce8a7e701d/download/convocatorias-2016.csv"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/5a9d6b48-f7f9-429e-b9da-429b2958ed84/download/convocatorias-2016-sistema-legacy.csv",
+                    "description": "Listado de las convocatorias abiertas durante el año 2016.",
+                    "title": "Convocatorias 2016 (sistema legacy)",
+                    "issued": "2017-04-19T14:47:10.172278",
+                    "format": "CSV",
+                    "modified": "2017-04-19T14:47:10.097484",
+                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/5a9d6b48-f7f9-429e-b9da-429b2958ed84/download/convocatorias-2016-sistema-legacy.csv"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/fa3603b3-0af7-43cc-9da9-90a512217d8a/download/convocatorias-2015.csv",
+                    "description": "Listado de las convocatorias abiertas durante el año 2015.",
+                    "title": "Convocatorias 2015 (sistema legacy)",
+                    "issued": "2016-04-18T09:46:22.714629",
+                    "format": "CSV",
+                    "modified": "2016-04-18T12:46:22.645983",
+                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/fa3603b3-0af7-43cc-9da9-90a512217d8a/download/convocatorias-2015.csv"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/013ee74e-953f-4100-a451-7e5be3ca95fd/download/adjudicaciones-2016.csv",
+                    "description": "Listado de adjudicaciones realizadas durante el 2016 por medio del nuevo sistema \"COMPR.AR\".",
+                    "title": "Adjudicaciones 2016",
+                    "issued": "2017-04-19T15:01:19.720040",
+                    "format": "CSV",
+                    "modified": "2017-04-19T15:01:19.646263",
+                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/013ee74e-953f-4100-a451-7e5be3ca95fd/download/adjudicaciones-2016.csv"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/63fa4924-e814-43fb-b54d-e1cdc31a2d33/download/adjudicaciones-2016-sistema-legacy.csv",
+                    "description": "Listado de las adjudicaciones realizadas durante el año 2016.",
+                    "title": "Adjudicaciones 2016 (sistema legacy)",
+                    "issued": "2017-04-19T14:50:54.291007",
+                    "format": "CSV",
+                    "modified": "2017-04-19T14:50:54.218948",
+                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/63fa4924-e814-43fb-b54d-e1cdc31a2d33/download/adjudicaciones-2016-sistema-legacy.csv"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/41fcfdb2-fdb3-4855-89b2-09d9f7c6bbc8/download/adjudicaciones-2015.csv",
+                    "description": "Listado de las adjudicaciones realizadas durante el año 2015.",
+                    "title": "Adjudicaciones 2015 (sistema legacy)",
+                    "issued": "2016-04-18T16:53:46.719766",
+                    "format": "CSV",
+                    "modified": "2016-04-18T19:53:46.541586",
+                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/41fcfdb2-fdb3-4855-89b2-09d9f7c6bbc8/download/adjudicaciones-2015.csv"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/c19a2467-5232-41ae-bb0c-75dcd71e7c5f/download/proveedores-sistema-legacy.csv",
+                    "description": "El Sistema de Información de Proveedores (SIPro) brinda información relativa de los oferentes y adjudicatarios de las contrataciones que realiza la Administración Pública Nacional.",
+                    "title": "Sistema de Información de Proveedores (SIPRO - sistema legacy)",
+                    "issued": "2016-04-18T17:57:46.516762",
+                    "format": "CSV",
+                    "modified": "2017-04-19T14:44:19.510479",
+                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/c19a2467-5232-41ae-bb0c-75dcd71e7c5f/download/proveedores-sistema-legacy.csv"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/65b58c37-29a5-47ef-a10a-3144246bedd1/download/proveedores.csv",
+                    "description": "El Sistema de Información de Proveedores brinda información relativa de los oferentes y adjudicatarios de las contrataciones que realiza la Administración Pública Nacional.",
+                    "title": "Sistema de Información de Proveedores",
+                    "issued": "2017-04-19T15:05:41.978485",
+                    "format": "CSV",
+                    "modified": "2017-04-19T15:05:41.887275",
+                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/65b58c37-29a5-47ef-a10a-3144246bedd1/download/proveedores.csv"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/8d0dafbd-bd9c-48b6-81c3-05f492647974/download/items-sibys.csv",
+                    "description": "Clasificación y codificación de los bienes y servicios, de manera de establecer criterios uniformes y homogéneos con el fin de identificar los requerimientos de compras, así como la administración, guarda y custodia de bienes muebles e inmuebles.",
+                    "title": "Catálogo de Bienes y Servicios (SIByS)",
+                    "issued": "2016-04-18T20:15:36.730270",
+                    "format": "CSV",
+                    "modified": "2016-04-18T23:15:36.648894",
+                    "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/8d0dafbd-bd9c-48b6-81c3-05f492647974/download/items-sibys.csv"
                 }
             ],
             "keyword": [
@@ -93,9 +166,7 @@
             "landingPage": "https://www.argentinacompra.gov.ar/contrataciones",
             "identifier": "069b5833-e57d-4d7a-859b-67a80cfdff20",
             "contactPoint": {
-                "hasEmail": "mailto:informatica@anmac.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Agencia Nacional de materiales Controlados - Coordinación de Sistemas"
+                "@type": "vcard:Contact"
             }
         },
         {
@@ -162,12 +233,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/9775fcdf-99b9-47f6-87ae-6d46cfd15b40/resource/906a1daf-cb0c-4765-98d4-40b0f8caf48b/download/centros-acceso-justicia-activos.csv",
-                    "description": "Centros de Acceso a la Justicia activos",
-                    "title": "Centros de Acceso a la Justicia (CAJ)",
-                    "issued": "2017-05-10T20:11:37.260516",
+                    "accessURL": "http://datos.gob.ar/dataset/becaceb2-dbd0-4879-93bd-5f02bd3b8ca2/resource/bf2f67f4-9ab3-479b-a881-56b43565125e/download/contratos-2015.csv",
+                    "description": "Nómina de contratos declarados correspondiente al año 2015, según lo informado a la ONEP por los sujetos obligados, incluyendo datos del personal contratado, la modalidad contractual y la jurisdicción u organismo descentralizado contratante.",
+                    "title": "Contratos 2015",
+                    "issued": "2016-04-18T13:23:48.373988",
                     "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/9775fcdf-99b9-47f6-87ae-6d46cfd15b40/resource/906a1daf-cb0c-4765-98d4-40b0f8caf48b/download/centros-acceso-justicia-activos.csv"
+                    "modified": "2016-04-18T16:23:48.327889",
+                    "downloadURL": "http://datos.gob.ar/dataset/becaceb2-dbd0-4879-93bd-5f02bd3b8ca2/resource/bf2f67f4-9ab3-479b-a881-56b43565125e/download/contratos-2015.csv"
                 }
             ],
             "keyword": [
@@ -181,9 +253,9 @@
             "landingPage": "http://www.sgp.gob.ar/sitio/empleo/regimenes/contratados/listadocontratados/todos_los_contratos_mensuales/index_main_rcpc.html",
             "identifier": "becaceb2-dbd0-4879-93bd-5f02bd3b8ca2",
             "contactPoint": {
-                "hasEmail": "mailto:rcoutenceau@jus.gov.ar",
+                "hasEmail": "mailto:privadaonep@modernizacion.gob.ar",
                 "@type": "vcard:Contact",
-                "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia"
+                "fn": "Oficina Nacional de Empleo Público"
             }
         },
         {
@@ -248,20 +320,34 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/bbdac295-c88e-4e2d-8f74-a845a2e93a61/resource/54bd9fa1-a059-4411-b146-457791e882f8/download/listado-registros-seccionales.csv",
-                    "description": "Listado de Registros Seccionales de todo el país con competencia en automotores, motovehículos, maquinaria agrícola, vial e industrial y créditos prendarios.",
-                    "title": "Listado de Registros Seccionales de todo el país",
-                    "issued": "2017-05-11T14:58:37.143581",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Listado de Proveedores al 08/05/2017",
+                    "title": "Listado de Proveedores",
+                    "issued": "2017-05-16T01:06:38.311235",
                     "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/bbdac295-c88e-4e2d-8f74-a845a2e93a61/resource/54bd9fa1-a059-4411-b146-457791e882f8/download/listado-registros-seccionales.csv"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Listado de Proveedores al 08/05/2017",
+                    "title": "Listado de Proveedores",
+                    "issued": "2017-05-16T01:06:39.961326",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Listado de Proveedores al 08/05/2017",
+                    "title": "Listado de Proveedores",
+                    "issued": "2017-05-16T01:06:41.534262",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/listado-de-proveedores",
             "identifier": "3e30c4f9-7fd3-4db7-8f87-3d05c03fe492",
             "contactPoint": {
-                "hasEmail": "mailto:accesobd@dnrpa.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
+                "@type": "vcard:Contact"
             }
         },
         {
