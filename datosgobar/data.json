@@ -2090,131 +2090,34 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/47e53feb-ca88-4322-a663-e511485213a0/download/internos-spf-condenados-2016-09.csv",
-                    "description": "Este conjunto de datos registra los condenados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
-                    "title": "Internos del SPF - Condenados 2016-09",
-                    "issued": "2017-05-10T20:11:48.137956",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "La tabla divide por provincia la cantidad de megabits por segundo de velocidad que se envía a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Megabits de velocidad entregados por provincia",
+                    "issued": "2017-05-16T01:03:16.581640",
                     "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/47e53feb-ca88-4322-a663-e511485213a0/download/internos-spf-condenados-2016-09.csv"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/ecc3d11d-ea79-43e6-81dd-fe6557cdbc08/download/internos-spf-inimputables-2016-09.csv",
-                    "description": "Este conjunto de datos registra los inimputables alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
-                    "title": "Internos del SPF - Inimputables 2016-09",
-                    "issued": "2017-05-10T20:45:31.559336",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/ecc3d11d-ea79-43e6-81dd-fe6557cdbc08/download/internos-spf-inimputables-2016-09.csv"
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "La tabla divide por provincia la cantidad de megabits por segundo de velocidad que se envía a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Megabits de velocidad entregados por provincia",
+                    "issued": "2017-05-16T01:03:17.945697",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/43b72420-1934-45d8-bcf1-c030f442dd85/download/internos-spf-procesados-2016-09.csv",
-                    "description": "Este conjunto de datos registra los procesados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
-                    "title": "Internos del SPF - Procesados 2016-09",
-                    "issued": "2017-05-10T20:54:46.617853",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/43b72420-1934-45d8-bcf1-c030f442dd85/download/internos-spf-procesados-2016-09.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/9e29e518-90d2-4338-9994-fe6eae9a6c9f/download/internos-spf-inimputables-2016-10.csv",
-                    "description": "Este conjunto de datos registra los inimputables alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
-                    "title": "Internos del SPF - Inimputables 2016-10",
-                    "issued": "2017-05-10T21:03:32.621819",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/9e29e518-90d2-4338-9994-fe6eae9a6c9f/download/internos-spf-inimputables-2016-10.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/aea37ed5-9cbb-408f-a95e-86de7130b958/download/internos-spf-condenados-2016-10.csv",
-                    "description": "Este conjunto de datos registra los condenados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
-                    "title": "Internos del SPF - Condenados 2016-10",
-                    "issued": "2017-05-10T21:12:25.910542",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/aea37ed5-9cbb-408f-a95e-86de7130b958/download/internos-spf-condenados-2016-10.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/28dd97a3-df32-442d-8f4e-2e845ce18c43/download/internos-spf-procesados-2016-10.csv",
-                    "description": "Este conjunto de datos registra los procesados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
-                    "title": "Internos del SPF - Procesados 2016-10",
-                    "issued": "2017-05-10T21:21:11.592024",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/28dd97a3-df32-442d-8f4e-2e845ce18c43/download/internos-spf-procesados-2016-10.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/c496b296-5930-425f-bfa4-1c1a80d34d89/download/internos-spf-condenados-2016-11.csv",
-                    "description": "Este conjunto de datos registra los condenados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
-                    "title": "Internos del SPF - Condenados 2016-11",
-                    "issued": "2017-05-11T19:24:21.487616",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/c496b296-5930-425f-bfa4-1c1a80d34d89/download/internos-spf-condenados-2016-11.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/ea713323-7e8e-42ce-b1e9-f920982ebcac/download/internos-spf-procesados-2016-11.csv",
-                    "description": "Este conjunto de datos registra los procesados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
-                    "title": "Internos del SPF - Procesados 2016-11",
-                    "issued": "2017-05-11T19:24:24.164511",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/ea713323-7e8e-42ce-b1e9-f920982ebcac/download/internos-spf-procesados-2016-11.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/8b5a01c5-b8a6-479c-9e1b-49d87f8964c5/download/internos-spf-inimputables-2016-11.csv",
-                    "description": "Este conjunto de datos registra los inimputables alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
-                    "title": "Internos del SPF - Inimputables 2016-11",
-                    "issued": "2017-05-11T19:24:27.098345",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/8b5a01c5-b8a6-479c-9e1b-49d87f8964c5/download/internos-spf-inimputables-2016-11.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/1f29c7a1-2803-4158-bfa8-069d73ecbb2a/download/internos-spf-condenados-2016-12.csv",
-                    "description": "Este conjunto de datos registra los condenados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
-                    "title": "Internos del SPF - Condenados 2016-12",
-                    "issued": "2017-05-11T19:24:29.850316",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/1f29c7a1-2803-4158-bfa8-069d73ecbb2a/download/internos-spf-condenados-2016-12.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/780e828b-fe57-40b2-b180-750278873211/download/internos-spf-procesados-2016-12.csv",
-                    "description": "Este conjunto de datos registra los procesados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
-                    "title": "Internos del SPF - Procesados 2016-12",
-                    "issued": "2017-05-11T19:24:32.661635",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/780e828b-fe57-40b2-b180-750278873211/download/internos-spf-procesados-2016-12.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/b55dd711-03c5-4526-a8a7-1635851f9a8f/download/internos-spf-inimputables-2016-12.csv",
-                    "description": "Este conjunto de datos registra los inimputables alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
-                    "title": "Internos del SPF - Inimputables 2016-12",
-                    "issued": "2017-05-11T19:24:35.889264",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/b55dd711-03c5-4526-a8a7-1635851f9a8f/download/internos-spf-inimputables-2016-12.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/5400ccd1-734c-4995-8b7f-4190b94c8576/download/internos-spf-inimputables-2017-01.csv",
-                    "description": "Este conjunto de datos registra los inimputables alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
-                    "title": "Internos del SPF - Inimputables 2017-01",
-                    "issued": "2017-05-11T19:24:38.924651",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/5400ccd1-734c-4995-8b7f-4190b94c8576/download/internos-spf-inimputables-2017-01.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/c702d1c7-ed24-467a-ab27-e835ac7de44c/download/internos-spf-procesados-2017-01.csv",
-                    "description": "Este conjunto de datos registra los procesados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
-                    "title": "Internos del SPF - Procesados 2017-01",
-                    "issued": "2017-05-11T19:27:08.597196",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/c702d1c7-ed24-467a-ab27-e835ac7de44c/download/internos-spf-procesados-2017-01.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/2ca8266e-6bff-4a97-8d77-0e4c0355ff82/download/internos-spf-condenados-2017-01.csv",
-                    "description": "Este conjunto de datos registra los condenados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
-                    "title": "Internos del SPF - Condenados 2017-01",
-                    "issued": "2017-05-11T19:27:11.635291",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/2ca8266e-6bff-4a97-8d77-0e4c0355ff82/download/internos-spf-condenados-2017-01.csv"
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "La tabla divide por provincia la cantidad de megabits por segundo de velocidad que se envía a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Megabits de velocidad entregados por provincia",
+                    "issued": "2017-05-16T01:03:19.156997",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "landingPage": "http://datos.jus.gob.ar/dataset/internos-del-servicio-penitenciario-federal---spf",
             "identifier": "3107b683-45f6-4494-89f1-4c8dcc59e41f",
             "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal"
+                "@type": "vcard:Contact"
             }
         },
         {
@@ -2473,36 +2376,34 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional.csv",
-                    "description": "Listado actual de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional. No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación.",
-                    "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
-                    "issued": "2017-05-10T20:11:46.373335",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "El mapa ilustra la red de fibra óptica de la empresa Transener.",
+                    "title": "Fibra óptica de la empresa Transener",
+                    "issued": "2017-05-16T01:01:46.583857",
                     "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional.csv"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/ac34ee63-7e86-4f15-b57b-c6a35f71ea6e/download/magistrados-justicia-federal-nacional-designaciones.csv",
-                    "description": "Designacion de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
-                    "title": "Designación de magistrados de la Justicia Federal y de la Justicia Nacional",
-                    "issued": "2017-05-10T20:45:36.169511",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/ac34ee63-7e86-4f15-b57b-c6a35f71ea6e/download/magistrados-justicia-federal-nacional-designaciones.csv"
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "El mapa ilustra la red de fibra óptica de la empresa Transener.",
+                    "title": "Fibra óptica de la empresa Transener",
+                    "issued": "2017-05-16T01:01:47.781330",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/551c8132-4aef-419a-8f7b-020bb613980b/download/magistrados-justicia-federal-nacional-renuncias.csv",
-                    "description": "Renuncia de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
-                    "title": "Renuncia de magistrados de la Justicia Federal y de la Justicia Nacional",
-                    "issued": "2017-05-10T20:54:22.462681",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/551c8132-4aef-419a-8f7b-020bb613980b/download/magistrados-justicia-federal-nacional-renuncias.csv"
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "El mapa ilustra la red de fibra óptica de la empresa Transener.",
+                    "title": "Fibra óptica de la empresa Transener",
+                    "issued": "2017-05-16T01:01:48.917889",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "landingPage": "http://datos.jus.gob.ar/dataset/magistrados-de-la-justicia-federal-y-de-la-justicia-nacional",
             "identifier": "9dc77157-599d-4b50-9495-87222e1b9556",
             "contactPoint": {
-                "hasEmail": "mailto:oficinadecretos@jus.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
+                "@type": "vcard:Contact"
             }
         },
         {
@@ -3221,22 +3122,20 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/8bc053c8-efc2-485d-97d3-915c476d2741/resource/e3cb1f09-ada6-46bf-a271-cff18ddd88c2/download/acceso-informacion-publica-2016.csv",
-                    "description": "Detalles de los pedidos de información realizados al estado en el primer semestre del año 2016.",
-                    "title": "Solicitudes de Acceso a la Información Pública 2016",
-                    "issued": "2017-04-07T15:51:16.406771",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/d43fa140-f43f-4cc2-8491-b1d8bb899de4/resource/c6b674bc-e178-41f3-81f5-0f10038e1688/download/victimas-accionar-represivo-ilegal.csv",
+                    "description": "Listado de víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983 (víctimas de desaparición forzada y de asesinato).",
+                    "title": "Listado de víctimas del accionar represivo ilegal",
+                    "issued": "2017-05-10T20:11:48.851433",
                     "format": "CSV",
-                    "modified": "2017-04-07T15:51:16.364168",
-                    "downloadURL": "http://datos.gob.ar/dataset/8bc053c8-efc2-485d-97d3-915c476d2741/resource/e3cb1f09-ada6-46bf-a271-cff18ddd88c2/download/acceso-informacion-publica-2016.csv"
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/d43fa140-f43f-4cc2-8491-b1d8bb899de4/resource/c6b674bc-e178-41f3-81f5-0f10038e1688/download/victimas-accionar-represivo-ilegal.csv"
                 },
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/8bc053c8-efc2-485d-97d3-915c476d2741/resource/63952097-cdba-4fdd-be84-65fb400bdb1a/download/acceso-informacion-publica-2015.csv",
-                    "description": "Detalles de los pedidos de información realizados al estado en el año 2015.",
-                    "title": "Solicitudes de Acceso a la Información Pública 2015",
-                    "issued": "2016-03-07T18:33:19.306664",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/d43fa140-f43f-4cc2-8491-b1d8bb899de4/resource/4c66093d-1293-4c44-a4c4-4cc1d914127e/download/victimas-accionar-represivo-ilegal-sin-denuncia-formal.csv",
+                    "description": "Listado de casos en investigación incluidos en el listado de la Conadep sin denuncia formal ante la Secretaría de Derechos Humanos y Pluralismo Cultural de la Nación, que revisten la categoría de “presunción de desaparición forzada”.",
+                    "title": "Listado de víctimas del accionar represivo ilegal sin denuncia formal",
+                    "issued": "2017-05-10T20:45:34.502516",
                     "format": "CSV",
-                    "modified": "2017-04-07T15:51:01.623623",
-                    "downloadURL": "http://datos.gob.ar/dataset/8bc053c8-efc2-485d-97d3-915c476d2741/resource/63952097-cdba-4fdd-be84-65fb400bdb1a/download/acceso-informacion-publica-2015.csv"
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/d43fa140-f43f-4cc2-8491-b1d8bb899de4/resource/4c66093d-1293-4c44-a4c4-4cc1d914127e/download/victimas-accionar-represivo-ilegal-sin-denuncia-formal.csv"
                 }
             ],
             "keyword": [
@@ -3251,8 +3150,9 @@
             "landingPage": "http://www.mininterior.gov.ar/inicio/index.php",
             "identifier": "8bc053c8-efc2-485d-97d3-915c476d2741",
             "contactPoint": {
+                "hasEmail": "mailto:addhh@jus.gob.ar",
                 "@type": "vcard:Contact",
-                "fn": "Ministerio del Interior, Obras Públicas y Vivienda. Secretaría de Asuntos Políticos y Fortalecimiento Institucional. Subsecretaría de Reforma Institucional y Fortalecimiento de la Democracia."
+                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Registro Unificado de Víctimas del Terrorismo de Estado"
             }
         },
         {
@@ -3502,21 +3402,12 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/2889b09e-31ca-4f90-912e-2a50db874e33/resource/dcc74a80-55fa-4e9c-b025-e0d321aa36ee/download/audiencias-historico.csv",
-                    "description": "Datos provenientes del sistema de Registro Único de Audiencias\r\nde Gestión de Intereses utilizado hasta diciembre de 2016.",
-                    "title": "Audiencias Histórico",
-                    "issued": "2016-03-07T17:55:39.686273",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/9775fcdf-99b9-47f6-87ae-6d46cfd15b40/resource/906a1daf-cb0c-4765-98d4-40b0f8caf48b/download/centros-acceso-justicia-activos.csv",
+                    "description": "Centros de Acceso a la Justicia activos",
+                    "title": "Centros de Acceso a la Justicia (CAJ)",
+                    "issued": "2017-05-10T20:11:37.260516",
                     "format": "CSV",
-                    "modified": "2017-01-11T19:26:04.302283",
-                    "downloadURL": "http://datos.gob.ar/dataset/2889b09e-31ca-4f90-912e-2a50db874e33/resource/dcc74a80-55fa-4e9c-b025-e0d321aa36ee/download/audiencias-historico.csv"
-                },
-                {
-                    "accessURL": "https://audiencias.mininterior.gob.ar/audiencias.csv",
-                    "description": "Datos sobre las fechas de solicitud y realización de la audiencia con Funcionarios Públicos, sus participantes y una síntesis de los temas discutidos.",
-                    "title": "Audiencias",
-                    "issued": "2017-01-11T16:25:00.093591",
-                    "format": "CSV",
-                    "downloadURL": "https://audiencias.mininterior.gob.ar/audiencias.csv"
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/9775fcdf-99b9-47f6-87ae-6d46cfd15b40/resource/906a1daf-cb0c-4765-98d4-40b0f8caf48b/download/centros-acceso-justicia-activos.csv"
                 }
             ],
             "keyword": [
@@ -3529,8 +3420,9 @@
             "landingPage": "http://audiencias.jgm.gob.ar/registrodeaudiencias/searchjgm.php",
             "identifier": "2889b09e-31ca-4f90-912e-2a50db874e33",
             "contactPoint": {
+                "hasEmail": "mailto:rcoutenceau@jus.gov.ar",
                 "@type": "vcard:Contact",
-                "fn": "Ministerio del Interior, Obras Públicas y Vivienda. Secretaría de Asuntos Políticos y Fortalecimiento Institucional. Subsecretaría de Reforma Institucional y Fortalecimiento de la Democracia."
+                "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia"
             }
         }
     ],
