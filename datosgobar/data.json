@@ -2601,20 +2601,34 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/d59c2d29-d561-4ad2-a032-cc82b40db2d3/resource/0ebc70cc-0e71-4158-ab75-9759339e4cbd/download/base-saij-normativa-provincial.csv",
-                    "description": "Base de documentos digitales normativos provinciales: leyes,\r\ndecretos leyes, textos ordenados, códigos y Constituciones\r\npublicados en el Boletín Oficial de la Provincia\r\ncorrespondiente.",
-                    "title": "Base SAIJ de Normativa Provincial",
-                    "issued": "2017-05-11T14:34:53.133816",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio norte del continente americano",
+                    "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica",
+                    "issued": "2017-05-16T01:04:46.908476",
                     "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/d59c2d29-d561-4ad2-a032-cc82b40db2d3/resource/0ebc70cc-0e71-4158-ab75-9759339e4cbd/download/base-saij-normativa-provincial.csv"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio norte del continente americano",
+                    "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica",
+                    "issued": "2017-05-16T01:04:48.232873",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio norte del continente americano",
+                    "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica",
+                    "issued": "2017-05-16T01:04:49.689536",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "landingPage": "http://datos.jus.gob.ar/dataset/base-saij-de-normativa-provincial",
             "identifier": "91aa24be-35c2-47b4-bdae-714cb592fa72",
             "contactPoint": {
-                "hasEmail": "mailto:datosabiertos@saij.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
+                "@type": "vcard:Contact"
             }
         },
         {
@@ -2633,20 +2647,34 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/e41e8224-f868-4688-9fae-94d320f8ee5e/resource/0a823ec3-4609-41b6-8af8-93afd23aaf9c/download/tesauro-saij.rdf",
-                    "description": "Tesauro SAIJ de Derecho Argentino",
-                    "title": "Tesauro SAIJ de Derecho Argentino",
-                    "issued": "2017-05-11T19:23:19.345646",
-                    "format": "RDF",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/e41e8224-f868-4688-9fae-94d320f8ee5e/resource/0a823ec3-4609-41b6-8af8-93afd23aaf9c/download/tesauro-saij.rdf"
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Listado de escuelas rurales conectadas al 25/04/2017",
+                    "title": "Escuelas conectadas",
+                    "issued": "2017-05-16T01:04:36.811391",
+                    "format": "CSV",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Listado de escuelas rurales conectadas al 25/04/2017",
+                    "title": "Escuelas conectadas",
+                    "issued": "2017-05-16T01:04:38.210371",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Listado de escuelas rurales conectadas al 25/04/2017",
+                    "title": "Escuelas conectadas",
+                    "issued": "2017-05-16T01:04:39.553409",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "landingPage": "http://datos.jus.gob.ar/dataset/tesauro-saij-de-derecho-argentino",
             "identifier": "ed3f5e85-b3d8-48ee-be3e-5c9d03469ec8",
             "contactPoint": {
-                "hasEmail": "mailto:datosabiertos@saij.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
+                "@type": "vcard:Contact"
             }
         },
         {
@@ -2697,20 +2725,34 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/c64b3899-65df-4024-afe8-bdf971f30dd8/resource/56dbd545-f102-4fbd-be48-0edb9b1f846c/download/violencia-institucional.csv",
-                    "description": "Seguimientos de hechos de violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos.",
-                    "title": "Seguimiento de hechos de violencia institucional",
-                    "issued": "2017-05-10T20:11:46.387490",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
+                    "title": "Escuelas de próxima conexión",
+                    "issued": "2017-05-16T01:04:26.675247",
                     "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/c64b3899-65df-4024-afe8-bdf971f30dd8/resource/56dbd545-f102-4fbd-be48-0edb9b1f846c/download/violencia-institucional.csv"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
+                    "title": "Escuelas de próxima conexión",
+                    "issued": "2017-05-16T01:04:28.089277",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
+                    "title": "Escuelas de próxima conexión",
+                    "issued": "2017-05-16T01:04:29.508107",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "landingPage": "http://datos.jus.gob.ar/dataset/registro-sistematizacin-y-seguimiento-de-hechos-de-violencia-institucional",
             "identifier": "e4a805bf-896a-471d-a90d-97b88a7a5341",
             "contactPoint": {
-                "hasEmail": "mailto:dnpcvi@jus.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional"
+                "@type": "vcard:Contact"
             }
         },
         {
@@ -3310,41 +3352,28 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/0c3cca0a-ccfa-4520-a614-dbdd58d74d79/download/pauta-oficial-primer-semestre-2016.csv",
-                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el primer semestre de 2016.",
-                    "title": "Pauta Oficial Primer Semestre 2016",
-                    "issued": "2016-09-02T15:41:50.241059",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "El mapa ilustra la red de fibra óptica en planificación",
+                    "title": "Fibra óptica planificada",
+                    "issued": "2017-05-16T01:02:46.494365",
                     "format": "CSV",
-                    "modified": "2017-01-17T18:49:16.640853",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/0c3cca0a-ccfa-4520-a614-dbdd58d74d79/download/pauta-oficial-primer-semestre-2016.csv"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/eed67d08-3c9a-4c02-86ac-c51ff24fe99a/download/pauta-oficial-segundo-semestre-2016.csv",
-                    "description": "Montos destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el segundo semestre de 2016.",
-                    "title": "Pauta Oficial Segundo Semestre 2016",
-                    "issued": "2017-01-05T16:44:13.562265",
-                    "format": "CSV",
-                    "modified": "2017-01-05T19:44:13.501028",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/eed67d08-3c9a-4c02-86ac-c51ff24fe99a/download/pauta-oficial-segundo-semestre-2016.csv"
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "El mapa ilustra la red de fibra óptica en planificación",
+                    "title": "Fibra óptica planificada",
+                    "issued": "2017-05-16T01:02:47.703792",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/01bd7d9f-bc54-4fd7-b800-a4969a2a5b6f/download/pauta-oficial-2015.csv",
-                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el año 2015.",
-                    "title": "Pauta Oficial 2015",
-                    "issued": "2016-09-02T15:59:51.435179",
-                    "format": "CSV",
-                    "modified": "2017-01-17T18:47:17.000985",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/01bd7d9f-bc54-4fd7-b800-a4969a2a5b6f/download/pauta-oficial-2015.csv",
-                    "field": "[]"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/98a8c15f-5937-47fe-92e3-05d755be7d43/download/pauta-oficial-2014.csv",
-                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el año 2014.",
-                    "title": "Pauta Oficial 2014",
-                    "issued": "2016-09-02T16:00:50.534613",
-                    "format": "CSV",
-                    "modified": "2016-09-02T19:00:50.469703",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/98a8c15f-5937-47fe-92e3-05d755be7d43/download/pauta-oficial-2014.csv"
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "El mapa ilustra la red de fibra óptica en planificación",
+                    "title": "Fibra óptica planificada",
+                    "issued": "2017-05-16T01:02:48.942308",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PLANI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "keyword": [
@@ -3357,9 +3386,7 @@
             "landingPage": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad",
             "identifier": "122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4",
             "contactPoint": {
-                "hasEmail": "mailto:pautas@medios.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Jefatura de Gabinete de Ministros. Secretaría de Comunicación Pública."
+                "@type": "vcard:Contact"
             }
         },
         {
@@ -3421,13 +3448,28 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/b9602e2a-163f-4d12-adcb-c0c92f3a49f0/resource/91219296-dc6a-4bdd-932b-7d0535def6f2/download/contratos-alquiler-estado-nacional-locador.csv",
-                    "description": "Información de los contratos donde el Estado Nacional arrienda, como locador, inmuebles de su propiedad. Esta información se actualizará conforme los contratos sean digitalizados y cargados por la Agencia de Administración de Bienes del Estado.",
-                    "title": "Contratos de alquiler ENA como locador",
-                    "issued": "2016-10-24T11:48:41.794340",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-TENDI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Fibra óptica tendida al 13/05/2017",
+                    "title": "Fibra óptica tendida",
+                    "issued": "2017-05-16T01:02:26.694820",
                     "format": "CSV",
-                    "modified": "2016-11-14T13:36:34.959766",
-                    "downloadURL": "http://datos.gob.ar/dataset/b9602e2a-163f-4d12-adcb-c0c92f3a49f0/resource/91219296-dc6a-4bdd-932b-7d0535def6f2/download/contratos-alquiler-estado-nacional-locador.csv"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-TENDI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-TENDI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Fibra óptica tendida al 13/05/2017",
+                    "title": "Fibra óptica tendida",
+                    "issued": "2017-05-16T01:02:27.782358",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-TENDI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-TENDI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Fibra óptica tendida al 13/05/2017",
+                    "title": "Fibra óptica tendida",
+                    "issued": "2017-05-16T01:02:28.942669",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-TENDI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "keyword": [
@@ -3441,9 +3483,7 @@
             "landingPage": "http://datos.gob.ar/dataset/contratos-alquiler-estado-nacional-locador",
             "identifier": "b9602e2a-163f-4d12-adcb-c0c92f3a49f0",
             "contactPoint": {
-                "hasEmail": "mailto:info_renabe@bienesdelestado.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Jefatura de Gabinete de Ministros. Agencia de Administración de Bienes del Estado. Dirección Nacional del Registro de Bienes Inmuebles."
+                "@type": "vcard:Contact"
             }
         },
         {
@@ -3462,13 +3502,28 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/ad5b0e15-a9ed-40d5-9827-33a0ece12433/resource/b705d8c1-650f-43cc-bde6-68850fcecd21/download/estructura-organica.csv",
-                    "description": "Estructura orgánica y autoridades del Poder Ejecutivo Nacional.",
-                    "title": "Estructura Orgánica y Autoridades del PEN",
-                    "issued": "2016-03-07T19:15:43.914412",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+                    "title": "Datos de las estaciones transmisoras",
+                    "issued": "2017-05-16T01:02:06.524829",
                     "format": "CSV",
-                    "modified": "2016-12-01T13:24:32.695894",
-                    "downloadURL": "http://datos.gob.ar/dataset/ad5b0e15-a9ed-40d5-9827-33a0ece12433/resource/b705d8c1-650f-43cc-bde6-68850fcecd21/download/estructura-organica.csv"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+                    "title": "Datos de las estaciones transmisoras",
+                    "issued": "2017-05-16T01:02:07.659698",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "En esta tabla podés consultar datos de las estaciones digitales de transmisión de los Contenidos Públicos Digitales que se encuentran operativas en todo el país.",
+                    "title": "Datos de las estaciones transmisoras",
+                    "issued": "2017-05-16T01:02:08.839536",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-ESTAC-DE-TRANS/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "keyword": [
@@ -3482,8 +3537,7 @@
             "landingPage": "http://mapadelestado.modernizacion.gob.ar",
             "identifier": "ad5b0e15-a9ed-40d5-9827-33a0ece12433",
             "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Modernización. Secretaría  de Empleo Público. Subsecretaría de Planificación de Empleo Público"
+                "@type": "vcard:Contact"
             }
         },
         {
