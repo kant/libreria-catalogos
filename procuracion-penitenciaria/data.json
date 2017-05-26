@@ -249,40 +249,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
-                    "description": "Se recopila la información suministrada semestralmente por la División de Traslados del Servicio Penitenciario Federal. La base de datos registra unidad de origen y destino y motivo del traslado.",
-                    "title": "Traslados en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-02T15:10:05.274966",
+                    "accessURL": "http://172.17.0.4/dataset/e80cdaf3-996b-4ff7-887d-32d7cbd35770/resource/a19b2efe-889b-47ac-9516-f7a11cdf0347/download/nomina-de-trabajadores-en-el-servicio-penitenciario-federal.csv",
+                    "description": "Esta base fue elaborada con la información que se obtuvo de las distintas Unidades para un período específico de cada año, tomando como preferencia o prioridad el mes de Agosto. La unidad la compone cada interno afectado a trabajo en esa unidad en el período de un año, para evitar sesgos por traslados o cambios de taller a lo largo del tiempo. La información es aquella que fue enviada o adquirida en las unidades, por lo cual cualquier ausencia de unidad es por carencia de la nómina requerida.",
+                    "title": "Nomina de trabajadores en el Servicio Penitenciario Federal",
+                    "issued": "2017-05-08T18:43:12.372988",
                     "format": "CSV",
-                    "modified": "2017-05-02T15:10:05.131824",
-                    "downloadURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Unidad desde donde se origina el traslado",
-                            "title": "Desde"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Región desde donde se origina el traslado.",
-                            "title": "Unidad_orig"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Destino final del traslado",
-                            "title": "Hasta"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Región donde finaliza el traslado.",
-                            "title": "Unid_dest"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha en que se realizo el traslado.",
-                            "title": "Fecha"
-                        }
-                    ],
+                    "modified": "2017-05-08T18:43:12.183372",
+                    "downloadURL": "http://172.17.0.4/dataset/e80cdaf3-996b-4ff7-887d-32d7cbd35770/resource/a19b2efe-889b-47ac-9516-f7a11cdf0347/download/nomina-de-trabajadores-en-el-servicio-penitenciario-federal.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
