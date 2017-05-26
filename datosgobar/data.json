@@ -186,22 +186,28 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/89f1a2dd-ad79-4211-87b4-44661d81ac0d/resource/b0c58264-64f3-4ee8-a642-7208745f8fa7/download/presupuesto-2017.csv",
-                    "description": "Distribución de los créditos presupuestarios y ejecución semanal correspondientes al año 2017.",
-                    "title": "Presupuesto Nacional Año 2017",
-                    "issued": "2017-02-07T14:17:20.423568",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "El mapa ilustra la red de fibra óptica de la empresa Transener.",
+                    "title": "Fibra óptica de la empresa Transener",
+                    "issued": "2017-05-16T01:01:46.583857",
                     "format": "CSV",
-                    "modified": "2017-03-10T15:31:53.276054",
-                    "downloadURL": "http://datos.gob.ar/dataset/89f1a2dd-ad79-4211-87b4-44661d81ac0d/resource/b0c58264-64f3-4ee8-a642-7208745f8fa7/download/presupuesto-2017.csv"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/89f1a2dd-ad79-4211-87b4-44661d81ac0d/resource/84e23782-7d52-4724-a4ba-2f9621fa5f4e/download/presupuesto-2016.csv",
-                    "description": "Distribución de los créditos presupuestarios y ejecución semanal correspondientes al año 2016.",
-                    "title": "Presupuesto Nacional Año 2016",
-                    "issued": "2016-03-07T18:20:49.849871",
-                    "format": "CSV",
-                    "modified": "2016-12-28T02:54:05.788868",
-                    "downloadURL": "http://datos.gob.ar/dataset/89f1a2dd-ad79-4211-87b4-44661d81ac0d/resource/84e23782-7d52-4724-a4ba-2f9621fa5f4e/download/presupuesto-2016.csv"
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "El mapa ilustra la red de fibra óptica de la empresa Transener.",
+                    "title": "Fibra óptica de la empresa Transener",
+                    "issued": "2017-05-16T01:01:47.781330",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "El mapa ilustra la red de fibra óptica de la empresa Transener.",
+                    "title": "Fibra óptica de la empresa Transener",
+                    "issued": "2017-05-16T01:01:48.917889",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "keyword": [
@@ -213,8 +219,7 @@
             "landingPage": "http://sitiodelciudadano.mecon.gov.ar",
             "identifier": "89f1a2dd-ad79-4211-87b4-44661d81ac0d",
             "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Ministerio de Hacienda. Secretaría de Hacienda. Subsecretaría de Presupuesto."
+                "@type": "vcard:Contact"
             }
         },
         {
@@ -320,34 +325,332 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de Proveedores al 08/05/2017",
-                    "title": "Listado de Proveedores",
-                    "issued": "2017-05-16T01:06:38.311235",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/c81a673f-50e4-4d3e-8ff5-8e623adf8161/download/igj-entidades.csv",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2016-09",
+                    "issued": "2017-05-10T20:11:47.348158",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/c81a673f-50e4-4d3e-8ff5-8e623adf8161/download/igj-entidades.csv"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de Proveedores al 08/05/2017",
-                    "title": "Listado de Proveedores",
-                    "issued": "2017-05-16T01:06:39.961326",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/ed11b717-d6d1-411d-b040-bfc0987cd72c/download/igj-domicilios.csv",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2016-09",
+                    "issued": "2017-05-10T20:45:36.016744",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/ed11b717-d6d1-411d-b040-bfc0987cd72c/download/igj-domicilios.csv"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Listado de Proveedores al 08/05/2017",
-                    "title": "Listado de Proveedores",
-                    "issued": "2017-05-16T01:06:41.534262",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/079c1104-aae4-4fe1-9474-e44e99054c9d/download/igj-autoridades.csv",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ. Autoridades de entidades 2016-09",
+                    "issued": "2017-05-10T20:54:27.490158",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/079c1104-aae4-4fe1-9474-e44e99054c9d/download/igj-autoridades.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/ad6835d8-0d6b-42dc-bb8f-2641af5ddf01/download/igj-balances.csv",
+                    "description": "Balances presentados por entidades constituidas en la IGJ",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2016-09",
+                    "issued": "2017-05-10T21:03:32.649029",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/ad6835d8-0d6b-42dc-bb8f-2641af5ddf01/download/igj-balances.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/75ec7f99-7088-4367-9ca4-d014d65f4a0a/download/igj-asambleas.csv",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ. Asambleas de entidades constituidas en la IGJ 2016-09",
+                    "issued": "2017-05-10T21:12:22.462441",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/75ec7f99-7088-4367-9ca4-d014d65f4a0a/download/igj-asambleas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/69ba7f4a-b2d4-476e-9feb-9616fee79677/download/igj-autoridades.csv",
+                    "description": "Autoridades de entidades constituidas en la IGJ.",
+                    "title": "IGJ. Autoridades de entidades 2016-10",
+                    "issued": "2017-05-10T21:21:13.125272",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/69ba7f4a-b2d4-476e-9feb-9616fee79677/download/igj-autoridades.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/055e1b3a-c127-436c-829b-7e2cc9a4d9c8/download/igj-entidades.csv",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2016-10",
+                    "issued": "2017-05-10T21:30:04.415599",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/055e1b3a-c127-436c-829b-7e2cc9a4d9c8/download/igj-entidades.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/2a8472e3-3ec6-4e6e-8baf-d53963f22643/download/igj-balances.csv",
+                    "description": "Balances presentados por entidades constituidas en la IGJ",
+                    "title": "IGJ.Balances presentados por entidades constituidas en la IGJ 2016-10",
+                    "issued": "2017-05-10T21:38:50.379399",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/2a8472e3-3ec6-4e6e-8baf-d53963f22643/download/igj-balances.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/52e983b1-e633-4e1d-94b9-3be23c0a3a8f/download/igj-asambleas.csv",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ. Asambleas de entidades constituidas en la IGJ 2016-10",
+                    "issued": "2017-05-10T21:47:40.707010",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/52e983b1-e633-4e1d-94b9-3be23c0a3a8f/download/igj-asambleas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/c0fdac96-66ba-4c28-9a54-d4f7f27fd5f3/download/igj-domicilios.csv",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2016-10",
+                    "issued": "2017-05-10T21:56:27.565682",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/c0fdac96-66ba-4c28-9a54-d4f7f27fd5f3/download/igj-domicilios.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/b2df002f-c621-46e6-bb4f-e90be984f1f5/download/igj-entidades.csv",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2016-11",
+                    "issued": "2017-05-10T23:55:40.474324",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/b2df002f-c621-46e6-bb4f-e90be984f1f5/download/igj-entidades.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/b955c68f-cc82-4e72-9b08-d348ef59529a/download/igj-asambleas.csv",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ. Asambleas de entidades constituidas en la IGJ 2016-11",
+                    "issued": "2017-05-11T00:04:28.639589",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/b955c68f-cc82-4e72-9b08-d348ef59529a/download/igj-asambleas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/fafa4336-1e8e-411c-bb42-4f90300002e6/download/igj-autoridades.csv",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ. Autoridades de entidades 2016-11",
+                    "issued": "2017-05-11T00:13:16.847506",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/fafa4336-1e8e-411c-bb42-4f90300002e6/download/igj-autoridades.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/dc7d85b2-a695-4a9d-91e8-65de43b00b30/download/igj-balances.csv",
+                    "description": "Balances presentados por entidades constituidas en la IGJ",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2016-11",
+                    "issued": "2017-05-11T00:22:06.760283",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/dc7d85b2-a695-4a9d-91e8-65de43b00b30/download/igj-balances.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/b7311dd0-0a40-4bcf-aead-dbc2250cef5a/download/igj-domicilios.csv",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2016-11",
+                    "issued": "2017-05-11T00:30:56.377837",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/b7311dd0-0a40-4bcf-aead-dbc2250cef5a/download/igj-domicilios.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/5d39a3d6-b9c3-4427-acfd-f484fe790704/download/igj-entidades.csv",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2016-12",
+                    "issued": "2017-05-11T19:27:15.373665",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/5d39a3d6-b9c3-4427-acfd-f484fe790704/download/igj-entidades.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/20f311ea-826e-4687-9144-36da68083a7a/download/igj-asambleas.csv",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ.  Asambleas de entidades constituidas en la IGJ 2016-12",
+                    "issued": "2017-05-11T19:27:16.789022",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/20f311ea-826e-4687-9144-36da68083a7a/download/igj-asambleas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1e304fcf-5a77-4c63-8e4d-e560e14389c3/download/igj-autoridades.csv",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ. Autoridades de entidades 2016-12",
+                    "issued": "2017-05-11T19:27:18.189140",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1e304fcf-5a77-4c63-8e4d-e560e14389c3/download/igj-autoridades.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/083c6bfc-7f20-41ca-8b2c-8584aa1babfc/download/igj-domicilios.csv",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2016-12",
+                    "issued": "2017-05-11T19:27:19.651549",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/083c6bfc-7f20-41ca-8b2c-8584aa1babfc/download/igj-domicilios.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1dda9e3b-5e60-49b1-8aeb-e0901916d229/download/igj-balances.csv",
+                    "description": "Balances de entidades constituidas en la IGJ",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2016-12",
+                    "issued": "2017-05-11T19:27:21.099383",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1dda9e3b-5e60-49b1-8aeb-e0901916d229/download/igj-balances.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1715382e-0c5e-400b-9550-d1c395311cad/download/igj-entidades.csv",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2017-01",
+                    "issued": "2017-05-11T19:27:22.535731",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1715382e-0c5e-400b-9550-d1c395311cad/download/igj-entidades.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/6e90dced-64df-4c13-9a22-081bb3b872de/download/igj-balances.csv",
+                    "description": "Balances de entidades constituidas en la IGJ",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2017-01",
+                    "issued": "2017-05-11T19:27:24.014031",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/6e90dced-64df-4c13-9a22-081bb3b872de/download/igj-balances.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/9f31723c-8569-4dd4-ae7d-fdc46bc7ec8e/download/igj-asambleas.csv",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ.  Asambleas de entidades constituidas en la IGJ 2017-01",
+                    "issued": "2017-05-11T19:27:25.492580",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/9f31723c-8569-4dd4-ae7d-fdc46bc7ec8e/download/igj-asambleas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/e41edb57-f798-443d-8932-c06d275aca18/download/igj-autoridades.csv",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ. Autoridades de entidades 2017-01",
+                    "issued": "2017-05-11T19:27:26.939818",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/e41edb57-f798-443d-8932-c06d275aca18/download/igj-autoridades.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/15e4fb9d-c195-40f1-b0a3-27c0ffe3591a/download/igj-domicilios.csv",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2017-01",
+                    "issued": "2017-05-11T19:27:28.524293",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/15e4fb9d-c195-40f1-b0a3-27c0ffe3591a/download/igj-domicilios.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1771cf76-5210-4169-b833-45f212906cdd/download/igj-entidades.csv",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2017-02",
+                    "issued": "2017-05-11T19:27:30.031309",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1771cf76-5210-4169-b833-45f212906cdd/download/igj-entidades.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/6de27ecf-eff1-4351-9433-dc6c98e30e46/download/igj-balances.csv",
+                    "description": "Balances presentados por entidades constituidas en la IGJ",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2017-02",
+                    "issued": "2017-05-11T19:27:31.560796",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/6de27ecf-eff1-4351-9433-dc6c98e30e46/download/igj-balances.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/a1e16899-e356-4d89-a32a-04cd56efa8b7/download/igj-asambleas.csv",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ.  Asambleas de entidades constituidas en la IGJ 2017-02",
+                    "issued": "2017-05-11T19:27:33.122908",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/a1e16899-e356-4d89-a32a-04cd56efa8b7/download/igj-asambleas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/06205444-fc47-4080-83f2-5658ca6b6615/download/igj-entidades.csv",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ. Autoridades de entidades 2017-02",
+                    "issued": "2017-05-11T19:27:34.742335",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/06205444-fc47-4080-83f2-5658ca6b6615/download/igj-entidades.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1225e990-7c7a-4437-8df6-da58c216de64/download/igj-domicilios.csv",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2017-02",
+                    "issued": "2017-05-11T19:27:36.316970",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/1225e990-7c7a-4437-8df6-da58c216de64/download/igj-domicilios.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/548b1588-7141-423d-9c78-27dfe2200de1/download/igj-autoridades.csv",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ. Autoridades de entidades 2017-03",
+                    "issued": "2017-05-11T19:27:37.862031",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/548b1588-7141-423d-9c78-27dfe2200de1/download/igj-autoridades.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/be8a6b2f-80ea-47e7-a033-b2db866014f8/download/igj-entidades.csv",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2017-03",
+                    "issued": "2017-05-11T19:27:39.516482",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/be8a6b2f-80ea-47e7-a033-b2db866014f8/download/igj-entidades.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/14464ae4-eb5b-4216-9690-26426e5f6d71/download/igj-domicilios.csv",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2017-03",
+                    "issued": "2017-05-11T19:27:41.123953",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/14464ae4-eb5b-4216-9690-26426e5f6d71/download/igj-domicilios.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/ee4fb267-6140-461e-8db4-1e4fee5fb3ea/download/igj-balances.csv",
+                    "description": "Balances presentados por entidades constituidas en la IGJ",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2017-03",
+                    "issued": "2017-05-11T19:27:42.740057",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/ee4fb267-6140-461e-8db4-1e4fee5fb3ea/download/igj-balances.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/d4530368-c7db-4eea-b09c-4362639e657a/download/igj-asambleas.csv",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ.  Asambleas de entidades constituidas en la IGJ 2017-03",
+                    "issued": "2017-05-11T19:27:44.364725",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/d4530368-c7db-4eea-b09c-4362639e657a/download/igj-asambleas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/9169143b-cc40-401d-8ee3-6062ba6fe952/download/igj-entidades.csv",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2017-04",
+                    "issued": "2017-05-11T19:27:45.993472",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/9169143b-cc40-401d-8ee3-6062ba6fe952/download/igj-entidades.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/7433ab57-2065-42dc-b310-6ca5e02e91f2/download/igj-balances.csv",
+                    "description": "Balances presentados por entidades constituidas en la IGJ",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2017-04",
+                    "issued": "2017-05-11T19:27:47.740306",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/7433ab57-2065-42dc-b310-6ca5e02e91f2/download/igj-balances.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/24a4e493-046d-49e6-a4b6-09bdf6f041b6/download/igj-domicilios.csv",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2017-04",
+                    "issued": "2017-05-11T19:27:49.478492",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/24a4e493-046d-49e6-a4b6-09bdf6f041b6/download/igj-domicilios.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/90c24f92-f027-4d17-8979-a8602eaacfa4/download/igj-asambleas.csv",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ. Asambleas de entidades constituidas en la IGJ 2017-04",
+                    "issued": "2017-05-11T19:27:51.122209",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/90c24f92-f027-4d17-8979-a8602eaacfa4/download/igj-asambleas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/5ac15f52-1b0e-494c-8718-b21e696e90aa/download/igj-autoridades.csv",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ.  Autoridades de entidades 2017-04",
+                    "issued": "2017-05-11T19:27:52.909178",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/5ac15f52-1b0e-494c-8718-b21e696e90aa/download/igj-autoridades.csv"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/listado-de-proveedores",
             "identifier": "3e30c4f9-7fd3-4db7-8f87-3d05c03fe492",
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "hasEmail": "mailto:dmiralles@jus.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia"
             }
         },
         {
@@ -826,34 +1129,20 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio norte del continente americano",
-                    "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica",
-                    "issued": "2017-05-16T01:04:46.908476",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/d59c2d29-d561-4ad2-a032-cc82b40db2d3/resource/0ebc70cc-0e71-4158-ab75-9759339e4cbd/download/base-saij-normativa-provincial.csv",
+                    "description": "Base de documentos digitales normativos provinciales: leyes,\r\ndecretos leyes, textos ordenados, códigos y Constituciones\r\npublicados en el Boletín Oficial de la Provincia\r\ncorrespondiente.",
+                    "title": "Base SAIJ de Normativa Provincial",
+                    "issued": "2017-05-11T14:34:53.133816",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio norte del continente americano",
-                    "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica",
-                    "issued": "2017-05-16T01:04:48.232873",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio norte del continente americano",
-                    "title": "Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica",
-                    "issued": "2017-05-16T01:04:49.689536",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/d59c2d29-d561-4ad2-a032-cc82b40db2d3/resource/0ebc70cc-0e71-4158-ab75-9759339e4cbd/download/base-saij-normativa-provincial.csv"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/datos-del-rea-de-cobertura-de-la-banda-ku-del-satlite-arsat-2-en-norteamrica",
             "identifier": "1cdf548d-79d4-47d1-844d-0874b9f0222a",
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "hasEmail": "mailto:datosabiertos@saij.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
             }
         },
         {
@@ -918,34 +1207,20 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
-                    "title": "Escuelas de próxima conexión",
-                    "issued": "2017-05-16T01:04:26.675247",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/9775fcdf-99b9-47f6-87ae-6d46cfd15b40/resource/906a1daf-cb0c-4765-98d4-40b0f8caf48b/download/centros-acceso-justicia-activos.csv",
+                    "description": "Centros de Acceso a la Justicia activos",
+                    "title": "Centros de Acceso a la Justicia (CAJ)",
+                    "issued": "2017-05-10T20:11:37.260516",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
-                    "title": "Escuelas de próxima conexión",
-                    "issued": "2017-05-16T01:04:28.089277",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
-                    "title": "Escuelas de próxima conexión",
-                    "issued": "2017-05-16T01:04:29.508107",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/9775fcdf-99b9-47f6-87ae-6d46cfd15b40/resource/906a1daf-cb0c-4765-98d4-40b0f8caf48b/download/centros-acceso-justicia-activos.csv"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/escuelas-de-prxima-conexin",
             "identifier": "bd18ad90-51bc-4ad7-b407-a09d269614c8",
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "hasEmail": "mailto:rcoutenceau@jus.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia"
             }
         },
         {
@@ -1010,34 +1285,20 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de todos los empleados de ARSAT al 08/05/17",
-                    "title": "Listado de Personal",
-                    "issued": "2017-05-16T01:04:06.785910",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/27bb9b2c-521b-406c-bdf9-98110ef73f34/resource/9a06c428-8552-42fe-86e1-487bca9b712c/download/registro-de-femicidios.csv",
+                    "description": "Esta base registra los femicidios y homicidios agravados por el género desde el año 2012 a la fecha.",
+                    "title": "Registro, Sistematización y Seguimiento de  Femicidios y Homicidios Agravados por el Género",
+                    "issued": "2017-05-10T20:11:48.761220",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de todos los empleados de ARSAT al 08/05/17",
-                    "title": "Listado de Personal",
-                    "issued": "2017-05-16T01:04:08.066020",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Listado de todos los empleados de ARSAT al 08/05/17",
-                    "title": "Listado de Personal",
-                    "issued": "2017-05-16T01:04:09.407697",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/27bb9b2c-521b-406c-bdf9-98110ef73f34/resource/9a06c428-8552-42fe-86e1-487bca9b712c/download/registro-de-femicidios.csv"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/listado-de-personal",
             "identifier": "fc29b3d4-66a6-4eb6-a90a-16bd13342560",
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "hasEmail": "mailto:registro_femicidios@jus.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Dirección Nacional de Asuntos Jurídicos en materia de Derechos Humanos. Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género"
             }
         },
         {
@@ -1056,28 +1317,20 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados al 31/03/2017",
-                    "title": "Promedios de edad y antigüedad del personal",
-                    "issued": "2017-05-16T01:03:56.670907",
-                    "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados al 31/03/2017",
-                    "title": "Promedios de edad y antigüedad del personal",
-                    "issued": "2017-05-16T01:03:58.016309",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados al 31/03/2017",
-                    "title": "Promedios de edad y antigüedad del personal",
-                    "issued": "2017-05-16T01:03:59.311684",
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/b57a401f-7a6a-49d0-af05-d9aae3c97e14/download/recursos-humanos-cyt.json",
+                    "description": "Recursos humanos en Ciencia y Tecnología por provincia, máximo nivel educativo alcanzado, género, rangos de edad, tipo de personal de I+D y gran área del conocimiento de la formación de grado, tipo de institución de trabajo, categoría en CONICET y categoría en el Programa de Incentivos a los Docentes Investigadores",
+                    "title": "Recursos humanos en Ciencia y Tecnología",
+                    "issued": "2017-05-10T22:12:58.347111",
                     "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/b57a401f-7a6a-49d0-af05-d9aae3c97e14/download/recursos-humanos-cyt.json"
+                },
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/93b23e91-ba14-4146-8368-6a50b62b1890/download/recursos-humanos-cyt.csv",
+                    "description": "Recursos humanos en Ciencia y Tecnología por provincia, máximo nivel educativo alcanzado, género, rangos de edad, tipo de personal de I+D y gran área del conocimiento de la formación de grado, tipo de institución de trabajo, categoría en CONICET y categoría en el Programa de Incentivos a los Docentes Investigadores",
+                    "title": "Recursos humanos en Ciencia y Tecnología",
+                    "issued": "2017-05-11T19:25:06.757658",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/93b23e91-ba14-4146-8368-6a50b62b1890/download/recursos-humanos-cyt.csv"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/promedios-de-edad-y-antigedad-del-personal",
@@ -1102,28 +1355,20 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de categorías y escala salarial bruta en ARSAT.",
-                    "title": "Categorías y escalas salariales",
-                    "issued": "2017-05-16T01:03:47.102306",
-                    "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de categorías y escala salarial bruta en ARSAT.",
-                    "title": "Categorías y escalas salariales",
-                    "issued": "2017-05-16T01:03:48.349378",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Listado de categorías y escala salarial bruta en ARSAT.",
-                    "title": "Categorías y escalas salariales",
-                    "issued": "2017-05-16T01:03:49.688060",
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0/download/proyectos-cyt.json",
+                    "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
+                    "title": "Proyectos de Ciencia Tecnología e Innovación",
+                    "issued": "2017-05-10T20:45:25.815933",
                     "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCAL-SALAR/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0/download/proyectos-cyt.json"
+                },
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/641981b3-2ec4-402b-88ca-117f56500332/download/proyectos-cyt.csv",
+                    "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
+                    "title": "Proyectos de Ciencia Tecnología e Innovación",
+                    "issued": "2017-05-11T19:25:16.972647",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/641981b3-2ec4-402b-88ca-117f56500332/download/proyectos-cyt.csv"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/categoras-y-escalas-salariales",
@@ -1148,28 +1393,20 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/EJECU-PRESU-2016/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "La tabla detalla las ejecuciones presupuestarias realizadas en cada mes del 2016.",
-                    "title": "Ejecuciones Presupuestarias 2016",
-                    "issued": "2017-05-16T01:03:36.790707",
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/1ec32c8e-6931-4f24-a2de-063097338621/download/equipos-sistemas-nacionales.csv",
+                    "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
+                    "title": "Equipamiento científico-tecnológico según tipo de institución y provincia",
+                    "issued": "2017-05-10T20:45:29.240145",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/EJECU-PRESU-2016/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/1ec32c8e-6931-4f24-a2de-063097338621/download/equipos-sistemas-nacionales.csv"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/EJECU-PRESU-2016/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "La tabla detalla las ejecuciones presupuestarias realizadas en cada mes del 2016.",
-                    "title": "Ejecuciones Presupuestarias 2016",
-                    "issued": "2017-05-16T01:03:38.069149",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/EJECU-PRESU-2016/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/EJECU-PRESU-2016/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "La tabla detalla las ejecuciones presupuestarias realizadas en cada mes del 2016.",
-                    "title": "Ejecuciones Presupuestarias 2016",
-                    "issued": "2017-05-16T01:03:39.452168",
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/84147f97-2f89-46af-b732-647e322f5959/download/equipos-sistemas-nacionales.json",
+                    "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
+                    "title": "Equipamiento científico-tecnológico según tipo de institución y provincia",
+                    "issued": "2017-05-11T19:23:43.715220",
                     "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/EJECU-PRESU-2016/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/84147f97-2f89-46af-b732-647e322f5959/download/equipos-sistemas-nacionales.json"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/ejecuciones-presupuestarias-2016",
@@ -1194,34 +1431,20 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-AUDIE-GESTI-DE/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de Audiencias realizadas en Arsat desde el 20/03/17 hasta el presente.",
-                    "title": "Registro de Audiencias",
-                    "issued": "2017-05-16T01:03:26.537395",
+                    "accessURL": "http://datos.gob.ar/dataset/431381cc-3c5b-49ba-bf77-47bf658cd640/resource/d3fe3a9a-551b-407d-ba19-bfbad00f86e5/download/salarios-2016.csv",
+                    "description": "Asignación salarial mensual de las Autoridades Superiores del Poder Ejecutivo Nacional.",
+                    "title": "Asignación Salarial de las Autoridades del Poder Ejecutivo Nacional 2016",
+                    "issued": "2016-06-15T15:37:39.587974",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-AUDIE-GESTI-DE/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-AUDIE-GESTI-DE/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de Audiencias realizadas en Arsat desde el 20/03/17 hasta el presente.",
-                    "title": "Registro de Audiencias",
-                    "issued": "2017-05-16T01:03:27.690578",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-AUDIE-GESTI-DE/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-AUDIE-GESTI-DE/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Listado de Audiencias realizadas en Arsat desde el 20/03/17 hasta el presente.",
-                    "title": "Registro de Audiencias",
-                    "issued": "2017-05-16T01:03:28.911607",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-AUDIE-GESTI-DE/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "modified": "2017-03-10T15:02:37.246059",
+                    "downloadURL": "http://datos.gob.ar/dataset/431381cc-3c5b-49ba-bf77-47bf658cd640/resource/d3fe3a9a-551b-407d-ba19-bfbad00f86e5/download/salarios-2016.csv"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/registro-de-audiencias",
             "identifier": "6e998124-9f7f-42f2-a30f-377853238f9b",
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Modernización. Secretaría  de Empleo Público."
             }
         },
         {
@@ -1286,34 +1509,28 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
-                    "title": "Áreas de cobertura de la televisión digital abierta",
-                    "issued": "2017-05-16T01:03:06.470581",
+                    "accessURL": "http://datos.gob.ar/dataset/2889b09e-31ca-4f90-912e-2a50db874e33/resource/dcc74a80-55fa-4e9c-b025-e0d321aa36ee/download/audiencias-historico.csv",
+                    "description": "Datos provenientes del sistema de Registro Único de Audiencias\r\nde Gestión de Intereses utilizado hasta diciembre de 2016.",
+                    "title": "Audiencias Histórico",
+                    "issued": "2016-03-07T17:55:39.686273",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "modified": "2017-01-11T19:26:04.302283",
+                    "downloadURL": "http://datos.gob.ar/dataset/2889b09e-31ca-4f90-912e-2a50db874e33/resource/dcc74a80-55fa-4e9c-b025-e0d321aa36ee/download/audiencias-historico.csv"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
-                    "title": "Áreas de cobertura de la televisión digital abierta",
-                    "issued": "2017-05-16T01:03:07.627229",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Esta tabla muestra las coordenadas satelitales que demarcan los límites de las áreas de cobertura.",
-                    "title": "Áreas de cobertura de la televisión digital abierta",
-                    "issued": "2017-05-16T01:03:08.835079",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TDA-POLIG-DE-COBER/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "accessURL": "https://audiencias.mininterior.gob.ar/audiencias.csv",
+                    "description": "Datos sobre las fechas de solicitud y realización de la audiencia con Funcionarios Públicos, sus participantes y una síntesis de los temas discutidos.",
+                    "title": "Audiencias",
+                    "issued": "2017-01-11T16:25:00.093591",
+                    "format": "CSV",
+                    "downloadURL": "https://audiencias.mininterior.gob.ar/audiencias.csv"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/reas-de-cobertura-de-la-televisin-digital-abierta",
             "identifier": "0e3b42d2-b519-4631-ad9f-5ee0d7617318",
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
+                "fn": "Ministerio del Interior, Obras Públicas y Vivienda. Secretaría de Asuntos Políticos y Fortalecimiento Institucional. Subsecretaría de Reforma Institucional y Fortalecimiento de la Democracia."
             }
         },
         {
