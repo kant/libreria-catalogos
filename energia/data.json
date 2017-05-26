@@ -13936,7 +13936,7 @@
             "license": "Creative Commons Attribution",
             "title": "Precios en Surtidor - Resolución 314/2016",
             "issued": "2017-01-18T18:09:35.180560",
-            "modified": "2017-05-26T12:00:33.308681",
+            "modified": "2017-05-26T13:00:31.515518",
             "theme": [
                 "comercializacion-de-los-hidrocarburos"
             ],
@@ -13961,7 +13961,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-05-26T09:00:19.530225",
+                    "modified": "2017-05-26T10:00:19.991428",
                     "downloadURL": "http://190.3.64.19/dataset/e095db78-a5df-451c-b966-971d0a6b7887/resource/7147dbd6-03c1-4da3-922e-f0b8645bf097/download/precios-en-surtidor-resolucin-3142016.csv",
                     "issued": "2017-05-04T12:15:28.243942",
                     "identifier": "7147dbd6-03c1-4da3-922e-f0b8645bf097"
@@ -14061,6 +14061,45 @@
                     "downloadURL": "http://190.3.64.19/dataset/6f15bd25-c036-47fd-88fc-84f53b4170d4/resource/a88223d5-a77d-4705-bfd4-3dd86e371342/download/principales-productos-exportados-por-rubro.csv",
                     "issued": "2017-05-04T19:49:48.051884",
                     "identifier": "a88223d5-a77d-4705-bfd4-3dd86e371342"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "tienerg@minem.gob.ar",
+                "name": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información."
+            },
+            "landingPage": "",
+            "description": "Producción, aportes, ventas y cupos de GLP",
+            "license": "Creative Commons Attribution",
+            "title": "Producción, aportes, ventas y cupos de GLP",
+            "issued": "2017-05-26T13:30:12.019313",
+            "modified": "2017-05-26T13:35:40.255747",
+            "theme": [],
+            "keyword": [
+                "GLP"
+            ],
+            "superTheme": [
+                "ENER"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "contactPoint": {
+                "hasEmail": "",
+                "fn": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Refinación y Comercialización.Dirección de Gas Licuado."
+            },
+            "identifier": "78b8782e-f2ac-45e8-af65-b2efa365a959",
+            "distribution": [
+                {
+                    "accessURL": "http://190.3.64.19/dataset/78b8782e-f2ac-45e8-af65-b2efa365a959/resource/3fcaed4a-251a-4b5f-a656-d31bee9669a0",
+                    "description": "",
+                    "title": "Producción, aportes, ventas y cupos de GLP",
+                    "byteSize": null,
+                    "format": "XLS",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/mercado_hidrocarburos/glp/datos-butano-2014-2017.xls",
+                    "issued": "2017-05-26T10:34:13.205123",
+                    "identifier": "3fcaed4a-251a-4b5f-a656-d31bee9669a0"
                 }
             ]
         },
