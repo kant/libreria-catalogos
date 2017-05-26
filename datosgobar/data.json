@@ -1516,28 +1516,28 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Cantidad de empleados por gerencia al 31/03/2017",
-                    "title": "Personal por Gerencia",
-                    "issued": "2017-05-16T01:06:47.172548",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Traza de FO próxima a iluminar 13/05/2017",
+                    "title": "Traza de FO próxima a iluminar",
+                    "issued": "2017-05-16T01:02:16.313101",
                     "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Cantidad de empleados por gerencia al 31/03/2017",
-                    "title": "Personal por Gerencia",
-                    "issued": "2017-05-16T01:06:48.856597",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Traza de FO próxima a iluminar 13/05/2017",
+                    "title": "Traza de FO próxima a iluminar",
+                    "issued": "2017-05-16T01:02:17.421722",
                     "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Cantidad de empleados por gerencia al 31/03/2017",
-                    "title": "Personal por Gerencia",
-                    "issued": "2017-05-16T01:06:50.454486",
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Traza de FO próxima a iluminar 13/05/2017",
+                    "title": "Traza de FO próxima a iluminar",
+                    "issued": "2017-05-16T01:02:18.565142",
                     "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
             "landingPage": "http://api.datos.arsat.com.ar/dataset/traza-de-fo-prxima-a-iluminar",
@@ -3073,28 +3073,20 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Traza de FO próxima a iluminar 13/05/2017",
-                    "title": "Traza de FO próxima a iluminar",
-                    "issued": "2017-05-16T01:02:16.313101",
-                    "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Traza de FO próxima a iluminar 13/05/2017",
-                    "title": "Traza de FO próxima a iluminar",
-                    "issued": "2017-05-16T01:02:17.421722",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Traza de FO próxima a iluminar 13/05/2017",
-                    "title": "Traza de FO próxima a iluminar",
-                    "issued": "2017-05-16T01:02:18.565142",
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0/download/proyectos-cyt.json",
+                    "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
+                    "title": "Proyectos de Ciencia Tecnología e Innovación",
+                    "issued": "2017-05-10T20:45:25.815933",
                     "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0/download/proyectos-cyt.json"
+                },
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/641981b3-2ec4-402b-88ca-117f56500332/download/proyectos-cyt.csv",
+                    "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
+                    "title": "Proyectos de Ciencia Tecnología e Innovación",
+                    "issued": "2017-05-11T19:25:16.972647",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/641981b3-2ec4-402b-88ca-117f56500332/download/proyectos-cyt.csv"
                 }
             ],
             "landingPage": "http://datos.mincyt.gob.ar/dataset/proyectos-de-ciencia-tecnologa-e-innovacin",
