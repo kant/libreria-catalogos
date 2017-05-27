@@ -1435,9 +1435,9 @@
             "license": "Creative Commons Attribution",
             "title": "Argentinos privados de libertad en el exterior",
             "contactPoint": {
-                "hasEmail": "mailto:grodriguez@ppn.gov.ar",
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
                 "@type": "vcard:Contact",
-                "fn": "Área de Sistemas y Comunicaciones"
+                "fn": "Equipo de estadística y bases de datos"
             },
             "issued": "2017-04-27T14:43:32.827773",
             "temporal": "2014-01-01T03:00:00.000Z/2015-12-31T03:00:00.000Z",
@@ -1463,43 +1463,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/6897c04c-7473-4157-bce5-ccd9dd440481/download/registro-de-central-telefonica-ano-2013.xlsx",
-                    "description": "Registros generados por la central telefónica informatizada con la que presta el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Atención telefónica 2013",
-                    "issued": "2017-05-11T12:50:48.362237",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T12:50:48.198247",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/6897c04c-7473-4157-bce5-ccd9dd440481/download/registro-de-central-telefonica-ano-2013.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/276cf63a-1277-493a-9eb4-5cc1f9642b77/download/registro-de-central-telefonica-ano-2014.xlsx",
-                    "description": "Registros generados por la central telefónica informatizada con la que presta el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Atención telefónica 2014",
-                    "issued": "2017-05-11T12:52:21.617696",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T12:52:21.424451",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/276cf63a-1277-493a-9eb4-5cc1f9642b77/download/registro-de-central-telefonica-ano-2014.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/e6e732b8-0118-42ea-bfcf-395bcde3afd4/download/registro-menu-procuracion-ano-2013-2.xlsx",
-                    "description": "Registros generados por el programa informático con el que realiza el registro y gestiona el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Gestión de reclamos 2013",
-                    "issued": "2017-05-11T12:56:35.457792",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T12:59:27.065532",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/e6e732b8-0118-42ea-bfcf-395bcde3afd4/download/registro-menu-procuracion-ano-2013-2.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/68024510-3446-45e4-a4e8-9f3e7f91cc95/download/registro-menu-procuracion-ano-2014-2.xlsx",
-                    "description": "Registros generados por el programa informático con el que realiza el registro y gestiona el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Gestión de reclamos 2014",
-                    "issued": "2017-05-11T13:01:29.593936",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T13:01:29.404432",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/68024510-3446-45e4-a4e8-9f3e7f91cc95/download/registro-menu-procuracion-ano-2014-2.xlsx",
+                    "accessURL": "http://172.17.0.4/dataset/7759f43e-22d4-4d80-bdca-e04e13b6540c/resource/2902fc3b-5fc0-4e16-8769-b38d3629dd59/download/dataset-base-aple-2-1.csv",
+                    "description": "Esta base recopila información de los argentinos presos en el exterior a partir de un instrumento elaborado por la PPN y aplicado por el Ministerio de Relaciones Exteriores y Culto. Hasta el momento ha tenido aplicación en nueve países y pretende seguir extendiendo el relevamiento que consiste en obtener información acerca del lugar de alojamiento, características de esta población, situación legal y condiciones de encierro, principalmente.",
+                    "title": "Argentinos privados de libertad en el exterior",
+                    "issued": "2017-05-08T15:20:39.526947",
+                    "format": "CSV",
+                    "modified": "2017-05-08T15:20:39.327878",
+                    "downloadURL": "http://172.17.0.4/dataset/7759f43e-22d4-4d80-bdca-e04e13b6540c/resource/2902fc3b-5fc0-4e16-8769-b38d3629dd59/download/dataset-base-aple-2-1.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -2189,13 +2159,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
-                    "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
-                    "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
-                    "issued": "2017-05-08T15:59:46.177309",
+                    "accessURL": "http://172.17.0.4/dataset/c44d3e2f-5367-40b0-a162-35b82c97d2f9/resource/00952704-dfa3-4585-a5cd-22f2ab9e9728/download/medidas-de-fuerza.csv",
+                    "description": "La información resultante acerca de las medidas de fuerza de las que toma conocimiento y registra la PPN es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada uno de los casos relevados en unidades penitenciarias. Se registra tipo de medida de fuerza realizada, alcance, motivos que la originaron, eventuales represalias institucionales, efectividad para la resolución del reclamo presentado, entre otras variables de alta sensibilidad.",
+                    "title": "Medidas de fuerza",
+                    "issued": "2017-04-27T14:01:36.850639",
                     "format": "CSV",
-                    "modified": "2017-05-08T15:59:45.943455",
-                    "downloadURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
+                    "modified": "2017-05-02T15:37:46.955021",
+                    "downloadURL": "http://172.17.0.4/dataset/c44d3e2f-5367-40b0-a162-35b82c97d2f9/resource/00952704-dfa3-4585-a5cd-22f2ab9e9728/download/medidas-de-fuerza.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
