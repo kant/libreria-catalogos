@@ -1116,13 +1116,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/8dc50506-2d71-418c-9f28-47fa922410b1/resource/eb70bc04-90d0-45c3-95f8-9bc6a7f47b9d/download/relevamiento-sobre-extranjeros-en-prision.csv",
-                    "description": "Esta base contiene información producida durante un relevamiento temático realizado por la PPN. Recopila datos acerca de las características demográficas de los extranjeros presos en Argentina, su situación legal y alojamiento, sus condiciones laborales, educativas, recreativas y sanitarias; su acceso y posibilidad de vinculación familiar y a la asistencia consular y problemas específicos de la situación de ser extranjeros privados de su libertad en el país.",
-                    "title": "Relevamiento sobre Extranjeros en prisión",
-                    "issued": "2017-05-08T15:41:30.302891",
+                    "accessURL": "http://172.17.0.4/dataset/4c483379-af82-43ca-808e-7907c11cbe66/resource/1858d344-8e95-47b9-9298-e377ed1c97c5/download/listado-de-personas-afectadas-al-encope.csv",
+                    "description": "La información remitida por el Ente de Cooperación Técnica y Financiera(ENCOPE) en respuesta a nuestro pedido específico da cuenta de los detenidos formalmente inscriptos a talleres laborales al mes de Julio de los años 2011, 2012, 2013 y 2014 en todas las unidades federales. La misma muestra las variaciones históricas en la cantidad de afectados formales al trabajo, la cantidad de horas que efectúa cada trabajador, el valor de la hora de trabajo, la distribución del peculio en Monto Disponible y Monto de Reserva.",
+                    "title": "Listado de personas afectadas al ENCOPE",
+                    "issued": "2017-05-08T18:36:26.012105",
                     "format": "CSV",
-                    "modified": "2017-05-08T15:41:30.133375",
-                    "downloadURL": "http://172.17.0.4/dataset/8dc50506-2d71-418c-9f28-47fa922410b1/resource/eb70bc04-90d0-45c3-95f8-9bc6a7f47b9d/download/relevamiento-sobre-extranjeros-en-prision.csv",
+                    "modified": "2017-05-08T18:36:25.816850",
+                    "downloadURL": "http://172.17.0.4/dataset/4c483379-af82-43ca-808e-7907c11cbe66/resource/1858d344-8e95-47b9-9298-e377ed1c97c5/download/listado-de-personas-afectadas-al-encope.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -1638,13 +1638,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/5ae382d8-e6c0-486c-bc6a-05bba3408c81/resource/d9127014-2ca9-4f7d-bca6-50c3ff25af11/download/sanciones-de-aislamiento-en-el-servicio-penitenciario-federal.csv",
-                    "description": "La base recupera información que obtiene de los listados semestrales que se solicita a la totalidad de unidades federales sobre la aplicación de sanciones. Contiene datos acerca de las infracciones sancionadas, lugar donde se cumple el aislamiento,  duración de la medida, recurso o apelación del proceso, etc.",
-                    "title": "Sanciones de aislamiento en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-08T15:04:27.500195",
+                    "accessURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
+                    "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
+                    "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
+                    "issued": "2017-05-08T15:59:46.177309",
                     "format": "CSV",
-                    "modified": "2017-05-08T15:04:27.283824",
-                    "downloadURL": "http://172.17.0.4/dataset/5ae382d8-e6c0-486c-bc6a-05bba3408c81/resource/d9127014-2ca9-4f7d-bca6-50c3ff25af11/download/sanciones-de-aislamiento-en-el-servicio-penitenciario-federal.csv",
+                    "modified": "2017-05-08T15:59:45.943455",
+                    "downloadURL": "http://172.17.0.4/dataset/80b0e1e2-8052-48a5-9f05-090fa34e5c50/resource/6d05d6f7-d399-4987-a8d7-cc9d50384c67/download/casos-de-tortura-y-malos-tratos-registrados-e-investigados-por-la-ppn.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -2507,40 +2507,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
-                    "description": "Se recopila la información suministrada semestralmente por la División de Traslados del Servicio Penitenciario Federal. La base de datos registra unidad de origen y destino y motivo del traslado.",
-                    "title": "Traslados en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-02T15:10:05.274966",
+                    "accessURL": "http://172.17.0.4/dataset/5ae382d8-e6c0-486c-bc6a-05bba3408c81/resource/d9127014-2ca9-4f7d-bca6-50c3ff25af11/download/sanciones-de-aislamiento-en-el-servicio-penitenciario-federal.csv",
+                    "description": "La base recupera información que obtiene de los listados semestrales que se solicita a la totalidad de unidades federales sobre la aplicación de sanciones. Contiene datos acerca de las infracciones sancionadas, lugar donde se cumple el aislamiento,  duración de la medida, recurso o apelación del proceso, etc.",
+                    "title": "Sanciones de aislamiento en el Servicio Penitenciario Federal",
+                    "issued": "2017-05-08T15:04:27.500195",
                     "format": "CSV",
-                    "modified": "2017-05-02T15:10:05.131824",
-                    "downloadURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Unidad desde donde se origina el traslado",
-                            "title": "Desde"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Región desde donde se origina el traslado.",
-                            "title": "Unidad_orig"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Destino final del traslado",
-                            "title": "Hasta"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Región donde finaliza el traslado.",
-                            "title": "Unid_dest"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha en que se realizo el traslado.",
-                            "title": "Fecha"
-                        }
-                    ],
+                    "modified": "2017-05-08T15:04:27.283824",
+                    "downloadURL": "http://172.17.0.4/dataset/5ae382d8-e6c0-486c-bc6a-05bba3408c81/resource/d9127014-2ca9-4f7d-bca6-50c3ff25af11/download/sanciones-de-aislamiento-en-el-servicio-penitenciario-federal.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
