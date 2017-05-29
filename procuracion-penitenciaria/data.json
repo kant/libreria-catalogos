@@ -1638,13 +1638,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/5ae382d8-e6c0-486c-bc6a-05bba3408c81/resource/d9127014-2ca9-4f7d-bca6-50c3ff25af11/download/sanciones-de-aislamiento-en-el-servicio-penitenciario-federal.csv",
-                    "description": "La base recupera información que obtiene de los listados semestrales que se solicita a la totalidad de unidades federales sobre la aplicación de sanciones. Contiene datos acerca de las infracciones sancionadas, lugar donde se cumple el aislamiento,  duración de la medida, recurso o apelación del proceso, etc.",
-                    "title": "Sanciones de aislamiento en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-08T15:04:27.500195",
+                    "accessURL": "http://172.17.0.4/dataset/0f42f8c4-7885-4c17-a0d2-3c09f9989429/resource/7e3024e9-c43f-4160-ae29-dab67855f57b/download/procedimientos-de-requisa-en-el-servicio-penitenciario-federal.csv",
+                    "description": "En esta base se recopila la información producida en el marco de un relevamiento temático que abordó los procedimientos de registro personal y requisas que se realizan en cárceles federales. Contiene datos sobre contextos y condiciones de realización, tipo de requisas, circunstancias, uso de la violencia, entre otras características sensibles del fenómeno.",
+                    "title": "Procedimientos de requisa en el Servicio Penitenciario Federal",
+                    "issued": "2017-04-27T14:35:47.742187",
                     "format": "CSV",
-                    "modified": "2017-05-08T15:04:27.283824",
-                    "downloadURL": "http://172.17.0.4/dataset/5ae382d8-e6c0-486c-bc6a-05bba3408c81/resource/d9127014-2ca9-4f7d-bca6-50c3ff25af11/download/sanciones-de-aislamiento-en-el-servicio-penitenciario-federal.csv",
+                    "modified": "2017-05-02T15:33:09.497803",
+                    "downloadURL": "http://172.17.0.4/dataset/0f42f8c4-7885-4c17-a0d2-3c09f9989429/resource/7e3024e9-c43f-4160-ae29-dab67855f57b/download/procedimientos-de-requisa-en-el-servicio-penitenciario-federal.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -1811,13 +1811,40 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/6979a167-c241-4e09-b9ab-38045ad3a98d/resource/cec55700-4163-4f86-97e2-fe64a76e1898/download/relevamiento-sobre-tics-en-el-servicio-penitencario-federal.csv",
-                    "description": "La base contiene información producida a partir de un relevamiento temático realizado en 2013. Se relevó tipos de TIC´s a las que los detenidos pueden acceder, frecuencia, usos, etc. Ante la imposibilidad de su utilización se señalan motivos argüidos y dificultades derivadas, entre otras cuestiones relevantes.",
-                    "title": "Relevamiento sobre TIC´s en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-03T18:10:28.890348",
+                    "accessURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
+                    "description": "Se recopila la información suministrada semestralmente por la División de Traslados del Servicio Penitenciario Federal. La base de datos registra unidad de origen y destino y motivo del traslado.",
+                    "title": "Traslados en el Servicio Penitenciario Federal",
+                    "issued": "2017-05-02T15:10:05.274966",
                     "format": "CSV",
-                    "modified": "2017-05-03T18:10:28.595452",
-                    "downloadURL": "http://172.17.0.4/dataset/6979a167-c241-4e09-b9ab-38045ad3a98d/resource/cec55700-4163-4f86-97e2-fe64a76e1898/download/relevamiento-sobre-tics-en-el-servicio-penitencario-federal.csv",
+                    "modified": "2017-05-02T15:10:05.131824",
+                    "downloadURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Unidad desde donde se origina el traslado",
+                            "title": "Desde"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Región desde donde se origina el traslado.",
+                            "title": "Unidad_orig"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Destino final del traslado",
+                            "title": "Hasta"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Región donde finaliza el traslado.",
+                            "title": "Unid_dest"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha en que se realizo el traslado.",
+                            "title": "Fecha"
+                        }
+                    ],
                     "@type": "dcat:Distribution"
                 }
             ],
