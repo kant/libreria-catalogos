@@ -9,6 +9,48 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "paisdigital@modernizacion.gob.ar",
+                "name": "Ministerio de Modernización. Secretaría País Digital."
+            },
+            "accessLevel": "public",
+            "description": "Listado de los puntos digitales, espacio público de inclusión digital que brinda conectividad, capacitaciones y acceso a las nuevas Tecnologías de la Información y de la Comunicación (TIC).",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Puntos Digitales",
+            "issued": "2017-05-31T13:25:21.651134",
+            "modified": "2017-05-31T13:26:47.816048",
+            "theme": [
+                "Ciencia y tecnología",
+                "Educación, cultura y deportes",
+                "Gobierno y sector público"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://servicios.puntodigital.paisdigital.modernizacion.gob.ar/ws/ws-eventos.php?method=getCsv",
+                    "description": "Listado de los puntos digitales y su ubicación geográfica.",
+                    "title": "Ubicación de los puntos digitales",
+                    "issued": "2017-05-31T13:26:47.107817",
+                    "format": "CSV",
+                    "downloadURL": "https://servicios.puntodigital.paisdigital.modernizacion.gob.ar/ws/ws-eventos.php?method=getCsv"
+                }
+            ],
+            "keyword": [
+                "aprendizaje",
+                "entretenimiento",
+                "inclusión digital",
+                "tecnología",
+                "tic"
+            ],
+            "accrualPeriodicity": "eventual",
+            "landingPage": "http://puntodigital.gob.ar/",
+            "identifier": "7c1a3943-eb36-4871-88cb-e5c053cb4215",
+            "contactPoint": {
+                "hasEmail": "mailto:info@puntodigital.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio de Modernización. Secretaría País Digital. Programa Punto Digital."
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "barriospopulares@bienesdelestado.gob.ar",
                 "name": "Jefatura de Gabinete de Ministros"
             },
