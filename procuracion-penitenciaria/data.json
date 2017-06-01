@@ -2507,40 +2507,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
-                    "description": "Se recopila la información suministrada semestralmente por la División de Traslados del Servicio Penitenciario Federal. La base de datos registra unidad de origen y destino y motivo del traslado.",
-                    "title": "Traslados en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-02T15:10:05.274966",
+                    "accessURL": "http://172.17.0.4/dataset/4c483379-af82-43ca-808e-7907c11cbe66/resource/1858d344-8e95-47b9-9298-e377ed1c97c5/download/listado-de-personas-afectadas-al-encope.csv",
+                    "description": "La información remitida por el Ente de Cooperación Técnica y Financiera(ENCOPE) en respuesta a nuestro pedido específico da cuenta de los detenidos formalmente inscriptos a talleres laborales al mes de Julio de los años 2011, 2012, 2013 y 2014 en todas las unidades federales. La misma muestra las variaciones históricas en la cantidad de afectados formales al trabajo, la cantidad de horas que efectúa cada trabajador, el valor de la hora de trabajo, la distribución del peculio en Monto Disponible y Monto de Reserva.",
+                    "title": "Listado de personas afectadas al ENCOPE",
+                    "issued": "2017-05-08T18:36:26.012105",
                     "format": "CSV",
-                    "modified": "2017-05-02T15:10:05.131824",
-                    "downloadURL": "http://172.17.0.4/dataset/233c0bc3-d18e-4e1c-8680-952c126794b7/resource/62d6ad55-6ffa-41ff-a3f9-d1d40b2c70b8/download/traslados-en-el-servicio-penitenciario-federal.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Unidad desde donde se origina el traslado",
-                            "title": "Desde"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Región desde donde se origina el traslado.",
-                            "title": "Unidad_orig"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Destino final del traslado",
-                            "title": "Hasta"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Región donde finaliza el traslado.",
-                            "title": "Unid_dest"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha en que se realizo el traslado.",
-                            "title": "Fecha"
-                        }
-                    ],
+                    "modified": "2017-05-08T18:36:25.816850",
+                    "downloadURL": "http://172.17.0.4/dataset/4c483379-af82-43ca-808e-7907c11cbe66/resource/1858d344-8e95-47b9-9298-e377ed1c97c5/download/listado-de-personas-afectadas-al-encope.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
