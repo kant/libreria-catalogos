@@ -17,7 +17,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Base Infoleg de Normativa Nacional",
             "issued": "2016-09-05T18:25:21.249967",
-            "modified": "2017-06-02T17:35:19.792820",
+            "modified": "2017-06-02T18:48:33.161222",
             "theme": [
                 "informacion-juridica"
             ],
@@ -53,28 +53,28 @@
                     "identifier": "8db246a2-48dd-4f2f-b08e-ab6293747882"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/0fed2377-438f-427f-8c4d-e5c84b92083a",
-                    "description": "Base complementaria Infoleg con normas nacionales modificatorias: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada",
-                    "title": "Base Complementaria Infoleg de Normas Modificatorias",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-06-02T14:35:16.030514",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/0fed2377-438f-427f-8c4d-e5c84b92083a/download/base-complementaria-infoleg-normas-modificatorias.csv",
-                    "issued": "2017-06-02T11:17:54.478914",
-                    "identifier": "0fed2377-438f-427f-8c4d-e5c84b92083a"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/8a4fb93f-7d4f-4f65-bb6b-3c0e1405f839",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/25a89fdd-fce7-41a5-ba21-58a49ea761e8",
                     "description": "Base complementaria Infoleg con normas nacionales modificadas: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada",
                     "title": "Base Complementaria Infoleg de Normas Modificadas",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-06-02T14:32:44.164850",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/8a4fb93f-7d4f-4f65-bb6b-3c0e1405f839/download/base-complementaria-infoleg-normas-modificadas.csv",
-                    "issued": "2017-06-02T12:14:24.444969",
-                    "identifier": "8a4fb93f-7d4f-4f65-bb6b-3c0e1405f839"
+                    "modified": "2017-06-02T15:27:06.386975",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/25a89fdd-fce7-41a5-ba21-58a49ea761e8/download/base-complementaria-infoleg-normas-modificadas.csv",
+                    "issued": "2017-06-02T15:27:06.562859",
+                    "identifier": "25a89fdd-fce7-41a5-ba21-58a49ea761e8"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/0617105d-4743-42e1-9afb-b5fdeb5d2a23",
+                    "description": "Base complementaria Infoleg con normas nacionales modificatorias: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada",
+                    "title": "Base Complementaria Infoleg de Normas Modificatorias",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-02T15:48:23.666651",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/0617105d-4743-42e1-9afb-b5fdeb5d2a23/download/base-complementaria-infoleg-normas-modificatorias.csv",
+                    "issued": "2017-06-02T15:48:23.849903",
+                    "identifier": "0617105d-4743-42e1-9afb-b5fdeb5d2a23"
                 }
             ]
         },
@@ -306,7 +306,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades Constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2017-05-09T18:32:41.525946",
+            "modified": "2017-06-02T18:58:53.681792",
             "theme": [
                 "sistema-registral"
             ],
@@ -808,6 +808,30 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/5ac15f52-1b0e-494c-8718-b21e696e90aa/download/igj-autoridades.csv",
                     "issued": "2017-05-04T15:52:37.966732",
                     "identifier": "5ac15f52-1b0e-494c-8718-b21e696e90aa"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/6dd78aa3-ce5b-4c2a-8ff3-deff98eddf58",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2017-05",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-02T15:56:22.258249",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/6dd78aa3-ce5b-4c2a-8ff3-deff98eddf58/download/igj-entidades.csv",
+                    "issued": "2017-06-02T15:56:23.162666",
+                    "identifier": "6dd78aa3-ce5b-4c2a-8ff3-deff98eddf58"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/0bfbacdd-e8c8-4ce7-90ec-98f292f922c6",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2017-05",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-02T15:58:40.072408",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/0bfbacdd-e8c8-4ce7-90ec-98f292f922c6/download/igj-domicilios.csv",
+                    "issued": "2017-06-02T15:58:40.547254",
+                    "identifier": "0bfbacdd-e8c8-4ce7-90ec-98f292f922c6"
                 }
             ]
         },
