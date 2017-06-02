@@ -14,7 +14,7 @@
 
 Estado metadatos globales | Estado metadatos catálogo | # de Datasets | # de Distribuciones
 --------------------------|---------------------------|---------------|--------------------
-ERROR | ERROR | 1 | 91
+ERROR | ERROR | 2 | 99
 
 ## Datasets incluidos
 
