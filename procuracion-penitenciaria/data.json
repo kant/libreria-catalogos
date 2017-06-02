@@ -17,9 +17,9 @@
             "license": "Creative Commons Attribution",
             "title": "Gestión de reclamos y afines",
             "contactPoint": {
-                "hasEmail": "mailto:grodriguez@ppn.gov.ar",
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
                 "@type": "vcard:Contact",
-                "fn": "Área de Sistemas y Comunicaciones"
+                "fn": "Equipo de estadística y bases de datos"
             },
             "issued": "2017-05-11T12:45:49.866288",
             "temporal": "2013-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
@@ -44,43 +44,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/6897c04c-7473-4157-bce5-ccd9dd440481/download/registro-de-central-telefonica-ano-2013.xlsx",
-                    "description": "Registros generados por la central telefónica informatizada con la que presta el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Atención telefónica 2013",
-                    "issued": "2017-05-11T12:50:48.362237",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T12:50:48.198247",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/6897c04c-7473-4157-bce5-ccd9dd440481/download/registro-de-central-telefonica-ano-2013.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/276cf63a-1277-493a-9eb4-5cc1f9642b77/download/registro-de-central-telefonica-ano-2014.xlsx",
-                    "description": "Registros generados por la central telefónica informatizada con la que presta el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Atención telefónica 2014",
-                    "issued": "2017-05-11T12:52:21.617696",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T12:52:21.424451",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/276cf63a-1277-493a-9eb4-5cc1f9642b77/download/registro-de-central-telefonica-ano-2014.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/e6e732b8-0118-42ea-bfcf-395bcde3afd4/download/registro-menu-procuracion-ano-2013-2.xlsx",
-                    "description": "Registros generados por el programa informático con el que realiza el registro y gestiona el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Gestión de reclamos 2013",
-                    "issued": "2017-05-11T12:56:35.457792",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T12:59:27.065532",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/e6e732b8-0118-42ea-bfcf-395bcde3afd4/download/registro-menu-procuracion-ano-2013-2.xlsx",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/68024510-3446-45e4-a4e8-9f3e7f91cc95/download/registro-menu-procuracion-ano-2014-2.xlsx",
-                    "description": "Registros generados por el programa informático con el que realiza el registro y gestiona el servicio de atención el Centro de Denuncias de la Procuración Penitenciaria.",
-                    "title": "Gestión de reclamos 2014",
-                    "issued": "2017-05-11T13:01:29.593936",
-                    "format": "XLSX",
-                    "modified": "2017-05-11T13:01:29.404432",
-                    "downloadURL": "http://172.17.0.4/dataset/0d62b281-b0c6-43ae-a911-d92adefb0889/resource/68024510-3446-45e4-a4e8-9f3e7f91cc95/download/registro-menu-procuracion-ano-2014-2.xlsx",
+                    "accessURL": "http://172.17.0.4/dataset/4c483379-af82-43ca-808e-7907c11cbe66/resource/1858d344-8e95-47b9-9298-e377ed1c97c5/download/listado-de-personas-afectadas-al-encope.csv",
+                    "description": "La información remitida por el Ente de Cooperación Técnica y Financiera(ENCOPE) en respuesta a nuestro pedido específico da cuenta de los detenidos formalmente inscriptos a talleres laborales al mes de Julio de los años 2011, 2012, 2013 y 2014 en todas las unidades federales. La misma muestra las variaciones históricas en la cantidad de afectados formales al trabajo, la cantidad de horas que efectúa cada trabajador, el valor de la hora de trabajo, la distribución del peculio en Monto Disponible y Monto de Reserva.",
+                    "title": "Listado de personas afectadas al ENCOPE",
+                    "issued": "2017-05-08T18:36:26.012105",
+                    "format": "CSV",
+                    "modified": "2017-05-08T18:36:25.816850",
+                    "downloadURL": "http://172.17.0.4/dataset/4c483379-af82-43ca-808e-7907c11cbe66/resource/1858d344-8e95-47b9-9298-e377ed1c97c5/download/listado-de-personas-afectadas-al-encope.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -596,13 +566,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
-                    "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
-                    "title": "BASE DE DATOS DE FALLECIMIENTOS EN PRISION",
-                    "issued": "2017-04-27T13:51:30.804506",
+                    "accessURL": "http://172.17.0.4/dataset/8dc50506-2d71-418c-9f28-47fa922410b1/resource/eb70bc04-90d0-45c3-95f8-9bc6a7f47b9d/download/relevamiento-sobre-extranjeros-en-prision.csv",
+                    "description": "Esta base contiene información producida durante un relevamiento temático realizado por la PPN. Recopila datos acerca de las características demográficas de los extranjeros presos en Argentina, su situación legal y alojamiento, sus condiciones laborales, educativas, recreativas y sanitarias; su acceso y posibilidad de vinculación familiar y a la asistencia consular y problemas específicos de la situación de ser extranjeros privados de su libertad en el país.",
+                    "title": "Relevamiento sobre Extranjeros en prisión",
+                    "issued": "2017-05-08T15:41:30.302891",
                     "format": "CSV",
-                    "modified": "2017-04-27T13:51:30.649796",
-                    "downloadURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
+                    "modified": "2017-05-08T15:41:30.133375",
+                    "downloadURL": "http://172.17.0.4/dataset/8dc50506-2d71-418c-9f28-47fa922410b1/resource/eb70bc04-90d0-45c3-95f8-9bc6a7f47b9d/download/relevamiento-sobre-extranjeros-en-prision.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -1116,13 +1086,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/8dc50506-2d71-418c-9f28-47fa922410b1/resource/eb70bc04-90d0-45c3-95f8-9bc6a7f47b9d/download/relevamiento-sobre-extranjeros-en-prision.csv",
-                    "description": "Esta base contiene información producida durante un relevamiento temático realizado por la PPN. Recopila datos acerca de las características demográficas de los extranjeros presos en Argentina, su situación legal y alojamiento, sus condiciones laborales, educativas, recreativas y sanitarias; su acceso y posibilidad de vinculación familiar y a la asistencia consular y problemas específicos de la situación de ser extranjeros privados de su libertad en el país.",
-                    "title": "Relevamiento sobre Extranjeros en prisión",
-                    "issued": "2017-05-08T15:41:30.302891",
+                    "accessURL": "http://172.17.0.4/dataset/6979a167-c241-4e09-b9ab-38045ad3a98d/resource/cec55700-4163-4f86-97e2-fe64a76e1898/download/relevamiento-sobre-tics-en-el-servicio-penitencario-federal.csv",
+                    "description": "La base contiene información producida a partir de un relevamiento temático realizado en 2013. Se relevó tipos de TIC´s a las que los detenidos pueden acceder, frecuencia, usos, etc. Ante la imposibilidad de su utilización se señalan motivos argüidos y dificultades derivadas, entre otras cuestiones relevantes.",
+                    "title": "Relevamiento sobre TIC´s en el Servicio Penitenciario Federal",
+                    "issued": "2017-05-03T18:10:28.890348",
                     "format": "CSV",
-                    "modified": "2017-05-08T15:41:30.133375",
-                    "downloadURL": "http://172.17.0.4/dataset/8dc50506-2d71-418c-9f28-47fa922410b1/resource/eb70bc04-90d0-45c3-95f8-9bc6a7f47b9d/download/relevamiento-sobre-extranjeros-en-prision.csv",
+                    "modified": "2017-05-03T18:10:28.595452",
+                    "downloadURL": "http://172.17.0.4/dataset/6979a167-c241-4e09-b9ab-38045ad3a98d/resource/cec55700-4163-4f86-97e2-fe64a76e1898/download/relevamiento-sobre-tics-en-el-servicio-penitencario-federal.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
