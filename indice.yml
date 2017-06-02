@@ -25,18 +25,10 @@ transporte:
   formato: "json"
   federado: true
 
-transporte-ckan:
-  url: "http://datos.transporte.gob.ar"
-  formato: "ckan"
-
 mincyt:
   url: "http://datos.mincyt.gob.ar/datasets/data.json"
   formato: "json"
   federado: true
-
-mincyt-ckan:
-  url: "http://datos.mincyt.gob.ar/datasets"
-  formato: "ckan"
 
 energia:
   url: "http://190.3.64.19"
@@ -48,11 +40,20 @@ procuracion-penitenciaria:
   formato: "json"
   federado: true
 
-procuracion-penitenciaria-ckan:
-  url: "http://190.210.168.211"
-  formato: "ckan"
-
 arsat:
   url: "http://datos.arsat.com.ar/data.json"
   formato: "json"
   federado: true
+
+turismo:
+  url: "http://datos.yvera.gob.ar/data.json"
+  formato: "json"
+
+ambiente:
+  url: "http://datos.ambiente.gob.ar/data.json"
+  formato: "json"
+
+desarrollo-social:
+  url: "https://datosabiertos.desarrollosocial.gob.ar/data.json"
+  formato: "json"
+
