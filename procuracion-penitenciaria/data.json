@@ -249,13 +249,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/7759f43e-22d4-4d80-bdca-e04e13b6540c/resource/2902fc3b-5fc0-4e16-8769-b38d3629dd59/download/dataset-base-aple-2-1.csv",
-                    "description": "Esta base recopila información de los argentinos presos en el exterior a partir de un instrumento elaborado por la PPN y aplicado por el Ministerio de Relaciones Exteriores y Culto. Hasta el momento ha tenido aplicación en nueve países y pretende seguir extendiendo el relevamiento que consiste en obtener información acerca del lugar de alojamiento, características de esta población, situación legal y condiciones de encierro, principalmente.",
-                    "title": "Argentinos privados de libertad en el exterior",
-                    "issued": "2017-05-08T15:20:39.526947",
+                    "accessURL": "http://172.17.0.4/dataset/e80cdaf3-996b-4ff7-887d-32d7cbd35770/resource/a19b2efe-889b-47ac-9516-f7a11cdf0347/download/nomina-de-trabajadores-en-el-servicio-penitenciario-federal.csv",
+                    "description": "Esta base fue elaborada con la información que se obtuvo de las distintas Unidades para un período específico de cada año, tomando como preferencia o prioridad el mes de Agosto. La unidad la compone cada interno afectado a trabajo en esa unidad en el período de un año, para evitar sesgos por traslados o cambios de taller a lo largo del tiempo. La información es aquella que fue enviada o adquirida en las unidades, por lo cual cualquier ausencia de unidad es por carencia de la nómina requerida.",
+                    "title": "Nomina de trabajadores en el Servicio Penitenciario Federal",
+                    "issued": "2017-05-08T18:43:12.372988",
                     "format": "CSV",
-                    "modified": "2017-05-08T15:20:39.327878",
-                    "downloadURL": "http://172.17.0.4/dataset/7759f43e-22d4-4d80-bdca-e04e13b6540c/resource/2902fc3b-5fc0-4e16-8769-b38d3629dd59/download/dataset-base-aple-2-1.csv",
+                    "modified": "2017-05-08T18:43:12.183372",
+                    "downloadURL": "http://172.17.0.4/dataset/e80cdaf3-996b-4ff7-887d-32d7cbd35770/resource/a19b2efe-889b-47ac-9516-f7a11cdf0347/download/nomina-de-trabajadores-en-el-servicio-penitenciario-federal.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -570,7 +570,7 @@
             "contactPoint": {
                 "hasEmail": "mailto:bgarcia@ppn.gov.ar",
                 "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y bases de datos"
+                "fn": "Equipo de estadística y base de datos"
             },
             "issued": "2017-04-27T13:48:21.909008",
             "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
@@ -596,13 +596,13 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "http://172.17.0.4/dataset/6979a167-c241-4e09-b9ab-38045ad3a98d/resource/cec55700-4163-4f86-97e2-fe64a76e1898/download/relevamiento-sobre-tics-en-el-servicio-penitencario-federal.csv",
-                    "description": "La base contiene información producida a partir de un relevamiento temático realizado en 2013. Se relevó tipos de TIC´s a las que los detenidos pueden acceder, frecuencia, usos, etc. Ante la imposibilidad de su utilización se señalan motivos argüidos y dificultades derivadas, entre otras cuestiones relevantes.",
-                    "title": "Relevamiento sobre TIC´s en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-03T18:10:28.890348",
+                    "accessURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
+                    "description": "La información resultante acerca de cada uno de los fallecimientos registrados es sistematizada y volcada a la base de datos, cuya unidad de análisis está constituida por cada una de las muertes bajo custodia penitenciaria. A los efectos de este relevamiento se contabiliza la totalidad de fallecimientos, cualquiera sea su causa, de personas detenidas bajo la custodia de la administración penitenciaria federal, indistintamente que la muerte ocurra dentro del centro de detención, en hospital extramuros o durante un traslado.",
+                    "title": "BASE DE DATOS DE FALLECIMIENTOS EN PRISION",
+                    "issued": "2017-04-27T13:51:30.804506",
                     "format": "CSV",
-                    "modified": "2017-05-03T18:10:28.595452",
-                    "downloadURL": "http://172.17.0.4/dataset/6979a167-c241-4e09-b9ab-38045ad3a98d/resource/cec55700-4163-4f86-97e2-fe64a76e1898/download/relevamiento-sobre-tics-en-el-servicio-penitencario-federal.csv",
+                    "modified": "2017-04-27T13:51:30.649796",
+                    "downloadURL": "http://172.17.0.4/dataset/8b9dce12-7069-4fd6-b78b-08e1f03e3732/resource/d4c3c864-d099-433e-adfa-6a6d02324287/download/base-de-datos-de-fallecimientos-en-prision-2009-2016.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
