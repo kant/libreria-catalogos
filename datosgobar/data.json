@@ -9,6 +9,179 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "consultasdine@elecciones.gob.ar",
+                "name": "Ministerio del interior, Obras Públicas y Vivienda. Dirección Nacional Electoral."
+            },
+            "accessLevel": "public",
+            "description": "Resultados de las elecciones del año 2015. Incluye el conteo de votos a nivel de mesa electoral, para las elecciones generales y la segunda vuelta presidencial.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Resultados Electorales 2015",
+            "issued": "2017-06-02T16:39:31.372285",
+            "modified": "2017-06-02T17:53:49.537541",
+            "theme": [
+                "Gobierno y sector público",
+                "Justicia, seguridad y legales",
+                "Población y sociedad"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PRES_Y_VICE_.rar",
+                    "issued": "2017-06-02T16:42:28.360259",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PRES_Y_VICE_.rar",
+                    "title": "Elecciones Generales 2015: Presidente y Vice",
+                    "format": "RAR"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PARLAMENTARIO_NACIONAL.rar",
+                    "issued": "2017-06-02T16:43:05.599555",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PARLAMENTARIO_NACIONAL.rar",
+                    "title": "Elecciones Generales 2015: Parlamentarios del Mercosur Nacional",
+                    "format": "RAR"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PARLAMENTARIO_REGIONAL.rar",
+                    "issued": "2017-06-02T16:44:07.869106",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PARLAMENTARIO_REGIONAL.rar",
+                    "title": "Elecciones generales 2015: Parlamentarios del Mercosur Regional",
+                    "format": "RAR"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/DIP_NAC.rar",
+                    "issued": "2017-06-02T16:45:01.844652",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/DIP_NAC.rar",
+                    "title": "Elecciones generales 2015: Diputados Nacionales",
+                    "format": "RAR"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/FMESSN_0313.csv",
+                    "issued": "2017-06-02T16:46:26.087408",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/FMESSN_0313.csv",
+                    "title": "Elecciones generales 2015: Senadores Nacionales",
+                    "format": "CSV"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/DIP_PROV.rar",
+                    "issued": "2017-06-02T16:47:12.977822",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/DIP_PROV.rar",
+                    "title": "Elecciones generales 2015: Diputados Provinciales",
+                    "format": "RAR"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/SEN_PROV.rar",
+                    "issued": "2017-06-02T16:47:52.446991",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/SEN_PROV.rar",
+                    "title": "Elecciones generales 2015: Senadores Provinciales",
+                    "format": "RAR"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/GOBERNADOR.rar",
+                    "issued": "2017-06-02T16:48:30.997272",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/GOBERNADOR.rar",
+                    "title": "Elecciones generales 2015: Gobernador",
+                    "format": "RAR"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/MUNICIPAL.rar",
+                    "issued": "2017-06-02T16:49:48.221745",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/MUNICIPAL.rar",
+                    "title": "Elecciones generales 2015: Municipal",
+                    "format": "RAR"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/DEPARTAMENTOS.csv",
+                    "issued": "2017-06-02T16:50:52.959989",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/DEPARTAMENTOS.csv",
+                    "title": "Elecciones generales 2015: códigos de departamentos",
+                    "format": "CSV"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/FPARTIDOS.csv",
+                    "issued": "2017-06-02T16:51:50.817074",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/FPARTIDOS.csv",
+                    "title": "Elecciones generales 2015: códigos partidos",
+                    "format": "CSV"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PROVINCIAS.csv",
+                    "issued": "2017-06-02T16:52:59.505043",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PROVINCIAS.csv",
+                    "title": "Elecciones generales 2015: códigos provincias",
+                    "format": "CSV"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_0101.csv",
+                    "issued": "2017-06-02T17:00:02.494178",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_0101.csv",
+                    "title": "Segunda vuelta presidencial 2015: Ciudad Autónoma de Buenos Aires",
+                    "format": "CSV"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_0202(1).csv",
+                    "issued": "2017-06-02T17:01:32.028387",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_0202(1).csv",
+                    "title": "Segunda vuelta presidencial 2015: Provincia de Buenos Aires",
+                    "format": "CSV"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_0313(1).csv",
+                    "description": "Resultados para las provincias de Catamarca, Córdoba, Corrientes, Chaco, Chubut, Entre Ríos, Formosa, Jujuy, La Pampa, La Rioja, Mendoza.",
+                    "title": "Segunda vuelta presidencial 2015: Provincias 03 a 13",
+                    "issued": "2017-06-02T17:05:02.198492",
+                    "format": "CSV",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_0313(1).csv"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_1424.csv",
+                    "description": "Resultados para las provincias de Misiones, Neuquén, Río Negro, Salta, San Juan, San Luis, Santa Cruz, Santa fe, Santiago del Estero, Tucumán, Tierra del fuego.",
+                    "title": "Segunda vuelta presidencial 2015: Provincias 14 a 24",
+                    "issued": "2017-06-02T17:10:05.975657",
+                    "format": "CSV",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_1424.csv"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_DEPARTAMENTOS.csv",
+                    "issued": "2017-06-02T17:11:02.883271",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_DEPARTAMENTOS.csv",
+                    "title": "Segunda vuelta presidencial 2015: códigos de departamentos",
+                    "format": "CSV"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_MUNICIPIOS.csv",
+                    "issued": "2017-06-02T17:12:21.843993",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_MUNICIPIOS.csv",
+                    "title": "Segunda vuelta presidencial 2015: códigos de municipios",
+                    "format": "CSV"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_PARTIDOS.csv",
+                    "issued": "2017-06-02T17:13:17.448801",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_PARTIDOS.csv",
+                    "title": "Segunda vuelta presidencial 2015: códigos de partidos",
+                    "format": "CSV"
+                },
+                {
+                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_PROVINCIAS.csv",
+                    "issued": "2017-06-02T17:13:55.201787",
+                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_PROVINCIAS.csv",
+                    "title": "Segunda vuelta presidencial 2015: códigos de provincias",
+                    "format": "CSV"
+                }
+            ],
+            "keyword": [
+                "elecciones",
+                "votación"
+            ],
+            "accrualPeriodicity": "eventual",
+            "landingPage": "http://www.elecciones.gob.ar/articulo_princ.php?secc=2&sub_secc=8",
+            "identifier": "f40188b7-e7fd-49a3-96ed-f13e8170dcdb",
+            "contactPoint": {
+                "hasEmail": "mailto:consultasdine@elecciones.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Ministerio del interior, Obras Públicas y Vivienda. Secretaría de Asuntos Políticos e Institucionales. Subsecretaría de Asuntos Electorales. Dirección Nacional Electoral."
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "paisdigital@modernizacion.gob.ar",
                 "name": "Ministerio de Modernización. Secretaría País Digital."
             },
