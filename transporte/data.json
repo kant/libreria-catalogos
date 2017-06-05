@@ -23,7 +23,7 @@
             },
             "issued": "2017-06-05T14:56:27.040118",
             "temporal": "2016-01-01T03:00:00.000Z/2017-02-28T03:00:00.000Z",
-            "modified": "2017-06-05T15:43:06.268427",
+            "modified": "2017-06-05T16:02:13.783799",
             "language": "spa",
             "theme": [
                 "Movilidad Urbana",
@@ -96,6 +96,16 @@
                     "format": "CSV",
                     "modified": "2017-06-05T15:43:00.722292",
                     "downloadURL": "http://datos.transporte.gob.ar/dataset/2c273881-a80f-4d9a-b3fb-4b5fc554438c/resource/b0659ba1-e706-42f5-b796-8f73217bbceb/download/2016-05-cancelaciones-rmba---periodo---modo---empresa---linea---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://datos.transporte.gob.ar/dataset/2c273881-a80f-4d9a-b3fb-4b5fc554438c/resource/fbb59f3e-17dc-4284-87eb-d0a858c42795/download/2016-06-cancelaciones-rmba---periodo---modo---empresa---linea---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-06 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-09-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-06 cancelaciones RMBA - periodo - modo - empresa - linea - cantidad",
+                    "issued": "2017-06-05T16:02:08.203522",
+                    "format": "CSV",
+                    "modified": "2017-06-05T16:02:08.155298",
+                    "downloadURL": "http://datos.transporte.gob.ar/dataset/2c273881-a80f-4d9a-b3fb-4b5fc554438c/resource/fbb59f3e-17dc-4284-87eb-d0a858c42795/download/2016-06-cancelaciones-rmba---periodo---modo---empresa---linea---cantidad.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
