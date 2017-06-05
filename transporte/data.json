@@ -13,6 +13,130 @@
                 "name": "Dirección de Observatorio de Transporte, Estudio y Sistemas"
             },
             "accessLevel": "public",
+            "description": "NOMBRES DE EMPRESAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016 AGRUPADAS POR JURISDICCION\r\n2017-01 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-04-30 INCLUSIVE\r\n2017-02 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-05-31 INCLUSIVE\r\n2017-03 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-06-30 INCLUSIVE\r\n2017-04 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-07-31 INCLUSIVE\r\n2017-05 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-08-31 INCLUSIVE\r\n2017-06 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-09-30 INCLUSIVE\r\n2017-07 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-10-31 INCLUSIVE\r\n2017-08 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-11-09 INCLUSIVE\r\n2017-09 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE\r\n2017-10 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-01-09 INCLUSIVE\r\n2017-11 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\n2017-12 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\nTIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN))\r\nLINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+            "license": "No se especificó la licencia",
+            "title": "Empresas transporte RMBA",
+            "contactPoint": {
+                "hasEmail": "mailto:dotes@transporte.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Observatorio de Transporte, Estudio y Sistemas"
+            },
+            "issued": "2017-06-05T19:21:44.505744",
+            "temporal": "2016-01-01T03:00:00.000Z/2017-02-28T03:00:00.000Z",
+            "modified": "2017-06-05T19:49:33.512158",
+            "language": "spa",
+            "theme": [
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.transporte.gob.ar/dataset/5ddf12c8-d3ef-46ac-8a79-ca3dd1176b87/resource/045cc831-8f37-4ce6-9bfa-c9c5c58dab89/download/2016-01-empresas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-01 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-04-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-01 empresas transporte RMBA",
+                    "issued": "2017-06-05T19:23:07.512365",
+                    "format": "CSV",
+                    "modified": "2017-06-05T19:23:07.473851",
+                    "downloadURL": "http://datos.transporte.gob.ar/dataset/5ddf12c8-d3ef-46ac-8a79-ca3dd1176b87/resource/045cc831-8f37-4ce6-9bfa-c9c5c58dab89/download/2016-01-empresas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://datos.transporte.gob.ar/dataset/5ddf12c8-d3ef-46ac-8a79-ca3dd1176b87/resource/bb1184f7-6812-453d-9cf4-1483199cb8a7/download/2016-02-empresas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-02 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-05-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-02 empresas transporte RMBA",
+                    "issued": "2017-06-05T19:30:48.665990",
+                    "format": "CSV",
+                    "modified": "2017-06-05T19:30:48.619010",
+                    "downloadURL": "http://datos.transporte.gob.ar/dataset/5ddf12c8-d3ef-46ac-8a79-ca3dd1176b87/resource/bb1184f7-6812-453d-9cf4-1483199cb8a7/download/2016-02-empresas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://datos.transporte.gob.ar/dataset/5ddf12c8-d3ef-46ac-8a79-ca3dd1176b87/resource/89c09097-3c1a-487f-a42e-640a5e0b9a21/download/2016-03-empresas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-03 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-06-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-03 empresas transporte RMBA",
+                    "issued": "2017-06-05T19:36:19.994164",
+                    "format": "CSV",
+                    "modified": "2017-06-05T19:36:19.953247",
+                    "downloadURL": "http://datos.transporte.gob.ar/dataset/5ddf12c8-d3ef-46ac-8a79-ca3dd1176b87/resource/89c09097-3c1a-487f-a42e-640a5e0b9a21/download/2016-03-empresas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://datos.transporte.gob.ar/dataset/5ddf12c8-d3ef-46ac-8a79-ca3dd1176b87/resource/917c60c3-b974-44eb-835e-23443344b453/download/2016-04-empresas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-04 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-07-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-04 empresas transporte RMBA",
+                    "issued": "2017-06-05T19:41:53.946070",
+                    "format": "CSV",
+                    "modified": "2017-06-05T19:41:53.900887",
+                    "downloadURL": "http://datos.transporte.gob.ar/dataset/5ddf12c8-d3ef-46ac-8a79-ca3dd1176b87/resource/917c60c3-b974-44eb-835e-23443344b453/download/2016-04-empresas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "http://datos.transporte.gob.ar/dataset/5ddf12c8-d3ef-46ac-8a79-ca3dd1176b87/resource/14f29796-c85c-45fc-8091-ca6214c2fd98/download/2016-05-empresas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-05 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-08-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-05 empresas transporte RMBA",
+                    "issued": "2017-06-05T19:49:28.042044",
+                    "format": "CSV",
+                    "modified": "2017-06-05T19:49:27.997138",
+                    "downloadURL": "http://datos.transporte.gob.ar/dataset/5ddf12c8-d3ef-46ac-8a79-ca3dd1176b87/resource/14f29796-c85c-45fc-8091-ca6214c2fd98/download/2016-05-empresas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                }
+            ],
+            "keyword": [
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "superTheme": [
+                "TRAN"
+            ],
+            "landingPage": "http://datos.transporte.gob.ar/dataset/empresas-transporte-rmba",
+            "identifier": "5ddf12c8-d3ef-46ac-8a79-ca3dd1176b87",
+            "@type": "dcat:Dataset"
+        },
+        {
+            "publisher": {
+                "mbox": "dotes@transporte.gob.ar",
+                "name": "Dirección de Observatorio de Transporte, Estudio y Sistemas"
+            },
+            "accessLevel": "public",
             "description": "Datos de operaciones registradas por sistema de boleto electrónico SUBE en la región metropolitana de Buenos Aires",
             "license": "No se especificó la licencia",
             "title": "Operaciones de viajes SUBE - Región Metropolitana de Buenos Aires",
@@ -26,6 +150,10 @@
             "modified": "2017-06-05T18:46:23.715846",
             "language": "spa",
             "theme": [
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -975,6 +1103,8 @@
                 "SUBE",
                 "TRANSPORTE",
                 "SUBE",
+                "TRANSPORTE",
+                "SUBE",
                 "TRANSPORTE"
             ],
             "accrualPeriodicity": "R/P1M",
@@ -1004,6 +1134,10 @@
             "modified": "2017-06-05T18:43:41.795599",
             "language": "spa",
             "theme": [
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -1163,6 +1297,8 @@
                 "SUBE",
                 "TRANSPORTE",
                 "SUBE",
+                "TRANSPORTE",
+                "SUBE",
                 "TRANSPORTE"
             ],
             "accrualPeriodicity": "R/P1M",
@@ -1192,6 +1328,10 @@
             "modified": "2017-06-05T17:50:24.569052",
             "language": "spa",
             "theme": [
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -1351,6 +1491,8 @@
                 "SUBE",
                 "TRANSPORTE",
                 "SUBE",
+                "TRANSPORTE",
+                "SUBE",
                 "TRANSPORTE"
             ],
             "accrualPeriodicity": "R/P1M",
@@ -1380,6 +1522,10 @@
             "modified": "2017-06-05T14:53:39.068857",
             "language": "spa",
             "theme": [
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -1539,6 +1685,8 @@
                 "SUBE",
                 "TRANSPORTE",
                 "SUBE",
+                "TRANSPORTE",
+                "SUBE",
                 "TRANSPORTE"
             ],
             "accrualPeriodicity": "R/P1M",
@@ -1568,6 +1716,10 @@
             "modified": "2017-06-02T21:29:49.786776",
             "language": "spa",
             "theme": [
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -1727,6 +1879,8 @@
                 "SUBE",
                 "TRANSPORTE",
                 "SUBE",
+                "TRANSPORTE",
+                "SUBE",
                 "TRANSPORTE"
             ],
             "accrualPeriodicity": "R/P1M",
@@ -1756,6 +1910,10 @@
             "modified": "2017-06-02T20:22:00.972304",
             "language": "spa",
             "theme": [
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -1904,6 +2062,8 @@
                 }
             ],
             "keyword": [
+                "SUBE",
+                "TRANSPORTE",
                 "SUBE",
                 "TRANSPORTE",
                 "SUBE",
