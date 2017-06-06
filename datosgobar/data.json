@@ -10,6 +10,641 @@
         {
             "publisher": {
                 "mbox": "",
+                "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)"
+            },
+            "accessLevel": "public",
+            "description": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino adheridas al Registro CVar (Argentina, 2016)",
+            "license": "Creative Commons Attribution",
+            "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino",
+            "issued": "2017-05-10T20:11:34.560262",
+            "modified": "2017-06-06T21:05:31.516788",
+            "theme": [
+                "Ciencia y tecnología"
+            ],
+            "landingPage": "http://www.sicytar.mincyt.gob.ar/",
+            "identifier": "155204f6-632f-4952-8613-def9f588be45",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/763fd787-8b0a-4b52-8700-1c983c195982/download/personal-instituciones.csv",
+                    "description": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución, provincia de localización, tipo de RRHH que se desempeña en ellas, máximo nivel educativo alcanzado y disciplina de experticia de sus RRHH",
+                    "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución y provincia",
+                    "issued": "2017-06-06T21:05:31.537246",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/763fd787-8b0a-4b52-8700-1c983c195982/download/personal-instituciones.csv"
+                },
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/7b15c7ce-a065-477b-af6d-414c5293819d/download/personal-instituciones.json",
+                    "description": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución, provincia de localización, tipo de RRHH que se desempeña en ellas, máximo nivel educativo alcanzado y disciplina de experticia de sus RRHH",
+                    "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución y provincia",
+                    "issued": "2017-06-06T21:05:31.537254",
+                    "format": "JSON",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/7b15c7ce-a065-477b-af6d-414c5293819d/download/personal-instituciones.json"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)"
+            },
+            "accessLevel": "public",
+            "description": "Equipamiento científico-tecnológico registrado en Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino adheridas al Programa de Grandes Instrumentos y Bases de Datos (Argentina, 2016). Registro Nacional de Instituciones de Ciencia, Tecnología e Innovación",
+            "license": "Creative Commons Attribution",
+            "title": "Equipamiento científico-tecnológico",
+            "issued": "2017-05-10T20:11:34.608260",
+            "modified": "2017-06-06T21:05:13.696218",
+            "theme": [
+                "Ciencia y tecnología"
+            ],
+            "landingPage": "http://sistemasnacionales.mincyt.gob.ar/",
+            "identifier": "f0fe2a50-ae98-4963-bb20-510c874bda29",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/1ec32c8e-6931-4f24-a2de-063097338621/download/equipos-sistemas-nacionales.csv",
+                    "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
+                    "title": "Equipamiento científico-tecnológico según tipo de institución y provincia",
+                    "issued": "2017-06-06T21:05:13.782248",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/1ec32c8e-6931-4f24-a2de-063097338621/download/equipos-sistemas-nacionales.csv"
+                },
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/84147f97-2f89-46af-b732-647e322f5959/download/equipos-sistemas-nacionales.json",
+                    "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
+                    "title": "Equipamiento científico-tecnológico según tipo de institución y provincia",
+                    "issued": "2017-06-06T21:05:13.782259",
+                    "format": "JSON",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/84147f97-2f89-46af-b732-647e322f5959/download/equipos-sistemas-nacionales.json"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)"
+            },
+            "accessLevel": "public",
+            "description": "Registro Unificado y Normalizado a nivel nacional de los Datos Curriculares del personal científico y tecnológico que se desempeña en las instituciones argentinas (Registro CVar) (Argentina, 2016)",
+            "license": "Creative Commons Attribution",
+            "title": "Recursos humanos en ciencia y tecnología",
+            "issued": "2017-05-10T20:11:34.599080",
+            "modified": "2017-06-06T21:04:54.144330",
+            "theme": [
+                "Ciencia y tecnología"
+            ],
+            "landingPage": "http://www.sicytar.mincyt.gob.ar/",
+            "identifier": "0768ec0a-dfd6-4291-8e2b-6676197a7878",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/93b23e91-ba14-4146-8368-6a50b62b1890/download/recursos-humanos-cyt.csv",
+                    "description": "Recursos humanos en Ciencia y Tecnología por provincia, máximo nivel educativo alcanzado, género, rangos de edad, tipo de personal de I+D y gran área del conocimiento de la formación de grado, tipo de institución de trabajo, categoría en CONICET y categoría en el Programa de Incentivos a los Docentes Investigadores",
+                    "title": "Recursos humanos en Ciencia y Tecnología",
+                    "issued": "2017-06-06T21:04:54.164759",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/93b23e91-ba14-4146-8368-6a50b62b1890/download/recursos-humanos-cyt.csv"
+                },
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/b57a401f-7a6a-49d0-af05-d9aae3c97e14/download/recursos-humanos-cyt.json",
+                    "description": "Recursos humanos en Ciencia y Tecnología por provincia, máximo nivel educativo alcanzado, género, rangos de edad, tipo de personal de I+D y gran área del conocimiento de la formación de grado, tipo de institución de trabajo, categoría en CONICET y categoría en el Programa de Incentivos a los Docentes Investigadores",
+                    "title": "Recursos humanos en Ciencia y Tecnología",
+                    "issued": "2017-06-06T21:04:54.164768",
+                    "format": "JSON",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/b57a401f-7a6a-49d0-af05-d9aae3c97e14/download/recursos-humanos-cyt.json"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)"
+            },
+            "accessLevel": "public",
+            "description": "Registro Nacional de Proyectos de Investigación, Desarrollo e Innovación (Argentina, 2001-2016)",
+            "license": "Creative Commons Attribution",
+            "title": "Proyectos de ciencia, tecnología e innovación",
+            "issued": "2017-05-10T20:11:34.533192",
+            "modified": "2017-06-06T21:04:41.617020",
+            "theme": [
+                "Ciencia y tecnología"
+            ],
+            "landingPage": "http://www.sicytar.mincyt.gob.ar/",
+            "identifier": "8366c56e-1259-462c-baa0-167d9106cff4",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/641981b3-2ec4-402b-88ca-117f56500332/download/proyectos-cyt.csv",
+                    "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
+                    "title": "Proyectos de Ciencia Tecnología e Innovación",
+                    "issued": "2017-06-06T21:04:41.636764",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/641981b3-2ec4-402b-88ca-117f56500332/download/proyectos-cyt.csv"
+                },
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0/download/proyectos-cyt.json",
+                    "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
+                    "title": "Proyectos de Ciencia Tecnología e Innovación",
+                    "issued": "2017-06-06T21:04:41.636772",
+                    "format": "JSON",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0/download/proyectos-cyt.json"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)"
+            },
+            "accessLevel": "public",
+            "description": "Empresas de ejecución de proyectos financiados por la Agencia Nacional de Promoción Científica y Tecnológica (Argentina, 2001-2016). Registro Nacional de Proyectos de Investigación, Desarrollo e Innovación",
+            "license": "Creative Commons Attribution",
+            "title": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación",
+            "issued": "2017-05-10T20:11:34.452411",
+            "modified": "2017-06-06T21:04:27.021103",
+            "theme": [
+                "Ciencia y tecnología"
+            ],
+            "landingPage": "http://www.sicytar.mincyt.gob.ar",
+            "identifier": "ddc3f696-2f42-4a5c-ad6c-b302f2e2a7d0",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/6f44589b-5dc5-4585-abf2-98b759e406bf/resource/7bc7d092-a5ed-48ad-b7b0-3c626de64ed8/download/empresas-ejecutoras-proyectos.json",
+                    "description": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación según cantidad de proyectos, tipo de proyectos, provincia argentina y fecha de inicio de proyectos",
+                    "title": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación por provincia",
+                    "issued": "2017-06-06T21:04:27.040155",
+                    "format": "JSON",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/6f44589b-5dc5-4585-abf2-98b759e406bf/resource/7bc7d092-a5ed-48ad-b7b0-3c626de64ed8/download/empresas-ejecutoras-proyectos.json"
+                },
+                {
+                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/6f44589b-5dc5-4585-abf2-98b759e406bf/resource/5eb1aa5e-4a9d-4cc6-8ca3-517d5448830f/download/empresas-ejecutoras-proyectos.csv",
+                    "description": "Empresas de ejecución de proyectos financiados por la Agencia Nacional de Promoción Científica y Tecnológica (Argentina, 2001-2016). Registro Nacional de Proyectos de Investigación, Desarrollo e Innovación",
+                    "title": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación por provincia",
+                    "issued": "2017-06-06T21:04:27.040163",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/6f44589b-5dc5-4585-abf2-98b759e406bf/resource/5eb1aa5e-4a9d-4cc6-8ca3-517d5448830f/download/empresas-ejecutoras-proyectos.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional"
+            },
+            "accessLevel": "public",
+            "description": "El registro analiza las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en la Secretaría de Derechos Humanos.",
+            "license": "Creative Commons Attribution",
+            "title": "Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional",
+            "issued": "2017-05-10T20:11:39.478327",
+            "modified": "2017-06-06T21:04:07.247898",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "landingPage": "http://datos.jus.gob.ar/dataset/registro-sistematizacin-y-seguimiento-de-hechos-de-violencia-institucional",
+            "identifier": "e4a805bf-896a-471d-a90d-97b88a7a5341",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/c64b3899-65df-4024-afe8-bdf971f30dd8/resource/56dbd545-f102-4fbd-be48-0edb9b1f846c/download/violencia-institucional.csv",
+                    "description": "Seguimientos de hechos de violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos.",
+                    "title": "Seguimiento de hechos de violencia institucional",
+                    "issued": "2017-06-06T21:04:07.263687",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/c64b3899-65df-4024-afe8-bdf971f30dd8/resource/56dbd545-f102-4fbd-be48-0edb9b1f846c/download/violencia-institucional.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
+            },
+            "accessLevel": "public",
+            "description": "En este conjunto de datos se detalla la cantidad de automotores 0km inscriptos y automotores transferidos, discriminados por año, mes, provincia. Se consideran automotores: automóviles,  camiones,  inclusive  los  llamados  tractores  para  semirremolque,  camionetas,  rurales,  jeeps,  furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aún  cuando  no  estuvieran  carrozados. Se consideran motovehículos: ciclomotores, motocicletas, motocarro (motocargas y motofurgones), motonetas, triciclos y cuatriciclos con motor. En cuanto a maquinarias están incluidas aquellas de uso agrícola, vial e industrial.",
+            "license": "Creative Commons Attribution",
+            "title": "Estadística de Trámites de Automotores, Motovehículos y Maquinarias",
+            "issued": "2017-05-11T19:22:57.258187",
+            "modified": "2017-06-06T21:03:45.345356",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "landingPage": "http://www.dnrpa.gov.ar",
+            "identifier": "3e9a07cf-57fa-466f-823e-6b60542f8f7f",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/2436ab65-44da-4f45-a59d-5e09136e1df2/download/estadistica-inscripciones-iniciales-autos-motos-maquinarias.csv",
+                    "description": "Estadística mensual de inscripciones iniciales de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
+                    "title": "Estadística de inscripciones iniciales de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
+                    "issued": "2017-06-06T21:03:45.399223",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/2436ab65-44da-4f45-a59d-5e09136e1df2/download/estadistica-inscripciones-iniciales-autos-motos-maquinarias.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/65219d23-89af-4b19-85cb-c37364c4f9cb/download/estadistica-transferencias-autos-motos-maquinarias.csv",
+                    "description": "Estadística mensual de transferencias de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
+                    "title": "Estadística de transferencias de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
+                    "issued": "2017-06-06T21:03:45.399242",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/65219d23-89af-4b19-85cb-c37364c4f9cb/download/estadistica-transferencias-autos-motos-maquinarias.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
+            },
+            "accessLevel": "public",
+            "description": "El Tesauro SAIJ es un sistema de organización del conocimiento jurídico, en forma de lista de términos controlados que representan conceptos. Se utiliza para hacer más eficiente para el usuario el acceso a la información contenida en un archivo o centro de documentación que administre material vinculado con el Derecho argentino.",
+            "license": "Creative Commons Attribution",
+            "title": "Tesauro SAIJ de Derecho Argentino",
+            "issued": "2017-05-11T14:07:44.282539",
+            "modified": "2017-06-06T21:03:31.653701",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "landingPage": "http://datos.jus.gob.ar/dataset/tesauro-saij-de-derecho-argentino",
+            "identifier": "ed3f5e85-b3d8-48ee-be3e-5c9d03469ec8",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/e41e8224-f868-4688-9fae-94d320f8ee5e/resource/0a823ec3-4609-41b6-8af8-93afd23aaf9c/download/tesauro-saij.rdf",
+                    "description": "Tesauro SAIJ de Derecho Argentino",
+                    "title": "Tesauro SAIJ de Derecho Argentino",
+                    "issued": "2017-06-06T21:03:31.678449",
+                    "format": "RDF",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/e41e8224-f868-4688-9fae-94d320f8ee5e/resource/0a823ec3-4609-41b6-8af8-93afd23aaf9c/download/tesauro-saij.rdf"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas."
+            },
+            "accessLevel": "public",
+            "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\r\nLos datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
+            "license": "Creative Commons Attribution",
+            "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
+            "issued": "2017-05-10T20:11:37.590245",
+            "modified": "2017-06-06T21:03:06.487464",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "landingPage": "http://datos.jus.gob.ar/dataset/solicitudes-de-autorizacin-de-portacin-de-armas-de-fuego",
+            "identifier": "705f8686-3d4c-4528-b4fe-6343307f4d35",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/2e0a4e06-0d2e-4e78-861d-1105e558e493/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
+                    "issued": "2017-06-06T21:03:06.518427",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/2e0a4e06-0d2e-4e78-861d-1105e558e493/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de materiales Controlados - Coordinación de Sistemas"
+            },
+            "accessLevel": "public",
+            "description": "En este conjunto de datos se detallan las solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\r\nLos datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
+            "license": "Creative Commons Attribution",
+            "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
+            "issued": "2017-05-10T20:11:37.966049",
+            "modified": "2017-06-06T21:02:50.891185",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "landingPage": "http://datos.jus.gob.ar/dataset/solicitudes-de-condicin-de-legtimo-usuario-de-armas-de-fuego",
+            "identifier": "d30d5574-41ab-4d89-ad3e-7296769f1646",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0ecec60a-0723-4232-a401-6565ebb282cf/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\"",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
+                    "issued": "2017-06-06T21:02:50.906838",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0ecec60a-0723-4232-a401-6565ebb282cf/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal."
+            },
+            "accessLevel": "public",
+            "description": "En este cuerpo de datos se detalla los datos recopilados en el censo realizado sobre el total de la población detenida al día 31 de diciembre de cada año, en cada establecimiento de la República Argentina. La unidad de análisis son las personas alojadas en dichos establecimientos.",
+            "license": "Creative Commons Attribution",
+            "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP",
+            "issued": "2017-05-10T20:11:39.990104",
+            "modified": "2017-06-06T21:02:31.588404",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "landingPage": "http://datos.jus.gob.ar/dataset/sistema-nacional-de-estadsticas-sobre-ejecucin-de-la-pena--sneep",
+            "identifier": "d6db6a20-8a03-4fce-a626-6468f87f9596",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/b2c3f47c-b78d-4967-98be-0ab81dd0b415/download/sneep-2015.csv",
+                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2015",
+                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2015",
+                    "issued": "2017-06-06T21:02:31.642114",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/b2c3f47c-b78d-4967-98be-0ab81dd0b415/download/sneep-2015.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/ae511208-8678-45ac-b088-6b2dd5964f4e/download/sneep-2014.csv",
+                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2014",
+                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2014",
+                    "issued": "2017-06-06T21:02:31.642126",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/ae511208-8678-45ac-b088-6b2dd5964f4e/download/sneep-2014.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/f39839a0-cd4a-47a9-bb30-dba81ae61cae/download/sneep-2013.csv",
+                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2013",
+                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2013",
+                    "issued": "2017-06-06T21:02:31.642132",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/f39839a0-cd4a-47a9-bb30-dba81ae61cae/download/sneep-2013.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/e289393f-4bfa-49af-8ba2-dbe64a9ba303/download/sneep-2012.csv",
+                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2012",
+                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2012",
+                    "issued": "2017-06-06T21:02:31.642136",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/e289393f-4bfa-49af-8ba2-dbe64a9ba303/download/sneep-2012.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/0b5cf2e0-de16-4b71-b3c1-99aeb63d8165/download/sneep-2011.csv",
+                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2011",
+                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2011",
+                    "issued": "2017-06-06T21:02:31.642140",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/0b5cf2e0-de16-4b71-b3c1-99aeb63d8165/download/sneep-2011.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/ed1061a5-3d28-4664-82a4-2406231cc0c8/download/sneep-2010.csv",
+                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2010",
+                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2010",
+                    "issued": "2017-06-06T21:02:31.642144",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/ed1061a5-3d28-4664-82a4-2406231cc0c8/download/sneep-2010.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/e8cc11d5-0c05-4958-a791-26005adc9562/download/sneep-2009.csv",
+                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2009",
+                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2009",
+                    "issued": "2017-06-06T21:02:31.642148",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/e8cc11d5-0c05-4958-a791-26005adc9562/download/sneep-2009.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/f627e52e-e55c-4d7f-bb0b-034a474479a9/download/sneep-2008.csv",
+                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2008",
+                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2008",
+                    "issued": "2017-06-06T21:02:31.642152",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/f627e52e-e55c-4d7f-bb0b-034a474479a9/download/sneep-2008.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/d47a67c0-63d7-411d-bd32-19957776f31f/download/sneep-2007.csv",
+                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2007",
+                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2007",
+                    "issued": "2017-06-06T21:02:31.642156",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/d47a67c0-63d7-411d-bd32-19957776f31f/download/sneep-2007.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/4315c359-3c3e-429e-bac6-4ae75dad6965/download/sneep-2006.csv",
+                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2006",
+                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2006",
+                    "issued": "2017-06-06T21:02:31.642160",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/4315c359-3c3e-429e-bac6-4ae75dad6965/download/sneep-2006.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/81209a1c-782e-4e65-b04c-2bcb39f9c316/download/sneep-2005.csv",
+                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2005",
+                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2005",
+                    "issued": "2017-06-06T21:02:31.642164",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/81209a1c-782e-4e65-b04c-2bcb39f9c316/download/sneep-2005.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/124e804b-98c1-4460-ae6a-c392eb7b21a5/download/sneep-2004.csv",
+                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2004",
+                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2004",
+                    "issued": "2017-06-06T21:02:31.642168",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/124e804b-98c1-4460-ae6a-c392eb7b21a5/download/sneep-2004.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/a1170dc3-2c57-4b80-bf7a-438cfc3beefd/download/sneep-2003.csv",
+                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2003",
+                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2003",
+                    "issued": "2017-06-06T21:02:31.642172",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/a1170dc3-2c57-4b80-bf7a-438cfc3beefd/download/sneep-2003.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/0c05bf5b-e547-42bf-8518-9a80a2ea1b45/download/sneep-2002.csv",
+                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2002",
+                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2002",
+                    "issued": "2017-06-06T21:02:31.642176",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/0c05bf5b-e547-42bf-8518-9a80a2ea1b45/download/sneep-2002.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Registro Unificado de Víctimas del Terrorismo de Estado"
+            },
+            "accessLevel": "public",
+            "description": "Registro unificado del listado de Víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983 (víctimas de desaparición forzada y de asesinato) y del listado de casos en investigación incluidos en el listado de la Conadep, sin denuncia formal ante la Secretaría de Derechos Humanos y Pluralismo Cultural de la Nación, que revisten la categoría de “presunción de desaparición forzada”.",
+            "license": "Creative Commons Attribution",
+            "title": "Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-",
+            "issued": "2017-05-10T20:11:40.162602",
+            "modified": "2017-06-06T21:02:05.075737",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "landingPage": "http://www.jus.gob.ar/derechoshumanos/areas-tematicas/ruvte.aspx",
+            "identifier": "7db0ea67-4175-4a9f-a2b5-3bb2817373be",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/d43fa140-f43f-4cc2-8491-b1d8bb899de4/resource/c6b674bc-e178-41f3-81f5-0f10038e1688/download/victimas-accionar-represivo-ilegal.csv",
+                    "description": "Listado de víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983 (víctimas de desaparición forzada y de asesinato).",
+                    "title": "Listado de víctimas del accionar represivo ilegal",
+                    "issued": "2017-06-06T21:02:05.095609",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/d43fa140-f43f-4cc2-8491-b1d8bb899de4/resource/c6b674bc-e178-41f3-81f5-0f10038e1688/download/victimas-accionar-represivo-ilegal.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/d43fa140-f43f-4cc2-8491-b1d8bb899de4/resource/4c66093d-1293-4c44-a4c4-4cc1d914127e/download/victimas-accionar-represivo-ilegal-sin-denuncia-formal.csv",
+                    "description": "Listado de casos en investigación incluidos en el listado de la Conadep sin denuncia formal ante la Secretaría de Derechos Humanos y Pluralismo Cultural de la Nación, que revisten la categoría de “presunción de desaparición forzada”.",
+                    "title": "Listado de víctimas del accionar represivo ilegal sin denuncia formal",
+                    "issued": "2017-06-06T21:02:05.095618",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/d43fa140-f43f-4cc2-8491-b1d8bb899de4/resource/4c66093d-1293-4c44-a4c4-4cc1d914127e/download/victimas-accionar-represivo-ilegal-sin-denuncia-formal.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Dirección Nacional de Asuntos Jurídicos en materia de Derechos Humanos. Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género"
+            },
+            "accessLevel": "public",
+            "description": "Se registran los femicidios y homicidios agravados por el género desde el año 2012 a la fecha. La base se nutre de diversas fuentes: artículos de prensa escrita, denuncias policiales y judiciales, denuncias realizadas ante la Secretaría de Derechos Humanos.",
+            "license": "Creative Commons Attribution",
+            "title": "Registro, Sistematización y Seguimiento de Femicidios y Homicidios Agravados por el Género",
+            "issued": "2017-05-10T20:11:39.600763",
+            "modified": "2017-06-06T21:01:41.200742",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "landingPage": "http://datos.jus.gob.ar/dataset/registro-sistematizacin-y-seguimiento-de-femicidios-y-homicidios-agravados-por-el-gnero",
+            "identifier": "167e9841-3644-49f5-8226-706a71930a45",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/27bb9b2c-521b-406c-bdf9-98110ef73f34/resource/9a06c428-8552-42fe-86e1-487bca9b712c/download/registro-de-femicidios.csv",
+                    "description": "Esta base registra los femicidios y homicidios agravados por el género desde el año 2012 a la fecha.",
+                    "title": "Registro, Sistematización y Seguimiento de  Femicidios y Homicidios Agravados por el Género",
+                    "issued": "2017-06-06T21:01:41.218354",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/27bb9b2c-521b-406c-bdf9-98110ef73f34/resource/9a06c428-8552-42fe-86e1-487bca9b712c/download/registro-de-femicidios.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción."
+            },
+            "accessLevel": "public",
+            "description": "En este conjunto de datos se detalla el registro de viajes de los funcionarios públicos financiados por terceros a partir de la implementación del Decreto 1179/16, reglamentario de la Ley de Ética en el Ejercicio de la Función Pública N° 25.188.",
+            "license": "Creative Commons Attribution",
+            "title": "Registro de Viajes Fincianciados por Terceros",
+            "issued": "2017-05-11T19:22:57.505613",
+            "modified": "2017-06-06T21:01:18.702355",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "landingPage": "https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos",
+            "identifier": "12d96c60-2242-4eab-86d6-e5fd49c32b15",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/4e1e49d5-686d-49bc-91d1-90bcf6d95658/download/registroviajesfinanciadosterceros.csv",
+                    "description": "Detalle del registro de viajes de los funcionarios públicos financiados por terceros a partir de la implementación del Decreto 1179/16, reglamentario de la Ley de Ética en el Ejercicio de la Función Pública N° 25.188",
+                    "title": "Registro de viajes financiados por terceros",
+                    "issued": "2017-06-06T21:01:18.717731",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/4e1e49d5-686d-49bc-91d1-90bcf6d95658/download/registroviajesfinanciadosterceros.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción."
+            },
+            "accessLevel": "public",
+            "description": "Conjunto de datos que detalla los obsequios a funcionarios públicos registrados en el ámbito de la Oficina Anticorrupción",
+            "license": "Creative Commons Attribution",
+            "title": "Registro de Obsequios a Funcionarios Públicos",
+            "issued": "2017-05-11T19:22:57.195884",
+            "modified": "2017-06-06T21:00:56.917421",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "landingPage": "https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos",
+            "identifier": "327f76eb-7530-4653-907b-610a3bdcd661",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/7c268f77-e007-43ba-8a18-d50ef022f8e3/resource/a861d92f-272b-4c9f-8f2f-52946558d337/download/registroobsequiosfuncionariospublicos.csv",
+                    "description": "Conjunto de datos que detalla los obsequios a funcionarios públicos registrados en el ámbito de la Oficina Anticorrupción",
+                    "title": "Registro de obsequios a funcionarios públicos",
+                    "issued": "2017-06-06T21:00:56.935198",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/7c268f77-e007-43ba-8a18-d50ef022f8e3/resource/a861d92f-272b-4c9f-8f2f-52946558d337/download/registroobsequiosfuncionariospublicos.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos."
+            },
+            "accessLevel": "public",
+            "description": "En este conjunto de datos se detalla la cantidad de mediaciones prejudiciales y judiciales (remitidas por el Juez una vez iniciado el juicio) registradas en el Sistema Mepre, que está operativo desde febrero de 2014 y que registra la totalidad de las mediaciones prejudiciales efectuadas desde la fecha de su implementación.",
+            "license": "Creative Commons Attribution",
+            "title": "Estadística de Mediaciones Prejudiciales y Judiciales",
+            "issued": "2017-05-10T20:11:39.991995",
+            "modified": "2017-06-06T21:00:42.439964",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "landingPage": "http://datos.jus.gob.ar/dataset/estadstica-de-mediaciones-prejudiciales-y-judiciales",
+            "identifier": "009d6174-dab1-4f9d-870b-282635ff4770",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/fee87e15-3d5b-4d30-a29f-2dd8815fc015/download/estadistica-mediaciones-prejudiciales-y-judiciales.csv",
+                    "description": "Estadística de mediaciones prejudiciales y judiciales efectuadas desde febrero de 2014",
+                    "title": "Estadística de mediaciones prejudiciales y judiciales",
+                    "issued": "2017-06-06T21:00:42.456154",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/fee87e15-3d5b-4d30-a29f-2dd8815fc015/download/estadistica-mediaciones-prejudiciales-y-judiciales.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
+            },
+            "accessLevel": "public",
+            "description": "En este conjunto de datos se detalla la estructura y la nómina de jueces, fiscales y defensores de la justicia nacional y de la justicia federal de la República Argentina, estado de cobertura de cargos, estado de los concursos destinados a cubrir los cargos que se encuentran vacantes, decretos y/o resoluciones de designación y/o traslado de los jueces, fiscales o defensoresos y presidente y ministro en funciones al momento de la designación.",
+            "license": "Creative Commons Attribution",
+            "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
+            "issued": "2017-05-10T20:11:39.801773",
+            "modified": "2017-06-06T21:00:22.490549",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "landingPage": "http://datos.jus.gob.ar/dataset/magistrados-de-la-justicia-federal-y-de-la-justicia-nacional",
+            "identifier": "9dc77157-599d-4b50-9495-87222e1b9556",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional.csv",
+                    "description": "Listado actual de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional. No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación.",
+                    "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
+                    "issued": "2017-06-06T21:00:22.514777",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/ac34ee63-7e86-4f15-b57b-c6a35f71ea6e/download/magistrados-justicia-federal-nacional-designaciones.csv",
+                    "description": "Designacion de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
+                    "title": "Designación de magistrados de la Justicia Federal y de la Justicia Nacional",
+                    "issued": "2017-06-06T21:00:22.514792",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/ac34ee63-7e86-4f15-b57b-c6a35f71ea6e/download/magistrados-justicia-federal-nacional-designaciones.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/551c8132-4aef-419a-8f7b-020bb613980b/download/magistrados-justicia-federal-nacional-renuncias.csv",
+                    "description": "Renuncia de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
+                    "title": "Renuncia de magistrados de la Justicia Federal y de la Justicia Nacional",
+                    "issued": "2017-06-06T21:00:22.514797",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/551c8132-4aef-419a-8f7b-020bb613980b/download/magistrados-justicia-federal-nacional-renuncias.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal"
             },
             "accessLevel": "public",
@@ -1992,641 +2627,6 @@
                     "issued": "2017-06-06T20:49:51.282148",
                     "format": "JSON",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)"
-            },
-            "accessLevel": "public",
-            "description": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino adheridas al Registro CVar (Argentina, 2016)",
-            "license": "Creative Commons Attribution",
-            "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino",
-            "issued": "2017-05-10T20:11:34.560262",
-            "modified": "2017-06-06T19:24:50.367570",
-            "theme": [
-                "Ciencia y tecnología"
-            ],
-            "landingPage": "http://www.sicytar.mincyt.gob.ar/",
-            "identifier": "155204f6-632f-4952-8613-def9f588be45",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/763fd787-8b0a-4b52-8700-1c983c195982/download/personal-instituciones.csv",
-                    "description": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución, provincia de localización, tipo de RRHH que se desempeña en ellas, máximo nivel educativo alcanzado y disciplina de experticia de sus RRHH",
-                    "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución y provincia",
-                    "issued": "2017-06-06T19:24:50.386008",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/763fd787-8b0a-4b52-8700-1c983c195982/download/personal-instituciones.csv"
-                },
-                {
-                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/7b15c7ce-a065-477b-af6d-414c5293819d/download/personal-instituciones.json",
-                    "description": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución, provincia de localización, tipo de RRHH que se desempeña en ellas, máximo nivel educativo alcanzado y disciplina de experticia de sus RRHH",
-                    "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino según tipo de institución y provincia",
-                    "issued": "2017-06-06T19:24:50.386017",
-                    "format": "JSON",
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/2a9cef3e-2ba9-45a0-a02c-a988d7021c41/resource/7b15c7ce-a065-477b-af6d-414c5293819d/download/personal-instituciones.json"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)"
-            },
-            "accessLevel": "public",
-            "description": "Equipamiento científico-tecnológico registrado en Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino adheridas al Programa de Grandes Instrumentos y Bases de Datos (Argentina, 2016). Registro Nacional de Instituciones de Ciencia, Tecnología e Innovación",
-            "license": "Creative Commons Attribution",
-            "title": "Equipamiento científico-tecnológico",
-            "issued": "2017-05-10T20:11:34.608260",
-            "modified": "2017-06-06T19:24:33.886714",
-            "theme": [
-                "Ciencia y tecnología"
-            ],
-            "landingPage": "http://sistemasnacionales.mincyt.gob.ar/",
-            "identifier": "f0fe2a50-ae98-4963-bb20-510c874bda29",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/1ec32c8e-6931-4f24-a2de-063097338621/download/equipos-sistemas-nacionales.csv",
-                    "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
-                    "title": "Equipamiento científico-tecnológico según tipo de institución y provincia",
-                    "issued": "2017-06-06T19:24:33.906118",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/1ec32c8e-6931-4f24-a2de-063097338621/download/equipos-sistemas-nacionales.csv"
-                },
-                {
-                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/84147f97-2f89-46af-b732-647e322f5959/download/equipos-sistemas-nacionales.json",
-                    "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
-                    "title": "Equipamiento científico-tecnológico según tipo de institución y provincia",
-                    "issued": "2017-06-06T19:24:33.906127",
-                    "format": "JSON",
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/bd660ae2-98ce-4f0f-8e90-127319cbe175/resource/84147f97-2f89-46af-b732-647e322f5959/download/equipos-sistemas-nacionales.json"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)"
-            },
-            "accessLevel": "public",
-            "description": "Registro Unificado y Normalizado a nivel nacional de los Datos Curriculares del personal científico y tecnológico que se desempeña en las instituciones argentinas (Registro CVar) (Argentina, 2016)",
-            "license": "Creative Commons Attribution",
-            "title": "Recursos humanos en ciencia y tecnología",
-            "issued": "2017-05-10T20:11:34.599080",
-            "modified": "2017-06-06T19:24:24.429824",
-            "theme": [
-                "Ciencia y tecnología"
-            ],
-            "landingPage": "http://www.sicytar.mincyt.gob.ar/",
-            "identifier": "0768ec0a-dfd6-4291-8e2b-6676197a7878",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/93b23e91-ba14-4146-8368-6a50b62b1890/download/recursos-humanos-cyt.csv",
-                    "description": "Recursos humanos en Ciencia y Tecnología por provincia, máximo nivel educativo alcanzado, género, rangos de edad, tipo de personal de I+D y gran área del conocimiento de la formación de grado, tipo de institución de trabajo, categoría en CONICET y categoría en el Programa de Incentivos a los Docentes Investigadores",
-                    "title": "Recursos humanos en Ciencia y Tecnología",
-                    "issued": "2017-06-06T19:24:24.448101",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/93b23e91-ba14-4146-8368-6a50b62b1890/download/recursos-humanos-cyt.csv"
-                },
-                {
-                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/b57a401f-7a6a-49d0-af05-d9aae3c97e14/download/recursos-humanos-cyt.json",
-                    "description": "Recursos humanos en Ciencia y Tecnología por provincia, máximo nivel educativo alcanzado, género, rangos de edad, tipo de personal de I+D y gran área del conocimiento de la formación de grado, tipo de institución de trabajo, categoría en CONICET y categoría en el Programa de Incentivos a los Docentes Investigadores",
-                    "title": "Recursos humanos en Ciencia y Tecnología",
-                    "issued": "2017-06-06T19:24:24.448110",
-                    "format": "JSON",
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/0c8285cb-ecec-410c-accc-5261718b459d/resource/b57a401f-7a6a-49d0-af05-d9aae3c97e14/download/recursos-humanos-cyt.json"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)"
-            },
-            "accessLevel": "public",
-            "description": "Registro Nacional de Proyectos de Investigación, Desarrollo e Innovación (Argentina, 2001-2016)",
-            "license": "Creative Commons Attribution",
-            "title": "Proyectos de ciencia, tecnología e innovación",
-            "issued": "2017-05-10T20:11:34.533192",
-            "modified": "2017-06-06T19:24:10.184849",
-            "theme": [
-                "Ciencia y tecnología"
-            ],
-            "landingPage": "http://www.sicytar.mincyt.gob.ar/",
-            "identifier": "8366c56e-1259-462c-baa0-167d9106cff4",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/641981b3-2ec4-402b-88ca-117f56500332/download/proyectos-cyt.csv",
-                    "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
-                    "title": "Proyectos de Ciencia Tecnología e Innovación",
-                    "issued": "2017-06-06T19:24:10.202418",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/641981b3-2ec4-402b-88ca-117f56500332/download/proyectos-cyt.csv"
-                },
-                {
-                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0/download/proyectos-cyt.json",
-                    "description": "Proyectos de ciencia, tecnología e innovación: montos totales aprobados y financiados, fecha de inicio, provincia de ejecución,  región de ejecución, tipo de proyecto, gran área del conocimiento (para proyectos de I+D) y tipo de institución de ejecución (2008-2016)",
-                    "title": "Proyectos de Ciencia Tecnología e Innovación",
-                    "issued": "2017-06-06T19:24:10.202426",
-                    "format": "JSON",
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/5e62bdac-52d9-4e66-ac6b-aa47dd219aa3/resource/cea2d395-167e-4f31-b692-cb05100be5b0/download/proyectos-cyt.json"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)"
-            },
-            "accessLevel": "public",
-            "description": "Empresas de ejecución de proyectos financiados por la Agencia Nacional de Promoción Científica y Tecnológica (Argentina, 2001-2016). Registro Nacional de Proyectos de Investigación, Desarrollo e Innovación",
-            "license": "Creative Commons Attribution",
-            "title": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación",
-            "issued": "2017-05-10T20:11:34.452411",
-            "modified": "2017-06-06T19:23:47.566378",
-            "theme": [
-                "Ciencia y tecnología"
-            ],
-            "landingPage": "http://www.sicytar.mincyt.gob.ar",
-            "identifier": "ddc3f696-2f42-4a5c-ad6c-b302f2e2a7d0",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/6f44589b-5dc5-4585-abf2-98b759e406bf/resource/7bc7d092-a5ed-48ad-b7b0-3c626de64ed8/download/empresas-ejecutoras-proyectos.json",
-                    "description": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación según cantidad de proyectos, tipo de proyectos, provincia argentina y fecha de inicio de proyectos",
-                    "title": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación por provincia",
-                    "issued": "2017-06-06T19:23:47.584590",
-                    "format": "JSON",
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/6f44589b-5dc5-4585-abf2-98b759e406bf/resource/7bc7d092-a5ed-48ad-b7b0-3c626de64ed8/download/empresas-ejecutoras-proyectos.json"
-                },
-                {
-                    "accessURL": "http://datos.mincyt.gob.ar/datasets/dataset/6f44589b-5dc5-4585-abf2-98b759e406bf/resource/5eb1aa5e-4a9d-4cc6-8ca3-517d5448830f/download/empresas-ejecutoras-proyectos.csv",
-                    "description": "Empresas de ejecución de proyectos financiados por la Agencia Nacional de Promoción Científica y Tecnológica (Argentina, 2001-2016). Registro Nacional de Proyectos de Investigación, Desarrollo e Innovación",
-                    "title": "Empresas de ejecución de proyectos de ciencia, tecnología e innovación por provincia",
-                    "issued": "2017-06-06T19:23:47.584598",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.mincyt.gob.ar/datasets/dataset/6f44589b-5dc5-4585-abf2-98b759e406bf/resource/5eb1aa5e-4a9d-4cc6-8ca3-517d5448830f/download/empresas-ejecutoras-proyectos.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional"
-            },
-            "accessLevel": "public",
-            "description": "El registro analiza las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en la Secretaría de Derechos Humanos.",
-            "license": "Creative Commons Attribution",
-            "title": "Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional",
-            "issued": "2017-05-10T20:11:39.478327",
-            "modified": "2017-06-06T19:23:40.935008",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "http://datos.jus.gob.ar/dataset/registro-sistematizacin-y-seguimiento-de-hechos-de-violencia-institucional",
-            "identifier": "e4a805bf-896a-471d-a90d-97b88a7a5341",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/c64b3899-65df-4024-afe8-bdf971f30dd8/resource/56dbd545-f102-4fbd-be48-0edb9b1f846c/download/violencia-institucional.csv",
-                    "description": "Seguimientos de hechos de violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos.",
-                    "title": "Seguimiento de hechos de violencia institucional",
-                    "issued": "2017-06-06T19:23:40.953161",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/c64b3899-65df-4024-afe8-bdf971f30dd8/resource/56dbd545-f102-4fbd-be48-0edb9b1f846c/download/violencia-institucional.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
-            },
-            "accessLevel": "public",
-            "description": "En este conjunto de datos se detalla la cantidad de automotores 0km inscriptos y automotores transferidos, discriminados por año, mes, provincia. Se consideran automotores: automóviles,  camiones,  inclusive  los  llamados  tractores  para  semirremolque,  camionetas,  rurales,  jeeps,  furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aún  cuando  no  estuvieran  carrozados. Se consideran motovehículos: ciclomotores, motocicletas, motocarro (motocargas y motofurgones), motonetas, triciclos y cuatriciclos con motor. En cuanto a maquinarias están incluidas aquellas de uso agrícola, vial e industrial.",
-            "license": "Creative Commons Attribution",
-            "title": "Estadística de Trámites de Automotores, Motovehículos y Maquinarias",
-            "issued": "2017-05-11T19:22:57.258187",
-            "modified": "2017-06-06T19:23:30.677761",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "http://www.dnrpa.gov.ar",
-            "identifier": "3e9a07cf-57fa-466f-823e-6b60542f8f7f",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/2436ab65-44da-4f45-a59d-5e09136e1df2/download/estadistica-inscripciones-iniciales-autos-motos-maquinarias.csv",
-                    "description": "Estadística mensual de inscripciones iniciales de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
-                    "title": "Estadística de inscripciones iniciales de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
-                    "issued": "2017-06-06T19:23:30.694772",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/2436ab65-44da-4f45-a59d-5e09136e1df2/download/estadistica-inscripciones-iniciales-autos-motos-maquinarias.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/65219d23-89af-4b19-85cb-c37364c4f9cb/download/estadistica-transferencias-autos-motos-maquinarias.csv",
-                    "description": "Estadística mensual de transferencias de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
-                    "title": "Estadística de transferencias de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
-                    "issued": "2017-06-06T19:23:30.694780",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/65219d23-89af-4b19-85cb-c37364c4f9cb/download/estadistica-transferencias-autos-motos-maquinarias.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
-            },
-            "accessLevel": "public",
-            "description": "El Tesauro SAIJ es un sistema de organización del conocimiento jurídico, en forma de lista de términos controlados que representan conceptos. Se utiliza para hacer más eficiente para el usuario el acceso a la información contenida en un archivo o centro de documentación que administre material vinculado con el Derecho argentino.",
-            "license": "Creative Commons Attribution",
-            "title": "Tesauro SAIJ de Derecho Argentino",
-            "issued": "2017-05-11T14:07:44.282539",
-            "modified": "2017-06-06T19:23:10.134120",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "http://datos.jus.gob.ar/dataset/tesauro-saij-de-derecho-argentino",
-            "identifier": "ed3f5e85-b3d8-48ee-be3e-5c9d03469ec8",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/e41e8224-f868-4688-9fae-94d320f8ee5e/resource/0a823ec3-4609-41b6-8af8-93afd23aaf9c/download/tesauro-saij.rdf",
-                    "description": "Tesauro SAIJ de Derecho Argentino",
-                    "title": "Tesauro SAIJ de Derecho Argentino",
-                    "issued": "2017-06-06T19:23:10.160471",
-                    "format": "RDF",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/e41e8224-f868-4688-9fae-94d320f8ee5e/resource/0a823ec3-4609-41b6-8af8-93afd23aaf9c/download/tesauro-saij.rdf"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas."
-            },
-            "accessLevel": "public",
-            "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\r\nLos datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
-            "license": "Creative Commons Attribution",
-            "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
-            "issued": "2017-05-10T20:11:37.590245",
-            "modified": "2017-06-06T19:22:49.348941",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "http://datos.jus.gob.ar/dataset/solicitudes-de-autorizacin-de-portacin-de-armas-de-fuego",
-            "identifier": "705f8686-3d4c-4528-b4fe-6343307f4d35",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/2e0a4e06-0d2e-4e78-861d-1105e558e493/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
-                    "issued": "2017-06-06T19:22:49.364069",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/2e0a4e06-0d2e-4e78-861d-1105e558e493/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de materiales Controlados - Coordinación de Sistemas"
-            },
-            "accessLevel": "public",
-            "description": "En este conjunto de datos se detallan las solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\r\nLos datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
-            "license": "Creative Commons Attribution",
-            "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
-            "issued": "2017-05-10T20:11:37.966049",
-            "modified": "2017-06-06T19:22:23.741527",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "http://datos.jus.gob.ar/dataset/solicitudes-de-condicin-de-legtimo-usuario-de-armas-de-fuego",
-            "identifier": "d30d5574-41ab-4d89-ad3e-7296769f1646",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0ecec60a-0723-4232-a401-6565ebb282cf/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\"",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
-                    "issued": "2017-06-06T19:22:23.757244",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0ecec60a-0723-4232-a401-6565ebb282cf/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal."
-            },
-            "accessLevel": "public",
-            "description": "En este cuerpo de datos se detalla los datos recopilados en el censo realizado sobre el total de la población detenida al día 31 de diciembre de cada año, en cada establecimiento de la República Argentina. La unidad de análisis son las personas alojadas en dichos establecimientos.",
-            "license": "Creative Commons Attribution",
-            "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP",
-            "issued": "2017-05-10T20:11:39.990104",
-            "modified": "2017-06-06T19:22:04.734580",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "http://datos.jus.gob.ar/dataset/sistema-nacional-de-estadsticas-sobre-ejecucin-de-la-pena--sneep",
-            "identifier": "d6db6a20-8a03-4fce-a626-6468f87f9596",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/b2c3f47c-b78d-4967-98be-0ab81dd0b415/download/sneep-2015.csv",
-                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2015",
-                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2015",
-                    "issued": "2017-06-06T19:22:04.779794",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/b2c3f47c-b78d-4967-98be-0ab81dd0b415/download/sneep-2015.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/ae511208-8678-45ac-b088-6b2dd5964f4e/download/sneep-2014.csv",
-                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2014",
-                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2014",
-                    "issued": "2017-06-06T19:22:04.779804",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/ae511208-8678-45ac-b088-6b2dd5964f4e/download/sneep-2014.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/f39839a0-cd4a-47a9-bb30-dba81ae61cae/download/sneep-2013.csv",
-                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2013",
-                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2013",
-                    "issued": "2017-06-06T19:22:04.779809",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/f39839a0-cd4a-47a9-bb30-dba81ae61cae/download/sneep-2013.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/e289393f-4bfa-49af-8ba2-dbe64a9ba303/download/sneep-2012.csv",
-                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2012",
-                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2012",
-                    "issued": "2017-06-06T19:22:04.779813",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/e289393f-4bfa-49af-8ba2-dbe64a9ba303/download/sneep-2012.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/0b5cf2e0-de16-4b71-b3c1-99aeb63d8165/download/sneep-2011.csv",
-                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2011",
-                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2011",
-                    "issued": "2017-06-06T19:22:04.779817",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/0b5cf2e0-de16-4b71-b3c1-99aeb63d8165/download/sneep-2011.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/ed1061a5-3d28-4664-82a4-2406231cc0c8/download/sneep-2010.csv",
-                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2010",
-                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2010",
-                    "issued": "2017-06-06T19:22:04.779821",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/ed1061a5-3d28-4664-82a4-2406231cc0c8/download/sneep-2010.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/e8cc11d5-0c05-4958-a791-26005adc9562/download/sneep-2009.csv",
-                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2009",
-                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2009",
-                    "issued": "2017-06-06T19:22:04.779826",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/e8cc11d5-0c05-4958-a791-26005adc9562/download/sneep-2009.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/f627e52e-e55c-4d7f-bb0b-034a474479a9/download/sneep-2008.csv",
-                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2008",
-                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2008",
-                    "issued": "2017-06-06T19:22:04.779830",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/f627e52e-e55c-4d7f-bb0b-034a474479a9/download/sneep-2008.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/d47a67c0-63d7-411d-bd32-19957776f31f/download/sneep-2007.csv",
-                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2007",
-                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2007",
-                    "issued": "2017-06-06T19:22:04.779834",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/d47a67c0-63d7-411d-bd32-19957776f31f/download/sneep-2007.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/4315c359-3c3e-429e-bac6-4ae75dad6965/download/sneep-2006.csv",
-                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2006",
-                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2006",
-                    "issued": "2017-06-06T19:22:04.779838",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/4315c359-3c3e-429e-bac6-4ae75dad6965/download/sneep-2006.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/81209a1c-782e-4e65-b04c-2bcb39f9c316/download/sneep-2005.csv",
-                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2005",
-                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2005",
-                    "issued": "2017-06-06T19:22:04.779842",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/81209a1c-782e-4e65-b04c-2bcb39f9c316/download/sneep-2005.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/124e804b-98c1-4460-ae6a-c392eb7b21a5/download/sneep-2004.csv",
-                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2004",
-                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2004",
-                    "issued": "2017-06-06T19:22:04.779846",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/124e804b-98c1-4460-ae6a-c392eb7b21a5/download/sneep-2004.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/a1170dc3-2c57-4b80-bf7a-438cfc3beefd/download/sneep-2003.csv",
-                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2003",
-                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2003",
-                    "issued": "2017-06-06T19:22:04.779850",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/a1170dc3-2c57-4b80-bf7a-438cfc3beefd/download/sneep-2003.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/0c05bf5b-e547-42bf-8518-9a80a2ea1b45/download/sneep-2002.csv",
-                    "description": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2002",
-                    "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - 2002",
-                    "issued": "2017-06-06T19:22:04.779854",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/0c05bf5b-e547-42bf-8518-9a80a2ea1b45/download/sneep-2002.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Registro Unificado de Víctimas del Terrorismo de Estado"
-            },
-            "accessLevel": "public",
-            "description": "Registro unificado del listado de Víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983 (víctimas de desaparición forzada y de asesinato) y del listado de casos en investigación incluidos en el listado de la Conadep, sin denuncia formal ante la Secretaría de Derechos Humanos y Pluralismo Cultural de la Nación, que revisten la categoría de “presunción de desaparición forzada”.",
-            "license": "Creative Commons Attribution",
-            "title": "Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-",
-            "issued": "2017-05-10T20:11:40.162602",
-            "modified": "2017-06-06T19:21:40.170006",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "http://www.jus.gob.ar/derechoshumanos/areas-tematicas/ruvte.aspx",
-            "identifier": "7db0ea67-4175-4a9f-a2b5-3bb2817373be",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/d43fa140-f43f-4cc2-8491-b1d8bb899de4/resource/c6b674bc-e178-41f3-81f5-0f10038e1688/download/victimas-accionar-represivo-ilegal.csv",
-                    "description": "Listado de víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983 (víctimas de desaparición forzada y de asesinato).",
-                    "title": "Listado de víctimas del accionar represivo ilegal",
-                    "issued": "2017-06-06T19:21:40.186889",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/d43fa140-f43f-4cc2-8491-b1d8bb899de4/resource/c6b674bc-e178-41f3-81f5-0f10038e1688/download/victimas-accionar-represivo-ilegal.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/d43fa140-f43f-4cc2-8491-b1d8bb899de4/resource/4c66093d-1293-4c44-a4c4-4cc1d914127e/download/victimas-accionar-represivo-ilegal-sin-denuncia-formal.csv",
-                    "description": "Listado de casos en investigación incluidos en el listado de la Conadep sin denuncia formal ante la Secretaría de Derechos Humanos y Pluralismo Cultural de la Nación, que revisten la categoría de “presunción de desaparición forzada”.",
-                    "title": "Listado de víctimas del accionar represivo ilegal sin denuncia formal",
-                    "issued": "2017-06-06T19:21:40.186898",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/d43fa140-f43f-4cc2-8491-b1d8bb899de4/resource/4c66093d-1293-4c44-a4c4-4cc1d914127e/download/victimas-accionar-represivo-ilegal-sin-denuncia-formal.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Dirección Nacional de Asuntos Jurídicos en materia de Derechos Humanos. Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género"
-            },
-            "accessLevel": "public",
-            "description": "Se registran los femicidios y homicidios agravados por el género desde el año 2012 a la fecha. La base se nutre de diversas fuentes: artículos de prensa escrita, denuncias policiales y judiciales, denuncias realizadas ante la Secretaría de Derechos Humanos.",
-            "license": "Creative Commons Attribution",
-            "title": "Registro, Sistematización y Seguimiento de Femicidios y Homicidios Agravados por el Género",
-            "issued": "2017-05-10T20:11:39.600763",
-            "modified": "2017-06-06T19:21:23.199008",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "http://datos.jus.gob.ar/dataset/registro-sistematizacin-y-seguimiento-de-femicidios-y-homicidios-agravados-por-el-gnero",
-            "identifier": "167e9841-3644-49f5-8226-706a71930a45",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/27bb9b2c-521b-406c-bdf9-98110ef73f34/resource/9a06c428-8552-42fe-86e1-487bca9b712c/download/registro-de-femicidios.csv",
-                    "description": "Esta base registra los femicidios y homicidios agravados por el género desde el año 2012 a la fecha.",
-                    "title": "Registro, Sistematización y Seguimiento de  Femicidios y Homicidios Agravados por el Género",
-                    "issued": "2017-06-06T19:21:23.214413",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/27bb9b2c-521b-406c-bdf9-98110ef73f34/resource/9a06c428-8552-42fe-86e1-487bca9b712c/download/registro-de-femicidios.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción."
-            },
-            "accessLevel": "public",
-            "description": "En este conjunto de datos se detalla el registro de viajes de los funcionarios públicos financiados por terceros a partir de la implementación del Decreto 1179/16, reglamentario de la Ley de Ética en el Ejercicio de la Función Pública N° 25.188.",
-            "license": "Creative Commons Attribution",
-            "title": "Registro de Viajes Fincianciados por Terceros",
-            "issued": "2017-05-11T19:22:57.505613",
-            "modified": "2017-06-06T19:21:10.559010",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos",
-            "identifier": "12d96c60-2242-4eab-86d6-e5fd49c32b15",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/4e1e49d5-686d-49bc-91d1-90bcf6d95658/download/registroviajesfinanciadosterceros.csv",
-                    "description": "Detalle del registro de viajes de los funcionarios públicos financiados por terceros a partir de la implementación del Decreto 1179/16, reglamentario de la Ley de Ética en el Ejercicio de la Función Pública N° 25.188",
-                    "title": "Registro de viajes financiados por terceros",
-                    "issued": "2017-06-06T19:21:10.574648",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/4e1e49d5-686d-49bc-91d1-90bcf6d95658/download/registroviajesfinanciadosterceros.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción."
-            },
-            "accessLevel": "public",
-            "description": "Conjunto de datos que detalla los obsequios a funcionarios públicos registrados en el ámbito de la Oficina Anticorrupción",
-            "license": "Creative Commons Attribution",
-            "title": "Registro de Obsequios a Funcionarios Públicos",
-            "issued": "2017-05-11T19:22:57.195884",
-            "modified": "2017-06-06T19:20:54.722178",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos",
-            "identifier": "327f76eb-7530-4653-907b-610a3bdcd661",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/7c268f77-e007-43ba-8a18-d50ef022f8e3/resource/a861d92f-272b-4c9f-8f2f-52946558d337/download/registroobsequiosfuncionariospublicos.csv",
-                    "description": "Conjunto de datos que detalla los obsequios a funcionarios públicos registrados en el ámbito de la Oficina Anticorrupción",
-                    "title": "Registro de obsequios a funcionarios públicos",
-                    "issued": "2017-06-06T19:20:54.737453",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/7c268f77-e007-43ba-8a18-d50ef022f8e3/resource/a861d92f-272b-4c9f-8f2f-52946558d337/download/registroobsequiosfuncionariospublicos.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos."
-            },
-            "accessLevel": "public",
-            "description": "En este conjunto de datos se detalla la cantidad de mediaciones prejudiciales y judiciales (remitidas por el Juez una vez iniciado el juicio) registradas en el Sistema Mepre, que está operativo desde febrero de 2014 y que registra la totalidad de las mediaciones prejudiciales efectuadas desde la fecha de su implementación.",
-            "license": "Creative Commons Attribution",
-            "title": "Estadística de Mediaciones Prejudiciales y Judiciales",
-            "issued": "2017-05-10T20:11:39.991995",
-            "modified": "2017-06-06T19:20:34.176302",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "http://datos.jus.gob.ar/dataset/estadstica-de-mediaciones-prejudiciales-y-judiciales",
-            "identifier": "009d6174-dab1-4f9d-870b-282635ff4770",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/fee87e15-3d5b-4d30-a29f-2dd8815fc015/download/estadistica-mediaciones-prejudiciales-y-judiciales.csv",
-                    "description": "Estadística de mediaciones prejudiciales y judiciales efectuadas desde febrero de 2014",
-                    "title": "Estadística de mediaciones prejudiciales y judiciales",
-                    "issued": "2017-06-06T19:20:34.191772",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/fee87e15-3d5b-4d30-a29f-2dd8815fc015/download/estadistica-mediaciones-prejudiciales-y-judiciales.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
-            },
-            "accessLevel": "public",
-            "description": "En este conjunto de datos se detalla la estructura y la nómina de jueces, fiscales y defensores de la justicia nacional y de la justicia federal de la República Argentina, estado de cobertura de cargos, estado de los concursos destinados a cubrir los cargos que se encuentran vacantes, decretos y/o resoluciones de designación y/o traslado de los jueces, fiscales o defensoresos y presidente y ministro en funciones al momento de la designación.",
-            "license": "Creative Commons Attribution",
-            "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
-            "issued": "2017-05-10T20:11:39.801773",
-            "modified": "2017-06-06T19:20:13.349873",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "http://datos.jus.gob.ar/dataset/magistrados-de-la-justicia-federal-y-de-la-justicia-nacional",
-            "identifier": "9dc77157-599d-4b50-9495-87222e1b9556",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional.csv",
-                    "description": "Listado actual de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional. No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación.",
-                    "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
-                    "issued": "2017-06-06T19:20:13.368725",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/ac34ee63-7e86-4f15-b57b-c6a35f71ea6e/download/magistrados-justicia-federal-nacional-designaciones.csv",
-                    "description": "Designacion de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
-                    "title": "Designación de magistrados de la Justicia Federal y de la Justicia Nacional",
-                    "issued": "2017-06-06T19:20:13.368733",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/ac34ee63-7e86-4f15-b57b-c6a35f71ea6e/download/magistrados-justicia-federal-nacional-designaciones.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/551c8132-4aef-419a-8f7b-020bb613980b/download/magistrados-justicia-federal-nacional-renuncias.csv",
-                    "description": "Renuncia de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
-                    "title": "Renuncia de magistrados de la Justicia Federal y de la Justicia Nacional",
-                    "issued": "2017-06-06T19:20:13.368738",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/551c8132-4aef-419a-8f7b-020bb613980b/download/magistrados-justicia-federal-nacional-renuncias.csv"
                 }
             ]
         },
