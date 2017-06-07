@@ -245,6 +245,42 @@
         },
         {
             "publisher": {
+                "mbox": "sitiodelciudadano@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Hacienda. Subsecretaría de Presupuesto."
+            },
+            "landingPage": "http://sitiodelciudadano.mecon.gov.ar/sici/set_de_datos_vigente.html",
+            "description": "Cálculo de Recursos y su ejecución diaria acumulada con clasificadores completos.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Cálculo de Recursos y su Ejecución completo de la Administración Pública Nacional",
+            "issued": "2017-06-07T16:22:42.116611",
+            "modified": "2017-06-07T16:25:05.298228",
+            "theme": [
+                "econ",
+                "gove"
+            ],
+            "keyword": [],
+            "contactPoint": {
+                "hasEmail": "sitiodelciudadano@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Hacienda. Subsecretaría de Presupuesto."
+            },
+            "identifier": "31d634bb-ebb9-4787-a6a5-620d0bf86a1d",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/31d634bb-ebb9-4787-a6a5-620d0bf86a1d/resource/6ce9bd62-9bf3-4628-9433-8bff0ba02c0f",
+                    "description": "Contiene el cálculo de Recursos y su ejecución diaria acumulada con clasificadores completos correspondientes al Ejercicio Vigente. Los importes se encuentran expresados en millones de pesos. Sin Aplicaciones ni Fuentes Financieras ni Contribuciones y Gastos Figurativos.",
+                    "title": "Cálculo de Recursos y su Ejecución completo de la Administración Pública Nacional del Ejercicio Vigente",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://sitiodelciudadano.mecon.gov.ar/datasets/dgsiaf_ejecucion_recurso_completo.zip",
+                    "issued": "2017-06-07T16:25:04.999357",
+                    "identifier": "6ce9bd62-9bf3-4628-9433-8bff0ba02c0f"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "",
                 "name": "ARSAT"
             },
@@ -434,6 +470,48 @@
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-FEDER-DE-INTER-TRAZA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
                     "issued": "2017-06-07T03:02:14.482658",
                     "identifier": "cfab98e7-80fb-48ed-8c36-f61b97b3d45c"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "sitiodelciudadano@mecon.gov.ar",
+                "name": "Ministerio de Hacienda. Secretaría de Hacienda. Subsecretaría de Presupuesto."
+            },
+            "landingPage": "",
+            "description": "Distribución diaria acumulada de los créditos presupuestarios con clasificadores completos.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Crédito y Gasto completo del Presupuesto de la Administración Pública Nacional",
+            "issued": "2017-06-07T16:15:03.666753",
+            "modified": "2017-06-07T16:15:46.352744",
+            "theme": [
+                "econ",
+                "gove"
+            ],
+            "keyword": [
+                "créditos",
+                "economía",
+                "finanzas",
+                "gastos",
+                "presupuestos"
+            ],
+            "contactPoint": {
+                "hasEmail": "sitiodelciudadano@mecon.gov.ar",
+                "fn": "Ministerio de Hacienda. Secretaría de Hacienda. Subsecretaría de Presupuesto."
+            },
+            "identifier": "18b9d0e1-b3a4-44e6-9415-2f06b7bd5702",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/18b9d0e1-b3a4-44e6-9415-2f06b7bd5702/resource/abc7d9e5-9e66-41c4-b35a-0e1e05f4ca66",
+                    "description": "Contiene la distribución diaria acumulada de los créditos presupuestarios con clasificadores completos correspondientes al Ejercicio Vigente.",
+                    "title": "Crédito y Gasto completo del Presupuesto de la Administración Pública Nacional",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://sitiodelciudadano.mecon.gov.ar/datasets/dgsiaf_ejecucion_credito_completo.zip",
+                    "issued": "2017-06-07T16:15:46.104127",
+                    "identifier": "abc7d9e5-9e66-41c4-b35a-0e1e05f4ca66"
                 }
             ]
         },
@@ -1049,7 +1127,7 @@
             "license": "ODbL-1.0",
             "title": "Ejecución Presupuestaria de la Administración Pública Nacional",
             "issued": "2016-03-07T21:17:11.594671",
-            "modified": "2017-05-23T13:31:19.082748",
+            "modified": "2017-06-07T16:45:32.782024",
             "theme": [
                 "econ",
                 "gove"
@@ -1066,13 +1144,25 @@
             "identifier": "89f1a2dd-ad79-4211-87b4-44661d81ac0d",
             "distribution": [
                 {
+                    "accessURL": "http://datos.gob.ar/dataset/89f1a2dd-ad79-4211-87b4-44661d81ac0d/resource/d5996e85-b6f9-4a92-a99d-d2b5eb4a7996",
+                    "description": "Distribución resumida de los créditos presupuestarios y su ejecución anual acumulada a la fecha.",
+                    "title": "Presupuesto de Gastos de la Administración Pública Nacional del Ejercicio Vigente",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://sitiodelciudadano.mecon.gov.ar/datasets/dgsiaf_gastos_listado_general.zip",
+                    "issued": "2017-06-07T16:03:04.272880",
+                    "identifier": "d5996e85-b6f9-4a92-a99d-d2b5eb4a7996"
+                },
+                {
                     "accessURL": "http://datos.gob.ar/dataset/89f1a2dd-ad79-4211-87b4-44661d81ac0d/resource/b0c58264-64f3-4ee8-a642-7208745f8fa7",
                     "description": "Distribución de los créditos presupuestarios y ejecución semanal correspondientes al año 2017.",
                     "title": "Presupuesto Nacional Año 2017",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-03-10T15:31:53.276054",
+                    "modified": "2017-06-07T16:45:32.767697",
                     "downloadURL": "http://datos.gob.ar/dataset/89f1a2dd-ad79-4211-87b4-44661d81ac0d/resource/b0c58264-64f3-4ee8-a642-7208745f8fa7/download/presupuesto-2017.csv",
                     "issued": "2017-02-07T14:17:20.423568",
                     "identifier": "b0c58264-64f3-4ee8-a642-7208745f8fa7"
@@ -2052,7 +2142,7 @@
             "license": "ODbL-1.0",
             "title": "Estructura Orgánica y Autoridades del Poder Ejecutivo Nacional",
             "issued": "2016-03-07T22:09:06.225695",
-            "modified": "2017-01-20T17:41:13.303585",
+            "modified": "2017-06-07T16:58:36.075406",
             "theme": [
                 "gove"
             ],
@@ -2069,6 +2159,18 @@
             },
             "identifier": "ad5b0e15-a9ed-40d5-9827-33a0ece12433",
             "distribution": [
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/ad5b0e15-a9ed-40d5-9827-33a0ece12433/resource/69d4588a-0ed9-48bb-95c3-b3929121cf0d",
+                    "description": "Estructura orgánica y autoridades del Poder Ejecutivo Nacional a la fecha.",
+                    "title": "Estructura Orgánica y Autoridades del PEN Vigentes",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": null,
+                    "downloadURL": "http://mapadelestado.modernizacion.gob.ar/dataset/gobiernoabierto/estructura_autoridades_apn.csv",
+                    "issued": "2017-06-07T16:56:37.315359",
+                    "identifier": "69d4588a-0ed9-48bb-95c3-b3929121cf0d"
+                },
                 {
                     "accessURL": "http://datos.gob.ar/dataset/ad5b0e15-a9ed-40d5-9827-33a0ece12433/resource/b705d8c1-650f-43cc-bde6-68850fcecd21",
                     "description": " Estructura orgánica y autoridades del Poder Ejecutivo Nacional.",
