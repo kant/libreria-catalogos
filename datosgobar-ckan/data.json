@@ -13,11 +13,11 @@
                 "name": "Ministerio de Modernización. Secretaría  de Empleo Público. Dirección Nacional de Gestión de Información y Política Salarial"
             },
             "landingPage": "Ministerio de Modernización. Secretaría  de Empleo Público.Dirección Nacional de Gestión de Información y Política Salarial",
-            "description": "Asignación salarial mensual (bruta)* de las Autoridades Superiores del Poder Ejecutivo Nacional.\r\n\r\n*En la liquidación correspondiente al mes de Enero, los Sres. Ministros Aguad, Oscar (Comunicaciones); Aranguren, Juan (Energía y Minería; Frigerio, Rogelio (Interior, Obras Públicas y Vivienda); y Dietrich, Guillermo (Transporte) tienen incluido el proporcional de la liquidación del mes de Diciembre y el Sueldo Anual Complementario.\r\n\r\n*En los meses posteriores, las diferencias en la asignación salarial corresponden al pago del concepto de desarraigo (valor actualizado a partir de septiembre de 2016), tanto para el Ministro Aguad, Oscar (Comunicaciones), como para los Sres. Ministros Santos, José (Turismo),  Buryaile, Ricardo (Agroindustria) y  Martinez, Julio (Defensa), a quien no se aplica actualización.",
+            "description": "Asignación salarial mensual bruta de las Autoridades Superiores del Poder Ejecutivo Nacional.",
             "license": "ODbL-1.0",
             "title": "Asignación Salarial de las Autoridades Superiores del Poder Ejecutivo Nacional",
             "issued": "2016-06-15T18:34:54.361766",
-            "modified": "2017-03-10T15:02:38.448453",
+            "modified": "2017-06-08T14:55:20.467626",
             "theme": [
                 "gove"
             ],
@@ -35,8 +35,20 @@
             "identifier": "431381cc-3c5b-49ba-bf77-47bf658cd640",
             "distribution": [
                 {
-                    "accessURL": "http://datos.gob.ar/dataset/431381cc-3c5b-49ba-bf77-47bf658cd640/resource/d3fe3a9a-551b-407d-ba19-bfbad00f86e5",
+                    "accessURL": "http://datos.gob.ar/dataset/431381cc-3c5b-49ba-bf77-47bf658cd640/resource/c2a7e8bd-0f41-4401-a67f-f63c3bd3cdb8",
                     "description": "Asignación salarial mensual de las Autoridades Superiores del Poder Ejecutivo Nacional.",
+                    "title": "Asignación Salarial de las Autoridades del Poder Ejecutivo Nacional 2017",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-08T14:52:01.808272",
+                    "downloadURL": "http://datos.gob.ar/dataset/431381cc-3c5b-49ba-bf77-47bf658cd640/resource/c2a7e8bd-0f41-4401-a67f-f63c3bd3cdb8/download/salarios-2017.csv",
+                    "issued": "2017-06-08T14:52:01.851033",
+                    "identifier": "c2a7e8bd-0f41-4401-a67f-f63c3bd3cdb8"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/431381cc-3c5b-49ba-bf77-47bf658cd640/resource/d3fe3a9a-551b-407d-ba19-bfbad00f86e5",
+                    "description": "Asignación salarial mensual de las Autoridades Superiores del Poder Ejecutivo Nacional.\r\n\r\n*En la liquidación correspondiente al mes de Enero, los Sres. Ministros Aguad, Oscar (Comunicaciones); Aranguren, Juan (Energía y Minería; Frigerio, Rogelio (Interior, Obras Públicas y Vivienda); y Dietrich, Guillermo (Transporte) tienen incluido el proporcional de la liquidación del mes de Diciembre y el Sueldo Anual Complementario.\r\n\r\n*En los meses posteriores, las diferencias en la asignación salarial corresponden al pago del concepto de desarraigo (valor actualizado a partir de septiembre de 2016), tanto para el Ministro Aguad, Oscar (Comunicaciones), como para los Sres. Ministros Santos, José (Turismo),  Buryaile, Ricardo (Agroindustria) y  Martinez, Julio (Defensa), a quien no se aplica actualización.",
                     "title": "Asignación Salarial de las Autoridades del Poder Ejecutivo Nacional 2016",
                     "byteSize": null,
                     "format": "CSV",
