@@ -1,11 +1,11 @@
 
-# Catálogo: DatosPPN
+# Catálogo: Datos PPN
 
 ## Información General
 
-- **Autor**: 
+- **Autor**: PPN
 - **Correo Electrónico**: info@ppn.gov.ar
-- **Nombre del catálogo**: DatosPPN
+- **Nombre del catálogo**: Datos PPN
 - **Descripción**:
 
 > Portal de la Procuración Penitenciaria de la Nación que pone a disposición información relativa a los derechos de las personas privadas de su libertad según los estándares internacionales de datos abiertos.
@@ -14,7 +14,7 @@
 
 Estado metadatos globales | Estado metadatos catálogo | # de Datasets | # de Distribuciones
 --------------------------|---------------------------|---------------|--------------------
-ERROR | ERROR | 16 | 19
+ERROR | OK | 17 | 20
 
 ## Datasets incluidos
 
