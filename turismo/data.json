@@ -10,6 +10,98 @@
         {
             "publisher": {
                 "mbox": "",
+                "name": "Dirección Nacional de Agencias de Viajes"
+            },
+            "accessLevel": "public",
+            "description": "Datos correspondientes a las agencias de viajes autorizadas.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Agencias de viajes",
+            "issued": "2017-05-26T18:39:42.575035",
+            "modified": "2017-06-14T16:27:05.661918",
+            "theme": [
+                "Agencias de viajes"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.yvera.gob.ar/dataset/8e349aca-c945-4448-bf98-e055a939ca36/resource/d68226a8-cc9f-4e6b-ac6d-41c58e47c85e/download/agencias-20170302.csv",
+                    "description": "Listado de agencias de viajes autorizadas al 02/03/2017.",
+                    "title": "Agencias de viajes",
+                    "issued": "2017-05-26T18:40:44.317511",
+                    "format": "CSV",
+                    "modified": "2017-05-26T18:40:44.299978",
+                    "downloadURL": "http://datos.yvera.gob.ar/dataset/8e349aca-c945-4448-bf98-e055a939ca36/resource/d68226a8-cc9f-4e6b-ac6d-41c58e47c85e/download/agencias-20170302.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Número de legajo",
+                            "title": "nro_legajo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de agencia. Posibles valores: EVT (Empresa de viajes y turismo), AT (Agencia de turismo), AP (Agencia de pasajes), ESFL (Entidad sin fines de lucro).",
+                            "title": "tipo_agencia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la agencia",
+                            "title": "agencia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Razón social",
+                            "title": "razon_social"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Domicilio completo. Incluye la ciudad.",
+                            "title": "domicilio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Ciudad",
+                            "title": "ciudad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia",
+                            "title": "provincia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Código postal",
+                            "title": "codigo_postal"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Característica telefónica (código interurbano)",
+                            "title": "telefono_caracteristica"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Teléfono",
+                            "title": "telefono"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "CUIT",
+                            "title": "cuit"
+                        }
+                    ]
+                }
+            ],
+            "superTheme": [
+                "GOVE"
+            ],
+            "accrualPeriodicity": "R/P1D",
+            "landingPage": "http://datos.yvera.gob.ar/dataset/agencias-de-viajes",
+            "identifier": "8e349aca-c945-4448-bf98-e055a939ca36",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "",
                 "name": "Subsecretaría de Innovación y Tecnología"
             },
             "accessLevel": "public",
@@ -88,76 +180,41 @@
             "contactPoint": {
                 "@type": "vcard:Contact"
             }
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Dirección Nacional de Agencias de Viajes"
-            },
-            "accessLevel": "public",
-            "description": "Datos correspondientes a las agencias de viajes autorizadas.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Agencias de viajes",
-            "issued": "2017-05-26T18:39:42.575035",
-            "modified": "2017-05-26T18:46:51.387122",
-            "theme": [
-                "Agencias de viajes"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.yvera.gob.ar/dataset/8e349aca-c945-4448-bf98-e055a939ca36/resource/d68226a8-cc9f-4e6b-ac6d-41c58e47c85e/download/agencias-20170302.csv",
-                    "description": "Listado de agencias de viajes autorizadas al 02/03/2017.",
-                    "title": "Agencias de viajes",
-                    "issued": "2017-05-26T18:40:44.317511",
-                    "format": "CSV",
-                    "modified": "2017-05-26T18:40:44.299978",
-                    "downloadURL": "http://datos.yvera.gob.ar/dataset/8e349aca-c945-4448-bf98-e055a939ca36/resource/d68226a8-cc9f-4e6b-ac6d-41c58e47c85e/download/agencias-20170302.csv"
-                }
-            ],
-            "superTheme": [
-                "GOVE"
-            ],
-            "accrualPeriodicity": "R/P1D",
-            "landingPage": "http://datos.yvera.gob.ar/dataset/agencias-de-viajes",
-            "identifier": "8e349aca-c945-4448-bf98-e055a939ca36",
-            "contactPoint": {
-                "@type": "vcard:Contact"
-            }
         }
     ],
     "themeTaxonomy": [
         {
-            "description": "Listado de agencias de viajes. ",
+            "description": "Agencias de viaje autorizadas",
             "id": "agencias-de-viajes",
             "label": "Agencias de viajes"
         },
         {
-            "description": "",
+            "description": "Datos de Calidad Turística y Formación",
             "id": "calidad",
             "label": "Calidad"
         },
         {
-            "description": "",
+            "description": "Datos de estadísticas turísticas y estudios de mercados",
             "id": "estadisticas",
             "label": "Estadísticas"
         },
         {
-            "description": "",
+            "description": "Datos de proyectos de innovación, emprendedores y tecnología",
             "id": "innovacion-y-tecnologia",
             "label": "Innovación y Tecnología"
         },
         {
-            "description": "",
+            "description": "Datos de inversiones turísticas",
             "id": "inversiones",
             "label": "Inversiones"
         },
         {
-            "description": "",
+            "description": "Datos sobre promoción turística nacional e internacional",
             "id": "promocion",
             "label": "Promoción"
         },
         {
-            "description": "",
+            "description": "Datos generales de turismo",
             "id": "turismo",
             "label": "Turismo"
         }
