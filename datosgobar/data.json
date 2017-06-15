@@ -9,6 +9,130 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "allamosa@jus.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos."
+            },
+            "accessLevel": "public",
+            "description": "En este conjunto de datos se detalla la cantidad de mediaciones prejudiciales y judiciales (remitidas por el Juez una vez iniciado el juicio) registradas en el Sistema Mepre, que está operativo desde febrero de 2014 y que registra la totalidad de las mediaciones prejudiciales efectuadas desde la fecha de su implementación.",
+            "license": "Creative Commons Attribution",
+            "title": "Estadística de Mediaciones Prejudiciales y Judiciales",
+            "issued": "2017-05-10T20:11:39.991995",
+            "modified": "2017-06-15T03:05:43.317017",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "landingPage": "http://datos.jus.gob.ar/dataset/estadstica-de-mediaciones-prejudiciales-y-judiciales",
+            "identifier": "009d6174-dab1-4f9d-870b-282635ff4770",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/fee87e15-3d5b-4d30-a29f-2dd8815fc015/download/mediaciones-prejudiciales-y-judiciales.csv",
+                    "description": "Estadística de mediaciones prejudiciales y judiciales efectuadas desde febrero de 2014",
+                    "title": "Estadística de mediaciones prejudiciales y judiciales",
+                    "issued": "2017-06-15T03:05:43.338180",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/fee87e15-3d5b-4d30-a29f-2dd8815fc015/download/mediaciones-prejudiciales-y-judiciales.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "fmichele@dnrec.jus.gov.ar",
+                "name": "Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Direccion Nacional Registro Nacional de Reincidencia"
+            },
+            "accessLevel": "public",
+            "description": "La base Co.Na.R.C., creada a partir de la sanción del decreto 346/2009, se conforma con las comunicaciones que los tribunales realizan al Registro Nacional de Reincidencia de toda medida restrictiva a la libertad ambulatoria que se dicta en el marco de una causa penal, en cualquier jurisdicción del país (ámbito federal, nacional, provincial y de la CABA).  La base sólo refleja las órdenes de detención vigentes hasta las 7:00 hs. de la fecha de actualización.",
+            "license": "Creative Commons Attribution",
+            "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
+            "issued": "2017-05-10T20:11:40.398833",
+            "modified": "2017-06-15T03:04:47.162168",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "landingPage": "http://datos.jus.gob.ar/dataset/sistema-de-consulta-nacional-de-rebeldas-y-capturas---conarc",
+            "identifier": "2b3f30d7-7124-494a-b08c-a1cfc2d49aa3",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv",
+                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 14-06-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
+                    "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
+                    "issued": "2017-06-15T03:04:47.183638",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "rcoutenceau@jus.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia"
+            },
+            "accessLevel": "public",
+            "description": "Este conjunto de datos contiene la información correspondiente a los Centros de Acceso a la Justicia -CAJ- que están activos. Los CAJ tienen por objetivo promover y facilitar el acceso a la justicia de los sectores más vulnerables, a través de asesoramiento y atención profesional, ya sea jurídico o psicosocial.",
+            "license": "Creative Commons Attribution",
+            "title": "Centros de Acceso a la Justicia -CAJ-",
+            "issued": "2017-05-10T20:11:36.415358",
+            "modified": "2017-06-15T03:04:33.417479",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "landingPage": "http://www.jus.gob.ar/accesoalajusticia.aspx",
+            "identifier": "caea48b6-9637-4dc9-acf2-af0be6a99209",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/9775fcdf-99b9-47f6-87ae-6d46cfd15b40/resource/906a1daf-cb0c-4765-98d4-40b0f8caf48b/download/centros-acceso-justicia-activos.csv",
+                    "description": "Centros de Acceso a la Justicia activos",
+                    "title": "Centros de Acceso a la Justicia (CAJ)",
+                    "issued": "2017-06-15T03:04:33.437331",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/9775fcdf-99b9-47f6-87ae-6d46cfd15b40/resource/906a1daf-cb0c-4765-98d4-40b0f8caf48b/download/centros-acceso-justicia-activos.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "accessLevel": "public",
+            "description": "Honorarios de Directores de ARSAT",
+            "license": "Creative Commons Attribution",
+            "title": "Honorarios de Directores",
+            "issued": "2017-05-16T01:01:35.328339",
+            "modified": "2017-06-15T03:00:10.495559",
+            "theme": [
+                "Ciencia y tecnología"
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/",
+            "identifier": "20cc8f21-744a-43c2-a0c2-cc78d01e598a",
+            "distribution": [
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Honorarios de Directores de ARSAT",
+                    "title": "Honorarios de Directores",
+                    "issued": "2017-06-15T03:00:10.566123",
+                    "format": "CSV",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Honorarios de Directores de ARSAT",
+                    "title": "Honorarios de Directores",
+                    "issued": "2017-06-15T03:00:10.566134",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Honorarios de Directores de ARSAT",
+                    "title": "Honorarios de Directores",
+                    "issued": "2017-06-15T03:00:10.566139",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "dnpcvi@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional"
             },
@@ -394,33 +518,6 @@
                     "issued": "2017-06-14T16:10:24.737893",
                     "format": "CSV",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/7c268f77-e007-43ba-8a18-d50ef022f8e3/resource/a861d92f-272b-4c9f-8f2f-52946558d337/download/registroobsequiosfuncionariospublicos.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "allamosa@jus.gov.ar",
-                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos."
-            },
-            "accessLevel": "public",
-            "description": "En este conjunto de datos se detalla la cantidad de mediaciones prejudiciales y judiciales (remitidas por el Juez una vez iniciado el juicio) registradas en el Sistema Mepre, que está operativo desde febrero de 2014 y que registra la totalidad de las mediaciones prejudiciales efectuadas desde la fecha de su implementación.",
-            "license": "Creative Commons Attribution",
-            "title": "Estadística de Mediaciones Prejudiciales y Judiciales",
-            "issued": "2017-05-10T20:11:39.991995",
-            "modified": "2017-06-14T16:10:11.120746",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "http://datos.jus.gob.ar/dataset/estadstica-de-mediaciones-prejudiciales-y-judiciales",
-            "identifier": "009d6174-dab1-4f9d-870b-282635ff4770",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/fee87e15-3d5b-4d30-a29f-2dd8815fc015/download/estadistica-mediaciones-prejudiciales-y-judiciales.csv",
-                    "description": "Estadística de mediaciones prejudiciales y judiciales efectuadas desde febrero de 2014",
-                    "title": "Estadística de mediaciones prejudiciales y judiciales",
-                    "issued": "2017-06-14T16:10:11.141495",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/a9767469-d903-4158-aa76-b21dd37e8aff/resource/fee87e15-3d5b-4d30-a29f-2dd8815fc015/download/estadistica-mediaciones-prejudiciales-y-judiciales.csv"
                 }
             ]
         },
@@ -1081,60 +1178,6 @@
                     "issued": "2017-06-14T16:09:00.843076",
                     "format": "CSV",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/daad6625-2610-4d7e-b4fc-45a235e48f07/download/declaraciones-juradas-2012.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "fmichele@dnrec.jus.gov.ar",
-                "name": "Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Direccion Nacional Registro Nacional de Reincidencia"
-            },
-            "accessLevel": "public",
-            "description": "La base Co.Na.R.C., creada a partir de la sanción del decreto 346/2009, se conforma con las comunicaciones que los tribunales realizan al Registro Nacional de Reincidencia de toda medida restrictiva a la libertad ambulatoria que se dicta en el marco de una causa penal, en cualquier jurisdicción del país (ámbito federal, nacional, provincial y de la CABA).  La base sólo refleja las órdenes de detención vigentes hasta las 7:00 hs. de la fecha de actualización.",
-            "license": "Creative Commons Attribution",
-            "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
-            "issued": "2017-05-10T20:11:40.398833",
-            "modified": "2017-06-14T16:08:51.341101",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "http://datos.jus.gob.ar/dataset/sistema-de-consulta-nacional-de-rebeldas-y-capturas---conarc",
-            "identifier": "2b3f30d7-7124-494a-b08c-a1cfc2d49aa3",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv",
-                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 09-06-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
-                    "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
-                    "issued": "2017-06-14T16:08:51.362377",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "rcoutenceau@jus.gov.ar",
-                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia"
-            },
-            "accessLevel": "public",
-            "description": "Este conjunto de datos contiene la información correspondiente a los Centros de Acceso a la Justicia -CAJ- que están activos. Los CAJ tienen por objetivo promover y facilitar el acceso a la justicia de los sectores más vulnerables, a través de asesoramiento y atención profesional, ya sea jurídico o psicosocial.",
-            "license": "Creative Commons Attribution",
-            "title": "Centros de Acceso a la Justicia -CAJ-",
-            "issued": "2017-05-10T20:11:36.415358",
-            "modified": "2017-06-14T16:08:40.858061",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "http://www.jus.gob.ar/accesoalajusticia.aspx",
-            "identifier": "caea48b6-9637-4dc9-acf2-af0be6a99209",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/9775fcdf-99b9-47f6-87ae-6d46cfd15b40/resource/906a1daf-cb0c-4765-98d4-40b0f8caf48b/download/centros-acceso-justicia-activos.csv",
-                    "description": "Centros de Acceso a la Justicia activos",
-                    "title": "Centros de Acceso a la Justicia (CAJ)",
-                    "issued": "2017-06-14T16:08:40.877229",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/9775fcdf-99b9-47f6-87ae-6d46cfd15b40/resource/906a1daf-cb0c-4765-98d4-40b0f8caf48b/download/centros-acceso-justicia-activos.csv"
                 }
             ]
         },
@@ -2409,49 +2452,6 @@
                     "issued": "2017-06-14T16:01:53.239432",
                     "format": "JSON",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-DE-LA-EMPRE/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "accessLevel": "public",
-            "description": "Honorarios de Directores de ARSAT",
-            "license": "Creative Commons Attribution",
-            "title": "Honorarios de Directores",
-            "issued": "2017-05-16T01:01:35.328339",
-            "modified": "2017-06-14T16:01:39.482584",
-            "theme": [
-                "Ciencia y tecnología"
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/",
-            "identifier": "20cc8f21-744a-43c2-a0c2-cc78d01e598a",
-            "distribution": [
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Honorarios de Directores de ARSAT",
-                    "title": "Honorarios de Directores",
-                    "issued": "2017-06-14T16:01:39.517158",
-                    "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Honorarios de Directores de ARSAT",
-                    "title": "Honorarios de Directores",
-                    "issued": "2017-06-14T16:01:39.517168",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Honorarios de Directores de ARSAT",
-                    "title": "Honorarios de Directores",
-                    "issued": "2017-06-14T16:01:39.517173",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ]
         },
