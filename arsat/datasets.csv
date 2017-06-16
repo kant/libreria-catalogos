@@ -1,8 +1,8 @@
 indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
-0,Honorarios de Directores,http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
-1,Megabits de velocidad entregados por provincia,http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
-2,Escuelas conectadas,http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
-3,Escuelas de próxima conexión,http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+0,Escuelas conectadas,http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+1,Escuelas de próxima conexión,http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+2,Honorarios de Directores,http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+3,Megabits de velocidad entregados por provincia,http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
 4,Registro de Audiencias,http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-AUDIE-GESTI-DE/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
 5,Registro de Visitas,http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
 6,Porcentaje de avance del Plan,http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
