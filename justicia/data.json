@@ -298,6 +298,51 @@
         },
         {
             "publisher": {
+                "mbox": "oficinadecretos@jus.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
+            },
+            "landingPage": "",
+            "description": "Información de las designaciones de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Designaciones de Magistrados de la Justicia Federal y la Justicia Nacional",
+            "issued": "2017-06-16T13:36:42.787601",
+            "modified": "2017-06-19T16:59:27.886276",
+            "theme": [],
+            "keyword": [
+                "cargo",
+                "defensor",
+                "designaciones",
+                "federal",
+                "fiscal",
+                "judicial",
+                "juez",
+                "justicia",
+                "magistrado",
+                "nacional"
+            ],
+            "accrualPeriodicity": "eventual",
+            "contactPoint": {
+                "hasEmail": "oficinadecretos@jus.gov.ar",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
+            },
+            "identifier": "9f397011-5459-4f1c-b88e-9f48f7824e03",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/9f397011-5459-4f1c-b88e-9f48f7824e03/resource/8ae99ce6-d122-4d3b-a32e-d4f20ca742ba",
+                    "description": "Información de las designaciones de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
+                    "title": "Designaciones de Magistrados de la Justicia Federal y de la Justicia Nacional - Estado al 2017-05-19",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-16T10:39:03.734848",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/9f397011-5459-4f1c-b88e-9f48f7824e03/resource/8ae99ce6-d122-4d3b-a32e-d4f20ca742ba/download/magistrados-justicia-federal-nacional-designaciones.csv",
+                    "issued": "2017-06-16T10:39:03.887951",
+                    "identifier": "8ae99ce6-d122-4d3b-a32e-d4f20ca742ba"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "dmiralles@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia"
             },
@@ -1259,7 +1304,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
             "issued": "2016-09-14T17:29:44.287403",
-            "modified": "2017-06-08T15:05:06.406523",
+            "modified": "2017-06-19T16:41:21.989912",
             "theme": [
                 "poder-judicial"
             ],
@@ -1290,7 +1335,7 @@
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3",
                     "description": "Listado actual de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional. No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación.",
-                    "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
+                    "title": "Magistrados de la Justicia Federal y de la Justicia Nacional - Estado al 2017-05-19",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
@@ -1298,30 +1343,6 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional.csv",
                     "issued": "2016-10-14T13:45:28.954424",
                     "identifier": "3c8c1fea-c97b-4368-b31b-da244d66adb3"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/ac34ee63-7e86-4f15-b57b-c6a35f71ea6e",
-                    "description": "Designacion de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
-                    "title": "Designación de magistrados de la Justicia Federal y de la Justicia Nacional",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-23T11:21:16.263864",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/ac34ee63-7e86-4f15-b57b-c6a35f71ea6e/download/magistrados-justicia-federal-nacional-designaciones.csv",
-                    "issued": "2016-10-14T16:23:54.581290",
-                    "identifier": "ac34ee63-7e86-4f15-b57b-c6a35f71ea6e"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/551c8132-4aef-419a-8f7b-020bb613980b",
-                    "description": "Renuncia de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
-                    "title": "Renuncia de magistrados de la Justicia Federal y de la Justicia Nacional",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-05-23T11:25:29.482935",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/551c8132-4aef-419a-8f7b-020bb613980b/download/magistrados-justicia-federal-nacional-renuncias.csv",
-                    "issued": "2016-10-14T16:24:29.971004",
-                    "identifier": "551c8132-4aef-419a-8f7b-020bb613980b"
                 }
             ]
         },
