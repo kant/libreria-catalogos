@@ -302,11 +302,11 @@
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
             },
             "landingPage": "",
-            "description": "Información de las designaciones de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
+            "description": "En este conjunto de datos se detalla las designaciones de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional de la República Argentina.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Designaciones de Magistrados de la Justicia Federal y la Justicia Nacional",
             "issued": "2017-06-16T13:36:42.787601",
-            "modified": "2017-06-19T16:59:27.886276",
+            "modified": "2017-06-19T17:25:34.343634",
             "theme": [],
             "keyword": [
                 "cargo",
@@ -1529,6 +1529,51 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d43fa140-f43f-4cc2-8491-b1d8bb899de4/resource/4c66093d-1293-4c44-a4c4-4cc1d914127e/download/victimas-accionar-represivo-ilegal-sin-denuncia-formal.csv",
                     "issued": "2016-09-30T15:45:48.714593",
                     "identifier": "4c66093d-1293-4c44-a4c4-4cc1d914127e"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "oficinadecretos@jus.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
+            },
+            "landingPage": "",
+            "description": "En este conjunto de datos se detalla las renuncias de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional de la República Argentina\r\nLa Oficina Decretos, dependiente de la Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios interviene en el trámite de aceptación de renuncia de magistrados y traslado de jueces conforme a lo previsto en la Constitución Nacional y reglamentación complementaria.\r\n",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Renuncias de Magistrados de la Justicia Federal y de la Justicia Nacional",
+            "issued": "2017-06-16T13:46:23.340802",
+            "modified": "2017-06-19T17:28:12.510528",
+            "theme": [],
+            "keyword": [
+                "cargo",
+                "defensor",
+                "federal",
+                "fiscal",
+                "judical",
+                "juez",
+                "justicia",
+                "magistrado",
+                "nacional",
+                "renuncias"
+            ],
+            "accrualPeriodicity": "eventual",
+            "contactPoint": {
+                "hasEmail": "oficinadecretos@jus.gov.ar",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
+            },
+            "identifier": "36c14e01-d3f6-47f3-9f12-9c25a48fe8c6",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/36c14e01-d3f6-47f3-9f12-9c25a48fe8c6/resource/0b2a3da1-aafe-4cd1-b70a-ab8e4c45ffb6",
+                    "description": "Información de las renuncias de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional",
+                    "title": "Renuncias de Magistrados de la Justicia Federal y la Justicia Nacional - Estado al 2017-05-19",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-16T10:47:45.665784",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/36c14e01-d3f6-47f3-9f12-9c25a48fe8c6/resource/0b2a3da1-aafe-4cd1-b70a-ab8e4c45ffb6/download/magistrados-justicia-federal-nacional-renuncias.csv",
+                    "issued": "2017-06-16T10:47:45.819168",
+                    "identifier": "0b2a3da1-aafe-4cd1-b70a-ab8e4c45ffb6"
                 }
             ]
         },
