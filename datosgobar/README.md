@@ -5,6 +5,7 @@
 
 - **Autor**: Datos Argentina
 - **Correo Electrónico**: datos@modernizacion.gob.ar
+- **Ruta del catálogo**: None
 - **Nombre del catálogo**: Datos Argentina
 - **Descripción**:
 
@@ -12,9 +13,18 @@
 
 ## Estado de los metadatos y cantidad de recursos
 
-Estado metadatos globales | Estado metadatos catálogo | # de Datasets | # de Distribuciones
---------------------------|---------------------------|---------------|--------------------
-ERROR | OK | 73 | 264
+- **Estado metadatos globales**: ERROR
+- **Estado metadatos catálogo**: OK
+- **Cantidad Total de Datasets**: 73
+- **Cantidad Total de Distribuciones**: 264
+
+- **Cantidad de Datasets Federados**: 73
+- **Cantidad de Datasets NO Federados**: 0
+- **Porcentaje de Datasets NO Federados**: 0.0%
+
+## Datasets no federados:
+
+
 
 ## Datasets incluidos
 
