@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 73
-- **Cantidad Total de Distribuciones**: 264
+- **Cantidad Total de Datasets**: 70
+- **Cantidad Total de Distribuciones**: 255
 
-- **Cantidad de Datasets Federados**: 59
+- **Cantidad de Datasets Federados**: 56
 - **Cantidad de Datasets NO Federados**: 14
-- **Porcentaje de Datasets NO Federados**: 19.18%
+- **Porcentaje de Datasets NO Federados**: 20.0%
 
 ## Datasets no federados:
 
