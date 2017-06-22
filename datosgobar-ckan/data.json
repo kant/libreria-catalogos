@@ -62,65 +62,6 @@
         },
         {
             "publisher": {
-                "mbox": "",
-                "name": "ARSAT"
-            },
-            "landingPage": "",
-            "description": "Porcentaje de Avance de implementación de la Fase 1 del Proyecto al 25/04/2017",
-            "license": "Creative Commons Attribution",
-            "title": "Avance de la Fase 1 del Proyecto",
-            "issued": "2017-05-16T01:06:25.582108",
-            "modified": "2017-05-16T01:06:30.242519",
-            "theme": [
-                "tech"
-            ],
-            "keyword": [],
-            "contactPoint": {
-                "hasEmail": "",
-                "fn": ""
-            },
-            "identifier": "7d859f10-f90a-4b79-b6f3-530d8a0a294c",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/7d859f10-f90a-4b79-b6f3-530d8a0a294c/resource/8fc74cf3-3130-4ca4-ad34-9cdb9c355c99",
-                    "description": "Porcentaje de Avance de implementación de la Fase 1 del Proyecto al 25/04/2017",
-                    "title": "Avance de la Fase 1 del Proyecto",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": null,
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "issued": "2017-05-16T01:06:27.159709",
-                    "identifier": "8fc74cf3-3130-4ca4-ad34-9cdb9c355c99"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/7d859f10-f90a-4b79-b6f3-530d8a0a294c/resource/27ffc087-aa92-4995-bec5-4a18c3ea705e",
-                    "description": "Porcentaje de Avance de implementación de la Fase 1 del Proyecto al 25/04/2017",
-                    "title": "Avance de la Fase 1 del Proyecto",
-                    "byteSize": null,
-                    "format": "XLS",
-                    "mediaType": null,
-                    "modified": null,
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "issued": "2017-05-16T01:06:28.690121",
-                    "identifier": "27ffc087-aa92-4995-bec5-4a18c3ea705e"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/7d859f10-f90a-4b79-b6f3-530d8a0a294c/resource/435d764b-c70f-472c-897f-8f0e9b5caceb",
-                    "description": "Porcentaje de Avance de implementación de la Fase 1 del Proyecto al 25/04/2017",
-                    "title": "Avance de la Fase 1 del Proyecto",
-                    "byteSize": null,
-                    "format": "JSON",
-                    "mediaType": null,
-                    "modified": null,
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "issued": "2017-05-16T01:06:30.256873",
-                    "identifier": "435d764b-c70f-472c-897f-8f0e9b5caceb"
-                }
-            ]
-        },
-        {
-            "publisher": {
                 "mbox": "barriospopulares@bienesdelestado.gob.ar",
                 "name": "Jefatura de Gabinete de Ministros"
             },
@@ -760,65 +701,6 @@
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-2-31319/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
                     "issued": "2017-06-14T16:05:19.467981",
                     "identifier": "852795f6-f43c-4bef-bdda-09df9e190187"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "ARSAT"
-            },
-            "landingPage": "",
-            "description": "Esta tabla muestra las coordenadas espaciales que demarcan los límites del área de cobertura del satélite ARSAT-1.",
-            "license": "Creative Commons Attribution",
-            "title": "Datos del área de cobertura del satélite ARSAT-1",
-            "issued": "2017-05-16T01:04:55.468241",
-            "modified": "2017-05-16T01:04:59.564408",
-            "theme": [
-                "tech"
-            ],
-            "keyword": [],
-            "contactPoint": {
-                "hasEmail": "",
-                "fn": ""
-            },
-            "identifier": "ab4c6b4c-e0b8-42a3-985f-743f21dc9921",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/ab4c6b4c-e0b8-42a3-985f-743f21dc9921/resource/ef6b9bea-7a2a-4fdc-955d-836ecf216332",
-                    "description": "Esta tabla muestra las coordenadas espaciales que demarcan los límites del área de cobertura del satélite ARSAT-1.",
-                    "title": "Datos del área de cobertura del satélite ARSAT-1",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": null,
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "issued": "2017-05-16T01:04:56.826612",
-                    "identifier": "ef6b9bea-7a2a-4fdc-955d-836ecf216332"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/ab4c6b4c-e0b8-42a3-985f-743f21dc9921/resource/17605bb6-a0ef-42b2-81fa-9fb31b6f94d6",
-                    "description": "Esta tabla muestra las coordenadas espaciales que demarcan los límites del área de cobertura del satélite ARSAT-1.",
-                    "title": "Datos del área de cobertura del satélite ARSAT-1",
-                    "byteSize": null,
-                    "format": "XLS",
-                    "mediaType": null,
-                    "modified": null,
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "issued": "2017-05-16T01:04:58.217109",
-                    "identifier": "17605bb6-a0ef-42b2-81fa-9fb31b6f94d6"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/ab4c6b4c-e0b8-42a3-985f-743f21dc9921/resource/79b29719-db27-4f1b-aa44-8d0866526fa6",
-                    "description": "Esta tabla muestra las coordenadas espaciales que demarcan los límites del área de cobertura del satélite ARSAT-1.",
-                    "title": "Datos del área de cobertura del satélite ARSAT-1",
-                    "byteSize": null,
-                    "format": "JSON",
-                    "mediaType": null,
-                    "modified": null,
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/SATEL-COBER-ARSAT-1/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "issued": "2017-05-16T01:04:59.579719",
-                    "identifier": "79b29719-db27-4f1b-aa44-8d0866526fa6"
                 }
             ]
         },
@@ -4897,65 +4779,6 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/e41e8224-f868-4688-9fae-94d320f8ee5e/resource/0a823ec3-4609-41b6-8af8-93afd23aaf9c/download/tesauro-saij.rdf",
                     "issued": "2017-06-14T16:12:14.266190",
                     "identifier": "fc22de28-445e-4a64-bb63-d1b3d99f887a"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "ARSAT"
-            },
-            "landingPage": "",
-            "description": "Traza de FO próxima a iluminar 13/05/2017",
-            "license": "Creative Commons Attribution",
-            "title": "Traza de FO próxima a iluminar",
-            "issued": "2017-05-16T01:02:15.225135",
-            "modified": "2017-05-16T01:02:18.548290",
-            "theme": [
-                "tech"
-            ],
-            "keyword": [],
-            "contactPoint": {
-                "hasEmail": "",
-                "fn": ""
-            },
-            "identifier": "43ba5d3b-5f1d-4722-a5dc-74b1c4ae5f65",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/43ba5d3b-5f1d-4722-a5dc-74b1c4ae5f65/resource/9ac22118-3d7f-48c3-b1d2-a911551194aa",
-                    "description": "Traza de FO próxima a iluminar 13/05/2017",
-                    "title": "Traza de FO próxima a iluminar",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": null,
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "issued": "2017-05-16T01:02:16.313101",
-                    "identifier": "9ac22118-3d7f-48c3-b1d2-a911551194aa"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/43ba5d3b-5f1d-4722-a5dc-74b1c4ae5f65/resource/66957dc4-36c6-4a45-9a46-83997cd44767",
-                    "description": "Traza de FO próxima a iluminar 13/05/2017",
-                    "title": "Traza de FO próxima a iluminar",
-                    "byteSize": null,
-                    "format": "XLS",
-                    "mediaType": null,
-                    "modified": null,
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "issued": "2017-05-16T01:02:17.421722",
-                    "identifier": "66957dc4-36c6-4a45-9a46-83997cd44767"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/43ba5d3b-5f1d-4722-a5dc-74b1c4ae5f65/resource/a60dd45b-ccee-4a6b-9d0e-aeded196e820",
-                    "description": "Traza de FO próxima a iluminar 13/05/2017",
-                    "title": "Traza de FO próxima a iluminar",
-                    "byteSize": null,
-                    "format": "JSON",
-                    "mediaType": null,
-                    "modified": null,
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/TRAZA-DE-FO-PROXI-A/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "issued": "2017-05-16T01:02:18.565142",
-                    "identifier": "a60dd45b-ccee-4a6b-9d0e-aeded196e820"
                 }
             ]
         }
