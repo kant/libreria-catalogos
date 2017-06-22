@@ -9,6 +9,87 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Modernización. Secretaría  de Empleo Público. Dirección Nacional de Gestión de Información y Política Salarial"
+            },
+            "accessLevel": "public",
+            "description": "Asignación salarial mensual bruta de las Autoridades Superiores del Poder Ejecutivo Nacional.",
+            "license": "ODbL-1.0",
+            "title": "Asignación Salarial de las Autoridades Superiores del Poder Ejecutivo Nacional",
+            "issued": "2016-06-15T18:34:54.361766",
+            "modified": "2017-06-22T19:21:26.056983",
+            "theme": [
+                "Gobierno y sector público"
+            ],
+            "keyword": [
+                "Asignaciones",
+                "Autoridades Superiores",
+                "Estructura",
+                "Salarios",
+                "Sueldos"
+            ],
+            "accrualPeriodicity": "eventual",
+            "landingPage": "Ministerio de Modernización. Secretaría  de Empleo Público.Dirección Nacional de Gestión de Información y Política Salarial",
+            "identifier": "431381cc-3c5b-49ba-bf77-47bf658cd640",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/431381cc-3c5b-49ba-bf77-47bf658cd640/resource/c2a7e8bd-0f41-4401-a67f-f63c3bd3cdb8/download/salarios-2017.csv",
+                    "description": "Asignación salarial mensual de las Autoridades Superiores del Poder Ejecutivo Nacional.",
+                    "title": "Asignación Salarial de las Autoridades del Poder Ejecutivo Nacional 2017",
+                    "issued": "2017-06-08T14:52:01.851033",
+                    "format": "CSV",
+                    "modified": "2017-06-08T14:52:01.808272",
+                    "downloadURL": "http://datos.gob.ar/dataset/431381cc-3c5b-49ba-bf77-47bf658cd640/resource/c2a7e8bd-0f41-4401-a67f-f63c3bd3cdb8/download/salarios-2017.csv"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/431381cc-3c5b-49ba-bf77-47bf658cd640/resource/d3fe3a9a-551b-407d-ba19-bfbad00f86e5/download/salarios-2016.csv",
+                    "description": "Asignación salarial mensual de las Autoridades Superiores del Poder Ejecutivo Nacional.\r\n\r\n*En la liquidación correspondiente al mes de Enero, los Sres. Ministros Aguad, Oscar (Comunicaciones); Aranguren, Juan (Energía y Minería; Frigerio, Rogelio (Interior, Obras Públicas y Vivienda); y Dietrich, Guillermo (Transporte) tienen incluido el proporcional de la liquidación del mes de Diciembre y el Sueldo Anual Complementario.\r\n\r\n*En los meses posteriores, las diferencias en la asignación salarial corresponden al pago del concepto de desarraigo (valor actualizado a partir de septiembre de 2016), tanto para el Ministro Aguad, Oscar (Comunicaciones), como para los Sres. Ministros Santos, José (Turismo),  Buryaile, Ricardo (Agroindustria) y  Martinez, Julio (Defensa), a quien no se aplica actualización.",
+                    "title": "Asignación Salarial de las Autoridades del Poder Ejecutivo Nacional 2016",
+                    "issued": "2016-06-15T15:37:39.587974",
+                    "format": "CSV",
+                    "modified": "2017-03-10T15:02:37.246059",
+                    "downloadURL": "http://datos.gob.ar/dataset/431381cc-3c5b-49ba-bf77-47bf658cd640/resource/d3fe3a9a-551b-407d-ba19-bfbad00f86e5/download/salarios-2016.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "privadaonep@modernizacion.gob.ar",
+                "name": "Ministerio de Modernización. Secretaría de Empleo Público. Oficina Nacional de Empleo Público."
+            },
+            "accessLevel": "public",
+            "description": "El presente conjunto de datos detalla la nómina del personal contratado por el Poder Ejecutivo Nacional correspondiente a la Administración Central y Descentralizada. Se detalla información sobre el personal contratado, la modalidad del contrato, así como  la jurisdicción y organismo contratante. Esta información se publica en el marco de la Regulación del Empleo Público Nacional y es brindada por la Oficina Nacional de Empleo Público, sujeto a lo cumplimentado por los organismos alcanzado.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Registro Central de Personas Contratadas",
+            "issued": "2016-04-14T23:20:52.644088",
+            "modified": "2017-06-22T19:20:07.157179",
+            "theme": [
+                "Gobierno y sector público"
+            ],
+            "keyword": [
+                "Contratos",
+                "Empleo Público",
+                "Nómina de Personal Contratado",
+                "Organismos",
+                "Personal"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "landingPage": "http://www.sgp.gob.ar/sitio/empleo/regimenes/contratados/listadocontratados/todos_los_contratos_mensuales/index_main_rcpc.html",
+            "identifier": "becaceb2-dbd0-4879-93bd-5f02bd3b8ca2",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/becaceb2-dbd0-4879-93bd-5f02bd3b8ca2/resource/bf2f67f4-9ab3-479b-a881-56b43565125e/download/contratos-2015.csv",
+                    "description": "Nómina de contratos declarados correspondiente al año 2015, según lo informado a la ONEP por los sujetos obligados, incluyendo datos del personal contratado, la modalidad contractual y la jurisdicción u organismo descentralizado contratante.",
+                    "title": "Contratos 2015",
+                    "issued": "2016-04-18T13:23:48.373988",
+                    "format": "CSV",
+                    "modified": "2016-04-18T16:23:48.327889",
+                    "downloadURL": "http://datos.gob.ar/dataset/becaceb2-dbd0-4879-93bd-5f02bd3b8ca2/resource/bf2f67f4-9ab3-479b-a881-56b43565125e/download/contratos-2015.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
@@ -2684,51 +2765,6 @@
         },
         {
             "publisher": {
-                "mbox": "",
-                "name": "Ministerio de Modernización. Secretaría  de Empleo Público. Dirección Nacional de Gestión de Información y Política Salarial"
-            },
-            "accessLevel": "public",
-            "description": "Asignación salarial mensual bruta de las Autoridades Superiores del Poder Ejecutivo Nacional.",
-            "license": "ODbL-1.0",
-            "title": "Asignación Salarial de las Autoridades Superiores del Poder Ejecutivo Nacional",
-            "issued": "2016-06-15T18:34:54.361766",
-            "modified": "2017-06-08T14:55:20.467626",
-            "theme": [
-                "Gobierno y sector público"
-            ],
-            "keyword": [
-                "Asignaciones",
-                "Autoridades Superiores",
-                "Estructura",
-                "Salarios",
-                "Sueldos"
-            ],
-            "accrualPeriodicity": "eventual",
-            "landingPage": "Ministerio de Modernización. Secretaría  de Empleo Público.Dirección Nacional de Gestión de Información y Política Salarial",
-            "identifier": "431381cc-3c5b-49ba-bf77-47bf658cd640",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/431381cc-3c5b-49ba-bf77-47bf658cd640/resource/c2a7e8bd-0f41-4401-a67f-f63c3bd3cdb8/download/salarios-2017.csv",
-                    "description": "Asignación salarial mensual de las Autoridades Superiores del Poder Ejecutivo Nacional.",
-                    "title": "Asignación Salarial de las Autoridades del Poder Ejecutivo Nacional 2017",
-                    "issued": "2017-06-08T14:52:01.851033",
-                    "format": "CSV",
-                    "modified": "2017-06-08T14:52:01.808272",
-                    "downloadURL": "http://datos.gob.ar/dataset/431381cc-3c5b-49ba-bf77-47bf658cd640/resource/c2a7e8bd-0f41-4401-a67f-f63c3bd3cdb8/download/salarios-2017.csv"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/431381cc-3c5b-49ba-bf77-47bf658cd640/resource/d3fe3a9a-551b-407d-ba19-bfbad00f86e5/download/salarios-2016.csv",
-                    "description": "Asignación salarial mensual de las Autoridades Superiores del Poder Ejecutivo Nacional.\r\n\r\n*En la liquidación correspondiente al mes de Enero, los Sres. Ministros Aguad, Oscar (Comunicaciones); Aranguren, Juan (Energía y Minería; Frigerio, Rogelio (Interior, Obras Públicas y Vivienda); y Dietrich, Guillermo (Transporte) tienen incluido el proporcional de la liquidación del mes de Diciembre y el Sueldo Anual Complementario.\r\n\r\n*En los meses posteriores, las diferencias en la asignación salarial corresponden al pago del concepto de desarraigo (valor actualizado a partir de septiembre de 2016), tanto para el Ministro Aguad, Oscar (Comunicaciones), como para los Sres. Ministros Santos, José (Turismo),  Buryaile, Ricardo (Agroindustria) y  Martinez, Julio (Defensa), a quien no se aplica actualización.",
-                    "title": "Asignación Salarial de las Autoridades del Poder Ejecutivo Nacional 2016",
-                    "issued": "2016-06-15T15:37:39.587974",
-                    "format": "CSV",
-                    "modified": "2017-03-10T15:02:37.246059",
-                    "downloadURL": "http://datos.gob.ar/dataset/431381cc-3c5b-49ba-bf77-47bf658cd640/resource/d3fe3a9a-551b-407d-ba19-bfbad00f86e5/download/salarios-2016.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
                 "mbox": "mapadelestado@modernizacion.gob.ar",
                 "name": "Ministerio de Modernización. Secretaría  de Empleo Público. Subsecretaría de Planificación de Empleo Público"
             },
@@ -3210,42 +3246,6 @@
                     "format": "CSV",
                     "modified": "2016-04-18T23:15:36.648894",
                     "downloadURL": "http://datos.gob.ar/dataset/069b5833-e57d-4d7a-859b-67a80cfdff20/resource/8d0dafbd-bd9c-48b6-81c3-05f492647974/download/items-sibys.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "privadaonep@modernizacion.gob.ar",
-                "name": "Ministerio de Modernización. Secretaría de Empleo Público. Oficina Nacional de Empleo Público."
-            },
-            "accessLevel": "public",
-            "description": "El presente conjunto de datos detalla la nómina del personal contratado por el Poder Ejecutivo Nacional correspondiente a la Administración Central y Descentralizada. Se detalla información sobre el personal contratado, la modalidad del contrato, así como  la jurisdicción y organismo contratante. Esta información se publica en el marco de la Regulación del Empleo Público Nacional y es brindada por la Oficina Nacional de Empleo Público, sujeto a lo cumplimentado por los organismos alcanzado.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Registro Central de Personas Contratadas",
-            "issued": "2016-04-14T23:20:52.644088",
-            "modified": "2017-05-23T13:30:16.390634",
-            "theme": [
-                "Gobierno y sector público"
-            ],
-            "keyword": [
-                "Contratos",
-                "Empleo Público",
-                "Nómina de Personal Contratado",
-                "Organismos",
-                "Personal"
-            ],
-            "accrualPeriodicity": "R/P2Y",
-            "landingPage": "http://www.sgp.gob.ar/sitio/empleo/regimenes/contratados/listadocontratados/todos_los_contratos_mensuales/index_main_rcpc.html",
-            "identifier": "becaceb2-dbd0-4879-93bd-5f02bd3b8ca2",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/becaceb2-dbd0-4879-93bd-5f02bd3b8ca2/resource/bf2f67f4-9ab3-479b-a881-56b43565125e/download/contratos-2015.csv",
-                    "description": "Nómina de contratos declarados correspondiente al año 2015, según lo informado a la ONEP por los sujetos obligados, incluyendo datos del personal contratado, la modalidad contractual y la jurisdicción u organismo descentralizado contratante.",
-                    "title": "Contratos 2015",
-                    "issued": "2016-04-18T13:23:48.373988",
-                    "format": "CSV",
-                    "modified": "2016-04-18T16:23:48.327889",
-                    "downloadURL": "http://datos.gob.ar/dataset/becaceb2-dbd0-4879-93bd-5f02bd3b8ca2/resource/bf2f67f4-9ab3-479b-a881-56b43565125e/download/contratos-2015.csv"
                 }
             ]
         },
