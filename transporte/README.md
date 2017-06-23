@@ -1,15 +1,15 @@
 
-# Catálogo: Datos Transporte
+# Catálogo: Título del portal
 
 ## Información General
 
 - **Autor**: 
-- **Correo Electrónico**: dotes@transporte.gob.ar
+- **Correo Electrónico**: 
 - **Ruta del catálogo**: None
-- **Nombre del catálogo**: Datos Transporte
+- **Nombre del catálogo**: Título del portal
 - **Descripción**:
 
-> Datos generados por el Ministerio de Transporte de la Nación, a través del Observatorio Nacional de Datos de Transporte.
+> Describí el portal. Explicá de qué se trata tu catálogo de datos. Por favor, hacelo en no más de tres líneas.
 
 ## Estado de los metadatos y cantidad de recursos
 
