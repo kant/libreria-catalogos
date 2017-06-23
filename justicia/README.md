@@ -36,7 +36,7 @@
 - [Listado de Registros Seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios](http://www.dnrpa.gov.ar)
 - [Magistrados de la Justicia Federal y de la Justicia Nacional]()
 - [Registro de Obsequios a Funcionarios Públicos](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
-- [Registro de Viajes Fincianciados por Terceros](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
+- [Registro de Viajes Financiados por Terceros](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
 - [Registro, Sistematización y Seguimiento de Femicidios y Homicidios Agravados por el Género]()
 - [Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-](http://www.jus.gob.ar/derechoshumanos/areas-tematicas/ruvte.aspx)
 - [Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional]()
