@@ -24,6 +24,7 @@
 
 ## Datasets no federados:
 
+- [Escuelas Conectadas con Tecnología Gillat](http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gillat/)
 - [Registro de Visitas](http://datos.arsat.com.ar/dataviews/238535/registro-de-visitas/)
 - [Registro de Audiencias](http://datos.arsat.com.ar/dataviews/237549/registro-de-audiencias/)
 - [Escuelas conectadas](http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/)
@@ -62,7 +63,6 @@
 - [Datos del área de cobertura en Banda KU del satélite ARSAT-2 en América del Sur](http://datos.arsat.com.ar/dataviews/236048/datos-del-area-de-cobertura-en-banda-ku-del-satelite-arsat-2-en-america-del-sur/)
 - [Kilómetros de fibra óptica previstos y localidades contempladas por provincia](http://datos.arsat.com.ar/dataviews/236003/kilometros-de-fibra-optica-previstos-y-localidades-contempladas-por-provincia/)
 - [Futuros puntos de conexión al Plan Federal de Internet](http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/)
-- [Escuelas Conectadas con Tecnología Gillat](http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gillat/)
 - [Declaraciones Juradas Patrimoniales - Directorio y Gerentes](http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/)
 - [Listado de Proveedores](http://datos.arsat.com.ar/dataviews/237843/listado-de-proveedores/)
 
