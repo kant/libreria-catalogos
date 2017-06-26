@@ -23,7 +23,7 @@
             },
             "issued": "2017-06-02T19:55:07.813095",
             "temporal": "2016-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2017-06-23T20:38:02.043672",
+            "modified": "2017-06-26T15:59:04.529214",
             "language": "spa",
             "theme": [
                 "Movilidad Urbana",
@@ -174,6 +174,36 @@
                     "format": "CSV",
                     "modified": "2017-06-02T20:21:55.432289",
                     "downloadURL": "https://datos.transporte.gob.ar/dataset/a4a19ded-9793-44bc-8086-a317ba441c37/resource/14848c4f-194e-45b8-82c2-f7fd74e04049/download/2016-12-cancelaciones-rmba---periodo---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/a4a19ded-9793-44bc-8086-a317ba441c37/resource/833a4386-3a19-4c9d-8a7b-fdc52f7fcb42/download/2017-01-cancelaciones-rmba---periodo---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2017-01 REGISTRADOS EN EL SISTEMA CON \r\nFECHA DE ALTA HASTA EL DIA 2017-03-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE \r\n(USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE \r\nREGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2017-01 cancelaciones RMBA - periodo - cantidad",
+                    "issued": "2017-06-26T15:56:56.567389",
+                    "format": "CSV",
+                    "modified": "2017-06-26T15:56:56.493212",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/a4a19ded-9793-44bc-8086-a317ba441c37/resource/833a4386-3a19-4c9d-8a7b-fdc52f7fcb42/download/2017-01-cancelaciones-rmba---periodo---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/a4a19ded-9793-44bc-8086-a317ba441c37/resource/f9965337-c2c8-4136-b8c1-c9fb9c537aed/download/2017-02-cancelaciones-rmba---periodo---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2017-02 REGISTRADOS EN EL SISTEMA CON \r\nFECHA DE ALTA HASTA EL DIA 2017-04-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE \r\n(USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE \r\nREGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2017-02 cancelaciones RMBA - periodo - cantidad",
+                    "issued": "2017-06-26T15:58:02.221205",
+                    "format": "CSV",
+                    "modified": "2017-06-26T15:58:02.149729",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/a4a19ded-9793-44bc-8086-a317ba441c37/resource/f9965337-c2c8-4136-b8c1-c9fb9c537aed/download/2017-02-cancelaciones-rmba---periodo---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/a4a19ded-9793-44bc-8086-a317ba441c37/resource/9436c326-0b1a-46f7-9a32-f5296b2b47dc/download/2017-03-cancelaciones-rmba---periodo---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2017-03 REGISTRADOS EN EL SISTEMA CON \r\nFECHA DE ALTA HASTA EL DIA 2017-05-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE \r\n(USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE \r\nREGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2017-03 cancelaciones RMBA - periodo - cantidad",
+                    "issued": "2017-06-26T15:58:59.060094",
+                    "format": "CSV",
+                    "modified": "2017-06-26T15:58:58.991066",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/a4a19ded-9793-44bc-8086-a317ba441c37/resource/9436c326-0b1a-46f7-9a32-f5296b2b47dc/download/2017-03-cancelaciones-rmba---periodo---cantidad.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
