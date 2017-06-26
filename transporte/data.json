@@ -15,6 +15,220 @@
             "accessLevel": "public",
             "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016\r\n2016-01 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-04-30 INCLUSIVE\r\n2016-02 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-05-31 INCLUSIVE\r\n2016-03 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-06-30 INCLUSIVE\r\n2016-04 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-07-31 INCLUSIVE\r\n2016-05 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-08-31 INCLUSIVE\r\n2016-06 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-09-30 INCLUSIVE\r\n2016-07 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-10-31 INCLUSIVE\r\n2016-08 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-11-09 INCLUSIVE\r\n2016-09 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE\r\n2016-10 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-01-09 INCLUSIVE\r\n2016-11 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\n2016-12 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\nTIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN))\r\nLINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
             "license": "No se especificó la licencia",
+            "title": "Cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
+            "contactPoint": {
+                "hasEmail": "mailto:dotes@transporte.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Observatorio de Transporte, Estudio y Sistemas"
+            },
+            "issued": "2017-06-05T18:04:09.827712",
+            "temporal": "2016-01-01T03:00:00.000Z/2017-02-28T03:00:00.000Z",
+            "modified": "2017-06-26T17:17:21.156488",
+            "language": "spa",
+            "theme": [
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/fcdfa4eb-0b6b-4ffb-97b7-9f404167f6c2/download/2016-01-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-01 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-04-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-01 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
+                    "issued": "2017-06-05T18:16:44.124057",
+                    "format": "CSV",
+                    "modified": "2017-06-05T18:16:44.083155",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/fcdfa4eb-0b6b-4ffb-97b7-9f404167f6c2/download/2016-01-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/6aa08f5c-6ce4-4733-9239-3374436bf297/download/2016-02-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-02 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-05-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-02 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
+                    "issued": "2017-06-05T18:18:33.217017",
+                    "format": "CSV",
+                    "modified": "2017-06-05T18:18:33.176103",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/6aa08f5c-6ce4-4733-9239-3374436bf297/download/2016-02-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/6771508c-a9aa-4c8c-8490-4fc44addae0e/download/2016-03-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-03 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-06-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-03 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
+                    "issued": "2017-06-05T18:20:38.277712",
+                    "format": "CSV",
+                    "modified": "2017-06-05T18:20:38.212455",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/6771508c-a9aa-4c8c-8490-4fc44addae0e/download/2016-03-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/1400defb-6fb1-4579-bd30-aa2723081ce4/download/2016-04-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-04 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-07-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-04 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
+                    "issued": "2017-06-05T18:29:50.764220",
+                    "format": "CSV",
+                    "modified": "2017-06-05T18:29:50.716256",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/1400defb-6fb1-4579-bd30-aa2723081ce4/download/2016-04-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/53ac277a-7227-423d-a27b-ff0c1eb9943c/download/2016-05-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-05 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-08-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-05 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
+                    "issued": "2017-06-05T18:31:41.055744",
+                    "format": "CSV",
+                    "modified": "2017-06-05T18:31:41.008100",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/53ac277a-7227-423d-a27b-ff0c1eb9943c/download/2016-05-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/ce4ca22c-8158-4160-8562-2a1c065e0ce9/download/2016-06-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-06 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-09-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-06 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
+                    "issued": "2017-06-05T18:32:55.232706",
+                    "format": "CSV",
+                    "modified": "2017-06-05T18:32:55.174648",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/ce4ca22c-8158-4160-8562-2a1c065e0ce9/download/2016-06-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/1816b2e1-7338-49aa-986b-c8fcbab1fac5/download/2016-07-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-07 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-10-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-07 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
+                    "issued": "2017-06-05T18:34:58.714357",
+                    "format": "CSV",
+                    "modified": "2017-06-05T18:34:58.647164",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/1816b2e1-7338-49aa-986b-c8fcbab1fac5/download/2016-07-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/50a8a3ab-46fc-4845-b6b8-2f21738f7bea/download/2016-08-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-08 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-11-09 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-08 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
+                    "issued": "2017-06-05T18:37:09.544720",
+                    "format": "CSV",
+                    "modified": "2017-06-05T18:37:09.490919",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/50a8a3ab-46fc-4845-b6b8-2f21738f7bea/download/2016-08-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/0cd21823-15ef-4aea-8340-8934f50a7bb6/download/2016-09-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-09 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-09 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
+                    "issued": "2017-06-05T18:38:21.607095",
+                    "format": "CSV",
+                    "modified": "2017-06-05T18:38:21.552615",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/0cd21823-15ef-4aea-8340-8934f50a7bb6/download/2016-09-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/6693772a-a52a-4994-a706-533817dda189/download/2016-10-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-10 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-10 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
+                    "issued": "2017-06-05T18:40:01.838439",
+                    "format": "CSV",
+                    "modified": "2017-06-05T18:40:01.768553",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/6693772a-a52a-4994-a706-533817dda189/download/2016-10-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/f0a05c0d-3e6e-461f-8b03-dc228b1aa5e7/download/2016-11-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-11 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-01-09 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-11 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
+                    "issued": "2017-06-05T18:41:14.529814",
+                    "format": "CSV",
+                    "modified": "2017-06-05T18:41:14.459654",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/f0a05c0d-3e6e-461f-8b03-dc228b1aa5e7/download/2016-11-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/389c28c1-974b-4bf3-9804-582f3ea633b7/download/2016-12-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-12 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-12 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
+                    "issued": "2017-06-05T18:43:36.158940",
+                    "format": "CSV",
+                    "modified": "2017-06-05T18:43:36.095341",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/389c28c1-974b-4bf3-9804-582f3ea633b7/download/2016-12-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/2f0fc42d-c484-499f-92c4-964ac99d1fe4/download/2017-01-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2017-01 REGISTRADOS EN EL SISTEMA CON \r\nFECHA DE ALTA HASTA EL DIA 2017-03-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE \r\n(USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE \r\nREGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2017-01 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
+                    "issued": "2017-06-26T17:12:33.287625",
+                    "format": "CSV",
+                    "modified": "2017-06-26T17:12:33.216881",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/2f0fc42d-c484-499f-92c4-964ac99d1fe4/download/2017-01-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/7f1a0ec8-28c2-4bd3-8533-5b943827bd5f/download/2017-03-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2017-03 REGISTRADOS EN EL SISTEMA CON \r\nFECHA DE ALTA HASTA EL DIA 2017-05-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE \r\n(USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE \r\nREGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2017-03 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
+                    "issued": "2017-06-26T17:17:01.985390",
+                    "format": "CSV",
+                    "modified": "2017-06-26T17:17:01.916138",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/7f1a0ec8-28c2-4bd3-8533-5b943827bd5f/download/2017-03-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                }
+            ],
+            "keyword": [
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "superTheme": [
+                "TRAN"
+            ],
+            "landingPage": "https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-modo-empresa-linea-tipo-pasaje-cantidad",
+            "identifier": "6b25e9b6-620b-411e-90c5-3992a95252b9",
+            "@type": "dcat:Dataset"
+        },
+        {
+            "publisher": {
+                "mbox": "dotes@transporte.gob.ar",
+                "name": "Dirección de Observatorio de Transporte, Estudio y Sistemas"
+            },
+            "accessLevel": "public",
+            "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016\r\n2016-01 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-04-30 INCLUSIVE\r\n2016-02 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-05-31 INCLUSIVE\r\n2016-03 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-06-30 INCLUSIVE\r\n2016-04 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-07-31 INCLUSIVE\r\n2016-05 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-08-31 INCLUSIVE\r\n2016-06 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-09-30 INCLUSIVE\r\n2016-07 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-10-31 INCLUSIVE\r\n2016-08 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-11-09 INCLUSIVE\r\n2016-09 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE\r\n2016-10 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-01-09 INCLUSIVE\r\n2016-11 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\n2016-12 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\nTIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN))\r\nLINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+            "license": "No se especificó la licencia",
             "title": "Cancelaciones RMBA - periodo - modo - empresa - linea - cantidad",
             "contactPoint": {
                 "hasEmail": "mailto:dotes@transporte.gob.ar",
@@ -23,7 +237,7 @@
             },
             "issued": "2017-06-05T14:56:27.040118",
             "temporal": "2016-01-01T03:00:00.000Z/2017-02-28T03:00:00.000Z",
-            "modified": "2017-06-26T16:56:21.366186",
+            "modified": "2017-06-26T17:03:44.495896",
             "language": "spa",
             "theme": [
                 "Movilidad Urbana",
@@ -194,6 +408,16 @@
                     "format": "CSV",
                     "modified": "2017-06-26T16:56:21.336871",
                     "downloadURL": "https://datos.transporte.gob.ar/dataset/2c273881-a80f-4d9a-b3fb-4b5fc554438c/resource/ae65adf3-9452-41e2-9732-efa23bb35ab9/download/2017-02-cancelaciones-rmba---periodo---modo---empresa---linea---cantidad.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/2c273881-a80f-4d9a-b3fb-4b5fc554438c/resource/ece67882-b862-458a-a20a-f3490259d8ab/download/2017-03-cancelaciones-rmba---periodo---modo---empresa---linea---cantidad.csv",
+                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2017-03 REGISTRADOS EN EL SISTEMA CON \r\nFECHA DE ALTA HASTA EL DIA 2017-05-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE \r\n(USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE \r\nREGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2017-03 cancelaciones RMBA - periodo - modo - empresa - linea - cantidad",
+                    "issued": "2017-06-26T17:03:29.088136",
+                    "format": "CSV",
+                    "modified": "2017-06-26T17:03:28.966777",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/2c273881-a80f-4d9a-b3fb-4b5fc554438c/resource/ece67882-b862-458a-a20a-f3490259d8ab/download/2017-03-cancelaciones-rmba---periodo---modo---empresa---linea---cantidad.csv",
                     "@type": "dcat:Distribution"
                 }
             ],
@@ -891,200 +1115,6 @@
             ],
             "landingPage": "https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-cantidad",
             "identifier": "a4a19ded-9793-44bc-8086-a317ba441c37",
-            "@type": "dcat:Dataset"
-        },
-        {
-            "publisher": {
-                "mbox": "dotes@transporte.gob.ar",
-                "name": "Dirección de Observatorio de Transporte, Estudio y Sistemas"
-            },
-            "accessLevel": "public",
-            "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016\r\n2016-01 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-04-30 INCLUSIVE\r\n2016-02 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-05-31 INCLUSIVE\r\n2016-03 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-06-30 INCLUSIVE\r\n2016-04 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-07-31 INCLUSIVE\r\n2016-05 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-08-31 INCLUSIVE\r\n2016-06 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-09-30 INCLUSIVE\r\n2016-07 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-10-31 INCLUSIVE\r\n2016-08 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-11-09 INCLUSIVE\r\n2016-09 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE\r\n2016-10 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-01-09 INCLUSIVE\r\n2016-11 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\n2016-12 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\nTIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN))\r\nLINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-            "license": "No se especificó la licencia",
-            "title": "Cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
-            "contactPoint": {
-                "hasEmail": "mailto:dotes@transporte.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección de Observatorio de Transporte, Estudio y Sistemas"
-            },
-            "issued": "2017-06-05T18:04:09.827712",
-            "temporal": "2016-01-01T03:00:00.000Z/2017-02-28T03:00:00.000Z",
-            "modified": "2017-06-06T16:51:12.528697",
-            "language": "spa",
-            "theme": [
-                "Movilidad Urbana",
-                "Transporte Automotor",
-                "Transporte Ferroviario",
-                "Transporte General",
-                "Movilidad Urbana",
-                "Transporte Automotor",
-                "Transporte Ferroviario",
-                "Transporte General",
-                "Movilidad Urbana",
-                "Transporte Automotor",
-                "Transporte Ferroviario",
-                "Transporte General",
-                "Movilidad Urbana",
-                "Transporte Automotor",
-                "Transporte Ferroviario",
-                "Transporte General",
-                "Movilidad Urbana",
-                "Transporte Automotor",
-                "Transporte Ferroviario",
-                "Transporte General",
-                "Movilidad Urbana",
-                "Transporte Automotor",
-                "Transporte Ferroviario",
-                "Transporte General",
-                "Movilidad Urbana",
-                "Transporte Automotor",
-                "Transporte Ferroviario",
-                "Transporte General"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/fcdfa4eb-0b6b-4ffb-97b7-9f404167f6c2/download/2016-01-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-01 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-04-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-01 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
-                    "issued": "2017-06-05T18:16:44.124057",
-                    "format": "CSV",
-                    "modified": "2017-06-05T18:16:44.083155",
-                    "downloadURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/fcdfa4eb-0b6b-4ffb-97b7-9f404167f6c2/download/2016-01-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/6aa08f5c-6ce4-4733-9239-3374436bf297/download/2016-02-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-02 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-05-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-02 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
-                    "issued": "2017-06-05T18:18:33.217017",
-                    "format": "CSV",
-                    "modified": "2017-06-05T18:18:33.176103",
-                    "downloadURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/6aa08f5c-6ce4-4733-9239-3374436bf297/download/2016-02-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/6771508c-a9aa-4c8c-8490-4fc44addae0e/download/2016-03-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-03 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-06-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-03 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
-                    "issued": "2017-06-05T18:20:38.277712",
-                    "format": "CSV",
-                    "modified": "2017-06-05T18:20:38.212455",
-                    "downloadURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/6771508c-a9aa-4c8c-8490-4fc44addae0e/download/2016-03-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/1400defb-6fb1-4579-bd30-aa2723081ce4/download/2016-04-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-04 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-07-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-04 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
-                    "issued": "2017-06-05T18:29:50.764220",
-                    "format": "CSV",
-                    "modified": "2017-06-05T18:29:50.716256",
-                    "downloadURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/1400defb-6fb1-4579-bd30-aa2723081ce4/download/2016-04-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/53ac277a-7227-423d-a27b-ff0c1eb9943c/download/2016-05-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-05 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-08-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-05 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
-                    "issued": "2017-06-05T18:31:41.055744",
-                    "format": "CSV",
-                    "modified": "2017-06-05T18:31:41.008100",
-                    "downloadURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/53ac277a-7227-423d-a27b-ff0c1eb9943c/download/2016-05-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/ce4ca22c-8158-4160-8562-2a1c065e0ce9/download/2016-06-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-06 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-09-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-06 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
-                    "issued": "2017-06-05T18:32:55.232706",
-                    "format": "CSV",
-                    "modified": "2017-06-05T18:32:55.174648",
-                    "downloadURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/ce4ca22c-8158-4160-8562-2a1c065e0ce9/download/2016-06-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/1816b2e1-7338-49aa-986b-c8fcbab1fac5/download/2016-07-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-07 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-10-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-07 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
-                    "issued": "2017-06-05T18:34:58.714357",
-                    "format": "CSV",
-                    "modified": "2017-06-05T18:34:58.647164",
-                    "downloadURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/1816b2e1-7338-49aa-986b-c8fcbab1fac5/download/2016-07-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/50a8a3ab-46fc-4845-b6b8-2f21738f7bea/download/2016-08-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-08 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-11-09 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-08 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
-                    "issued": "2017-06-05T18:37:09.544720",
-                    "format": "CSV",
-                    "modified": "2017-06-05T18:37:09.490919",
-                    "downloadURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/50a8a3ab-46fc-4845-b6b8-2f21738f7bea/download/2016-08-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/0cd21823-15ef-4aea-8340-8934f50a7bb6/download/2016-09-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-09 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-09 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
-                    "issued": "2017-06-05T18:38:21.607095",
-                    "format": "CSV",
-                    "modified": "2017-06-05T18:38:21.552615",
-                    "downloadURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/0cd21823-15ef-4aea-8340-8934f50a7bb6/download/2016-09-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/6693772a-a52a-4994-a706-533817dda189/download/2016-10-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-10 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-10 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
-                    "issued": "2017-06-05T18:40:01.838439",
-                    "format": "CSV",
-                    "modified": "2017-06-05T18:40:01.768553",
-                    "downloadURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/6693772a-a52a-4994-a706-533817dda189/download/2016-10-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/f0a05c0d-3e6e-461f-8b03-dc228b1aa5e7/download/2016-11-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-11 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-01-09 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-11 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
-                    "issued": "2017-06-05T18:41:14.529814",
-                    "format": "CSV",
-                    "modified": "2017-06-05T18:41:14.459654",
-                    "downloadURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/f0a05c0d-3e6e-461f-8b03-dc228b1aa5e7/download/2016-11-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/389c28c1-974b-4bf3-9804-582f3ea633b7/download/2016-12-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-12 REGISTRADOS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-12 cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad",
-                    "issued": "2017-06-05T18:43:36.158940",
-                    "format": "CSV",
-                    "modified": "2017-06-05T18:43:36.095341",
-                    "downloadURL": "http://datos.transporte.gob.ar/dataset/6b25e9b6-620b-411e-90c5-3992a95252b9/resource/389c28c1-974b-4bf3-9804-582f3ea633b7/download/2016-12-cancelaciones-rmba---periodo---modo---empresa---linea---tipo-pasaje---cantidad.csv",
-                    "@type": "dcat:Distribution"
-                }
-            ],
-            "keyword": [
-                "SUBE",
-                "TRANSPORTE",
-                "SUBE",
-                "TRANSPORTE",
-                "SUBE",
-                "TRANSPORTE",
-                "SUBE",
-                "TRANSPORTE",
-                "SUBE",
-                "TRANSPORTE",
-                "SUBE",
-                "TRANSPORTE",
-                "SUBE",
-                "TRANSPORTE"
-            ],
-            "accrualPeriodicity": "R/P1M",
-            "superTheme": [
-                "TRAN"
-            ],
-            "landingPage": "http://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-modo-empresa-linea-tipo-pasaje-cantidad",
-            "identifier": "6b25e9b6-620b-411e-90c5-3992a95252b9",
             "@type": "dcat:Dataset"
         },
         {
