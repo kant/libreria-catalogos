@@ -26,6 +26,7 @@
 
 - [Registro de Audiencias](http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/)
 - [Registro de Visitas](http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/)
+- [Licitaciones](http://datos.arsat.com.ar/dataviews/237560/licitaciones/)
 - [Escuelas conectadas](http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/)
 - [Escuelas de próxima conexión](http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/)
 - [Listado de Personal](http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/)
@@ -48,7 +49,6 @@
 - [Fibra óptica planificada](http://datos.arsat.com.ar/dataviews/238757/fibra-optica-planificada/)
 - [Fibra óptica en obra](http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/)
 - [Fibra óptica próxima a iluminar](http://datos.arsat.com.ar/dataviews/238753/fibra-optica-proxima-a-iluminar/)
-- [Licitaciones](http://datos.arsat.com.ar/dataviews/237560/licitaciones/)
 - [Datos de las estaciones de transmisión en construcción o planificadas](http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/)
 - [Datos de las estaciones transmisoras](http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/)
 - [Datos del área de cobertura de la Banda KU del satélite ARSAT-1](http://datos.arsat.com.ar/dataviews/236042/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-1/)
