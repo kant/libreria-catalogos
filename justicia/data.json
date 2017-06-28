@@ -125,6 +125,55 @@
         },
         {
             "publisher": {
+                "mbox": "rnbsd@jus.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Bienes Secuestrados y Decomisados durante el Proceso Penal"
+            },
+            "landingPage": "",
+            "description": "En este conjunto de datos se detallan los bienes secuestrados, decomisados o afectados a una medida cautelar, en el marco de un proceso penal.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Bienes Secuestrados y Decomisados durante el Proceso Penal",
+            "issued": "2017-06-22T13:42:13.273232",
+            "modified": "2017-06-28T14:43:20.448399",
+            "theme": [
+                "sistema-registral"
+            ],
+            "keyword": [
+                "aeronave",
+                "armas",
+                "bienes",
+                "bienes decomisados",
+                "bienes secuestrados",
+                "buque",
+                "dinero",
+                "estupefacientes",
+                "inmuebles",
+                "medida cautelar",
+                "proceso penal",
+                "vehículos"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "contactPoint": {
+                "hasEmail": "rnbsd@jus.gov.ar",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Bienes Secuestrados y Decomisados durante el Proceso Penal"
+            },
+            "identifier": "0acc4f59-d80b-4e22-90a4-acd978a12119",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0acc4f59-d80b-4e22-90a4-acd978a12119/resource/9f4c107f-8a1a-4124-8cc4-12c176157a82",
+                    "description": "En este conjunto de datos se detallan los bienes secuestrados, decomisados y/ o afectados a una medida cautelar, durante la sustanciación de un proceso penal, que fueran informados al Registro de Bienes Secuestrados y Decomisados durante el Proceso Penal (RNBSD) por la autoridad interviniente en dicho proceso, cuya competencia es de carácter Nacional y/ o Federal.",
+                    "title": "Bienes secuestrados y decomisados durante el proceso penal - 2017-05",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-23T11:33:56.379999",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0acc4f59-d80b-4e22-90a4-acd978a12119/resource/9f4c107f-8a1a-4124-8cc4-12c176157a82/download/bienes-secuestrados-decomisados-durante-proceso-penal-2017-05.csv",
+                    "issued": "2017-06-23T11:17:12.825953",
+                    "identifier": "9f4c107f-8a1a-4124-8cc4-12c176157a82"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "rcoutenceau@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia"
             },
@@ -210,6 +259,103 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv",
                     "issued": "2016-10-06T13:36:46.495627",
                     "identifier": "a95d0e79-08c4-49b9-88b8-d569484bf1d7"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia"
+            },
+            "landingPage": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia",
+            "description": "Este conjunto de datos contiene información relacionada a las consultas efectuadas en los Centros de Acceso a la Justicia –CAJ- que cuentan con sistema de gestión informático.\r\n",
+            "license": "Creative Commons Attribution",
+            "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ-",
+            "issued": "2017-06-23T14:53:43.430826",
+            "modified": "2017-06-28T14:59:32.486232",
+            "theme": [
+                "acceso-a-justicia"
+            ],
+            "keyword": [
+                "acceso a justicia",
+                "acceso a la justicia",
+                "asesoramiento jurídico",
+                "caj",
+                "casas de justicia",
+                "consultas",
+                "justicia",
+                "vulnerable"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "eventual",
+            "contactPoint": {
+                "hasEmail": "",
+                "fn": ""
+            },
+            "identifier": "bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/8a7d8ac2-7ba8-4e6e-924c-9fde49e22856",
+                    "description": "Consultas efectuadas en los Centros de Acceso a la Justicia que se encuentran informatizados",
+                    "title": "Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- 2016-12",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-23T11:55:09.969917",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/bdac15f5-7b47-4d94-ac3f-ebdfcece1c4c/resource/8a7d8ac2-7ba8-4e6e-924c-9fde49e22856/download/consultas-centros-acceso-justicia-2016-12.csv",
+                    "issued": "2017-06-23T11:55:10.004110",
+                    "identifier": "8a7d8ac2-7ba8-4e6e-924c-9fde49e22856"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "oficinadecretos@jus.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
+            },
+            "landingPage": "",
+            "description": "En este conjunto de datos se detallan los Curriculums Vitae de los magistrados ternados para cubrir  las vacantes en el Poder Judicial y los Ministerios Públicos de la Nación, y los concursos en los cuales se presentaron.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público",
+            "issued": "2017-06-23T14:42:50.118542",
+            "modified": "2017-06-28T14:42:28.989094",
+            "theme": [
+                "poder-judicial"
+            ],
+            "keyword": [
+                "concurso",
+                "defensor",
+                "fiscal",
+                "juez",
+                "justicia",
+                "magistrado",
+                "ministerio público",
+                "poder judicial",
+                "vacante"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "eventual",
+            "contactPoint": {
+                "hasEmail": "oficinadecretos@jus.gov.ar",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
+            },
+            "identifier": "2892f2ad-e1f0-47ba-98bf-14ca693f3750",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/26fa7403-3457-4d68-afb2-10ee2851b823",
+                    "description": "Curriculums vitae de los Magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso",
+                    "title": "Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - 2017-06-22",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-23T12:10:43.922225",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/2892f2ad-e1f0-47ba-98bf-14ca693f3750/resource/26fa7403-3457-4d68-afb2-10ee2851b823/download/cv-magistrados-poder-judicial-ministerio-publico-2017-06-22.csv",
+                    "issued": "2017-06-23T11:45:59.322520",
+                    "identifier": "26fa7403-3457-4d68-afb2-10ee2851b823"
                 }
             ]
         },
@@ -1300,6 +1446,48 @@
         },
         {
             "publisher": {
+                "mbox": "allamosa@jus.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos"
+            },
+            "landingPage": "",
+            "description": "Listado de mediadores registrados para realizar mediaciones prejudiciales y judiciales en el Sistema MEPRE.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Listado de mediadores",
+            "issued": "2017-05-19T18:49:36.717681",
+            "modified": "2017-06-28T14:51:22.825977",
+            "theme": [
+                "acceso-a-justicia"
+            ],
+            "keyword": [
+                "mediacion",
+                "mediadores"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "contactPoint": {
+                "hasEmail": "allamosa@jus.gov.ar",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos"
+            },
+            "identifier": "194a4863-67fe-4344-8bdd-e7b6e7e35886",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/194a4863-67fe-4344-8bdd-e7b6e7e35886/resource/81350b54-a370-4ffc-909a-d6a31aeefbd5",
+                    "description": "Listado de mediadores registrados para realizar mediaciones prejudiciales y judiciales en el Sistema MEPRE.",
+                    "title": "Listado de mediadores - 2017-05-09",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-23T14:05:44.799405",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/194a4863-67fe-4344-8bdd-e7b6e7e35886/resource/81350b54-a370-4ffc-909a-d6a31aeefbd5/download/listado-mediadores-2017-05-09.csv",
+                    "issued": "2017-05-19T15:50:33.483315",
+                    "identifier": "81350b54-a370-4ffc-909a-d6a31aeefbd5"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "accesobd@dnrpa.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
             },
@@ -1405,6 +1593,49 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/02405dca-f61b-4401-8fa5-dcdebf464277/download/magistrados-justicia-federal-nacional-2017-06-15.csv",
                     "issued": "2017-06-21T12:46:08.169691",
                     "identifier": "02405dca-f61b-4401-8fa5-dcdebf464277"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "allamosa@jus.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos"
+            },
+            "landingPage": "",
+            "description": "Listado de las mediaciones prejudiciales y judiciales (ordenadas por el Juez una vez iniciado el juicio) que están registradas a través del Sistema Mepre, operativo desde febrero de 2014.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Listado de Mediaciones prejudiciales y judiciales. Ley 26.589",
+            "issued": "2017-05-19T18:15:55.648665",
+            "modified": "2017-06-28T14:43:47.453252",
+            "theme": [
+                "acceso-a-justicia"
+            ],
+            "keyword": [
+                "mediación",
+                "prejudicial",
+                "resolución alternativa de conflictos"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "contactPoint": {
+                "hasEmail": "allamosa@jus.gov.ar",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos"
+            },
+            "identifier": "5c75711c-c93f-482f-af11-657bd30d3aab",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/5c75711c-c93f-482f-af11-657bd30d3aab/resource/b5507116-8afa-40e8-bbd0-a32a9d93ebe8",
+                    "description": "Listado de mediaciones prejudiciales y judiciales efectuadas desde febrero de 2014",
+                    "title": "Listado de mediaciones prejudiciales y judiciales - 2017-05",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-23T13:11:46.593167",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/5c75711c-c93f-482f-af11-657bd30d3aab/resource/b5507116-8afa-40e8-bbd0-a32a9d93ebe8/download/mediaciones-prejudiciales-y-judiciales-2017-05.csv",
+                    "issued": "2017-05-19T15:17:56.682831",
+                    "identifier": "b5507116-8afa-40e8-bbd0-a32a9d93ebe8"
                 }
             ]
         },
@@ -1650,6 +1881,57 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/36c14e01-d3f6-47f3-9f12-9c25a48fe8c6/resource/7e55ba3c-d796-4ded-8165-623fc11f3caa/download/magistrados-justicia-federal-nacional-renuncias-2017-06-15.csv",
                     "issued": "2017-06-21T12:44:24.062086",
                     "identifier": "7e55ba3c-d796-4ded-8165-623fc11f3caa"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "oficinadecretos@jus.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
+            },
+            "landingPage": "",
+            "description": "En este conjunto de datos se detalla la cantidad de vacantes a cubrir en el Poder Judicial y Ministerios Públicos de la Nación, los concursos abiertos a tal fin, la integración de las respectivas ternas, los puntajes obtenidos por los profesionales propuestos en las etapas de evaluación cumplidas, y el Curriculum Vitae de cada uno de ellos.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Selección de Magistrados del Poder Judicial y el Ministerio Público de la Nación",
+            "issued": "2017-06-08T14:17:01.334940",
+            "modified": "2017-06-28T14:42:04.815719",
+            "theme": [
+                "poder-judicial"
+            ],
+            "keyword": [
+                "cargo",
+                "concurso",
+                "curriculum",
+                "defensor",
+                "fiscal",
+                "juez",
+                "justicia",
+                "magistrado",
+                "ministerio publico",
+                "poder judicial",
+                "vacante"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "eventual",
+            "contactPoint": {
+                "hasEmail": "oficinadecretos@jus.gov.ar",
+                "fn": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
+            },
+            "identifier": "a6eb5ab3-5c4c-40cb-b901-839f60a148e4",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/a6eb5ab3-5c4c-40cb-b901-839f60a148e4/resource/b8b16e29-8e3d-4f58-9043-f7d8d8b5f707",
+                    "description": "Datos de los concursos abiertos para la selección de magistrados. Contiene información sobre la integración de las respectivas ternas y los puntajes obtenidos por los profesionales propuestos en las etapas de evaluación cumplidas",
+                    "title": "Concursos para la selección de magistrados en el Poder Judicial y el Ministerio Público de la Nación - 2017-05-26",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-23T14:10:23.838146",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/a6eb5ab3-5c4c-40cb-b901-839f60a148e4/resource/b8b16e29-8e3d-4f58-9043-f7d8d8b5f707/download/concursos-magistrados-poder-judicial-ministerio-publico-2017-05-26.csv",
+                    "issued": "2017-06-22T13:16:48.528153",
+                    "identifier": "b8b16e29-8e3d-4f58-9043-f7d8d8b5f707"
                 }
             ]
         },
