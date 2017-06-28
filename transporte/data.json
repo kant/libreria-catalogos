@@ -13,6 +13,230 @@
                 "name": "Dirección de Observatorio de Transporte, Estudio y Sistemas"
             },
             "accessLevel": "public",
+            "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016 AGRUPADAS POR JURISDICCION\r\n2016-01 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-04-30 INCLUSIVE\r\n2016-02 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-05-31 INCLUSIVE\r\n2016-03 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-06-30 INCLUSIVE\r\n2016-04 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-07-31 INCLUSIVE\r\n2016-05 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-08-31 INCLUSIVE\r\n2016-06 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-09-30 INCLUSIVE\r\n2016-07 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-10-31 INCLUSIVE\r\n2016-08 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-11-09 INCLUSIVE\r\n2016-09 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE\r\n2016-10 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-01-09 INCLUSIVE\r\n2016-11 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\n2016-12 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\nTIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN))\r\nLINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+            "license": "No se especificó la licencia",
+            "title": "Lineas transporte RMBA",
+            "contactPoint": {
+                "hasEmail": "mailto:dotes@transporte.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Observatorio de Transporte, Estudio y Sistemas"
+            },
+            "issued": "2017-06-05T20:20:03.265305",
+            "temporal": "2016-01-01T03:00:00.000Z/2017-02-28T03:00:00.000Z",
+            "modified": "2017-06-28T18:17:03.772483",
+            "language": "spa",
+            "theme": [
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/0fd9075b-c22a-4d89-97c4-779ac943d802/download/2016-01-lineas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-01 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-04-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-01 lineas transporte RMBA",
+                    "issued": "2017-06-05T20:22:56.445952",
+                    "format": "CSV",
+                    "modified": "2017-06-28T14:09:39.932652",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/0fd9075b-c22a-4d89-97c4-779ac943d802/download/2016-01-lineas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/ddaa1878-76b8-44dd-8cfa-f6b51d5260ed/download/2016-02-lineas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-02 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-05-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-02 lineas transporte RMBA",
+                    "issued": "2017-06-05T20:28:37.453906",
+                    "format": "CSV",
+                    "modified": "2017-06-28T14:43:53.021816",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/ddaa1878-76b8-44dd-8cfa-f6b51d5260ed/download/2016-02-lineas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/17995d0c-c109-4583-aaef-daa5ec4b123a/download/2016-03-lineas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-03 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-06-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-03 lineas transporte RMBA",
+                    "issued": "2017-06-05T20:29:26.220605",
+                    "format": "CSV",
+                    "modified": "2017-06-28T15:21:44.981462",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/17995d0c-c109-4583-aaef-daa5ec4b123a/download/2016-03-lineas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/4eb5cf01-4ebb-4317-9fde-0d4fd198d1cb/download/2016-04-lineas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-04 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-07-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-04 lineas transporte RMBA",
+                    "issued": "2017-06-05T20:30:28.421415",
+                    "format": "CSV",
+                    "modified": "2017-06-28T16:34:28.642834",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/4eb5cf01-4ebb-4317-9fde-0d4fd198d1cb/download/2016-04-lineas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/e544ae72-6f46-468a-bf11-a7a572d729b9/download/2016-05-lineas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-05 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-08-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-05 lineas transporte RMBA",
+                    "issued": "2017-06-05T20:31:56.708433",
+                    "format": "CSV",
+                    "modified": "2017-06-28T16:45:32.809416",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/e544ae72-6f46-468a-bf11-a7a572d729b9/download/2016-05-lineas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/dde4f74d-213a-4b3c-8029-1fef216031b5/download/2016-06-lineas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-06 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-09-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-06 lineas transporte RMBA",
+                    "issued": "2017-06-05T20:33:37.935514",
+                    "format": "CSV",
+                    "modified": "2017-06-28T18:17:02.084572",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/dde4f74d-213a-4b3c-8029-1fef216031b5/download/2016-06-lineas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/500be730-2990-4292-bb8d-037cb65985e4/download/2016-07-lineas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-07 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-10-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-07 lineas transporte RMBA",
+                    "issued": "2017-06-05T20:35:14.289080",
+                    "format": "CSV",
+                    "modified": "2017-06-05T20:35:14.139638",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/500be730-2990-4292-bb8d-037cb65985e4/download/2016-07-lineas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/7471a290-9724-4226-9490-1a3127aa1931/download/2016-08-lineas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-08 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-11-09 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-08 lineas transporte RMBA",
+                    "issued": "2017-06-05T20:36:04.483363",
+                    "format": "CSV",
+                    "modified": "2017-06-05T20:36:04.431147",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/7471a290-9724-4226-9490-1a3127aa1931/download/2016-08-lineas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/b50d3038-ec9a-48ec-8dfd-8723006b2439/download/2016-09-lineas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-09 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-09 lineas transporte RMBA",
+                    "issued": "2017-06-05T20:37:30.075222",
+                    "format": "CSV",
+                    "modified": "2017-06-05T20:37:30.020051",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/b50d3038-ec9a-48ec-8dfd-8723006b2439/download/2016-09-lineas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/5c710185-9b8e-4ee9-bf71-870a4df65f12/download/2016-10-lineas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-10 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-10 lineas transporte RMBA",
+                    "issued": "2017-06-05T20:38:19.287853",
+                    "format": "CSV",
+                    "modified": "2017-06-05T20:38:19.229815",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/5c710185-9b8e-4ee9-bf71-870a4df65f12/download/2016-10-lineas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/99c9beca-a611-4952-a5d4-c5c74913349a/download/2016-11-lineas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-11 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-01-09 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-11 lineas transporte RMBA",
+                    "issued": "2017-06-05T20:39:31.619620",
+                    "format": "CSV",
+                    "modified": "2017-06-05T20:39:31.556669",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/99c9beca-a611-4952-a5d4-c5c74913349a/download/2016-11-lineas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/b1107458-4bb0-4ed3-b96e-92f5be5039d4/download/2016-12-lineas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-12 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2016-12 lineas transporte RMBA",
+                    "issued": "2017-06-05T20:40:21.968492",
+                    "format": "CSV",
+                    "modified": "2017-06-05T20:40:21.903770",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/b1107458-4bb0-4ed3-b96e-92f5be5039d4/download/2016-12-lineas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/9e3a7a79-4005-4431-93f6-c3e67f2c3b12/download/2017-01-lineas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA \r\nSUBE PARA EL PERIODO DE VIAJE 2017-01 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL \r\nSISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-03-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE \r\n(USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE \r\nREGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2017-01 lineas transporte RMBA",
+                    "issued": "2017-06-26T18:24:46.724111",
+                    "format": "CSV",
+                    "modified": "2017-06-26T18:24:46.644839",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/9e3a7a79-4005-4431-93f6-c3e67f2c3b12/download/2017-01-lineas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/dfe7cd07-1689-48cc-b9e1-935c75ff990a/download/2017-01-lineas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA \r\nSUBE PARA EL PERIODO DE VIAJE 2017-02 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL \r\nSISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-04-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE \r\n(USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE \r\nREGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2017-02 lineas transporte RMBA",
+                    "issued": "2017-06-26T18:25:56.300665",
+                    "format": "CSV",
+                    "modified": "2017-06-26T18:25:56.211614",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/dfe7cd07-1689-48cc-b9e1-935c75ff990a/download/2017-01-lineas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/00b83698-1544-4b91-b8d0-a7bff392626f/download/2017-01-lineas-transporte-rmba.csv",
+                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA \r\nSUBE PARA EL PERIODO DE VIAJE 2017-03 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL \r\nSISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-05-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE \r\n(USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE \r\nREGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
+                    "title": "2017-03 lineas transporte RMBA",
+                    "issued": "2017-06-26T18:26:42.928065",
+                    "format": "CSV",
+                    "modified": "2017-06-26T18:26:42.832009",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/00b83698-1544-4b91-b8d0-a7bff392626f/download/2017-01-lineas-transporte-rmba.csv",
+                    "@type": "dcat:Distribution"
+                }
+            ],
+            "keyword": [
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "superTheme": [
+                "TRAN"
+            ],
+            "landingPage": "https://datos.transporte.gob.ar/dataset/lineas-transporte-rmba",
+            "identifier": "17576642-a888-4f52-adc4-0d6e8bc86ddf",
+            "@type": "dcat:Dataset"
+        },
+        {
+            "publisher": {
+                "mbox": "dotes@transporte.gob.ar",
+                "name": "Dirección de Observatorio de Transporte, Estudio y Sistemas"
+            },
+            "accessLevel": "public",
             "description": "NOMBRES DE EMPRESAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016 AGRUPADAS POR JURISDICCION\r\n2016-01 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-04-30 INCLUSIVE\r\n2016-02 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-05-31 INCLUSIVE\r\n2016-03 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-06-30 INCLUSIVE\r\n2016-04 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-07-31 INCLUSIVE\r\n2016-05 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-08-31 INCLUSIVE\r\n2016-06 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-09-30 INCLUSIVE\r\n2016-07 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-10-31 INCLUSIVE\r\n2016-08 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-11-09 INCLUSIVE\r\n2016-09 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE\r\n2016-10 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-01-09 INCLUSIVE\r\n2016-11 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\n2016-12 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\nTIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN))\r\nLINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
             "license": "No se especificó la licencia",
             "title": "Empresas transporte RMBA",
@@ -1339,230 +1563,6 @@
             ],
             "landingPage": "https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-cantidad",
             "identifier": "a4a19ded-9793-44bc-8086-a317ba441c37",
-            "@type": "dcat:Dataset"
-        },
-        {
-            "publisher": {
-                "mbox": "dotes@transporte.gob.ar",
-                "name": "Dirección de Observatorio de Transporte, Estudio y Sistemas"
-            },
-            "accessLevel": "public",
-            "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016 AGRUPADAS POR JURISDICCION\r\n2016-01 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-04-30 INCLUSIVE\r\n2016-02 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-05-31 INCLUSIVE\r\n2016-03 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-06-30 INCLUSIVE\r\n2016-04 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-07-31 INCLUSIVE\r\n2016-05 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-08-31 INCLUSIVE\r\n2016-06 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-09-30 INCLUSIVE\r\n2016-07 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-10-31 INCLUSIVE\r\n2016-08 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-11-09 INCLUSIVE\r\n2016-09 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE\r\n2016-10 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-01-09 INCLUSIVE\r\n2016-11 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\n2016-12 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\nTIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN))\r\nLINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-            "license": "No se especificó la licencia",
-            "title": "Lineas transporte RMBA",
-            "contactPoint": {
-                "hasEmail": "mailto:dotes@transporte.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección de Observatorio de Transporte, Estudio y Sistemas"
-            },
-            "issued": "2017-06-05T20:20:03.265305",
-            "temporal": "2016-01-01T03:00:00.000Z/2017-02-28T03:00:00.000Z",
-            "modified": "2017-06-28T16:45:34.256415",
-            "language": "spa",
-            "theme": [
-                "Movilidad Urbana",
-                "Transporte Automotor",
-                "Transporte Ferroviario",
-                "Transporte General",
-                "Movilidad Urbana",
-                "Transporte Automotor",
-                "Transporte Ferroviario",
-                "Transporte General",
-                "Movilidad Urbana",
-                "Transporte Automotor",
-                "Transporte Ferroviario",
-                "Transporte General",
-                "Movilidad Urbana",
-                "Transporte Automotor",
-                "Transporte Ferroviario",
-                "Transporte General",
-                "Movilidad Urbana",
-                "Transporte Automotor",
-                "Transporte Ferroviario",
-                "Transporte General",
-                "Movilidad Urbana",
-                "Transporte Automotor",
-                "Transporte Ferroviario",
-                "Transporte General",
-                "Movilidad Urbana",
-                "Transporte Automotor",
-                "Transporte Ferroviario",
-                "Transporte General"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/0fd9075b-c22a-4d89-97c4-779ac943d802/download/2016-01-lineas-transporte-rmba.csv",
-                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-01 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-04-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-01 lineas transporte RMBA",
-                    "issued": "2017-06-05T20:22:56.445952",
-                    "format": "CSV",
-                    "modified": "2017-06-28T14:09:39.932652",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/0fd9075b-c22a-4d89-97c4-779ac943d802/download/2016-01-lineas-transporte-rmba.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/ddaa1878-76b8-44dd-8cfa-f6b51d5260ed/download/2016-02-lineas-transporte-rmba.csv",
-                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-02 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-05-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-02 lineas transporte RMBA",
-                    "issued": "2017-06-05T20:28:37.453906",
-                    "format": "CSV",
-                    "modified": "2017-06-28T14:43:53.021816",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/ddaa1878-76b8-44dd-8cfa-f6b51d5260ed/download/2016-02-lineas-transporte-rmba.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/17995d0c-c109-4583-aaef-daa5ec4b123a/download/2016-03-lineas-transporte-rmba.csv",
-                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-03 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-06-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-03 lineas transporte RMBA",
-                    "issued": "2017-06-05T20:29:26.220605",
-                    "format": "CSV",
-                    "modified": "2017-06-28T15:21:44.981462",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/17995d0c-c109-4583-aaef-daa5ec4b123a/download/2016-03-lineas-transporte-rmba.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/4eb5cf01-4ebb-4317-9fde-0d4fd198d1cb/download/2016-04-lineas-transporte-rmba.csv",
-                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-04 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-07-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-04 lineas transporte RMBA",
-                    "issued": "2017-06-05T20:30:28.421415",
-                    "format": "CSV",
-                    "modified": "2017-06-28T16:34:28.642834",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/4eb5cf01-4ebb-4317-9fde-0d4fd198d1cb/download/2016-04-lineas-transporte-rmba.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/e544ae72-6f46-468a-bf11-a7a572d729b9/download/2016-05-lineas-transporte-rmba.csv",
-                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-05 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-08-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-05 lineas transporte RMBA",
-                    "issued": "2017-06-05T20:31:56.708433",
-                    "format": "CSV",
-                    "modified": "2017-06-28T16:45:32.809416",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/e544ae72-6f46-468a-bf11-a7a572d729b9/download/2016-05-lineas-transporte-rmba.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/dde4f74d-213a-4b3c-8029-1fef216031b5/download/2016-06-lineas-transporte-rmba.csv",
-                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-06 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-09-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-06 lineas transporte RMBA",
-                    "issued": "2017-06-05T20:33:37.935514",
-                    "format": "CSV",
-                    "modified": "2017-06-05T20:33:37.877702",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/dde4f74d-213a-4b3c-8029-1fef216031b5/download/2016-06-lineas-transporte-rmba.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/500be730-2990-4292-bb8d-037cb65985e4/download/2016-07-lineas-transporte-rmba.csv",
-                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-07 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-10-31 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-07 lineas transporte RMBA",
-                    "issued": "2017-06-05T20:35:14.289080",
-                    "format": "CSV",
-                    "modified": "2017-06-05T20:35:14.139638",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/500be730-2990-4292-bb8d-037cb65985e4/download/2016-07-lineas-transporte-rmba.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/7471a290-9724-4226-9490-1a3127aa1931/download/2016-08-lineas-transporte-rmba.csv",
-                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-08 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-11-09 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-08 lineas transporte RMBA",
-                    "issued": "2017-06-05T20:36:04.483363",
-                    "format": "CSV",
-                    "modified": "2017-06-05T20:36:04.431147",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/7471a290-9724-4226-9490-1a3127aa1931/download/2016-08-lineas-transporte-rmba.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/b50d3038-ec9a-48ec-8dfd-8723006b2439/download/2016-09-lineas-transporte-rmba.csv",
-                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-09 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-09 lineas transporte RMBA",
-                    "issued": "2017-06-05T20:37:30.075222",
-                    "format": "CSV",
-                    "modified": "2017-06-05T20:37:30.020051",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/b50d3038-ec9a-48ec-8dfd-8723006b2439/download/2016-09-lineas-transporte-rmba.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/5c710185-9b8e-4ee9-bf71-870a4df65f12/download/2016-10-lineas-transporte-rmba.csv",
-                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-10 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-10 lineas transporte RMBA",
-                    "issued": "2017-06-05T20:38:19.287853",
-                    "format": "CSV",
-                    "modified": "2017-06-05T20:38:19.229815",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/5c710185-9b8e-4ee9-bf71-870a4df65f12/download/2016-10-lineas-transporte-rmba.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/99c9beca-a611-4952-a5d4-c5c74913349a/download/2016-11-lineas-transporte-rmba.csv",
-                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-11 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-01-09 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-11 lineas transporte RMBA",
-                    "issued": "2017-06-05T20:39:31.619620",
-                    "format": "CSV",
-                    "modified": "2017-06-05T20:39:31.556669",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/99c9beca-a611-4952-a5d4-c5c74913349a/download/2016-11-lineas-transporte-rmba.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/b1107458-4bb0-4ed3-b96e-92f5be5039d4/download/2016-12-lineas-transporte-rmba.csv",
-                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016-12 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE REGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2016-12 lineas transporte RMBA",
-                    "issued": "2017-06-05T20:40:21.968492",
-                    "format": "CSV",
-                    "modified": "2017-06-05T20:40:21.903770",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/b1107458-4bb0-4ed3-b96e-92f5be5039d4/download/2016-12-lineas-transporte-rmba.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/9e3a7a79-4005-4431-93f6-c3e67f2c3b12/download/2017-01-lineas-transporte-rmba.csv",
-                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA \r\nSUBE PARA EL PERIODO DE VIAJE 2017-01 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL \r\nSISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-03-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE \r\n(USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE \r\nREGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2017-01 lineas transporte RMBA",
-                    "issued": "2017-06-26T18:24:46.724111",
-                    "format": "CSV",
-                    "modified": "2017-06-26T18:24:46.644839",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/9e3a7a79-4005-4431-93f6-c3e67f2c3b12/download/2017-01-lineas-transporte-rmba.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/dfe7cd07-1689-48cc-b9e1-935c75ff990a/download/2017-01-lineas-transporte-rmba.csv",
-                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA \r\nSUBE PARA EL PERIODO DE VIAJE 2017-02 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL \r\nSISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-04-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE \r\n(USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE \r\nREGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2017-02 lineas transporte RMBA",
-                    "issued": "2017-06-26T18:25:56.300665",
-                    "format": "CSV",
-                    "modified": "2017-06-26T18:25:56.211614",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/dfe7cd07-1689-48cc-b9e1-935c75ff990a/download/2017-01-lineas-transporte-rmba.csv",
-                    "@type": "dcat:Distribution"
-                },
-                {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/00b83698-1544-4b91-b8d0-a7bff392626f/download/2017-01-lineas-transporte-rmba.csv",
-                    "description": "NOMBRES DE EMPRESAS SUS RESPECTIVAS LINEAS DE TRANSPORTE QUE HAN TENIDO ALGUNA VALIDACION EN EL SISTEMA \r\nSUBE PARA EL PERIODO DE VIAJE 2017-03 AGRUPADAS POR JURISDICCION PARA OPERACIONES REGISTRADAS EN EL \r\nSISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-05-30 INCLUSIVE TIPOS DE OPERACION VALIDACION DE VIAJE \r\n(USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN)) LINEAS DE TRANSPORTE DE \r\nREGION METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PREMETRO Y COLECTIVOS",
-                    "title": "2017-03 lineas transporte RMBA",
-                    "issued": "2017-06-26T18:26:42.928065",
-                    "format": "CSV",
-                    "modified": "2017-06-26T18:26:42.832009",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/17576642-a888-4f52-adc4-0d6e8bc86ddf/resource/00b83698-1544-4b91-b8d0-a7bff392626f/download/2017-01-lineas-transporte-rmba.csv",
-                    "@type": "dcat:Distribution"
-                }
-            ],
-            "keyword": [
-                "SUBE",
-                "TRANSPORTE",
-                "SUBE",
-                "TRANSPORTE",
-                "SUBE",
-                "TRANSPORTE",
-                "SUBE",
-                "TRANSPORTE",
-                "SUBE",
-                "TRANSPORTE",
-                "SUBE",
-                "TRANSPORTE",
-                "SUBE",
-                "TRANSPORTE"
-            ],
-            "accrualPeriodicity": "R/P1M",
-            "superTheme": [
-                "TRAN"
-            ],
-            "landingPage": "https://datos.transporte.gob.ar/dataset/lineas-transporte-rmba",
-            "identifier": "17576642-a888-4f52-adc4-0d6e8bc86ddf",
             "@type": "dcat:Dataset"
         }
     ],
