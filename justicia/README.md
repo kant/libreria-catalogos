@@ -15,31 +15,37 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 22
-- **Cantidad Total de Distribuciones**: 112
+- **Cantidad Total de Datasets**: 28
+- **Cantidad Total de Distribuciones**: 118
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 22
+- **Cantidad de Datasets NO Federados**: 28
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets no federados:
 
 - [Base Infoleg de Normativa Nacional](http://www.infoleg.gob.ar)
 - [Base SAIJ de Normativa Provincial]()
+- [Bienes Secuestrados y Decomisados durante el Proceso Penal]()
 - [Centros de Acceso a la Justicia -CAJ-](http://www.jus.gob.ar/accesoalajusticia.aspx)
 - [Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.]()
+- [Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ-](Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia)
+- [Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público]()
 - [Declaración Jurada Patrimonial Integral de Carácter Público](https://www2.jus.gov.ar/consultaddjj)
 - [Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional]()
 - [Entidades Constituidas en la Inspección General de Justicia]()
 - [Estadística de Mediaciones Prejudiciales y Judiciales]()
 - [Internos del Servicio Penitenciario Federal - SPF]()
+- [Listado de mediadores]()
 - [Listado de Registros Seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios](http://www.dnrpa.gov.ar)
 - [Magistrados de la Justicia Federal y de la Justicia Nacional]()
+- [Listado de Mediaciones prejudiciales y judiciales. Ley 26.589]()
 - [Registro de Obsequios a Funcionarios Públicos](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
 - [Registro de Viajes Fincianciados por Terceros](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
 - [Registro, Sistematización y Seguimiento de Femicidios y Homicidios Agravados por el Género]()
 - [Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-](http://www.jus.gob.ar/derechoshumanos/areas-tematicas/ruvte.aspx)
 - [Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional]()
+- [Selección de Magistrados del Poder Judicial y el Ministerio Público de la Nación]()
 - [Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP]()
 - [Solicitudes de Condición de Legítimo Usuario de Armas de Fuego]()
 - [Solicitudes de Autorización de Portación de Armas de Fuego]()
