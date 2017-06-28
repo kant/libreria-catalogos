@@ -1078,6 +1078,187 @@
         },
         {
             "publisher": {
+                "mbox": "accesobd@dnrpa.gov.ar",
+                "name": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios"
+            },
+            "landingPage": "http://www.dnrpa.gov.ar",
+            "description": "En este conjunto de datos se detalla la cantidad de automotores 0km inscriptos y automotores transferidos, discriminados por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Se consideran automotores: automóviles, camiones, inclusive los llamados tractores para semirremolque, camionetas, rurales, jeeps, furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aún cuando no estuvieran carrozados.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Estadística de trámites de automotores",
+            "issued": "2017-06-28T17:28:28.132200",
+            "modified": "2017-06-28T19:58:18.282744",
+            "theme": [
+                "sistema-registral"
+            ],
+            "keyword": [
+                "0km",
+                "automotores",
+                "inscripciones",
+                "inscripciones iniciales",
+                "registración",
+                "registros seccionales",
+                "transferencias",
+                "trámites"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "contactPoint": {
+                "hasEmail": "accesobd@dnrpa.gov.ar",
+                "fn": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios"
+            },
+            "identifier": "1ab0cc03-ab9b-4520-975c-5757d87d1061",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/f868c24e-58ba-4b03-8071-b1ae634e6e68",
+                    "description": "Estadística de inscripciones iniciales de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite",
+                    "title": "Estadística de inscripciones iniciales de automotores",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-28T16:01:42.028816",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/f868c24e-58ba-4b03-8071-b1ae634e6e68/download/estadistica-inscripciones-iniciales-automotores.csv",
+                    "issued": "2017-06-28T14:59:55.525685",
+                    "identifier": "f868c24e-58ba-4b03-8071-b1ae634e6e68"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/091ff910-c3fd-4882-8e92-393640545053",
+                    "description": "Estadística de transferencias de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite",
+                    "title": "Estadística de transferencias de automotores",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-28T16:05:45.610213",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/1ab0cc03-ab9b-4520-975c-5757d87d1061/resource/091ff910-c3fd-4882-8e92-393640545053/download/estadistica-transferencias-automotores.csv",
+                    "issued": "2017-06-28T15:01:19.382420",
+                    "identifier": "091ff910-c3fd-4882-8e92-393640545053"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "accesobd@dnrpa.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
+            },
+            "landingPage": "http://www.dnrpa.gov.ar",
+            "description": "En este conjunto de datos se detalla la cantidad de maquinarias 0km inscriptas y maquinarias transferidas, discriminadas por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Se consideran maquinarias aquellas de uso agrícola, vial e industrial.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Estadística de trámites de maquinarias",
+            "issued": "2017-06-28T18:19:55.932924",
+            "modified": "2017-06-28T19:35:07.160823",
+            "theme": [
+                "sistema-registral"
+            ],
+            "keyword": [
+                "0km",
+                "agricola",
+                "industrial",
+                "inscripciones",
+                "maquinarias",
+                "registración",
+                "registros seccionales",
+                "transferencias",
+                "trámites",
+                "vial"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "contactPoint": {
+                "hasEmail": "accesobd@dnrpa.gov.ar",
+                "fn": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios"
+            },
+            "identifier": "852b58b1-98b5-4f80-9f80-62e09cf3cfbb",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/9876d8df-8850-47f9-bb67-f1ca7ff69981",
+                    "description": "Estadística de inscripciones iniciales de maquinarias agrícolas, viales e industriales,  por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite",
+                    "title": "Estadística de inscripciones iniciales de maquinarias",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-28T16:09:10.710192",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/9876d8df-8850-47f9-bb67-f1ca7ff69981/download/estadistica-inscripciones-iniciales-maquinarias.csv",
+                    "issued": "2017-06-28T15:20:46.595831",
+                    "identifier": "9876d8df-8850-47f9-bb67-f1ca7ff69981"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/bfa8c33c-b8b8-45b8-b7a6-46f8b6da25d1",
+                    "description": "Estadística de transferencias de maquinarias agrícolas, viales e industriales  por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite",
+                    "title": "Estadística de transferencias de maquinarias",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-28T16:10:03.758658",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/bfa8c33c-b8b8-45b8-b7a6-46f8b6da25d1/download/estadistica-transferencias-maquinarias.csv",
+                    "issued": "2017-06-28T15:21:29.901908",
+                    "identifier": "bfa8c33c-b8b8-45b8-b7a6-46f8b6da25d1"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "accesobd@dnrpa.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
+            },
+            "landingPage": "http://www.dnrpa.gov.ar",
+            "description": "En este conjunto de datos se detalla la cantidad de motovehículos 0km inscriptos y motovehículos transferidos, discriminados  por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.Se consideran motovehículos: ciclomotores, motocicletas, motocarro (motocargas y motofurgones), motonetas, triciclos y cuatriciclos con motor.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Estadística de trámites de motovehículos",
+            "issued": "2017-06-28T18:08:53.679300",
+            "modified": "2017-06-28T19:35:05.242423",
+            "theme": [
+                "sistema-registral"
+            ],
+            "keyword": [
+                "0km",
+                "inscripciones",
+                "inscripciones iniciales",
+                "motovehículos",
+                "registración",
+                "registros seccionales",
+                "transferencias",
+                "trámites"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "contactPoint": {
+                "hasEmail": "accesobd@dnrpa.gov.ar",
+                "fn": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios"
+            },
+            "identifier": "72d85f23-b751-4d12-935b-25e32ed9445e",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/5b682f0d-15d4-4db7-a2ba-a8baf2349781",
+                    "description": "Estadística de inscripciones iniciales de motovehículos por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite",
+                    "title": "Estadística de inscripciones iniciales de motovehículos",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-28T16:07:16.452359",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/5b682f0d-15d4-4db7-a2ba-a8baf2349781/download/estadistica-inscripciones-iniciales-motovehiculos.csv",
+                    "issued": "2017-06-28T15:09:33.117999",
+                    "identifier": "5b682f0d-15d4-4db7-a2ba-a8baf2349781"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/ab069f26-b558-4a11-93b8-cab82bf6ecac",
+                    "description": "Transferencias de motovehículos por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite",
+                    "title": "Estadística de transferencias de motovehículos",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-06-28T16:08:23.764939",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/ab069f26-b558-4a11-93b8-cab82bf6ecac/download/estadistica-transferencias-motovehiculos.csv",
+                    "issued": "2017-06-28T15:09:55.214197",
+                    "identifier": "ab069f26-b558-4a11-93b8-cab82bf6ecac"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "allamosa@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos."
             },
@@ -2275,65 +2456,6 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/e41e8224-f868-4688-9fae-94d320f8ee5e/resource/0a823ec3-4609-41b6-8af8-93afd23aaf9c/download/tesauro-saij.rdf",
                     "issued": "2016-11-24T12:42:33.865637",
                     "identifier": "0a823ec3-4609-41b6-8af8-93afd23aaf9c"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "accesobd@dnrpa.gov.ar",
-                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
-            },
-            "landingPage": "http://www.dnrpa.gov.ar",
-            "description": "En este conjunto de datos se detalla la cantidad de automotores 0km inscriptos y automotores transferidos, discriminados por año, mes, provincia. Se consideran automotores: automóviles,  camiones,  inclusive  los  llamados  tractores  para  semirremolque,  camionetas,  rurales,  jeeps,  furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aún  cuando  no  estuvieran  carrozados. Se consideran motovehículos: ciclomotores, motocicletas, motocarro (motocargas y motofurgones), motonetas, triciclos y cuatriciclos con motor. En cuanto a maquinarias están incluidas aquellas de uso agrícola, vial e industrial.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Estadística de Trámites de Automotores, Motovehículos y Maquinarias",
-            "issued": "2016-07-12T13:35:32.251134",
-            "modified": "2017-06-26T17:48:14.434215",
-            "theme": [
-                "sistema-registral"
-            ],
-            "keyword": [
-                "automotores",
-                "inscripciones iniciales",
-                "maquinarias",
-                "motovehículos",
-                "prendas",
-                "registración",
-                "transferencias"
-            ],
-            "superTheme": [
-                "JUST"
-            ],
-            "accrualPeriodicity": "R/P1M",
-            "contactPoint": {
-                "hasEmail": "accesobd@dnrpa.gov.ar",
-                "fn": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
-            },
-            "identifier": "de4560f4-8620-4cb5-a3a5-e3e5684c0e45",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/2436ab65-44da-4f45-a59d-5e09136e1df2",
-                    "description": "Estadística mensual de inscripciones iniciales de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
-                    "title": "Estadística de inscripciones iniciales de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-06-05T16:35:45.884449",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/2436ab65-44da-4f45-a59d-5e09136e1df2/download/estadistica-inscripciones-iniciales-autos-motos-maquinarias.csv",
-                    "issued": "2016-10-05T16:22:51.223278",
-                    "identifier": "2436ab65-44da-4f45-a59d-5e09136e1df2"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/65219d23-89af-4b19-85cb-c37364c4f9cb",
-                    "description": "Estadística mensual de transferencias de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
-                    "title": "Estadística de transferencias de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-06-05T16:37:29.432233",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/65219d23-89af-4b19-85cb-c37364c4f9cb/download/estadistica-transferencias-autos-motos-maquinarias.csv",
-                    "issued": "2017-03-10T16:13:31.452871",
-                    "identifier": "65219d23-89af-4b19-85cb-c37364c4f9cb"
                 }
             ]
         },
