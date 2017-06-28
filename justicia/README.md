@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 28
-- **Cantidad Total de Distribuciones**: 118
+- **Cantidad Total de Datasets**: 30
+- **Cantidad Total de Distribuciones**: 122
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 28
+- **Cantidad de Datasets NO Federados**: 30
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets no federados:
@@ -34,6 +34,9 @@
 - [Declaración Jurada Patrimonial Integral de Carácter Público](https://www2.jus.gov.ar/consultaddjj)
 - [Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional]()
 - [Entidades Constituidas en la Inspección General de Justicia]()
+- [Estadística de trámites de automotores](http://www.dnrpa.gov.ar)
+- [Estadística de trámites de maquinarias](http://www.dnrpa.gov.ar)
+- [Estadística de trámites de motovehículos](http://www.dnrpa.gov.ar)
 - [Estadística de Mediaciones Prejudiciales y Judiciales]()
 - [Internos del Servicio Penitenciario Federal - SPF]()
 - [Listado de mediadores]()
@@ -50,7 +53,6 @@
 - [Solicitudes de Condición de Legítimo Usuario de Armas de Fuego]()
 - [Solicitudes de Autorización de Portación de Armas de Fuego]()
 - [Tesauro SAIJ de Derecho Argentino]()
-- [Estadística de Trámites de Automotores, Motovehículos y Maquinarias](http://www.dnrpa.gov.ar)
 - [Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional]()
 
 ## Datasets incluidos
