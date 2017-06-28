@@ -15,17 +15,15 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 41
-- **Cantidad Total de Distribuciones**: 123
+- **Cantidad Total de Datasets**: 39
+- **Cantidad Total de Distribuciones**: 117
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 41
+- **Cantidad de Datasets NO Federados**: 39
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets no federados:
 
-- [Registro de Visitas](http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/)
-- [Registro de Audiencias](http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/)
 - [Escuelas conectadas](http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/)
 - [Escuelas de próxima conexión](http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/)
 - [Listado de Personal](http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/)
