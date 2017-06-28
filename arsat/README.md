@@ -24,6 +24,8 @@
 
 ## Datasets no federados:
 
+- [Registro de Audiencias](http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/)
+- [Registro de Visitas](http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/)
 - [Escuelas conectadas](http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/)
 - [Escuelas de próxima conexión](http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/)
 - [Listado de Personal](http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/)
@@ -36,8 +38,6 @@
 - [Personal de ARSAT según contrato laboral](http://datos.arsat.com.ar/dataviews/238095/personal-de-arsat-segun-contrato-laboral/)
 - [Escuelas Conectadas con Tecnología Gillat](http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gillat/)
 - [Total de personal por género](http://datos.arsat.com.ar/dataviews/238093/total-de-personal-por-genero/)
-- [Registro de Visitas](http://datos.arsat.com.ar/dataviews/238535/registro-de-visitas/)
-- [Registro de Audiencias](http://datos.arsat.com.ar/dataviews/237549/registro-de-audiencias/)
 - [Honorarios de Directores](http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/)
 - [Megabits de velocidad entregados por provincia](http://datos.arsat.com.ar/dataviews/235847/megabits-de-velocidad-entregados-por-provincia/)
 - [Porcentaje de avance del Plan](http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/)
