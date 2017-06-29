@@ -26,9 +26,9 @@
 
 - [Registro de Audiencias](http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/)
 - [Registro de Visitas](http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/)
-- [Licitaciones](http://datos.arsat.com.ar/dataviews/237560/licitaciones/)
 - [Escuelas conectadas](http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/)
 - [Escuelas de próxima conexión](http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/)
+- [Licitaciones](http://datos.arsat.com.ar/dataviews/237560/licitaciones/)
 - [Listado de Personal](http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/)
 - [Promedios de edad y antigüedad del personal](http://datos.arsat.com.ar/dataviews/238094/promedios-de-edad-y-antiguedad-del-personal/)
 - [Personal de ARSAT según zona laboral](http://datos.arsat.com.ar/dataviews/238096/personal-de-arsat-segun-zona-laboral/)
