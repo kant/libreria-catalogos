@@ -16,7 +16,7 @@
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
 - **Cantidad Total de Datasets**: 7
-- **Cantidad Total de Distribuciones**: 104
+- **Cantidad Total de Distribuciones**: 118
 
 - **Cantidad de Datasets Federados**: 0
 - **Cantidad de Datasets NO Federados**: 7
@@ -24,13 +24,13 @@
 
 ## Datasets no federados:
 
-- [Lineas transporte RMBA](https://datos.transporte.gob.ar/dataset/lineas-transporte-rmba)
-- [Empresas transporte RMBA](https://datos.transporte.gob.ar/dataset/empresas-transporte-rmba)
-- [Cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad](https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-modo-empresa-linea-tipo-pasaje-cantidad)
-- [Cancelaciones RMBA - periodo - modo - empresa - linea - cantidad](https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-modo-empresa-linea-cantidad)
-- [Cancelaciones RMBA - periodo - modo - empresa - cantidad](https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-modo-empresa-cantidad)
-- [Cancelaciones RMBA - periodo - modo - cantidad](https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-modo-cantidad)
 - [Cancelaciones RMBA periodo-cantidad](https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-cantidad)
+- [Cancelaciones RMBA - periodo - modo - cantidad](https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-modo-cantidad)
+- [Cancelaciones RMBA - periodo - modo - empresa - cantidad](https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-modo-empresa-cantidad)
+- [Cancelaciones RMBA - periodo - modo - empresa - linea - cantidad](https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-modo-empresa-linea-cantidad)
+- [Cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad](https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-modo-empresa-linea-tipo-pasaje-cantidad)
+- [Empresas transporte RMBA](https://datos.transporte.gob.ar/dataset/empresas-transporte-rmba)
+- [Lineas transporte RMBA](https://datos.transporte.gob.ar/dataset/lineas-transporte-rmba)
 
 ## Datasets incluidos
 
