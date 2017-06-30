@@ -26,6 +26,8 @@
 
 - [Registro de Audiencias](http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/)
 - [Registro de Visitas](http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/)
+- [Futuros puntos de conexión al Plan Federal de Internet](http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/)
+- [Puntos de conexión al Plan Federal de Internet](http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/)
 - [Escuelas conectadas](http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/)
 - [Escuelas de próxima conexión](http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/)
 - [Licitaciones](http://datos.arsat.com.ar/dataviews/237560/licitaciones/)
@@ -53,7 +55,6 @@
 - [Datos de las estaciones transmisoras](http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/)
 - [Datos del área de cobertura de la Banda KU del satélite ARSAT-1](http://datos.arsat.com.ar/dataviews/236042/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-1/)
 - [Datos de uso de la plataforma](http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/)
-- [Puntos de conexión al Plan Federal de Internet](http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/)
 - [Salarios Gerentes](http://datos.arsat.com.ar/dataviews/238792/salarios-gerentes/)
 - [Fibra óptica tendida](http://datos.arsat.com.ar/dataviews/238754/fibra-optica-tendida/)
 - [Coordenadas de la red de fibra óptica en servicio](http://datos.arsat.com.ar/dataviews/236038/coordenadas-de-la-red-de-fibra-optica-en-servicio/)
@@ -62,7 +63,6 @@
 - [Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América](http://datos.arsat.com.ar/dataviews/236043/datos-del-area-de-cobertura-de-la-banda-c-del-satelite-arsat-2-en-america/)
 - [Datos del área de cobertura en Banda KU del satélite ARSAT-2 en América del Sur](http://datos.arsat.com.ar/dataviews/236048/datos-del-area-de-cobertura-en-banda-ku-del-satelite-arsat-2-en-america-del-sur/)
 - [Kilómetros de fibra óptica previstos y localidades contempladas por provincia](http://datos.arsat.com.ar/dataviews/236003/kilometros-de-fibra-optica-previstos-y-localidades-contempladas-por-provincia/)
-- [Futuros puntos de conexión al Plan Federal de Internet](http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/)
 - [Declaraciones Juradas Patrimoniales - Directorio y Gerentes](http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/)
 - [Listado de Proveedores](http://datos.arsat.com.ar/dataviews/237843/listado-de-proveedores/)
 
