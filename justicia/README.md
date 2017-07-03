@@ -48,7 +48,7 @@
 - [Registro, Sistematización y Seguimiento de Femicidios y Homicidios Agravados por el Género]()
 - [Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-](http://www.jus.gob.ar/derechoshumanos/areas-tematicas/ruvte.aspx)
 - [Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional]()
-- [Selección de Magistrados del Poder Judicial y el Ministerio Público de la Nación]()
+- [Selección de magistrados del Poder Judicial y el Ministerio Público de la Nación]()
 - [Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP]()
 - [Solicitudes de Condición de Legítimo Usuario de Armas de Fuego]()
 - [Solicitudes de Autorización de Portación de Armas de Fuego]()
