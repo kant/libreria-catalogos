@@ -26,10 +26,10 @@
 
 - [Registro de Audiencias](http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/)
 - [Registro de Visitas](http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/)
-- [Puntos de conexión al Plan Federal de Internet](http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/)
-- [Futuros puntos de conexión al Plan Federal de Internet](http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/)
 - [Escuelas conectadas](http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/)
 - [Escuelas de próxima conexión](http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/)
+- [Futuros puntos de conexión al Plan Federal de Internet](http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/)
+- [Puntos de conexión al Plan Federal de Internet](http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/)
 - [Licitaciones](http://datos.arsat.com.ar/dataviews/237560/licitaciones/)
 - [Listado de Personal](http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/)
 - [Promedios de edad y antigüedad del personal](http://datos.arsat.com.ar/dataviews/238094/promedios-de-edad-y-antiguedad-del-personal/)
