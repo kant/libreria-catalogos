@@ -26,11 +26,11 @@
 
 - [Registro de Audiencias](http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/)
 - [Registro de Visitas](http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/)
+- [Escuelas conectadas](http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/)
+- [Escuelas de próxima conexión](http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/)
 - [Porcentaje de avance del Plan](http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/)
 - [Cantidad de clientes por provincia](http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/)
 - [Megabits de velocidad entregados por provincia](http://datos.arsat.com.ar/dataviews/235847/megabits-de-velocidad-entregados-por-provincia/)
-- [Escuelas conectadas](http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/)
-- [Escuelas de próxima conexión](http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/)
 - [Futuros puntos de conexión al Plan Federal de Internet](http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/)
 - [Puntos de conexión al Plan Federal de Internet](http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/)
 - [Licitaciones](http://datos.arsat.com.ar/dataviews/237560/licitaciones/)
