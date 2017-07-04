@@ -156,6 +156,116 @@
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Cantidad de clientes por provincia del Plan Federal de Internet",
+            "language": [
+                "spa"
+            ],
+            "title": "Cantidad de clientes por provincia",
+            "issued": "2017-07-04T14:32:36",
+            "modified": "2017-07-04T14:34:02",
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "PLAN FEDERAL DE INTERNET"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
+                    "description": "Cantidad de clientes por provincia del Plan Federal de Internet",
+                    "title": "Cantidad de clientes por provincia",
+                    "issued": "2017-07-04T14:32:36",
+                    "format": "CSV",
+                    "modified": "2017-07-04T14:34:02",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
+                    "description": "Cantidad de clientes por provincia del Plan Federal de Internet",
+                    "title": "Cantidad de clientes por provincia",
+                    "issued": "2017-07-04T14:32:36",
+                    "format": "XLS",
+                    "modified": "2017-07-04T14:34:02",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
+                    "description": "Cantidad de clientes por provincia del Plan Federal de Internet",
+                    "title": "Cantidad de clientes por provincia",
+                    "issued": "2017-07-04T14:32:36",
+                    "format": "JSON",
+                    "modified": "2017-07-04T14:34:02",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "La tabla divide por provincia la cantidad de megabits por segundo de velocidad que se envía a los proveedores locales conectados al Plan Federal de Internet.",
+            "language": [
+                "spa"
+            ],
+            "title": "Megabits de velocidad entregados por provincia",
+            "issued": "2017-07-04T14:30:48",
+            "modified": "2017-07-04T14:34:02",
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "PLAN FEDERAL DE INTERNET"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/megabits-de-velocidad-entregados-por-provincia/",
+                    "description": "La tabla divide por provincia la cantidad de megabits por segundo de velocidad que se envía a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Megabits de velocidad entregados por provincia",
+                    "issued": "2017-07-04T14:30:48",
+                    "format": "CSV",
+                    "modified": "2017-07-04T14:34:02",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/megabits-de-velocidad-entregados-por-provincia/",
+                    "description": "La tabla divide por provincia la cantidad de megabits por segundo de velocidad que se envía a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Megabits de velocidad entregados por provincia",
+                    "issued": "2017-07-04T14:30:48",
+                    "format": "XLS",
+                    "modified": "2017-07-04T14:34:02",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/megabits-de-velocidad-entregados-por-provincia/",
+                    "description": "La tabla divide por provincia la cantidad de megabits por segundo de velocidad que se envía a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Megabits de velocidad entregados por provincia",
+                    "issued": "2017-07-04T14:30:48",
+                    "format": "JSON",
+                    "modified": "2017-07-04T14:34:02",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/235847/megabits-de-velocidad-entregados-por-provincia/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
             "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
             "description": "Listado de escuelas rurales conectadas al 30/06/2017",
             "language": [
@@ -1041,61 +1151,6 @@
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "La tabla divide por provincia la cantidad de megabits por segundo de velocidad que se envía a los proveedores locales conectados al Plan Federal de Internet.",
-            "language": [
-                "spa"
-            ],
-            "title": "Megabits de velocidad entregados por provincia",
-            "issued": "2017-06-14T12:52:24",
-            "modified": "2017-06-14T12:52:33",
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "PLAN FEDERAL DE INTERNET"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/megabits-de-velocidad-entregados-por-provincia/",
-                    "description": "La tabla divide por provincia la cantidad de megabits por segundo de velocidad que se envía a los proveedores locales conectados al Plan Federal de Internet.",
-                    "title": "Megabits de velocidad entregados por provincia",
-                    "issued": "2017-06-14T12:52:24",
-                    "format": "CSV",
-                    "modified": "2017-06-14T12:52:33",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/megabits-de-velocidad-entregados-por-provincia/",
-                    "description": "La tabla divide por provincia la cantidad de megabits por segundo de velocidad que se envía a los proveedores locales conectados al Plan Federal de Internet.",
-                    "title": "Megabits de velocidad entregados por provincia",
-                    "issued": "2017-06-14T12:52:24",
-                    "format": "XLS",
-                    "modified": "2017-06-14T12:52:33",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/megabits-de-velocidad-entregados-por-provincia/",
-                    "description": "La tabla divide por provincia la cantidad de megabits por segundo de velocidad que se envía a los proveedores locales conectados al Plan Federal de Internet.",
-                    "title": "Megabits de velocidad entregados por provincia",
-                    "issued": "2017-06-14T12:52:24",
-                    "format": "JSON",
-                    "modified": "2017-06-14T12:52:33",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/235847/megabits-de-velocidad-entregados-por-provincia/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
             "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
             "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales, al 06/06/2017",
             "language": [
@@ -1146,61 +1201,6 @@
                 }
             ],
             "landingPage": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "Cantidad de clientes por provincia del Plan Federal de Internet",
-            "language": [
-                "spa"
-            ],
-            "title": "Cantidad de clientes por provincia",
-            "issued": "2017-06-02T23:15:10",
-            "modified": "2017-06-02T23:19:30",
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "PLAN FEDERAL DE INTERNET"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
-                    "description": "Cantidad de clientes por provincia del Plan Federal de Internet",
-                    "title": "Cantidad de clientes por provincia",
-                    "issued": "2017-06-02T23:15:10",
-                    "format": "CSV",
-                    "modified": "2017-06-02T23:19:30",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
-                    "description": "Cantidad de clientes por provincia del Plan Federal de Internet",
-                    "title": "Cantidad de clientes por provincia",
-                    "issued": "2017-06-02T23:15:10",
-                    "format": "XLS",
-                    "modified": "2017-06-02T23:19:30",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/",
-                    "description": "Cantidad de clientes por provincia del Plan Federal de Internet",
-                    "title": "Cantidad de clientes por provincia",
-                    "issued": "2017-06-02T23:15:10",
-                    "format": "JSON",
-                    "modified": "2017-06-02T23:19:30",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/"
         },
         {
             "publisher": {
