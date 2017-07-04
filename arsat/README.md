@@ -26,6 +26,7 @@
 
 - [Registro de Audiencias](http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/)
 - [Registro de Visitas](http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/)
+- [Porcentaje de avance del Plan](http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/)
 - [Cantidad de clientes por provincia](http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/)
 - [Megabits de velocidad entregados por provincia](http://datos.arsat.com.ar/dataviews/235847/megabits-de-velocidad-entregados-por-provincia/)
 - [Escuelas conectadas](http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/)
@@ -44,7 +45,6 @@
 - [Escuelas Conectadas con Tecnología Gillat](http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gillat/)
 - [Total de personal por género](http://datos.arsat.com.ar/dataviews/238093/total-de-personal-por-genero/)
 - [Honorarios de Directores](http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/)
-- [Porcentaje de avance del Plan](http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/)
 - [Categorías y escalas salariales](http://datos.arsat.com.ar/dataviews/238683/categorias-y-escalas-salariales/)
 - [Áreas de cobertura de la televisión digital abierta](http://datos.arsat.com.ar/dataviews/236037/areas-de-cobertura-de-la-television-digital-abierta/)
 - [Fibra óptica de la empresa Transener](http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/)
