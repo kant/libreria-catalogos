@@ -535,7 +535,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades Constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2017-07-04T17:57:35.756934",
+            "modified": "2017-07-04T18:05:10.529218",
             "theme": [
                 "sistema-registral"
             ],
@@ -1135,16 +1135,28 @@
                     "identifier": "c00b936d-e23d-44fe-b3aa-16b8eb3fc352"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/37405c4f-9368-4f87-b64a-6de021403d7b",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/e8270c6c-6c9f-485e-bf1d-0c80b4e869c0",
                     "description": "Entidades constituidas en la IGJ",
                     "title": "IGJ. Entidades 2017-06",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-07-04T12:35:06.396035",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/37405c4f-9368-4f87-b64a-6de021403d7b/download/igj-entidades.csv",
-                    "issued": "2017-07-04T11:05:32.911899",
-                    "identifier": "37405c4f-9368-4f87-b64a-6de021403d7b"
+                    "modified": "2017-07-04T15:02:25.616538",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/e8270c6c-6c9f-485e-bf1d-0c80b4e869c0/download/igj-entidades.csv",
+                    "issued": "2017-07-04T15:02:25.820504",
+                    "identifier": "e8270c6c-6c9f-485e-bf1d-0c80b4e869c0"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/348c97f3-3a73-418c-a6fb-9f2720a2dcb7",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ. Asambleas de entidades constituidas en la IGJ 2017-06",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-07-04T15:04:52.659765",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/348c97f3-3a73-418c-a6fb-9f2720a2dcb7/download/igj-asambleas.csv",
+                    "issued": "2017-07-04T15:04:53.242989",
+                    "identifier": "348c97f3-3a73-418c-a6fb-9f2720a2dcb7"
                 }
             ]
         },
