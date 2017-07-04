@@ -156,6 +156,118 @@
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Listado de escuelas rurales conectadas al 30/06/2017",
+            "language": [
+                "spa"
+            ],
+            "title": "Escuelas conectadas",
+            "issued": "2017-07-04T16:47:25",
+            "modified": "2017-07-04T16:51:18",
+            "theme": [
+                "plan-de-conectividad-de-escuelas-rurales"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "ESCUELAS RURALES",
+                "VSAT"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
+                    "description": "Listado de escuelas rurales conectadas al 30/06/2017",
+                    "title": "Escuelas conectadas",
+                    "issued": "2017-07-04T16:47:25",
+                    "format": "CSV",
+                    "modified": "2017-07-04T16:51:18",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
+                    "description": "Listado de escuelas rurales conectadas al 30/06/2017",
+                    "title": "Escuelas conectadas",
+                    "issued": "2017-07-04T16:47:25",
+                    "format": "XLS",
+                    "modified": "2017-07-04T16:51:18",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
+                    "description": "Listado de escuelas rurales conectadas al 30/06/2017",
+                    "title": "Escuelas conectadas",
+                    "issued": "2017-07-04T16:47:25",
+                    "format": "JSON",
+                    "modified": "2017-07-04T16:51:18",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Listado de escuelas rurales planificadas para ser conectadas",
+            "language": [
+                "spa"
+            ],
+            "title": "Escuelas de próxima conexión",
+            "issued": "2017-07-04T16:47:25",
+            "modified": "2017-07-04T16:51:18",
+            "theme": [
+                "plan-de-conectividad-de-escuelas-rurales"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "ESCUELAS RURALES",
+                "VSAT"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
+                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
+                    "title": "Escuelas de próxima conexión",
+                    "issued": "2017-07-04T16:47:25",
+                    "format": "CSV",
+                    "modified": "2017-07-04T16:51:18",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
+                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
+                    "title": "Escuelas de próxima conexión",
+                    "issued": "2017-07-04T16:47:25",
+                    "format": "XLS",
+                    "modified": "2017-07-04T16:51:18",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
+                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
+                    "title": "Escuelas de próxima conexión",
+                    "issued": "2017-07-04T16:47:25",
+                    "format": "JSON",
+                    "modified": "2017-07-04T16:51:18",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
             "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
             "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales, al 03/07/2017",
             "language": [
@@ -316,118 +428,6 @@
                 }
             ],
             "landingPage": "http://datos.arsat.com.ar/dataviews/235847/megabits-de-velocidad-entregados-por-provincia/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "Listado de escuelas rurales conectadas al 30/06/2017",
-            "language": [
-                "spa"
-            ],
-            "title": "Escuelas conectadas",
-            "issued": "2017-07-03T14:48:34",
-            "modified": "2017-07-03T14:49:29",
-            "theme": [
-                "plan-de-conectividad-de-escuelas-rurales"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "ESCUELAS RURALES",
-                "VSAT"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
-                    "description": "Listado de escuelas rurales conectadas al 30/06/2017",
-                    "title": "Escuelas conectadas",
-                    "issued": "2017-07-03T14:48:34",
-                    "format": "CSV",
-                    "modified": "2017-07-03T14:49:29",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
-                    "description": "Listado de escuelas rurales conectadas al 30/06/2017",
-                    "title": "Escuelas conectadas",
-                    "issued": "2017-07-03T14:48:34",
-                    "format": "XLS",
-                    "modified": "2017-07-03T14:49:29",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/",
-                    "description": "Listado de escuelas rurales conectadas al 30/06/2017",
-                    "title": "Escuelas conectadas",
-                    "issued": "2017-07-03T14:48:34",
-                    "format": "JSON",
-                    "modified": "2017-07-03T14:49:29",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/237424/escuelas-conectadas/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "Listado de escuelas rurales planificadas para ser conectadas",
-            "language": [
-                "spa"
-            ],
-            "title": "Escuelas de próxima conexión",
-            "issued": "2017-07-03T14:47:11",
-            "modified": "2017-07-03T14:49:29",
-            "theme": [
-                "plan-de-conectividad-de-escuelas-rurales"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "ESCUELAS RURALES",
-                "VSAT"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
-                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
-                    "title": "Escuelas de próxima conexión",
-                    "issued": "2017-07-03T14:47:11",
-                    "format": "CSV",
-                    "modified": "2017-07-03T14:49:29",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
-                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
-                    "title": "Escuelas de próxima conexión",
-                    "issued": "2017-07-03T14:47:11",
-                    "format": "XLS",
-                    "modified": "2017-07-03T14:49:29",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/",
-                    "description": "Listado de escuelas rurales planificadas para ser conectadas",
-                    "title": "Escuelas de próxima conexión",
-                    "issued": "2017-07-03T14:47:11",
-                    "format": "JSON",
-                    "modified": "2017-07-03T14:49:29",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/237426/escuelas-de-proxima-conexion/"
         },
         {
             "publisher": {
