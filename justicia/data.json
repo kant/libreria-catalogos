@@ -229,7 +229,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
             "issued": "2016-09-28T14:57:47.665668",
-            "modified": "2017-07-04T11:57:48.668226",
+            "modified": "2017-07-04T12:03:26.651088",
             "theme": [
                 "sistema-registral"
             ],
@@ -535,7 +535,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades Constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2017-07-03T19:56:44.509967",
+            "modified": "2017-07-04T12:32:10.522002",
             "theme": [
                 "sistema-registral"
             ],
@@ -1097,6 +1097,66 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/bef1f6a8-b2d1-45b0-8ae3-4e78563b9100/download/igj-asambleas.csv",
                     "issued": "2017-06-02T16:12:43.283711",
                     "identifier": "bef1f6a8-b2d1-45b0-8ae3-4e78563b9100"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/deeba260-4efd-4a46-a511-c55faf5664eb",
+                    "description": "Entidades constituidas en la IGJ",
+                    "title": "IGJ. Entidades 2017-06",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-07-04T09:13:36.102091",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/deeba260-4efd-4a46-a511-c55faf5664eb/download/igj-entidades.csv",
+                    "issued": "2017-07-04T09:13:36.324200",
+                    "identifier": "deeba260-4efd-4a46-a511-c55faf5664eb"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/7125e76c-d800-42ce-bc85-968c09a59b92",
+                    "description": "Domicilios de entidades constituidas en la IGJ",
+                    "title": "IGJ. Domicilios de entidades constituidas en la IGJ 2017-06",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-07-04T09:16:43.650291",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/7125e76c-d800-42ce-bc85-968c09a59b92/download/igj-domicilios.csv",
+                    "issued": "2017-07-04T09:16:44.490433",
+                    "identifier": "7125e76c-d800-42ce-bc85-968c09a59b92"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/a7367856-241f-4eb1-a7c6-dc18aae65942",
+                    "description": "Autoridades de entidades constituidas en la IGJ",
+                    "title": "IGJ. Autoridades de entidades 2017-06",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-07-04T09:20:51.417321",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/a7367856-241f-4eb1-a7c6-dc18aae65942/download/igj-autoridades.csv",
+                    "issued": "2017-07-04T09:20:52.432268",
+                    "identifier": "a7367856-241f-4eb1-a7c6-dc18aae65942"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/c00b936d-e23d-44fe-b3aa-16b8eb3fc352",
+                    "description": "Balances presentados por entidades constituidas en la IGJ",
+                    "title": "IGJ. Balances presentados por entidades constituidas en la IGJ 2017-06",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-07-04T09:24:18.244152",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/c00b936d-e23d-44fe-b3aa-16b8eb3fc352/download/igj-balances.csv",
+                    "issued": "2017-07-04T09:24:19.194297",
+                    "identifier": "c00b936d-e23d-44fe-b3aa-16b8eb3fc352"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/44426089-7dbc-427e-9f1e-c16bae9f9150",
+                    "description": "Asambleas de entidades constituidas en la IGJ",
+                    "title": "IGJ. Asambleas de entidades constituidas en la IGJ 2017-06",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-07-04T09:28:41.772809",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/44426089-7dbc-427e-9f1e-c16bae9f9150/download/igj-asambleas.csv",
+                    "issued": "2017-07-04T09:28:42.559451",
+                    "identifier": "44426089-7dbc-427e-9f1e-c16bae9f9150"
                 }
             ]
         },
@@ -1169,7 +1229,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Estadística de trámites de maquinarias",
             "issued": "2017-06-28T18:19:55.932924",
-            "modified": "2017-07-03T18:58:23.867114",
+            "modified": "2017-07-04T12:09:33.414050",
             "theme": [
                 "sistema-registral"
             ],
@@ -1202,7 +1262,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-07-03T15:58:23.818920",
+                    "modified": "2017-07-04T09:09:33.364989",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/9876d8df-8850-47f9-bb67-f1ca7ff69981/download/estadistica-inscripciones-iniciales-maquinarias.csv",
                     "issued": "2017-06-28T15:20:46.595831",
                     "identifier": "9876d8df-8850-47f9-bb67-f1ca7ff69981"
@@ -1214,7 +1274,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-06-28T16:10:03.758658",
+                    "modified": "2017-07-04T09:05:20.876801",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/bfa8c33c-b8b8-45b8-b7a6-46f8b6da25d1/download/estadistica-transferencias-maquinarias.csv",
                     "issued": "2017-06-28T15:21:29.901908",
                     "identifier": "bfa8c33c-b8b8-45b8-b7a6-46f8b6da25d1"
