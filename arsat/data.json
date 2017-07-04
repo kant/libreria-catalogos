@@ -156,6 +156,62 @@
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales, al 03/07/2017",
+            "language": [
+                "spa"
+            ],
+            "title": "Porcentaje de avance del Plan",
+            "issued": "2017-07-04T15:18:11",
+            "modified": "2017-07-04T15:19:12",
+            "theme": [
+                "plan-de-conectividad-de-escuelas-rurales"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "ESCUELAS RURALES",
+                "conectividad"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/",
+                    "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales, al 03/07/2017",
+                    "title": "Porcentaje de avance del Plan",
+                    "issued": "2017-07-04T15:18:11",
+                    "format": "CSV",
+                    "modified": "2017-07-04T15:19:12",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/",
+                    "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales, al 03/07/2017",
+                    "title": "Porcentaje de avance del Plan",
+                    "issued": "2017-07-04T15:18:11",
+                    "format": "XLS",
+                    "modified": "2017-07-04T15:19:12",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/",
+                    "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales, al 03/07/2017",
+                    "title": "Porcentaje de avance del Plan",
+                    "issued": "2017-07-04T15:18:11",
+                    "format": "JSON",
+                    "modified": "2017-07-04T15:19:12",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
             "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
             "description": "Cantidad de clientes por provincia del Plan Federal de Internet",
             "language": [
@@ -1145,62 +1201,6 @@
                 }
             ],
             "landingPage": "http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales, al 06/06/2017",
-            "language": [
-                "spa"
-            ],
-            "title": "Porcentaje de avance del Plan",
-            "issued": "2017-06-06T15:51:07",
-            "modified": "2017-06-06T15:53:57",
-            "theme": [
-                "plan-de-conectividad-de-escuelas-rurales"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "ESCUELAS RURALES",
-                "conectividad"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/",
-                    "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales, al 06/06/2017",
-                    "title": "Porcentaje de avance del Plan",
-                    "issued": "2017-06-06T15:51:07",
-                    "format": "CSV",
-                    "modified": "2017-06-06T15:53:57",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/",
-                    "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales, al 06/06/2017",
-                    "title": "Porcentaje de avance del Plan",
-                    "issued": "2017-06-06T15:51:07",
-                    "format": "XLS",
-                    "modified": "2017-06-06T15:53:57",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/",
-                    "description": "Porcentaje de avance de la primera Fase del Plan de conectividad de Escuelas Rurales, al 06/06/2017",
-                    "title": "Porcentaje de avance del Plan",
-                    "issued": "2017-06-06T15:51:07",
-                    "format": "JSON",
-                    "modified": "2017-06-06T15:53:57",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/"
         },
         {
             "publisher": {
