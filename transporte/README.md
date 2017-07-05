@@ -15,15 +15,16 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 7
-- **Cantidad Total de Distribuciones**: 118
+- **Cantidad Total de Datasets**: 8
+- **Cantidad Total de Distribuciones**: 119
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 7
+- **Cantidad de Datasets NO Federados**: 8
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets no federados:
 
+- [Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Jurisdicción Nacional Fecha Actualización: ND](https://datos.transporte.gob.ar/dataset/recorridos-de-lineas-de-transporte-rmba-jn)
 - [Lineas transporte RMBA](https://datos.transporte.gob.ar/dataset/lineas-transporte-rmba)
 - [Empresas transporte RMBA](https://datos.transporte.gob.ar/dataset/empresas-transporte-rmba)
 - [Cancelaciones RMBA - periodo - modo - empresa - linea - cantidad](https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-modo-empresa-linea-cantidad)
