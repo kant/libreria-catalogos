@@ -535,7 +535,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades Constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2017-07-04T18:05:10.529218",
+            "modified": "2017-07-05T13:59:01.526050",
             "theme": [
                 "sistema-registral"
             ],
@@ -2439,7 +2439,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
             "issued": "2016-09-02T18:14:39.283242",
-            "modified": "2017-07-04T19:42:13.479376",
+            "modified": "2017-07-05T13:23:14.695659",
             "theme": [
                 "sistema-registral"
             ],
@@ -2471,6 +2471,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0ecec60a-0723-4232-a401-6565ebb282cf/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv",
                     "issued": "2016-10-18T13:04:43.515767",
                     "identifier": "0ecec60a-0723-4232-a401-6565ebb282cf"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/84efd56e-0a22-4949-a840-85142badd9db",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\"",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-06 quincena 2",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-07-05T10:23:04.563461",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/84efd56e-0a22-4949-a840-85142badd9db/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "issued": "2017-07-05T10:23:04.697717",
+                    "identifier": "84efd56e-0a22-4949-a840-85142badd9db"
                 }
             ]
         },
@@ -2484,7 +2496,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
             "issued": "2016-09-05T18:02:00.514364",
-            "modified": "2017-07-04T19:42:26.175297",
+            "modified": "2017-07-05T13:44:31.964557",
             "theme": [
                 "sistema-registral"
             ],
@@ -2515,6 +2527,42 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/2e0a4e06-0d2e-4e78-861d-1105e558e493/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
                     "issued": "2016-10-05T12:41:06.725445",
                     "identifier": "2e0a4e06-0d2e-4e78-861d-1105e558e493"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/12fa46ba-6d3a-444b-9e4f-47e74cf0c547",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-06 quincena 2",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-07-05T10:20:45.119206",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/12fa46ba-6d3a-444b-9e4f-47e74cf0c547/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-07-05T10:20:45.257065",
+                    "identifier": "12fa46ba-6d3a-444b-9e4f-47e74cf0c547"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/85ecea5c-72ee-4a50-9b2c-afdce3bf644c",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-06 quincena 1",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-07-05T10:28:27.681907",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/85ecea5c-72ee-4a50-9b2c-afdce3bf644c/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-07-05T10:28:27.818243",
+                    "identifier": "85ecea5c-72ee-4a50-9b2c-afdce3bf644c"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/dc653177-db9b-4e55-93a4-7c5c9f04b795",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-05 quincena 2",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-07-05T10:44:21.697006",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/dc653177-db9b-4e55-93a4-7c5c9f04b795/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-07-05T10:44:21.799158",
+                    "identifier": "dc653177-db9b-4e55-93a4-7c5c9f04b795"
                 }
             ]
         },
