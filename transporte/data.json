@@ -9,11 +9,95 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "",
+                "name": "DOTES"
+            },
+            "accessLevel": "public",
+            "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Jurisdicción Nacional\r\nFecha Actualización: ND",
+            "license": "Otra (Abierta)",
+            "title": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Jurisdicción Nacional Fecha Actualización: ND",
+            "contactPoint": {
+                "@type": "vcard:Contact"
+            },
+            "issued": "2017-07-05T15:33:48.263719",
+            "modified": "2017-07-05T15:47:54.083243",
+            "theme": [
+                "Transporte Automotor",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
+                "Movilidad Urbana",
+                "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/461ac3d0-524b-4384-b6a5-f4ed19091423/download/lineassubte.geojson",
+                    "description": "Lineas de SUBTE",
+                    "title": "Lineas de SUBTE",
+                    "issued": "2017-07-05T15:44:17.376552",
+                    "format": "GeoJSON",
+                    "modified": "2017-07-05T15:44:17.348765",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/461ac3d0-524b-4384-b6a5-f4ed19091423/download/lineassubte.geojson",
+                    "@type": "dcat:Distribution"
+                }
+            ],
+            "keyword": [
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE",
+                "SUBE",
+                "TRANSPORTE"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "GOVE",
+                "REGI",
+                "SOCI",
+                "TRAN"
+            ],
+            "landingPage": "https://datos.transporte.gob.ar/dataset/recorridos-de-lineas-de-transporte-rmba-jn",
+            "identifier": "f87b93d4-ade2-44fc-a409-d3736ba9f3ba",
+            "@type": "dcat:Dataset"
+        },
+        {
+            "publisher": {
                 "mbox": "dotes@transporte.gob.ar",
                 "name": "Dirección de Observatorio de Transporte, Estudio y Sistemas"
             },
             "accessLevel": "public",
-            "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016\r\n\r\n2016-01 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DÍA 2016-04-30 INCLUSIVE\r\n\r\n2016-02 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-05-31 INCLUSIVE\r\n\r\n2016-03 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-06-30 INCLUSIVE\r\n\r\n2016-04 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-07-31 INCLUSIVE\r\n\r\n2016-05 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-08-31 INCLUSIVE\r\n\r\n2016-06 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-09-30 INCLUSIVE\r\n\r\n2016-07 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-10-31 INCLUSIVE\r\n\r\n2016-08 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-11-09 INCLUSIVE\r\n\r\n2016-09 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE\r\n\r\n2016-10 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-01-09 INCLUSIVE\r\n\r\n2016-11 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\n\r\n2016-12 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\n\r\n2017-01 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-03-30 INCLUSIVE\r\n\r\n2017-02 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-04-30 INCLUSIVE\r\n\r\n2017-03 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-05-30 INCLUSIVE\r\n\r\n2017-04 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-05-30 INCLUSIVE\r\n\r\n2017-05 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-05-30 INCLUSIVE\r\n\r\n\r\n\r\nTIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN))\r\n\r\nLINEAS DE TRANSPORTE DE REGIÓN METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PRE METRO Y COLECTIVOS",
+            "description": "DATOS DE VALIDACIONES DEL SISTEMA SUBE PARA EL PERIODO DE VIAJE 2016 \r\n\r\n2016-01 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DÍA 2016-04-30 INCLUSIVE\r\n\r\n2016-02 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-05-31 INCLUSIVE\r\n\r\n2016-03 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-06-30 INCLUSIVE\r\n\r\n2016-04 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-07-31 INCLUSIVE\r\n\r\n2016-05 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-08-31 INCLUSIVE\r\n\r\n2016-06 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-09-30 INCLUSIVE\r\n\r\n2016-07 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-10-31 INCLUSIVE\r\n\r\n2016-08 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-11-09 INCLUSIVE\r\n\r\n2016-09 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2016-12-10 INCLUSIVE\r\n\r\n2016-10 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-01-09 INCLUSIVE\r\n\r\n2016-11 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\n\r\n2016-12 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-02-09 INCLUSIVE\r\n\r\n2017-01 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-03-30 INCLUSIVE\r\n\r\n2017-02 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-04-30 INCLUSIVE\r\n\r\n2017-03 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-05-30 INCLUSIVE\r\n\r\n2017-04 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-05-30 INCLUSIVE\r\n\r\n2017-05 - PARA OPERACIONES REGISTRADAS EN EL SISTEMA CON FECHA DE ALTA HASTA EL DIA 2017-05-30 INCLUSIVE\r\n\r\n\r\n\r\nTIPOS DE OPERACION VALIDACION DE VIAJE (USO - VENTA DE PASAJE(TREN) - CHECK IN(TREN) - CHECK OUT SIN CHECK IN(TREN))\r\n\r\nLINEAS DE TRANSPORTE DE REGIÓN METROPOLITANA DE BUENOS AIRES INCLUYENDO TRENES, SUBTES, PRE METRO Y COLECTIVOS",
             "license": "No se especificó la licencia",
             "title": "Lineas transporte RMBA",
             "contactPoint": {
@@ -23,9 +107,10 @@
             },
             "issued": "2017-06-05T20:20:03.265305",
             "temporal": "2016-01-01T03:00:00.000Z/2017-02-28T03:00:00.000Z",
-            "modified": "2017-06-29T18:46:02.285989",
+            "modified": "2017-07-05T15:38:33.854917",
             "language": "spa",
             "theme": [
+                "Transporte Automotor",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -270,6 +355,7 @@
             "modified": "2017-06-29T18:45:24.015969",
             "language": "spa",
             "theme": [
+                "Transporte Automotor",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -514,6 +600,7 @@
             "modified": "2017-06-29T18:31:40.861473",
             "language": "spa",
             "theme": [
+                "Transporte Automotor",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -758,6 +845,7 @@
             "modified": "2017-06-29T18:29:37.241489",
             "language": "spa",
             "theme": [
+                "Transporte Automotor",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -1002,6 +1090,7 @@
             "modified": "2017-06-29T18:28:51.979964",
             "language": "spa",
             "theme": [
+                "Transporte Automotor",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -1246,6 +1335,7 @@
             "modified": "2017-06-29T18:26:10.136544",
             "language": "spa",
             "theme": [
+                "Transporte Automotor",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -1490,6 +1580,7 @@
             "modified": "2017-06-29T17:23:49.361033",
             "language": "spa",
             "theme": [
+                "Transporte Automotor",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
