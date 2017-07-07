@@ -9,6 +9,70 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "pautas@medios.gov.ar",
+                "name": "Jefatura de Gabinete de Ministros. Secretaría de Comunicación Pública."
+            },
+            "accessLevel": "public",
+            "description": "La información publicada refleja las órdenes de publicidad emitidas en concepto de campañas de pauta oficial realizadas por la ADMINISTRACIÓN PUBLICA NACIONAL, el Banco de la Nación Argentina y sus empresas vinculadas, y demás organismos comprendidos en el artículo 8º de la Ley Nº 24.156, cualquiera fuera su fuente de financiamiento.",
+            "license": "ODbL-1.0",
+            "title": "Pauta Oficial",
+            "issued": "2016-09-02T18:38:21.940714",
+            "modified": "2017-07-07T15:55:29.669982",
+            "theme": [
+                "Gobierno y sector público"
+            ],
+            "keyword": [
+                "Comunicación",
+                "Gastos",
+                "Medios",
+                "Pauta",
+                "Publicidad"
+            ],
+            "landingPage": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad",
+            "identifier": "122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/eed67d08-3c9a-4c02-86ac-c51ff24fe99a/download/pauta-oficial-segundo-semestre-2016.csv",
+                    "description": "Montos destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el segundo semestre de 2016.",
+                    "title": "Pauta Oficial Segundo Semestre 2016",
+                    "issued": "2017-01-05T16:44:13.562265",
+                    "format": "CSV",
+                    "modified": "2017-01-05T19:44:13.501028",
+                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/eed67d08-3c9a-4c02-86ac-c51ff24fe99a/download/pauta-oficial-segundo-semestre-2016.csv"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/0c3cca0a-ccfa-4520-a614-dbdd58d74d79/download/pauta-oficial-primer-semestre-2016.csv",
+                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el primer semestre de 2016.",
+                    "title": "Pauta Oficial Primer Semestre 2016",
+                    "issued": "2016-09-02T15:41:50.241059",
+                    "format": "CSV",
+                    "modified": "2017-01-17T18:49:16.640853",
+                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/0c3cca0a-ccfa-4520-a614-dbdd58d74d79/download/pauta-oficial-primer-semestre-2016.csv",
+                    "field": "[]"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/01bd7d9f-bc54-4fd7-b800-a4969a2a5b6f/download/pauta-oficial-2015.csv",
+                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el año 2015.",
+                    "title": "Pauta Oficial 2015",
+                    "issued": "2016-09-02T15:59:51.435179",
+                    "format": "CSV",
+                    "modified": "2017-01-17T18:47:17.000985",
+                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/01bd7d9f-bc54-4fd7-b800-a4969a2a5b6f/download/pauta-oficial-2015.csv",
+                    "field": "[]"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/98a8c15f-5937-47fe-92e3-05d755be7d43/download/pauta-oficial-2014.csv",
+                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el año 2014.",
+                    "title": "Pauta Oficial 2014",
+                    "issued": "2016-09-02T16:00:50.534613",
+                    "format": "CSV",
+                    "modified": "2016-09-02T19:00:50.469703",
+                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/98a8c15f-5937-47fe-92e3-05d755be7d43/download/pauta-oficial-2014.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "dnpcvi@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional"
             },
@@ -3427,69 +3491,6 @@
                     "format": "CSV",
                     "modified": "2017-04-07T15:51:01.623623",
                     "downloadURL": "http://datos.gob.ar/dataset/8bc053c8-efc2-485d-97d3-915c476d2741/resource/63952097-cdba-4fdd-be84-65fb400bdb1a/download/acceso-informacion-publica-2015.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "pautas@medios.gov.ar",
-                "name": "Jefatura de Gabinete de Ministros. Secretaría de Comunicación Pública."
-            },
-            "accessLevel": "public",
-            "description": "La información publicada refleja las órdenes de publicidad emitidas en concepto de campañas de pauta oficial realizadas por la ADMINISTRACIÓN PUBLICA NACIONAL, el Banco de la Nación Argentina y sus empresas vinculadas, y demás organismos comprendidos en el artículo 8º de la Ley Nº 24.156, cualquiera fuera su fuente de financiamiento.",
-            "license": "ODbL-1.0",
-            "title": "Pauta Oficial",
-            "issued": "2016-09-02T18:38:21.940714",
-            "modified": "2017-02-28T22:58:03.147938",
-            "theme": [
-                "Gobierno y sector público"
-            ],
-            "keyword": [
-                "Comunicación",
-                "Gastos",
-                "Medios",
-                "Pauta",
-                "Publicidad"
-            ],
-            "landingPage": "https://www.argentina.gob.ar/jefatura/campanas-institucionales-de-publicidad",
-            "identifier": "122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/0c3cca0a-ccfa-4520-a614-dbdd58d74d79/download/pauta-oficial-primer-semestre-2016.csv",
-                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el primer semestre de 2016.",
-                    "title": "Pauta Oficial Primer Semestre 2016",
-                    "issued": "2016-09-02T15:41:50.241059",
-                    "format": "CSV",
-                    "modified": "2017-01-17T18:49:16.640853",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/0c3cca0a-ccfa-4520-a614-dbdd58d74d79/download/pauta-oficial-primer-semestre-2016.csv"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/eed67d08-3c9a-4c02-86ac-c51ff24fe99a/download/pauta-oficial-segundo-semestre-2016.csv",
-                    "description": "Montos destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el segundo semestre de 2016.",
-                    "title": "Pauta Oficial Segundo Semestre 2016",
-                    "issued": "2017-01-05T16:44:13.562265",
-                    "format": "CSV",
-                    "modified": "2017-01-05T19:44:13.501028",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/eed67d08-3c9a-4c02-86ac-c51ff24fe99a/download/pauta-oficial-segundo-semestre-2016.csv"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/01bd7d9f-bc54-4fd7-b800-a4969a2a5b6f/download/pauta-oficial-2015.csv",
-                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el año 2015.",
-                    "title": "Pauta Oficial 2015",
-                    "issued": "2016-09-02T15:59:51.435179",
-                    "format": "CSV",
-                    "modified": "2017-01-17T18:47:17.000985",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/01bd7d9f-bc54-4fd7-b800-a4969a2a5b6f/download/pauta-oficial-2015.csv",
-                    "field": "[]"
-                },
-                {
-                    "accessURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/98a8c15f-5937-47fe-92e3-05d755be7d43/download/pauta-oficial-2014.csv",
-                    "description": "Montos (incluye IVA) destinados a la publicidad oficial por parte del Poder Ejecutivo de la Nación durante el año 2014.",
-                    "title": "Pauta Oficial 2014",
-                    "issued": "2016-09-02T16:00:50.534613",
-                    "format": "CSV",
-                    "modified": "2016-09-02T19:00:50.469703",
-                    "downloadURL": "http://datos.gob.ar/dataset/122808ec-dcd1-4a9b-aafe-8fa80ac2a2f4/resource/98a8c15f-5937-47fe-92e3-05d755be7d43/download/pauta-oficial-2014.csv"
                 }
             ]
         },
