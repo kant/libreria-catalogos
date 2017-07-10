@@ -9,18 +9,18 @@
     "dataset": [
         {
             "publisher": {
-                "mbox": "",
+                "mbox": "dotes@transporte.gob.ar",
                 "name": "DOTES"
             },
             "accessLevel": "public",
-            "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Jurisdicción Nacional\r\nFecha Actualización: ND",
+            "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA)",
             "license": "Otra (Abierta)",
-            "title": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Jurisdicción Nacional Fecha Actualización: ND",
+            "title": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA)",
             "contactPoint": {
                 "@type": "vcard:Contact"
             },
             "issued": "2017-07-05T15:33:48.263719",
-            "modified": "2017-07-10T18:43:33.472428",
+            "modified": "2017-07-10T20:57:18.614958",
             "theme": [
                 "Transporte Automotor",
                 "Movilidad Urbana",
@@ -54,13 +54,33 @@
             ],
             "distribution": [
                 {
-                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/461ac3d0-524b-4384-b6a5-f4ed19091423/download/lineassubte.geojson",
-                    "description": "Lineas de SUBTE",
-                    "title": "Lineas de SUBTE",
-                    "issued": "2017-07-05T15:44:17.376552",
-                    "format": "GeoJSON",
-                    "modified": "2017-07-10T18:15:28.822563",
-                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/461ac3d0-524b-4384-b6a5-f4ed19091423/download/lineassubte.geojson",
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/5ab88c4b-b8b0-4f3b-a840-52e0e83e96ab/download/lineas-nacionales.zip",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - \r\nBuses - \r\nLineas Jurisdicción Nacional   --    \r\n\r\nFecha Actualización: 2016-11    --   \r\nFuente: CNRT",
+                    "title": "Buses - Lineas Jurisdicción Nacional",
+                    "issued": "2017-07-10T20:42:31.002941",
+                    "format": "SHP",
+                    "modified": "2017-07-10T20:42:30.971063",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/5ab88c4b-b8b0-4f3b-a840-52e0e83e96ab/download/lineas-nacionales.zip",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/6dab78ec-d512-4fc4-a5e8-f97a1826ba2f/download/lineas-provinciales.zip",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - \r\nBuses - \r\nLineas Jurisdicción Provincial\r\n\r\nFecha Actualización:\r\nFuente: INTRUPUBA\r\nFecha: \r\n- Relevamiento: 2006\r\n- Publicación: 2011",
+                    "title": "Buses - Lineas Jurisdicción Provincial",
+                    "issued": "2017-07-10T20:53:26.412929",
+                    "format": "SHP",
+                    "modified": "2017-07-10T20:53:26.379918",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/6dab78ec-d512-4fc4-a5e8-f97a1826ba2f/download/lineas-provinciales.zip",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/d5b82e09-2844-4adf-8e88-8f20904a7af0/download/lineas-municipales.zip",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - \r\nBuses - \r\nLineas Jurisdicción Municipal     --    Fecha Actualización: NA    --    Fuente: INTRUPUBA    --    Fecha: - Relevamiento: 2006 - Publicación: 2011",
+                    "title": "Buses - Lineas Jurisdicción Municipal",
+                    "issued": "2017-07-10T20:55:56.279185",
+                    "format": "SHP",
+                    "modified": "2017-07-10T20:55:56.241532",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/d5b82e09-2844-4adf-8e88-8f20904a7af0/download/lineas-municipales.zip",
                     "@type": "dcat:Distribution"
                 }
             ],
