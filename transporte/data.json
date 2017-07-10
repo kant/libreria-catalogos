@@ -10,19 +10,22 @@
         {
             "publisher": {
                 "mbox": "dotes@transporte.gob.ar",
-                "name": "DOTES"
+                "name": "Dirección de Observatorio de Transporte, Estudio y Sistemas"
             },
             "accessLevel": "public",
-            "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA)",
+            "description": "Recorridos de Líneas de Transporte de Región Metropolitana de Buenos Aires (RMBA)",
             "license": "Otra (Abierta)",
-            "title": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA)",
+            "title": "Recorridos de Líneas de Transporte de Región Metropolitana de Buenos Aires (RMBA)",
             "contactPoint": {
                 "@type": "vcard:Contact"
             },
             "issued": "2017-07-05T15:33:48.263719",
-            "modified": "2017-07-10T20:57:18.614958",
+            "modified": "2017-07-10T21:22:26.269814",
             "theme": [
+                "Movilidad Urbana",
                 "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -82,9 +85,75 @@
                     "modified": "2017-07-10T20:55:56.241532",
                     "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/d5b82e09-2844-4adf-8e88-8f20904a7af0/download/lineas-municipales.zip",
                     "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/5dd356b0-624c-4ea8-9315-b1c0a389b245/download/subterraneo---lineas.zip",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Subterraneo   --   Lineas   --   Fuente: Ministerio de Desarrollo Urbano y Transporte - SS de Tránsito y Transporte - DG de Transporte y Tránsito  --   Fecha actualización: 11/04/2017",
+                    "title": "Subterraneo - Líneas",
+                    "issued": "2017-07-10T21:06:43.387395",
+                    "format": "SHP",
+                    "modified": "2017-07-10T21:06:43.347022",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/5dd356b0-624c-4ea8-9315-b1c0a389b245/download/subterraneo---lineas.zip",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/9341189e-6f06-43d7-a5ed-a34f3435fbcc/download/reddesubterraneo1.geojson",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Subterraneo -- Lineas -- Fuente: Ministerio de Desarrollo Urbano y Transporte - SS de Tránsito y Transporte - DG de Transporte y Tránsito -- Fecha actualización: 11/04/2017",
+                    "title": "Subterraneos - Líneas",
+                    "issued": "2017-07-10T21:15:04.497350",
+                    "format": "GeoJSON",
+                    "modified": "2017-07-10T21:16:11.319214",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/9341189e-6f06-43d7-a5ed-a34f3435fbcc/download/reddesubterraneo1.geojson",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/290cf89f-c6fe-4c6c-a8b5-f658d4cb199b/download/subterraneo---estaciones.zip",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Subterraneo   --   Estaciones   --   Fuente: Ministerio de Desarrollo Urbano y Transporte - SS de Tránsito y Transporte - DG de Transporte y Tránsito  --   Fecha actualización: 11/04/2017",
+                    "title": "Subterraneo - Estaciones",
+                    "issued": "2017-07-10T21:07:45.428648",
+                    "format": "SHP",
+                    "modified": "2017-07-10T21:07:45.386056",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/290cf89f-c6fe-4c6c-a8b5-f658d4cb199b/download/subterraneo---estaciones.zip",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/79f1bdc7-857e-4295-b19a-bfdd074384e0/download/estacionesdesubte.geojson",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Subterraneo -- Estaciones -- Fuente: Ministerio de Desarrollo Urbano y Transporte - SS de Tránsito y Transporte - DG de Transporte y Tránsito -- Fecha actualización: 11/04/2017",
+                    "title": "Subterraneos - Estaciones",
+                    "issued": "2017-07-10T21:19:56.815063",
+                    "format": "GeoJSON",
+                    "modified": "2017-07-10T21:19:56.747392",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/79f1bdc7-857e-4295-b19a-bfdd074384e0/download/estacionesdesubte.geojson",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/87fb1c41-89b5-42db-b45a-992672931b2d/download/rmba---ferrocarril---lineas.zip",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - \r\nFerrocarril - Lineas    --    \r\n\r\nFuente: ADIF    --   \r\nFecha de actualización:16/02/2017",
+                    "title": "Ferrocarril - Líneas",
+                    "issued": "2017-07-10T21:01:06.931096",
+                    "format": "SHP",
+                    "modified": "2017-07-10T21:01:06.896333",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/87fb1c41-89b5-42db-b45a-992672931b2d/download/rmba---ferrocarril---lineas.zip",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "accessURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/be6a42b3-d91e-4034-ab9c-477b71f51e96/download/rmba---ferrocarril---estaciones.zip",
+                    "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Ferrocarril - Estaciones   -- Fuente: ADIF  --  Fecha de actualización:16/02/2017",
+                    "title": "Ferrocarril - Estaciones",
+                    "issued": "2017-07-10T21:03:26.594306",
+                    "format": "SHP",
+                    "modified": "2017-07-10T21:03:26.550860",
+                    "downloadURL": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/be6a42b3-d91e-4034-ab9c-477b71f51e96/download/rmba---ferrocarril---estaciones.zip",
+                    "@type": "dcat:Distribution"
                 }
             ],
             "keyword": [
+                "AMBA",
+                "BUENOS AIRES",
+                "BUS",
+                "FFCC",
+                "RMBA",
+                "SUBTE",
                 "SUBE",
                 "TRANSPORTE",
                 "SUBE",
@@ -130,7 +199,10 @@
             "modified": "2017-07-05T15:38:33.854917",
             "language": "spa",
             "theme": [
+                "Movilidad Urbana",
                 "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -333,6 +405,12 @@
                 }
             ],
             "keyword": [
+                "AMBA",
+                "BUENOS AIRES",
+                "BUS",
+                "FFCC",
+                "RMBA",
+                "SUBTE",
                 "SUBE",
                 "TRANSPORTE",
                 "SUBE",
@@ -375,7 +453,10 @@
             "modified": "2017-06-29T18:45:24.015969",
             "language": "spa",
             "theme": [
+                "Movilidad Urbana",
                 "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -578,6 +659,12 @@
                 }
             ],
             "keyword": [
+                "AMBA",
+                "BUENOS AIRES",
+                "BUS",
+                "FFCC",
+                "RMBA",
+                "SUBTE",
                 "SUBE",
                 "TRANSPORTE",
                 "SUBE",
@@ -620,7 +707,10 @@
             "modified": "2017-06-29T18:31:40.861473",
             "language": "spa",
             "theme": [
+                "Movilidad Urbana",
                 "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -823,6 +913,12 @@
                 }
             ],
             "keyword": [
+                "AMBA",
+                "BUENOS AIRES",
+                "BUS",
+                "FFCC",
+                "RMBA",
+                "SUBTE",
                 "SUBE",
                 "TRANSPORTE",
                 "SUBE",
@@ -865,7 +961,10 @@
             "modified": "2017-06-29T18:29:37.241489",
             "language": "spa",
             "theme": [
+                "Movilidad Urbana",
                 "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -1068,6 +1167,12 @@
                 }
             ],
             "keyword": [
+                "AMBA",
+                "BUENOS AIRES",
+                "BUS",
+                "FFCC",
+                "RMBA",
+                "SUBTE",
                 "SUBE",
                 "TRANSPORTE",
                 "SUBE",
@@ -1110,7 +1215,10 @@
             "modified": "2017-06-29T18:28:51.979964",
             "language": "spa",
             "theme": [
+                "Movilidad Urbana",
                 "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -1313,6 +1421,12 @@
                 }
             ],
             "keyword": [
+                "AMBA",
+                "BUENOS AIRES",
+                "BUS",
+                "FFCC",
+                "RMBA",
+                "SUBTE",
                 "SUBE",
                 "TRANSPORTE",
                 "SUBE",
@@ -1355,7 +1469,10 @@
             "modified": "2017-06-29T18:26:10.136544",
             "language": "spa",
             "theme": [
+                "Movilidad Urbana",
                 "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -1558,6 +1675,12 @@
                 }
             ],
             "keyword": [
+                "AMBA",
+                "BUENOS AIRES",
+                "BUS",
+                "FFCC",
+                "RMBA",
+                "SUBTE",
                 "SUBE",
                 "TRANSPORTE",
                 "SUBE",
@@ -1600,7 +1723,10 @@
             "modified": "2017-06-29T17:23:49.361033",
             "language": "spa",
             "theme": [
+                "Movilidad Urbana",
                 "Transporte Automotor",
+                "Transporte Ferroviario",
+                "Transporte General",
                 "Movilidad Urbana",
                 "Transporte Automotor",
                 "Transporte Ferroviario",
@@ -1793,6 +1919,12 @@
                 }
             ],
             "keyword": [
+                "AMBA",
+                "BUENOS AIRES",
+                "BUS",
+                "FFCC",
+                "RMBA",
+                "SUBTE",
                 "SUBE",
                 "TRANSPORTE",
                 "SUBE",
