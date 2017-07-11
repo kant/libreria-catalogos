@@ -16,7 +16,7 @@
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
 - **Cantidad Total de Datasets**: 30
-- **Cantidad Total de Distribuciones**: 167
+- **Cantidad Total de Distribuciones**: 168
 
 - **Cantidad de Datasets Federados**: 0
 - **Cantidad de Datasets NO Federados**: 30
@@ -31,7 +31,7 @@
 - [Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.]()
 - [Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ-](Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia)
 - [Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público]()
-- [Declaración Jurada Patrimonial Integral de Carácter Público](https://www2.jus.gov.ar/consultaddjj)
+- [Declaraciones Juradas Patrimoniales Integrales de carácter público](https://www2.jus.gov.ar/consultaddjj)
 - [Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional]()
 - [Entidades constituidas en la Inspección General de Justicia]()
 - [Estadística de trámites de automotores](http://www.dnrpa.gov.ar)
