@@ -26,6 +26,7 @@
 
 - [Registro de Audiencias](http://datos.arsat.com.ar/dataviews/239713/registro-de-audiencias/)
 - [Registro de Visitas](http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/)
+- [Datos de uso de la plataforma](http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/)
 - [Futuros puntos de conexión al Plan Federal de Internet](http://datos.arsat.com.ar/dataviews/238746/futuros-puntos-de-conexion-al-plan-federal-de-internet/)
 - [Puntos de conexión al Plan Federal de Internet](http://datos.arsat.com.ar/dataviews/238001/puntos-de-conexion-al-plan-federal-de-internet/)
 - [Personal por Gerencia](http://datos.arsat.com.ar/dataviews/238091/personal-por-gerencia/)
@@ -54,7 +55,6 @@
 - [Datos de las estaciones de transmisión en construcción o planificadas](http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/)
 - [Datos de las estaciones transmisoras](http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/)
 - [Datos del área de cobertura de la Banda KU del satélite ARSAT-1](http://datos.arsat.com.ar/dataviews/236042/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-1/)
-- [Datos de uso de la plataforma](http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/)
 - [Salarios Gerentes](http://datos.arsat.com.ar/dataviews/238792/salarios-gerentes/)
 - [Fibra óptica tendida](http://datos.arsat.com.ar/dataviews/238754/fibra-optica-tendida/)
 - [Coordenadas de la red de fibra óptica en servicio](http://datos.arsat.com.ar/dataviews/236038/coordenadas-de-la-red-de-fibra-optica-en-servicio/)
