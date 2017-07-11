@@ -156,6 +156,63 @@
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
+            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+            "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
+            "language": [
+                "spa"
+            ],
+            "title": "Datos de uso de la plataforma",
+            "issued": "2017-07-11T18:15:53",
+            "modified": "2017-07-11T18:21:20",
+            "theme": [
+                "cinear-play"
+            ],
+            "superTheme": [
+                "TECH"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "INCAA",
+                "ODEON",
+                "CINE.AR PLAY"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
+                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
+                    "title": "Datos de uso de la plataforma",
+                    "issued": "2017-07-11T18:15:53",
+                    "format": "CSV",
+                    "modified": "2017-07-11T18:21:20",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
+                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
+                    "title": "Datos de uso de la plataforma",
+                    "issued": "2017-07-11T18:15:53",
+                    "format": "XLS",
+                    "modified": "2017-07-11T18:21:20",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
+                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
+                    "title": "Datos de uso de la plataforma",
+                    "issued": "2017-07-11T18:15:53",
+                    "format": "JSON",
+                    "modified": "2017-07-11T18:21:20",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "landingPage": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
             "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PLANI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
             "description": "La tabla muestra la ubicación precisa de los puntos de acceso que se conectarán al Plan Federal de Internet junto a otros datos como la población de la localidad.",
             "language": [
@@ -1696,63 +1753,6 @@
                 }
             ],
             "landingPage": "http://datos.arsat.com.ar/dataviews/236042/datos-del-area-de-cobertura-de-la-banda-ku-del-satelite-arsat-1/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
-            "language": [
-                "spa"
-            ],
-            "title": "Datos de uso de la plataforma",
-            "issued": "2017-05-17T17:43:51",
-            "modified": "2017-05-17T17:44:06",
-            "theme": [
-                "cinear-play"
-            ],
-            "superTheme": [
-                "TECH"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "INCAA",
-                "ODEON",
-                "CINE.AR PLAY"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
-                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
-                    "title": "Datos de uso de la plataforma",
-                    "issued": "2017-05-17T17:43:51",
-                    "format": "CSV",
-                    "modified": "2017-05-17T17:44:06",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
-                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
-                    "title": "Datos de uso de la plataforma",
-                    "issued": "2017-05-17T17:43:51",
-                    "format": "XLS",
-                    "modified": "2017-05-17T17:44:06",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
-                    "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones.",
-                    "title": "Datos de uso de la plataforma",
-                    "issued": "2017-05-17T17:43:51",
-                    "format": "JSON",
-                    "modified": "2017-05-17T17:44:06",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "landingPage": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/"
         },
         {
             "publisher": {
