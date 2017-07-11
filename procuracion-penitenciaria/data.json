@@ -13,6 +13,56 @@
                 "name": "Equipo de estadística y bases de datos"
             },
             "accessLevel": "public",
+            "description": "En la base se vuelca el listado de personas bajo resguardo que se solicita a cada unidad con frecuencia semestral. Incluye información sobre el origen de la medida, lugar de alojamiento, fecha desde la cual poseen la medida, etc.",
+            "license": "Creative Commons Attribution",
+            "title": "Listado de personas en Resguardo en el Servicio Penitenciario Federal",
+            "issued": "2017-05-08T15:47:22.770655",
+            "temporal": "2009-01-01T03:00:00.000Z/2017-06-30T03:00:00.000Z",
+            "modified": "2017-07-11T14:53:59.319870",
+            "language": "spa",
+            "theme": [
+                "Condiciones materiales y régimen de encierro"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://181.209.63.46/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/listado-de-personas-en-resguardo-en-el-servicio-penitenciario-federal.csv",
+                    "description": "En la base se vuelca el listado de personas bajo resguardo que se solicita a cada unidad con frecuencia semestral. Incluye información sobre el origen de la medida, lugar de alojamiento, fecha desde la cual poseen la medida, etc.",
+                    "title": "Listado de personas en Resguardo en el Servicio Penitenciario Federal",
+                    "issued": "2017-05-08T15:50:05.650679",
+                    "format": "CSV",
+                    "modified": "2017-07-11T14:53:32.553801",
+                    "downloadURL": "http://181.209.63.46/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/listado-de-personas-en-resguardo-en-el-servicio-penitenciario-federal.csv"
+                }
+            ],
+            "keyword": [
+                "cárcel",
+                "derechos humanos",
+                "detenidos",
+                "integridad física",
+                "presos",
+                "prisión",
+                "protocolo de resguardo",
+                "resguardo",
+                "servicio penitenciario federal"
+            ],
+            "accrualPeriodicity": "R/P6M",
+            "superTheme": [
+                "JUST"
+            ],
+            "landingPage": "www.ppn.gov.ar",
+            "identifier": "7f5ba0c2-2142-4b5e-9762-14fc52cc24bd",
+            "contactPoint": {
+                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
+                "@type": "vcard:Contact",
+                "fn": "Equipo de estadística y bases de datos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "bgarcia@ppn.gov.ar ",
+                "name": "Equipo de estadística y bases de datos"
+            },
+            "accessLevel": "public",
             "description": "Recopila la información producida por organismo en el marco de la aplicación del procedimiento correspondiente inspirado en los principios y criterios del Protocolo de Estambul. La unidad de análisis está constituida por cada una de las personas agredidas en cada hecho de tortura y/o malos tratos de los que se toma conocimiento. La base de datos reúne los hechos registrados y sistematizados desde el año 2009 hasta la actualidad. Produce información sobre las víctimas, las intervenciones efectuadas, los hechos –unidad donde se produjo, circunstancias, modalidad de golpes, objetos utilizados, presencia y descripción de lesiones, etc.-, sus principales consecuencias –amenazas para evitar la denuncia de lo sucedido, aislamiento, sanciones, etc., así como de las estrategias de impunidad desplegadas por la administración penitenciaria.",
             "license": "Creative Commons Attribution",
             "title": "Casos de Tortura y Malos Tratos registrados e investigados por la PPN",
@@ -615,56 +665,6 @@
             ],
             "landingPage": "www.ppn.gov.ar",
             "identifier": "8dc50506-2d71-418c-9f28-47fa922410b1",
-            "contactPoint": {
-                "hasEmail": "mailto:bgarcia@ppn.gov.ar",
-                "@type": "vcard:Contact",
-                "fn": "Equipo de estadística y bases de datos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "bgarcia@ppn.gov.ar ",
-                "name": "Equipo de estadística y bases de datos"
-            },
-            "accessLevel": "public",
-            "description": "En la base se vuelca el listado de personas bajo resguardo que se solicita a cada unidad con frecuencia semestral. Incluye información sobre el origen de la medida, lugar de alojamiento, fecha desde la cual poseen la medida, etc.",
-            "license": "Creative Commons Attribution",
-            "title": "Listado de personas en Resguardo en el Servicio Penitenciario Federal",
-            "issued": "2017-05-08T15:47:22.770655",
-            "temporal": "2009-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z",
-            "modified": "2017-06-14T18:19:29.924979",
-            "language": "spa",
-            "theme": [
-                "Condiciones materiales y régimen de encierro"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://181.209.63.46/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/listado-de-personas-en-resguardo-en-el-servicio-penitenciario-federal.csv",
-                    "description": "En la base se vuelca el listado de personas bajo resguardo que se solicita a cada unidad con frecuencia semestral. Incluye información sobre el origen de la medida, lugar de alojamiento, fecha desde la cual poseen la medida, etc.",
-                    "title": "Listado de personas en Resguardo en el Servicio Penitenciario Federal",
-                    "issued": "2017-05-08T15:50:05.650679",
-                    "format": "CSV",
-                    "modified": "2017-05-08T15:50:05.450898",
-                    "downloadURL": "http://181.209.63.46/dataset/7f5ba0c2-2142-4b5e-9762-14fc52cc24bd/resource/fba68b26-58b2-4bdf-b2f4-d5182b805c81/download/listado-de-personas-en-resguardo-en-el-servicio-penitenciario-federal.csv"
-                }
-            ],
-            "keyword": [
-                "cárcel",
-                "derechos humanos",
-                "detenidos",
-                "integridad física",
-                "presos",
-                "prisión",
-                "protocolo de resguardo",
-                "resguardo",
-                "servicio penitenciario federal"
-            ],
-            "accrualPeriodicity": "R/P6M",
-            "superTheme": [
-                "JUST"
-            ],
-            "landingPage": "www.ppn.gov.ar",
-            "identifier": "7f5ba0c2-2142-4b5e-9762-14fc52cc24bd",
             "contactPoint": {
                 "hasEmail": "mailto:bgarcia@ppn.gov.ar",
                 "@type": "vcard:Contact",
