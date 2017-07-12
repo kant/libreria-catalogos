@@ -45,7 +45,7 @@
 - [Listado de mediaciones prejudiciales y judiciales. Ley 26.589]()
 - [Registro de obsequios a funcionarios públicos](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
 - [Registro de viajes fincianciados por terceros](https://www.argentina.gob.ar/consultar-sobre-regimen-de-obsequios-funcionarios-publicos)
-- [Registro, Sistematización y Seguimiento de femicidios y homicidios agravados por el género]()
+- [Registro, sistematización y seguimiento de femicidios y homicidios agravados por el género]()
 - [Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-](http://www.jus.gob.ar/derechoshumanos/areas-tematicas/ruvte.aspx)
 - [Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional]()
 - [Selección de magistrados del Poder Judicial y el Ministerio Público de la Nación]()
@@ -53,7 +53,7 @@
 - [Solicitudes de Condición de Legítimo Usuario de Armas de Fuego]()
 - [Solicitudes de Autorización de Portación de Armas de Fuego]()
 - [Tesauro SAIJ de Derecho Argentino]()
-- [Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional]()
+- [Registro, sistematización y seguimiento de hechos de violencia institucional]()
 
 ## Datasets incluidos
 
