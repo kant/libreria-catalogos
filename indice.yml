@@ -21,6 +21,11 @@ transporte:
   formato: "json"
   federado: true
 
+transporte-2:
+  url: "https://servicios.transporte.gob.ar/gobierno_abierto/data.json"
+  formato: "json"
+  federado: true
+
 mincyt:
   url: "http://datos.mincyt.gob.ar/datasets/data.json"
   formato: "json"
