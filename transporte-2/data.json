@@ -1,0 +1,436 @@
+{
+    "publisher": {
+        "mbox": "info@transporte.gob.ar",
+        "name": "Ministerio de Transporte"
+    },
+    "description": "Portal de Datos Abiertos del Ministerio de Transporte de la República Argentina",
+    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
+    "title": "Gobierno Abierto",
+    "dataset": [
+        {
+            "publisher": {
+                "name": "Ministerio de Transporte.Dirección de Observatorio, Estudios y Sistemas"
+            },
+            "description": "Detalle de empresas de transporte que operan por Jurisdicción Nacional, Provincial y Municipal.",
+            "superTheme": [
+                "tran"
+            ],
+            "title": "Empresas Transporte RMBA",
+            "issued": "2016-11-01",
+            "modified": "2017-06-30",
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=empresas&d=municipal",
+                    "title": "Detalle de empresas de transporte que operan Jurisdiccion Municipal",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=empresas&d=municipal"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=empresas&d=nacional",
+                    "title": "Detalle de empresas de transporte que operan Jurisdiccion Nacional",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=empresas&d=nacional"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=empresas&d=provincial",
+                    "title": "Detalle de empresas de transporte que operan Jurisdiccion Provincial",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=empresas&d=provincial"
+                }
+            ],
+            "identifier": "empresas"
+        },
+        {
+            "publisher": {
+                "name": "Ministerio de Transporte.Dirección de Observatorio, Estudios y Sistemas"
+            },
+            "description": "Detalle de líneas de transporte que operan por Jurisdicción Nacional, Provincial y Municipal.",
+            "superTheme": [
+                "tran"
+            ],
+            "title": "Líneas Transporte RMBA",
+            "issued": "2016-11-01",
+            "modified": "2017-06-30",
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=lineas&d=municipal",
+                    "title": "Detalle de empresas de transporte que operan por Jurisdicción Municipal",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2016-10-31",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=lineas&d=municipal"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=lineas&d=provincial",
+                    "title": "Detalle de empresas de transporte que operan por Jurisdicción Provincial",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=lineas&d=provincial"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=lineas&d=nacional",
+                    "title": "Detalle de líneas de transporte que operan por Jurisdicción Nacional",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=lineas&d=nacional"
+                }
+            ],
+            "identifier": "lineas"
+        },
+        {
+            "publisher": {
+                "name": "Ministerio de Transporte.Dirección de Observatorio, Estudios y Sistemas"
+            },
+            "description": "Histórico de operaciones de viajes por mes.",
+            "superTheme": [
+                "tran"
+            ],
+            "title": "Cancelaciones Mes RMBA",
+            "issued": "2016-11-01",
+            "modified": "2017-06-30",
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=mcancelaciones&d=mlinea",
+                    "title": "Cantidad de operaciones de viajes por mes, detalle de línea",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=mcancelaciones&d=mlinea"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=mcancelaciones&d=mtipo",
+                    "title": "Cantidad de operaciones de viajes por mes, detalle de línea y tipo de pasaje (NORMAL-ATRIBUTO SOCIAL)",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=mcancelaciones&d=mtipo"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=mcancelaciones&d=mempresa",
+                    "title": "Cantidad de operaciones de viajes por mes, detalle por empresa",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=mcancelaciones&d=mempresa"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=mcancelaciones&d=mmodo",
+                    "title": "Cantidad de operaciones de viajes por mes, detalle por modo",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=mcancelaciones&d=mmodo"
+                }
+            ],
+            "identifier": "mcancelaciones"
+        },
+        {
+            "publisher": {
+                "name": "Ministerio de Transporte.Dirección de Observatorio, Estudios y Sistemas"
+            },
+            "description": "Histórico de operaciones de viajes por año.",
+            "superTheme": [
+                "tran"
+            ],
+            "title": "Cancelaciones Año RMBA",
+            "issued": "2016-11-01",
+            "modified": "2017-01-01",
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=acancelaciones&d=linea",
+                    "title": "Cantidad de operaciones de viajes por año, detalle de linea",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=acancelaciones&d=linea"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=acancelaciones&d=tipo",
+                    "title": "Cantidad de operaciones de viajes por año, detalle de linea y tipo de pasaje (NORMAL-ATRIBUTO SOCIAL)",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=acancelaciones&d=tipo"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=acancelaciones&d=empresa",
+                    "title": "Cantidad de operaciones de viajes por año, detalle por empresa",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=acancelaciones&d=empresa"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=acancelaciones&d=modo",
+                    "title": "Cantidad de operaciones de viajes por año, detalle por modo",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2016-11-01",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=acancelaciones&d=modo"
+                }
+            ],
+            "identifier": "acancelaciones"
+        },
+        {
+            "publisher": {
+                "name": "CNRT"
+            },
+            "description": "Detalle de trayectos.",
+            "superTheme": [
+                "tran"
+            ],
+            "title": "Recorridos de servicios de colectivos AMBA",
+            "issued": "2016-11-01",
+            "modified": "2016-11-01",
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/Lineas_NACIONALES_AMBA_Dic2016.zip",
+                    "title": "Detalle de recorrido, por línea",
+                    "issued": "2016-11-01",
+                    "format": "kml",
+                    "modified": "2016-11-01",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/Lineas_NACIONALES_AMBA_Dic2016.zip"
+                }
+            ],
+            "identifier": "recorridos"
+        },
+        {
+            "publisher": {
+                "name": "Ministerio de Transporte.Dirección de Observatorio, Estudios y Sistemas"
+            },
+            "description": "Puntos de venta y recarga de tarjeta SUBE.",
+            "superTheme": [
+                "tran"
+            ],
+            "title": "Red de Carga RMBA",
+            "issued": "2016-11-01",
+            "modified": "2016-11-01",
+            "accrualPeriodicity": "R/P3M",
+            "distribution": [
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/./kml/recarga_automaticos.kml",
+                    "title": "Detalle de puntos de recarga automáticos (TAS), ubicación geográfica",
+                    "issued": "2016-11-01",
+                    "format": "kml",
+                    "modified": "2016-11-01",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/./kml/recarga_automaticos.kml"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=red&d=recarga",
+                    "title": "Detalle de puntos de recarga, ubicación geográfica",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2016-11-01",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=red&d=recarga"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=red&d=venta",
+                    "title": "Detalle de puntos de venta, ubicación geográfica",
+                    "issued": "2016-11-01",
+                    "format": "text/csv",
+                    "modified": "2016-11-01",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=red&d=venta"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/./kml/acreditacion_carga_virtual.kml",
+                    "title": "Puntos de acreditación de saldo (p/carga virtual)",
+                    "issued": "2016-11-01",
+                    "format": "kml",
+                    "modified": "2016-11-01",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/./kml/acreditacion_carga_virtual.kml"
+                }
+            ],
+            "identifier": "red"
+        },
+        {
+            "publisher": {
+                "name": "Puerto Buenos Aires (AGP)"
+            },
+            "description": "Detalle de entrada y salida de buques y pasajeros transportados",
+            "superTheme": [
+                "tran"
+            ],
+            "title": "Puerto Buenos Aires (AGP)",
+            "issued": "2017-05-30",
+            "modified": "2017-05-30",
+            "accrualPeriodicity": "R/P1M",
+            "distribution": [
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=agp&d=detalle",
+                    "title": "Detalle de entrada y salida de buques y pasajeros transportados",
+                    "issued": "2017-05-30",
+                    "format": "text/csv",
+                    "modified": "2017-05-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=agp&d=detalle"
+                }
+            ],
+            "identifier": "agp"
+        },
+        {
+            "publisher": {
+                "name": "SOFSE"
+            },
+            "description": "Transporte de pasajeros",
+            "superTheme": [
+                "tran"
+            ],
+            "title": "Trenes",
+            "issued": "2017-06-30",
+            "modified": "2017-06-30",
+            "accrualPeriodicity": "R/P1M",
+            "distribution": [
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=trenes&d=pasajeros",
+                    "title": "Detalle de pasajeros por línea",
+                    "issued": "2017-06-30",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=trenes&d=pasajeros"
+                }
+            ],
+            "identifier": "trenes"
+        },
+        {
+            "publisher": {
+                "name": "SOFSE"
+            },
+            "description": "Detalle de estaciones",
+            "superTheme": [
+                "tran"
+            ],
+            "title": "Trenes - Estaciones",
+            "issued": "2017-06-30",
+            "modified": "2017-06-30",
+            "accrualPeriodicity": "eventual",
+            "distribution": [
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=estaciones&d=estaciones",
+                    "title": "Detalle de estaciones de trenes",
+                    "issued": "2017-06-30",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=estaciones&d=estaciones"
+                }
+            ],
+            "identifier": "estaciones"
+        },
+        {
+            "publisher": {
+                "name": "Ministerio de Transporte.Dirección Nacional de Gestión de Fondos Fiduciarios"
+            },
+            "description": "Detalle de aportes al transporte público de pasajeros",
+            "superTheme": [
+                "tran"
+            ],
+            "title": "Aportes",
+            "issued": "2017-06-30",
+            "modified": "2017-06-30",
+            "accrualPeriodicity": "R/P1M",
+            "distribution": [
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=aportes&d=colectivoscd",
+                    "title": "Colectivos Corta distancia",
+                    "issued": "2017-06-30",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=aportes&d=colectivoscd"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=aportes&d=colectivosld",
+                    "title": "Colectivos Larga distancia",
+                    "issued": "2017-06-30",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=aportes&d=colectivosld"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=aportes&d=trenesestado",
+                    "title": "Trenes Estado Nacional",
+                    "issued": "2017-06-30",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=aportes&d=trenesestado"
+                }
+            ],
+            "identifier": "aportes"
+        },
+        {
+            "publisher": {
+                "name": "Ministerio de Transporte.Dirección Nacional de Gestión de Fondos Fiduciarios"
+            },
+            "description": "Sistema Integrado de Transporte Automotor",
+            "superTheme": [
+                "tran"
+            ],
+            "title": "S.I.S.T.A.U.",
+            "issued": "2017-06-30",
+            "modified": "2017-06-30",
+            "accrualPeriodicity": "R/P1M",
+            "distribution": [
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=sistau&d=rcc",
+                    "title": "ASIGNACION RCC DEL DECRETO Nº 678/06",
+                    "issued": "2017-06-30",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=sistau&d=rcc"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=sistau&d=sistau",
+                    "title": "ASIGNACION SISTAU",
+                    "issued": "2017-06-30",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=sistau&d=sistau"
+                },
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=sistau&d=ccp",
+                    "title": "Compensaciones Complementarias Provinciales (CCP) - Art. 3º Decreto Nº 98/07",
+                    "issued": "2017-06-30",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=sistau&d=ccp"
+                }
+            ],
+            "identifier": "sistau"
+        },
+        {
+            "publisher": {
+                "name": "ANAC"
+            },
+            "description": "Detalle de aeródromos y helipuertos",
+            "superTheme": [
+                "tran"
+            ],
+            "title": "Aeropuertos",
+            "issued": "2017-06-30",
+            "modified": "2017-06-30",
+            "accrualPeriodicity": "eventual",
+            "distribution": [
+                {
+                    "accessURL": "https://servicios.transporte.gob.ar/gobierno_abierto/detalle.php?t=aeropuertos&d=detalle",
+                    "title": "Detalle de aeródromos y helipuertos",
+                    "issued": "2017-06-30",
+                    "format": "text/csv",
+                    "modified": "2017-06-30",
+                    "downloadURL": "https://servicios.transporte.gob.ar/gobierno_abierto/descarga.php?t=aeropuertos&d=detalle"
+                }
+            ],
+            "identifier": "aeropuertos"
+        }
+    ],
+    "homepage": "https://servicios.transporte.gob.ar/gobierno_abierto/"
+}
