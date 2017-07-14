@@ -18,15 +18,16 @@
 - **Cantidad Total de Datasets**: 41
 - **Cantidad Total de Distribuciones**: 123
 
-- **Cantidad de Datasets Federados**: 29
-- **Cantidad de Datasets NO Federados**: 12
-- **Porcentaje de Datasets NO Federados**: 29.27%
+- **Cantidad de Datasets Federados**: 28
+- **Cantidad de Datasets NO Federados**: 13
+- **Porcentaje de Datasets NO Federados**: 31.71%
 
 ## Datasets no federados:
 
+- [Cantidad de clientes por provincia](http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/)
+- [Cantidad Total de Megabits en servicio por provincia](http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/)
 - [Registro de Visitas](http://datos.arsat.com.ar/dataviews/239722/registro-de-visitas/)
 - [Porcentaje de avance del Plan](http://datos.arsat.com.ar/dataviews/237190/porcentaje-de-avance-del-plan/)
-- [Cantidad de clientes por provincia](http://datos.arsat.com.ar/dataviews/238996/cantidad-de-clientes-por-provincia/)
 - [Personal de ARSAT según zona laboral](http://datos.arsat.com.ar/dataviews/238096/personal-de-arsat-segun-zona-laboral/)
 - [Personal por Gerencia distinguido por género](http://datos.arsat.com.ar/dataviews/238113/personal-por-gerencia-distinguido-por-genero/)
 - [Personal por provincia](http://datos.arsat.com.ar/dataviews/238092/personal-por-provincia/)
