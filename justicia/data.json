@@ -241,7 +241,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
             "issued": "2016-09-28T14:57:47.665668",
-            "modified": "2017-07-18T13:58:51.205616",
+            "modified": "2017-07-18T14:00:04.576935",
             "theme": [
                 "sistema-registral"
             ],
@@ -2550,7 +2550,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
             "issued": "2016-09-02T18:14:39.283242",
-            "modified": "2017-07-05T16:10:47.226300",
+            "modified": "2017-07-18T14:57:22.873874",
             "theme": [
                 "sistema-registral"
             ],
@@ -2668,18 +2668,6 @@
                     "identifier": "b35fbfb5-35aa-4549-b7f1-e9dfa2239f03"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/4544ef97-6922-42fb-9695-51e2a2308b28",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-03 quincena 1",
-                    "byteSize": null,
-                    "format": "CSV",
-                    "mediaType": null,
-                    "modified": "2017-07-05T12:03:06.333791",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/4544ef97-6922-42fb-9695-51e2a2308b28/download/solicitudes-condicion-legitimo-usuario-armas.csv",
-                    "issued": "2017-07-05T12:03:06.701432",
-                    "identifier": "4544ef97-6922-42fb-9695-51e2a2308b28"
-                },
-                {
                     "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0b56d1c2-0644-4ae8-a63b-0648ae07cdbe",
                     "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
                     "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-02 quincena 2",
@@ -2692,16 +2680,16 @@
                     "identifier": "0b56d1c2-0644-4ae8-a63b-0648ae07cdbe"
                 },
                 {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/f5828b7d-cdbd-4939-a7d9-eb1155a220cb",
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/4544ef97-6922-42fb-9695-51e2a2308b28",
                     "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-02 quincena 1",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-03 quincena 1",
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-07-05T12:18:57.816304",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/f5828b7d-cdbd-4939-a7d9-eb1155a220cb/download/solicitudes-condicion-legitimo-usuario-armas.csv",
-                    "issued": "2017-07-05T12:18:58.298588",
-                    "identifier": "f5828b7d-cdbd-4939-a7d9-eb1155a220cb"
+                    "modified": "2017-07-05T12:03:06.333791",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/4544ef97-6922-42fb-9695-51e2a2308b28/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "issued": "2017-07-05T12:03:06.701432",
+                    "identifier": "4544ef97-6922-42fb-9695-51e2a2308b28"
                 },
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/11366abf-c0e8-4160-9ec1-a298ecf25049",
@@ -2714,6 +2702,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/11366abf-c0e8-4160-9ec1-a298ecf25049/download/solicitudes-condicion-legitimo-usuario-armas.csv",
                     "issued": "2017-07-05T12:46:57.480522",
                     "identifier": "11366abf-c0e8-4160-9ec1-a298ecf25049"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/f5828b7d-cdbd-4939-a7d9-eb1155a220cb",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-02 quincena 1",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-07-05T12:18:57.816304",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/f5828b7d-cdbd-4939-a7d9-eb1155a220cb/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "issued": "2017-07-05T12:18:58.298588",
+                    "identifier": "f5828b7d-cdbd-4939-a7d9-eb1155a220cb"
                 },
                 {
                     "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/8a2ed739-751f-4b2e-abbd-6031b572b013",
@@ -2762,6 +2762,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/7269a7ba-1c7f-4b46-bb8d-d659e60e949d/download/solicitudes-codicion-legitimo-usuario-armas-fuego.csv",
                     "issued": "2017-07-05T13:10:39.225169",
                     "identifier": "7269a7ba-1c7f-4b46-bb8d-d659e60e949d"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/deaab5ff-7d75-4341-965c-73c0b48e2f84",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-07 quincena 2",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-07-18T11:22:04.208160",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/deaab5ff-7d75-4341-965c-73c0b48e2f84/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv",
+                    "issued": "2017-07-18T11:22:04.433331",
+                    "identifier": "deaab5ff-7d75-4341-965c-73c0b48e2f84"
                 }
             ]
         },
@@ -2775,7 +2787,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
             "issued": "2016-09-05T18:02:00.514364",
-            "modified": "2017-07-05T15:57:36.086867",
+            "modified": "2017-07-18T14:56:19.535577",
             "theme": [
                 "sistema-registral"
             ],
@@ -2986,6 +2998,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/71ddb76f-e325-4da7-9ea6-da27b6532f30/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
                     "issued": "2017-07-05T12:57:26.799056",
                     "identifier": "71ddb76f-e325-4da7-9ea6-da27b6532f30"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/8b8d0995-1608-4a1b-8d83-4051ec4cfb2a",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-07 quincena 2",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-07-18T11:47:32.203654",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/8b8d0995-1608-4a1b-8d83-4051ec4cfb2a/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-07-18T11:47:32.459114",
+                    "identifier": "8b8d0995-1608-4a1b-8d83-4051ec4cfb2a"
                 }
             ]
         },
