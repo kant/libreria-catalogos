@@ -1,15 +1,15 @@
 indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
-0,Registro de Audiencias,http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
-1,Registro de Visitas,http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
-2,Cantidad Total de Megabits en servicio por provincia,http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
-3,Cantidad de clientes por provincia,http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
-4,Listado de Proveedores,http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
-5,Datos de uso de la plataforma,http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
-6,Futuros puntos de conexión al Plan Federal de Internet,http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PLANI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
-7,Puntos de conexión al Plan Federal de Internet,http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-EN-SERVI-58179/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
-8,Personal por Gerencia,http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
-9,Escuelas conectadas,http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
-10,Escuelas de próxima conexión,http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+0,Escuelas conectadas,http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-61064/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+1,Escuelas de próxima conexión,http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-25724/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+2,Registro de Audiencias,http://api.datos.arsat.com.ar/api/v2/datastreams/AUDIE-96185/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+3,Registro de Visitas,http://api.datos.arsat.com.ar/api/v2/datastreams/REGIS-DE-VISIT-31415/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+4,Cantidad Total de Megabits en servicio por provincia,http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+5,Cantidad de clientes por provincia,http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-CLIEN-POR-PROVI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+6,Listado de Proveedores,http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PROVE-79569/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+7,Datos de uso de la plataforma,http://api.datos.arsat.com.ar/api/v2/datastreams/ODEON-ESTAD-DE-USO/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+8,Futuros puntos de conexión al Plan Federal de Internet,http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-PLANI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+9,Puntos de conexión al Plan Federal de Internet,http://api.datos.arsat.com.ar/api/v2/datastreams/NODOS-EN-SERVI-58179/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
+10,Personal por Gerencia,http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
 11,Porcentaje de avance del Plan,http://api.datos.arsat.com.ar/api/v2/datastreams/PLAN-DE-CONEC-DE-97527/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
 12,Licitaciones,http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
 13,Listado de Personal,http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff,OK,0,3
