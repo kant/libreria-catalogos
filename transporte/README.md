@@ -15,15 +15,19 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 17
-- **Cantidad Total de Distribuciones**: 153
+- **Cantidad Total de Datasets**: 21
+- **Cantidad Total de Distribuciones**: 161
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 17
+- **Cantidad de Datasets NO Federados**: 21
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets no federados:
 
+- [Rutas Provinciales](https://datos.transporte.gob.ar/dataset/rutas-provinciales)
+- [Pavimentos](https://datos.transporte.gob.ar/dataset/pavimentos)
+- [Postes Kilométricos](https://datos.transporte.gob.ar/dataset/postes-kilometricos)
+- [Rutas Nacionales](https://datos.transporte.gob.ar/dataset/rutas-nacionales)
 - [Peajes](https://datos.transporte.gob.ar/dataset/peajes)
 - [Cantidad de carga y pasajeros](https://datos.transporte.gob.ar/dataset/cantidad-de-carga-y-pasajeros)
 - [Boletos Vendidos](https://datos.transporte.gob.ar/dataset/boletos-vendidos)
