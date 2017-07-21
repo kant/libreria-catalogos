@@ -15,15 +15,21 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 11
-- **Cantidad Total de Distribuciones**: 141
+- **Cantidad Total de Datasets**: 17
+- **Cantidad Total de Distribuciones**: 153
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 11
+- **Cantidad de Datasets NO Federados**: 17
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets no federados:
 
+- [Peajes](https://datos.transporte.gob.ar/dataset/peajes)
+- [Cantidad de carga y pasajeros](https://datos.transporte.gob.ar/dataset/cantidad-de-carga-y-pasajeros)
+- [Boletos Vendidos](https://datos.transporte.gob.ar/dataset/boletos-vendidos)
+- [Cruces Ferroviarios](https://datos.transporte.gob.ar/dataset/cruces-ferroviarios)
+- [Predios Aeropuertos](https://datos.transporte.gob.ar/dataset/predios-aeropuertos)
+- [Aeropuertos](https://datos.transporte.gob.ar/dataset/aeropuertosargentina)
 - [Terminales Portuarias](https://datos.transporte.gob.ar/dataset/terminales-portuarias)
 - [Puertos](https://datos.transporte.gob.ar/dataset/puertos)
 - [Aeródromos](https://datos.transporte.gob.ar/dataset/aerodromos)
