@@ -1,18 +1,22 @@
 indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
-0,Peajes,151e296a-d1bf-4bd2-ba26-5030fb092cc7,OK,0,2
-1,Cantidad de carga y pasajeros,76021864-2b2d-4e47-ab0e-b8f555cc5be5,OK,0,2
-2,Boletos Vendidos,1d9fc51f-1462-4b26-907c-9f25f889f7a2,OK,0,2
-3,Cruces Ferroviarios,c77e356a-e197-4b1d-8bdf-43e270765c73,OK,0,2
-4,Predios Aeropuertos,10d93e6d-f549-4e68-ba75-153ff7c82601,OK,0,2
-5,Aeropuertos,e7bc3c33-b10c-41c4-9eb5-445bed8f61ab,OK,0,2
-6,Terminales Portuarias,f07d3f14-64ce-475b-9788-2603dd2fe02e,OK,0,2
-7,Puertos,b0b231b9-e85d-44e9-8da9-eaff3af2d422,OK,0,2
-8,Aeródromos,1f3fa9d5-471e-4fce-aad8-2f074151d9a8,OK,0,2
-9,Cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad,6b25e9b6-620b-411e-90c5-3992a95252b9,ERROR,1,18
-10,Cancelaciones RMBA - periodo - modo - empresa - linea - cantidad,2c273881-a80f-4d9a-b3fb-4b5fc554438c,ERROR,1,18
-11,Cancelaciones RMBA - periodo - modo - empresa - cantidad,71926b9b-fb64-4b9a-be84-6792941ff23d,ERROR,1,18
-12,Cancelaciones RMBA - periodo - modo - cantidad,de346495-4833-4c4f-a3c8-b48dce59145a,ERROR,1,18
-13,Cancelaciones RMBA periodo-cantidad,a4a19ded-9793-44bc-8086-a317ba441c37,ERROR,1,18
-14,Empresas transporte RMBA,5ddf12c8-d3ef-46ac-8a79-ca3dd1176b87,ERROR,1,18
-15,Lineas transporte RMBA,17576642-a888-4f52-adc4-0d6e8bc86ddf,ERROR,1,18
-16,Recorridos de Líneas de Transporte de Región Metropolitana de Buenos Aires (RMBA),f87b93d4-ade2-44fc-a409-d3736ba9f3ba,OK,0,9
+0,Rutas Provinciales,0d3fce15-480c-4588-bb8b-2a8f85edcab3,OK,0,2
+1,Pavimentos,f0491468-7c53-409a-b371-5d39b63b0536,OK,0,2
+2,Postes Kilométricos,a9f98236-fe91-4dac-923f-f0ddd5810b3b,OK,0,2
+3,Rutas Nacionales,abe45f2c-cf9f-458e-8b51-03ecda6f708a,OK,0,2
+4,Peajes,151e296a-d1bf-4bd2-ba26-5030fb092cc7,OK,0,2
+5,Cantidad de carga y pasajeros,76021864-2b2d-4e47-ab0e-b8f555cc5be5,OK,0,2
+6,Boletos Vendidos,1d9fc51f-1462-4b26-907c-9f25f889f7a2,OK,0,2
+7,Cruces Ferroviarios,c77e356a-e197-4b1d-8bdf-43e270765c73,OK,0,2
+8,Predios Aeropuertos,10d93e6d-f549-4e68-ba75-153ff7c82601,OK,0,2
+9,Aeropuertos,e7bc3c33-b10c-41c4-9eb5-445bed8f61ab,OK,0,2
+10,Terminales Portuarias,f07d3f14-64ce-475b-9788-2603dd2fe02e,OK,0,2
+11,Puertos,b0b231b9-e85d-44e9-8da9-eaff3af2d422,OK,0,2
+12,Aeródromos,1f3fa9d5-471e-4fce-aad8-2f074151d9a8,OK,0,2
+13,Cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad,6b25e9b6-620b-411e-90c5-3992a95252b9,ERROR,1,18
+14,Cancelaciones RMBA - periodo - modo - empresa - linea - cantidad,2c273881-a80f-4d9a-b3fb-4b5fc554438c,ERROR,1,18
+15,Cancelaciones RMBA - periodo - modo - empresa - cantidad,71926b9b-fb64-4b9a-be84-6792941ff23d,ERROR,1,18
+16,Cancelaciones RMBA - periodo - modo - cantidad,de346495-4833-4c4f-a3c8-b48dce59145a,ERROR,1,18
+17,Cancelaciones RMBA periodo-cantidad,a4a19ded-9793-44bc-8086-a317ba441c37,ERROR,1,18
+18,Empresas transporte RMBA,5ddf12c8-d3ef-46ac-8a79-ca3dd1176b87,ERROR,1,18
+19,Lineas transporte RMBA,17576642-a888-4f52-adc4-0d6e8bc86ddf,ERROR,1,18
+20,Recorridos de Líneas de Transporte de Región Metropolitana de Buenos Aires (RMBA),f87b93d4-ade2-44fc-a409-d3736ba9f3ba,OK,0,9
