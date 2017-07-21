@@ -15,15 +15,18 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 8
-- **Cantidad Total de Distribuciones**: 135
+- **Cantidad Total de Datasets**: 11
+- **Cantidad Total de Distribuciones**: 141
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 8
+- **Cantidad de Datasets NO Federados**: 11
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets no federados:
 
+- [Terminales Portuarias](https://datos.transporte.gob.ar/dataset/terminales-portuarias)
+- [Puertos](https://datos.transporte.gob.ar/dataset/puertos)
+- [Aeródromos](https://datos.transporte.gob.ar/dataset/aerodromos)
 - [Cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad](https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-modo-empresa-linea-tipo-pasaje-cantidad)
 - [Cancelaciones RMBA - periodo - modo - empresa - linea - cantidad](https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-modo-empresa-linea-cantidad)
 - [Cancelaciones RMBA - periodo - modo - empresa - cantidad](https://datos.transporte.gob.ar/dataset/cancelaciones-rmba-periodo-modo-empresa-cantidad)
