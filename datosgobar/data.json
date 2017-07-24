@@ -9,6 +9,192 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "consultasdine@elecciones.gob.ar",
+                "name": "Ministerio del interior, Obras Públicas y Vivienda. Dirección Nacional Electoral."
+            },
+            "accessLevel": "public",
+            "description": "Resultados de las elecciones del año 2015. Incluye el conteo de votos a nivel de mesa electoral, para las elecciones generales y la segunda vuelta presidencial.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Resultados Electorales 2015",
+            "issued": "2017-06-02T16:39:31.372285",
+            "modified": "2017-07-24T19:49:46.735841",
+            "theme": [
+                "Gobierno y sector público",
+                "Justicia, seguridad y legales",
+                "Población y sociedad"
+            ],
+            "keyword": [
+                "elecciones",
+                "votación"
+            ],
+            "accrualPeriodicity": "eventual",
+            "landingPage": "http://www.elecciones.gob.ar/articulo_princ.php?secc=2&sub_secc=8",
+            "identifier": "f40188b7-e7fd-49a3-96ed-f13e8170dcdb",
+            "distribution": [
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/pres_y_vice_2.zip",
+                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Presidente y Vicepresidente.",
+                    "title": "Elecciones Generales 2015: Presidente y Vice",
+                    "issued": "2017-06-02T16:42:28.360259",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/pres_y_vice_2.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/parlamentario_nacional_1.zip",
+                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Parlamentarios del MERCOSUR en Distrito Nacional.",
+                    "title": "Elecciones Generales 2015: Parlamentarios del Mercosur Nacional",
+                    "issued": "2017-06-02T16:43:05.599555",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/parlamentario_nacional_1.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/parlamentario_regional_1.zip",
+                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Parlamentarios del MERCOSUR en Distrito Regional.",
+                    "title": "Elecciones generales 2015: Parlamentarios del Mercosur Regional",
+                    "issued": "2017-06-02T16:44:07.869106",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/parlamentario_regional_1.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/dip_nac.zip",
+                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Diputados Nacionales.",
+                    "title": "Elecciones generales 2015: Diputados Nacionales",
+                    "issued": "2017-06-02T16:45:01.844652",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/dip_nac.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/fmessn_0313.zip",
+                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Senadores Nacionales.",
+                    "title": "Elecciones generales 2015: Senadores Nacionales",
+                    "issued": "2017-06-02T16:46:26.087408",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/fmessn_0313.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/dip_prov.zip",
+                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Diputados Provinciales.",
+                    "title": "Elecciones generales 2015: Diputados Provinciales",
+                    "issued": "2017-06-02T16:47:12.977822",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/dip_prov.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/sen_prov.zip",
+                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Senadores Provinciales.",
+                    "title": "Elecciones generales 2015: Senadores Provinciales",
+                    "issued": "2017-06-02T16:47:52.446991",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/sen_prov.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/gobernador.zip",
+                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Gobernador.",
+                    "title": "Elecciones generales 2015: Gobernador",
+                    "issued": "2017-06-02T16:48:30.997272",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/gobernador.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/municipal.zip",
+                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Intendente.",
+                    "title": "Elecciones generales 2015: Municipal",
+                    "issued": "2017-06-02T16:49:48.221745",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/municipal.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/departamentos.zip",
+                    "description": "Códigos de departamento necesarios para la interpretación de los datos referidos a la elección general del 2015.",
+                    "title": "Elecciones generales 2015: códigos de departamentos",
+                    "issued": "2017-06-02T16:50:52.959989",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/departamentos.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/fpartidos.zip",
+                    "description": "Códigos de partidos necesarios para la interpretación de los datos referidos a la elección general del 2015.",
+                    "title": "Elecciones generales 2015: códigos partidos",
+                    "issued": "2017-06-02T16:51:50.817074",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/fpartidos.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/provincias.zip",
+                    "description": "Códigos de provincias necesarios para la interpretación de los datos referidos a la elección general del 2015.",
+                    "title": "Elecciones generales 2015: códigos provincias",
+                    "issued": "2017-06-02T16:52:59.505043",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/provincias.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/pv_0101.zip",
+                    "description": "Conteo de votos a nivel de mesa electoral, para la segunda vuelta electoral de 2015 en la categoría de Presidente y Vicepresidente, en el distrito Ciudad Autónoma de Buenos Aires.",
+                    "title": "Segunda vuelta presidencial 2015: Ciudad Autónoma de Buenos Aires",
+                    "issued": "2017-06-02T17:00:02.494178",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/pv_0101.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/pv_02021.zip",
+                    "description": "Conteo de votos a nivel de mesa electoral, para la segunda vuelta electoral de 2015 en la categoría de Presidente y Vicepresidente, en el distrito Provincia de Buenos Aires.",
+                    "title": "Segunda vuelta presidencial 2015: Provincia de Buenos Aires",
+                    "issued": "2017-06-02T17:01:32.028387",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/pv_02021.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/pv_03131.zip",
+                    "description": "Conteo de votos a nivel de mesa electoral, para la segunda vuelta electoral de 2015 en la categoría de Presidente y Vicepresidente, en las provincias de Catamarca, Córdoba, Corrientes, Chaco, Chubut, Entre Ríos, Formosa, Jujuy, La Pampa, La Rioja, Mendoza.",
+                    "title": "Segunda vuelta presidencial 2015: Provincias 03 a 13",
+                    "issued": "2017-06-02T17:05:02.198492",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/pv_03131.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/pv_1424.zip",
+                    "description": "Conteo de votos a nivel de mesa electoral, para la segunda vuelta electoral de 2015 en la categoría de Presidente y Vicepresidente, en las provincias de Misiones, Neuquén, Río Negro, Salta, San Juan, San Luis, Santa Cruz, Santa fe, Santiago del Estero, Tucumán, Tierra del fuego.",
+                    "title": "Segunda vuelta presidencial 2015: Provincias 14 a 24",
+                    "issued": "2017-06-02T17:10:05.975657",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/pv_1424.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/cod_departamentos.zip",
+                    "description": "Códigos de departamento necesarios para la interpretación de los datos referidos a la segunda vuelta electoral del año 2015.",
+                    "title": "Segunda vuelta presidencial 2015: códigos de departamentos",
+                    "issued": "2017-06-02T17:11:02.883271",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/cod_departamentos.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/cod_municipios.zip",
+                    "description": "Códigos de municipios necesarios para la interpretación de los datos referidos a la segunda vuelta electoral del año 2015.",
+                    "title": "Segunda vuelta presidencial 2015: códigos de municipios",
+                    "issued": "2017-06-02T17:12:21.843993",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/cod_municipios.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/cod_partidos.zip",
+                    "description": "Códigos de partidos necesarios para la interpretación de los datos referidos a la segunda vuelta electoral del año 2015.",
+                    "title": "Segunda vuelta presidencial 2015: códigos de partidos",
+                    "issued": "2017-06-02T17:13:17.448801",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/cod_partidos.zip"
+                },
+                {
+                    "accessURL": "https://www.argentina.gob.ar/sites/default/files/cod_provincias.zip",
+                    "description": "Códigos de provincias necesarios para la interpretación de los datos referidos a la segunda vuelta electoral del año 2015.",
+                    "title": "Segunda vuelta presidencial 2015: códigos de provincias",
+                    "issued": "2017-06-02T17:13:55.201787",
+                    "format": "ZIP",
+                    "downloadURL": "https://www.argentina.gob.ar/sites/default/files/cod_provincias.zip"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
@@ -3040,192 +3226,6 @@
                     "issued": "2017-06-07T16:15:46.104127",
                     "format": "ZIP",
                     "downloadURL": "http://sitiodelciudadano.mecon.gov.ar/datasets/dgsiaf_ejecucion_credito_completo.zip"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "consultasdine@elecciones.gob.ar",
-                "name": "Ministerio del interior, Obras Públicas y Vivienda. Dirección Nacional Electoral."
-            },
-            "accessLevel": "public",
-            "description": "Resultados de las elecciones del año 2015. Incluye el conteo de votos a nivel de mesa electoral, para las elecciones generales y la segunda vuelta presidencial.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Resultados Electorales 2015",
-            "issued": "2017-06-02T16:39:31.372285",
-            "modified": "2017-06-04T21:37:55.943090",
-            "theme": [
-                "Gobierno y sector público",
-                "Justicia, seguridad y legales",
-                "Población y sociedad"
-            ],
-            "keyword": [
-                "elecciones",
-                "votación"
-            ],
-            "accrualPeriodicity": "eventual",
-            "landingPage": "http://www.elecciones.gob.ar/articulo_princ.php?secc=2&sub_secc=8",
-            "identifier": "f40188b7-e7fd-49a3-96ed-f13e8170dcdb",
-            "distribution": [
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PRES_Y_VICE_.rar",
-                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Presidente y Vicepresidente.",
-                    "title": "Elecciones Generales 2015: Presidente y Vice",
-                    "issued": "2017-06-02T16:42:28.360259",
-                    "format": "RAR",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PRES_Y_VICE_.rar"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PARLAMENTARIO_NACIONAL.rar",
-                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Parlamentarios del MERCOSUR en Distrito Nacional.",
-                    "title": "Elecciones Generales 2015: Parlamentarios del Mercosur Nacional",
-                    "issued": "2017-06-02T16:43:05.599555",
-                    "format": "RAR",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PARLAMENTARIO_NACIONAL.rar"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PARLAMENTARIO_REGIONAL.rar",
-                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Parlamentarios del MERCOSUR en Distrito Regional.",
-                    "title": "Elecciones generales 2015: Parlamentarios del Mercosur Regional",
-                    "issued": "2017-06-02T16:44:07.869106",
-                    "format": "RAR",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PARLAMENTARIO_REGIONAL.rar"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/DIP_NAC.rar",
-                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Diputados Nacionales.",
-                    "title": "Elecciones generales 2015: Diputados Nacionales",
-                    "issued": "2017-06-02T16:45:01.844652",
-                    "format": "RAR",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/DIP_NAC.rar"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/FMESSN_0313.csv",
-                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Senadores Nacionales.",
-                    "title": "Elecciones generales 2015: Senadores Nacionales",
-                    "issued": "2017-06-02T16:46:26.087408",
-                    "format": "CSV",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/FMESSN_0313.csv"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/DIP_PROV.rar",
-                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Diputados Provinciales.",
-                    "title": "Elecciones generales 2015: Diputados Provinciales",
-                    "issued": "2017-06-02T16:47:12.977822",
-                    "format": "RAR",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/DIP_PROV.rar"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/SEN_PROV.rar",
-                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Senadores Provinciales.",
-                    "title": "Elecciones generales 2015: Senadores Provinciales",
-                    "issued": "2017-06-02T16:47:52.446991",
-                    "format": "RAR",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/SEN_PROV.rar"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/GOBERNADOR.rar",
-                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Gobernador.",
-                    "title": "Elecciones generales 2015: Gobernador",
-                    "issued": "2017-06-02T16:48:30.997272",
-                    "format": "RAR",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/GOBERNADOR.rar"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/MUNICIPAL.rar",
-                    "description": "Conteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Intendente.",
-                    "title": "Elecciones generales 2015: Municipal",
-                    "issued": "2017-06-02T16:49:48.221745",
-                    "format": "RAR",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/MUNICIPAL.rar"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/DEPARTAMENTOS.csv",
-                    "description": "Códigos de departamento necesarios para la interpretación de los datos referidos a la elección general del 2015.",
-                    "title": "Elecciones generales 2015: códigos de departamentos",
-                    "issued": "2017-06-02T16:50:52.959989",
-                    "format": "CSV",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/DEPARTAMENTOS.csv"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/FPARTIDOS.csv",
-                    "description": "Códigos de partidos necesarios para la interpretación de los datos referidos a la elección general del 2015.",
-                    "title": "Elecciones generales 2015: códigos partidos",
-                    "issued": "2017-06-02T16:51:50.817074",
-                    "format": "CSV",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/FPARTIDOS.csv"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PROVINCIAS.csv",
-                    "description": "Códigos de provincias necesarios para la interpretación de los datos referidos a la elección general del 2015.",
-                    "title": "Elecciones generales 2015: códigos provincias",
-                    "issued": "2017-06-02T16:52:59.505043",
-                    "format": "CSV",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PROVINCIAS.csv"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_0101.csv",
-                    "description": "Conteo de votos a nivel de mesa electoral, para la segunda vuelta electoral de 2015 en la categoría de Presidente y Vicepresidente, en el distrito Ciudad Autónoma de Buenos Aires.",
-                    "title": "Segunda vuelta presidencial 2015: Ciudad Autónoma de Buenos Aires",
-                    "issued": "2017-06-02T17:00:02.494178",
-                    "format": "CSV",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_0101.csv"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_0202(1).csv",
-                    "description": "Conteo de votos a nivel de mesa electoral, para la segunda vuelta electoral de 2015 en la categoría de Presidente y Vicepresidente, en el distrito Provincia de Buenos Aires.",
-                    "title": "Segunda vuelta presidencial 2015: Provincia de Buenos Aires",
-                    "issued": "2017-06-02T17:01:32.028387",
-                    "format": "CSV",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_0202(1).csv"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_0313(1).csv",
-                    "description": "Conteo de votos a nivel de mesa electoral, para la segunda vuelta electoral de 2015 en la categoría de Presidente y Vicepresidente, en las provincias de Catamarca, Córdoba, Corrientes, Chaco, Chubut, Entre Ríos, Formosa, Jujuy, La Pampa, La Rioja, Mendoza.",
-                    "title": "Segunda vuelta presidencial 2015: Provincias 03 a 13",
-                    "issued": "2017-06-02T17:05:02.198492",
-                    "format": "CSV",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_0313(1).csv"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_1424.csv",
-                    "description": "Conteo de votos a nivel de mesa electoral, para la segunda vuelta electoral de 2015 en la categoría de Presidente y Vicepresidente, en las provincias de Misiones, Neuquén, Río Negro, Salta, San Juan, San Luis, Santa Cruz, Santa fe, Santiago del Estero, Tucumán, Tierra del fuego.",
-                    "title": "Segunda vuelta presidencial 2015: Provincias 14 a 24",
-                    "issued": "2017-06-02T17:10:05.975657",
-                    "format": "CSV",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/PV_1424.csv"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_DEPARTAMENTOS.csv",
-                    "description": "Códigos de departamento necesarios para la interpretación de los datos referidos a la segunda vuelta electoral del año 2015.",
-                    "title": "Segunda vuelta presidencial 2015: códigos de departamentos",
-                    "issued": "2017-06-02T17:11:02.883271",
-                    "format": "CSV",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_DEPARTAMENTOS.csv"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_MUNICIPIOS.csv",
-                    "description": "Códigos de municipios necesarios para la interpretación de los datos referidos a la segunda vuelta electoral del año 2015.",
-                    "title": "Segunda vuelta presidencial 2015: códigos de municipios",
-                    "issued": "2017-06-02T17:12:21.843993",
-                    "format": "CSV",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_MUNICIPIOS.csv"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_PARTIDOS.csv",
-                    "description": "Códigos de partidos necesarios para la interpretación de los datos referidos a la segunda vuelta electoral del año 2015.",
-                    "title": "Segunda vuelta presidencial 2015: códigos de partidos",
-                    "issued": "2017-06-02T17:13:17.448801",
-                    "format": "CSV",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_PARTIDOS.csv"
-                },
-                {
-                    "accessURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_PROVINCIAS.csv",
-                    "description": "Códigos de provincias necesarios para la interpretación de los datos referidos a la segunda vuelta electoral del año 2015.",
-                    "title": "Segunda vuelta presidencial 2015: códigos de provincias",
-                    "issued": "2017-06-02T17:13:55.201787",
-                    "format": "CSV",
-                    "downloadURL": "http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/COD_PROVINCIAS.csv"
                 }
             ]
         },
