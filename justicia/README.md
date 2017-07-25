@@ -25,7 +25,7 @@
 ## Datasets no federados:
 
 - [Bienes secuestrados y decomisados durante el proceso penal]()
-- [Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ-](Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia)
+- [Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ-]()
 - [Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público]()
 - [Declaraciones Juradas Patrimoniales Integrales de carácter público](https://www2.jus.gov.ar/consultaddjj)
 - [Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional]()
