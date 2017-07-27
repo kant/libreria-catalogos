@@ -578,7 +578,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Entidades constituidas en la Inspección General de Justicia",
             "issued": "2016-09-19T13:46:06.092494",
-            "modified": "2017-07-27T12:49:56.626704",
+            "modified": "2017-07-27T14:58:44.054746",
             "theme": [
                 "sistema-registral"
             ],
@@ -692,7 +692,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2016-11-17T14:54:22.859901",
+                    "modified": "2017-07-27T11:58:07.326456",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/2a8472e3-3ec6-4e6e-8baf-d53963f22643/download/igj-balances.csv",
                     "issued": "2016-11-17T14:54:23.192485",
                     "identifier": "2a8472e3-3ec6-4e6e-8baf-d53963f22643"
@@ -788,7 +788,7 @@
                     "byteSize": null,
                     "format": "CSV",
                     "mediaType": null,
-                    "modified": "2017-01-03T15:47:28.040902",
+                    "modified": "2017-07-27T11:58:34.226135",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/da045e06-35cb-4bdd-9b5e-ddee6712c86c/resource/5d39a3d6-b9c3-4427-acfd-f484fe790704/download/igj-entidades.csv",
                     "issued": "2017-01-03T14:29:31.770737",
                     "identifier": "5d39a3d6-b9c3-4427-acfd-f484fe790704"
@@ -1450,7 +1450,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Internos del Servicio Penitenciario Federal - SPF",
             "issued": "2016-09-29T12:32:11.583547",
-            "modified": "2017-07-26T15:04:35.044016",
+            "modified": "2017-07-27T14:11:17.173836",
             "theme": [
                 "sistema-penitenciario"
             ],
@@ -1822,6 +1822,18 @@
                     "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/52fc5a19-9cd3-433a-9f0a-c0cebf4b1268/download/internos-spf-procesados-2017-06.csv",
                     "issued": "2017-07-26T12:01:25.495155",
                     "identifier": "52fc5a19-9cd3-433a-9f0a-c0cebf4b1268"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/b0d80f7b-fe37-4631-991b-4c4ecc86a9f0",
+                    "description": "Este conjunto de datos registra los condenados alojados en los establecimientos del Servicio Penitenciario Federal de todo el país.",
+                    "title": "Internos del SPF - Condenados 2017-06",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-07-27T11:10:57.180665",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/b0d80f7b-fe37-4631-991b-4c4ecc86a9f0/download/internos-spf-condenados-2017-06.csv",
+                    "issued": "2017-07-27T11:01:54.213060",
+                    "identifier": "b0d80f7b-fe37-4631-991b-4c4ecc86a9f0"
                 }
             ]
         },
