@@ -9,6 +9,34 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "fmichele@dnrec.jus.gov.ar",
+                "name": "Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Direccion Nacional Registro Nacional de Reincidencia"
+            },
+            "accessLevel": "public",
+            "description": "La base Co.Na.R.C., creada a partir de la sanción del decreto 346/2009, se conforma con las comunicaciones que los tribunales realizan al Registro Nacional de Reincidencia de toda medida restrictiva a la libertad ambulatoria que se dicta en el marco de una causa penal, en cualquier jurisdicción del país (ámbito federal, nacional, provincial y de la CABA).  La base sólo refleja las órdenes de detención vigentes hasta las 7:00 hs. de la fecha de actualización.",
+            "license": "Creative Commons Attribution",
+            "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
+            "issued": "2017-05-10T20:11:40.398833",
+            "modified": "2017-07-28T14:38:57.610948",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "accrualPeriodicity": "R/P1D",
+            "landingPage": "http://datos.jus.gob.ar/dataset/sistema-de-consulta-nacional-de-rebeldas-y-capturas---conarc",
+            "identifier": "2b3f30d7-7124-494a-b08c-a1cfc2d49aa3",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv",
+                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 28-07-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
+                    "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
+                    "issued": "2017-07-28T14:38:57.638314",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "datosabiertos@saij.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
             },
@@ -808,34 +836,6 @@
                     "issued": "2017-07-26T16:13:11.712407",
                     "format": "CSV",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/6d0e08b3-041c-40c1-9ea6-962db3747677/resource/52fc5a19-9cd3-433a-9f0a-c0cebf4b1268/download/internos-spf-procesados-2017-06.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "fmichele@dnrec.jus.gov.ar",
-                "name": "Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Direccion Nacional Registro Nacional de Reincidencia"
-            },
-            "accessLevel": "public",
-            "description": "La base Co.Na.R.C., creada a partir de la sanción del decreto 346/2009, se conforma con las comunicaciones que los tribunales realizan al Registro Nacional de Reincidencia de toda medida restrictiva a la libertad ambulatoria que se dicta en el marco de una causa penal, en cualquier jurisdicción del país (ámbito federal, nacional, provincial y de la CABA).  La base sólo refleja las órdenes de detención vigentes hasta las 7:00 hs. de la fecha de actualización.",
-            "license": "Creative Commons Attribution",
-            "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
-            "issued": "2017-05-10T20:11:40.398833",
-            "modified": "2017-07-26T16:12:49.661802",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "accrualPeriodicity": "R/P1D",
-            "landingPage": "http://datos.jus.gob.ar/dataset/sistema-de-consulta-nacional-de-rebeldas-y-capturas---conarc",
-            "identifier": "2b3f30d7-7124-494a-b08c-a1cfc2d49aa3",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv",
-                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 26-07-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
-                    "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
-                    "issued": "2017-07-26T16:12:49.686413",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv"
                 }
             ]
         },
