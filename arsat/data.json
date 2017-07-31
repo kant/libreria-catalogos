@@ -157,13 +157,13 @@
                 "name": "ARSAT"
             },
             "identifier": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data/?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-            "description": "Listado de todos los empleados de ARSAT.",
+            "description": "Listado de todos los empleados de ARSAT",
             "language": [
                 "spa"
             ],
             "title": "Listado de Personal",
-            "issued": "2017-07-31T17:27:05",
-            "modified": "2017-07-31T17:41:40",
+            "issued": "2017-07-31T18:25:05",
+            "modified": "2017-07-31T18:25:52",
             "theme": [
                 "gestion-transparente"
             ],
@@ -179,29 +179,29 @@
             "distribution": [
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/",
-                    "description": "Listado de todos los empleados de ARSAT.",
+                    "description": "Listado de todos los empleados de ARSAT",
                     "title": "Listado de Personal",
-                    "issued": "2017-07-31T17:27:05",
+                    "issued": "2017-07-31T18:25:05",
                     "format": "CSV",
-                    "modified": "2017-07-31T17:41:40",
+                    "modified": "2017-07-31T18:25:52",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/",
-                    "description": "Listado de todos los empleados de ARSAT.",
+                    "description": "Listado de todos los empleados de ARSAT",
                     "title": "Listado de Personal",
-                    "issued": "2017-07-31T17:27:05",
+                    "issued": "2017-07-31T18:25:05",
                     "format": "XLS",
-                    "modified": "2017-07-31T17:41:40",
+                    "modified": "2017-07-31T18:25:52",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
                 },
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/",
-                    "description": "Listado de todos los empleados de ARSAT.",
+                    "description": "Listado de todos los empleados de ARSAT",
                     "title": "Listado de Personal",
-                    "issued": "2017-07-31T17:27:05",
+                    "issued": "2017-07-31T18:25:05",
                     "format": "JSON",
-                    "modified": "2017-07-31T17:41:40",
+                    "modified": "2017-07-31T18:25:52",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ],
