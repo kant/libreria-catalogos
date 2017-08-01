@@ -35,7 +35,7 @@ update_environment:
 	venv/bin/pip install -r requirements.txt --upgrade
 
 main: update_environment
-	$(PYTHON) main.py
+	$$PWD/venv/bin/python main.py
 
 clean:
 	rm -rf venv/
