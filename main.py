@@ -45,6 +45,7 @@ HANDLER.setFormatter(FORMAT)
 logger.addHandler(HANDLER)
 logger.propagate = False
 
+
 def ensure_dir_exists(target_dir):
     """Crea el directorio que llega como parámetro si no existe."""
     start_dir = os.getcwd()
@@ -175,6 +176,8 @@ def process_catalog(org, datajson):
 
 def daily_routine():
     """Rutina a ser ejecutada cada mañana por cron."""
+    GIT.push('origin', 'master')
+
     logger.info('>>> COMIENZO DE LA RUTINA <<<')
 
     # Creates DataJson object to validate oragnisms
