@@ -1,44 +1,29 @@
+# nodo central
 datosgobar:
   url: "http://datos.gob.ar/data.json"
   formato: "json"
-
-justicia:
-  url: "http://datos.jus.gob.ar"
-  formato: "ckan"
-  federado: true
+  federado: false
 
 datosgobar-ckan:
   url: "http://datos.gob.ar"
   formato: "ckan"
+  federado: false
 
-pami:
-  url: "http://datos.pami.org.ar:5000"
-  formato: "ckan"
-  federado: true
-
-transporte:
+# nodos de prueba
+transporte-bis:
   url: "http://datos.transporte.gob.ar/data.json"
   formato: "json"
-  federado: true
-
-transporte-2:
-  url: "https://servicios.transporte.gob.ar/gobierno_abierto/data.json"
-  formato: "json"
-  federado: true
-
-mincyt:
-  url: "http://datos.mincyt.gob.ar/datasets/data.json"
-  formato: "json"
-  federado: true
-
-energia:
-  url: "http://190.3.64.19"
-  formato: "ckan"
-  federado: true
+  federado: false
 
 procuracion-penitenciaria:
   url: "http://datos.ppn.gov.ar/data.json"
   formato: "json"
+  federado: false
+
+# red de nodos federados
+justicia:
+  url: "http://datos.jus.gob.ar"
+  formato: "ckan"
   federado: true
 
 arsat:
@@ -46,15 +31,47 @@ arsat:
   formato: "json"
   federado: true
 
+energia:
+  url: "https://datos.minem.gob.ar/"
+  formato: "ckan"
+  federado: true
+
+transporte:
+  url: "https://servicios.transporte.gob.ar/gobierno_abierto/data.json"
+  formato: "json"
+  federado: true
+
 turismo:
   url: "http://datos.yvera.gob.ar/data.json"
   formato: "json"
+  federado: true
 
 ambiente:
   url: "http://datos.ambiente.gob.ar/data.json"
   formato: "json"
+  federado: true
+
+salud:
+  url: "http://datos.sisa.msal.gov.ar/data.json"
+  formato: "json"
+  federado: true
 
 desarrollo-social:
   url: "https://datosabiertos.desarrollosocial.gob.ar/data.json"
   formato: "json"
+  federado: true
 
+interior:
+  url: "https://datos-abiertos.mininterior.gob.ar/data.json"
+  formato: "json"
+  federado: true
+
+pami:
+  url: "http://datos.pami.org.ar:5000"
+  formato: "ckan"
+  federado: true
+
+mincyt:
+  url: "http://datos.mincyt.gob.ar/datasets/data.json"
+  formato: "json"
+  federado: true
