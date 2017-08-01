@@ -1,0 +1,310 @@
+{
+    "publisher": {
+        "mbox": "",
+        "name": ""
+    },
+    "description": "Portal de datos abiertos del  Ministerio Salud de la Nación.",
+    "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
+    "title": "MSAL",
+    "dataset": [
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Dirección Nacional de Regulación"
+            },
+            "accessLevel": "public",
+            "description": "Registro Federal de Droguerias (REDRO) de todo el país registrado por la autoridad jurisdiccional",
+            "license": "Creative Commons Attribution",
+            "title": "Registro Federal de Droguerias (REDRO)",
+            "issued": "2017-07-20T12:27:27.900707",
+            "modified": "2017-07-20T12:28:01.444689",
+            "theme": [
+                "Sistema Integrado de Información Sanitaria Argentino (SISA)"
+            ],
+            "superTheme": [
+                "HEAL"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/registro-federal-de-droguerias-redro",
+            "identifier": "11b7b107-17cf-4eb9-bfaf-4bcfcfc5d146",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/11b7b107-17cf-4eb9-bfaf-4bcfcfc5d146/resource/2d87b962-6a5e-4d67-891d-0280094e6e8e/download/listadosisa1500553465412.csv",
+                    "description": "Registro Federal de Droguerias (REDRO) de todo el país registrado por la autoridad jurisdiccional",
+                    "title": "Registro Federal de Droguerias (REDRO)",
+                    "issued": "2017-07-20T12:28:00.944453",
+                    "format": "CSV",
+                    "modified": "2017-07-20T12:28:00.914034",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/11b7b107-17cf-4eb9-bfaf-4bcfcfc5d146/resource/2d87b962-6a5e-4d67-891d-0280094e6e8e/download/listadosisa1500553465412.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "INCUCAI"
+            },
+            "accessLevel": "public",
+            "description": "Datos INCUCAI",
+            "license": "Creative Commons Attribution",
+            "title": "INCUCAI",
+            "issued": "2017-07-11T20:46:34.951561",
+            "modified": "2017-07-11T20:47:44.422717",
+            "theme": [
+                "INCUCAI"
+            ],
+            "superTheme": [
+                "HEAL"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "landingPage": "http://datos.sisa.msal.gov.ar/dataset/incucai",
+            "identifier": "10e70ea5-5ef2-4127-92f6-2480e403f668",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/10e70ea5-5ef2-4127-92f6-2480e403f668/resource/6c24022d-d5d6-40cf-b5d8-48be28ecf438/download/ptes-le-x-j.csv",
+                    "description": "Pacientes en lista de espera",
+                    "title": "Pacientes en lista de espera",
+                    "issued": "2017-07-11T20:47:43.936586",
+                    "format": "CSV",
+                    "modified": "2017-07-11T20:47:43.906197",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/10e70ea5-5ef2-4127-92f6-2480e403f668/resource/6c24022d-d5d6-40cf-b5d8-48be28ecf438/download/ptes-le-x-j.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Legisalud (Dirección Nacional de Regulación)"
+            },
+            "accessLevel": "public",
+            "description": "Acceso libre, gratuito y universal a los textos completos de la legislación sanitaria nacional y provincial vigente, ordenada por tipos jurídicos, jurisdicción y temáticas sanitarias. Se publica también la normativa nacional e internacional sobre la bioética, y legislación",
+            "license": "Creative Commons Attribution",
+            "title": "Legislacion en Salud de la República Argentina (LEGISALUD)",
+            "issued": "2017-07-10T14:35:30.513652",
+            "modified": "2017-07-10T14:35:58.604504",
+            "theme": [
+                "Legisalud"
+            ],
+            "keyword": [
+                "LEGISALUD"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "HEAL"
+            ],
+            "landingPage": "http://leg.msal.gov.ar/",
+            "identifier": "0b9a303e-3208-4618-a70a-5990ef8f87be",
+            "distribution": [
+                {
+                    "accessURL": "http://leg.msal.gov.ar/",
+                    "issued": "2017-07-10T14:35:58.292567",
+                    "downloadURL": "http://leg.msal.gov.ar/",
+                    "description": "Acceso libre, gratuito y universal a los textos completos de la legislación sanitaria nacional y provincial vigente, ordenada por tipos jurídicos, jurisdicción y temáticas sanitarias. Se publica también la normativa nacional e internacional sobre la bioética, y legislación sobre DDHH.",
+                    "title": "Legislacion en Salud de la República Argentina (LEGISALUD)"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "Dirección de Epidemiología"
+            },
+            "accessLevel": "public",
+            "description": "Casos registrados de eventos bajo vigilancia (incluye Chagas, Dengue, Zika, infecciones respiratorias agudas)",
+            "license": "Creative Commons Attribution",
+            "title": "Boletin integrado de vigilancia",
+            "issued": "2017-07-10T14:31:49.968437",
+            "modified": "2017-07-10T14:33:09.963680",
+            "theme": [
+                "Dirección de Epidemiología"
+            ],
+            "keyword": [
+                "VIGILANCIA"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "HEAL"
+            ],
+            "landingPage": "http://www.msal.gob.ar/dataset/boletin-integrado-de-vigilancia",
+            "identifier": "20796b81-87f7-4f4e-9b62-cbd4c04d804c",
+            "distribution": [
+                {
+                    "accessURL": "http://www.msal.gob.ar/index.php/home/boletin-integrado-de-vigilancia",
+                    "issued": "2017-07-10T14:32:43.296406",
+                    "downloadURL": "http://www.msal.gob.ar/index.php/home/boletin-integrado-de-vigilancia",
+                    "title": "Boletin integrado de vigilancia"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "SISA"
+            },
+            "accessLevel": "public",
+            "description": "Registro oficial de farmacias de atención al público, hospitalarias de todo el país registrado por la autoridad jurisdiccional",
+            "license": "Creative Commons Attribution",
+            "title": "Registro Federal de Farmacias (REFAR)",
+            "issued": "2017-07-04T19:28:35.030876",
+            "modified": "2017-07-04T19:30:33.046532",
+            "theme": [
+                "Sistema Integrado de Información Sanitaria Argentino (SISA)"
+            ],
+            "keyword": [
+                "FARMACIAS",
+                "REFAR"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "HEAL"
+            ],
+            "landingPage": "sisa.msal.gov.ar",
+            "identifier": "18494b24-f6b1-46fb-bee0-c1cbab850ff1",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/18494b24-f6b1-46fb-bee0-c1cbab850ff1/resource/0a0ac777-068f-45d4-8812-ebab2ee026cc/download/refar.csv",
+                    "description": "Registro oficial de farmacias de atención al público, hospitalarias de todo el país registrado por la autoridad jurisdiccional",
+                    "title": "Registro Federal de Farmacias (REFAR)",
+                    "issued": "2017-07-04T19:30:32.484202",
+                    "format": "CSV",
+                    "modified": "2017-07-04T19:30:32.445000",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/18494b24-f6b1-46fb-bee0-c1cbab850ff1/resource/0a0ac777-068f-45d4-8812-ebab2ee026cc/download/refar.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "MSAL - DEIS"
+            },
+            "accessLevel": "public",
+            "description": "Estadísticas vitales SERIE 5 - Información sobre nacidos vivos, defunciones, indicadores relacionados, etc.",
+            "license": "Creative Commons Attribution",
+            "title": "Estadísticas vitales SERIE 5",
+            "issued": "2017-07-03T15:22:38.752692",
+            "modified": "2017-07-03T15:31:12.977568",
+            "theme": [
+                "Dirección de Estadísticas e Información en Salud (DEIS)"
+            ],
+            "keyword": [
+                "DEIS",
+                "SERIE 5"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "HEAL"
+            ],
+            "landingPage": "http://www.deis.msal.gov.ar/",
+            "identifier": "2aeccb4c-a1c3-4940-802e-c61482c1bca1",
+            "distribution": [
+                {
+                    "accessURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/12/Serie5Numero59.pdf",
+                    "description": "Estadísticas vitales SERIE 5",
+                    "title": "Estadísticas vitales SERIE 5",
+                    "issued": "2017-07-03T15:23:30.505912",
+                    "format": "PDF",
+                    "downloadURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/12/Serie5Numero59.pdf"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "MSAL - DEIS"
+            },
+            "accessLevel": "public",
+            "description": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
+            "license": "Creative Commons Attribution",
+            "title": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
+            "issued": "2017-07-03T15:25:57.053568",
+            "modified": "2017-07-03T15:28:09.006398",
+            "theme": [
+                "Dirección de Estadísticas e Información en Salud (DEIS)"
+            ],
+            "keyword": [
+                "DEIS",
+                "SERIE 11"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "HEAL"
+            ],
+            "landingPage": "http://www.deis.msal.gov.ar/",
+            "identifier": "e236af2c-5d5f-4eaf-bf51-9b8f1cd33bea",
+            "distribution": [
+                {
+                    "accessURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/07/Serie11Nro14.pdf",
+                    "description": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
+                    "title": "Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11",
+                    "issued": "2017-07-03T15:26:49.071739",
+                    "format": "PDF",
+                    "downloadURL": "http://www.deis.msal.gov.ar/wp-content/uploads/2016/07/Serie11Nro14.pdf"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "soporte@sisa.msal.gov.ar",
+                "name": "SISA"
+            },
+            "accessLevel": "public",
+            "description": "Todos los establecimientos de salud de pais de cualquier tipologia y dependencia.",
+            "license": "Creative Commons Attribution",
+            "title": "Registro Federal de Establecimientos de Salud (REFES)",
+            "issued": "2017-06-30T15:36:24.001541",
+            "modified": "2017-06-30T15:43:06.476570",
+            "language": "abk, spa",
+            "theme": [
+                "SISA"
+            ],
+            "keyword": [
+                "Establecimientos",
+                "REFES"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "HEAL"
+            ],
+            "landingPage": "http://sisa.msal.gov.ar",
+            "identifier": "41a6263e-8c84-41fc-90e0-32150e1d7620",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.sisa.msal.gov.ar/dataset/41a6263e-8c84-41fc-90e0-32150e1d7620/resource/37b058e9-057e-4843-8852-d9a31874b19c/download/refes.csv",
+                    "description": "Efectores de salud de todas las tipologias y dependencias del pais.",
+                    "title": "Registro Federal de Establecimientos de Salud (REFES)",
+                    "issued": "2017-06-30T15:43:05.199211",
+                    "format": "CSV",
+                    "modified": "2017-06-30T15:43:05.153644",
+                    "downloadURL": "http://datos.sisa.msal.gov.ar/dataset/41a6263e-8c84-41fc-90e0-32150e1d7620/resource/37b058e9-057e-4843-8852-d9a31874b19c/download/refes.csv"
+                }
+            ]
+        }
+    ],
+    "themeTaxonomy": [
+        {
+            "description": "",
+            "id": "direccion-de-epidemiologia",
+            "label": "Dirección de Epidemiología"
+        },
+        {
+            "description": "Dirección de Estadísticas e Información en Salud (DEIS)",
+            "id": "direccion-de-estadisticas-e-informacion-en-salud-deis",
+            "label": "Dirección de Estadísticas e Información en Salud (DEIS)"
+        },
+        {
+            "description": "Estadisticas de Pacientes en lista de espera para órganos y tejidos,  expresiones de voluntad para la donación, pacientes con ERC (Enf. Renal crónica)\r\n",
+            "id": "incucai",
+            "label": "INCUCAI"
+        },
+        {
+            "description": "Registro de la legislación sanitaria intenacional,nacional, provincial y municipal vinculadas a todas las temáticas sanitarias agrupadas por tipo de legilsación, jurisdicción y por temática a texto completo",
+            "id": "legisalud",
+            "label": "Legisalud"
+        },
+        {
+            "description": "Sistema Integrado de Informacion Sanitaria Argentino",
+            "id": "sisa",
+            "label": "Sistema Integrado de Información Sanitaria Argentino (SISA)"
+        }
+    ]
+}
