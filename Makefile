@@ -22,11 +22,7 @@ install_cron: cron_jobs
 	rm .cronfile
 	touch cron_jobs
 
-add_environ:
-	@echo "ROOTDIR=$$PWD" >> ~/.bashrc
-	@echo "PYTHON=$$PWD/venv/bin/python" >> ~/.bashrc
-
-setup: venv install_cron add_environ
+setup: venv install_cron
 	test -d logs || mkdir logs
 	test -d archivo || mkdir archivo
 
