@@ -5,7 +5,6 @@
 
 - **Autor**: Datos Argentina
 - **Correo Electrónico**: 
-- **Ruta del catálogo**: None
 - **Nombre del catálogo**: Datos Argentina
 - **Descripción**:
 
@@ -13,18 +12,9 @@
 
 ## Estado de los metadatos y cantidad de recursos
 
-- **Estado metadatos globales**: ERROR
-- **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 71
-- **Cantidad Total de Distribuciones**: 298
-
-- **Cantidad de Datasets Federados**: 71
-- **Cantidad de Datasets NO Federados**: 0
-- **Porcentaje de Datasets NO Federados**: 0.0%
-
-## Datasets no federados:
-
-
+Estado metadatos globales | Estado metadatos catálogo | # de Datasets | # de Distribuciones
+--------------------------|---------------------------|---------------|--------------------
+ERROR | ERROR | 71 | 298
 
 ## Datasets incluidos
 
