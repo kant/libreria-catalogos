@@ -1,2 +1,2 @@
 # m h  dom mon dow   command
-00 * * * * cd $ROOTDIR && $PYTHON main.py
+00 * * * * cd $ROOTDIR && make update_environment && $PYTHON main.py

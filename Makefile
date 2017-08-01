@@ -26,6 +26,10 @@ setup: venv install_cron
 	test -d logs || mkdir logs
 	test -d archivo || mkdir archivo
 
+update_environment:
+	git pull
+	venv/bin/pip install -r requirements.txt --upgrade
+
 clean:
 	rm -rf venv/
 	cat /dev/null | crontab
