@@ -176,7 +176,6 @@ def process_catalog(org, datajson):
 
 def daily_routine():
     """Rutina a ser ejecutada cada mañana por cron."""
-    GIT.push('origin', 'master')
 
     logger.info('>>> COMIENZO DE LA RUTINA <<<')
 
