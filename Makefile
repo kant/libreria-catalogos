@@ -34,6 +34,9 @@ update_environment:
 	git pull
 	venv/bin/pip install -r requirements.txt --upgrade
 
+main: update_environment
+	$PYTHON main.py
+
 clean:
 	rm -rf venv/
 	cat /dev/null | crontab

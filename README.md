@@ -1,6 +1,5 @@
 # librería de catálogos
 
-prueba
 ## Setup
 
 En el servidor donde vaya a correr regularmente la rutina principal de `libreria-catalogos`, clonar este repositorio, y ejecutar:
