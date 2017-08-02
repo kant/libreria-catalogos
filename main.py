@@ -14,11 +14,13 @@ import arrow
 import requests
 import yaml
 import sh
+import urllib3
 
 from pydatajson.readers import read_catalog, read_ckan_catalog
 from pydatajson.writers import write_json_catalog
 from pydatajson import DataJson
 
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 ROOT_DIR = os.getcwd()
 ARCHIVE_DIR = 'archivo'

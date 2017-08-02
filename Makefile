@@ -13,7 +13,7 @@ venv/bin/activate: requirements.txt
 	venv/bin/pip install -r requirements.txt
 	touch venv/bin/activate
 
-# Las siguientes recetas son especÃficas a nuestro repositorio
+# Las siguientes recetas son especÃƒficas a nuestro repositorio
 install_cron: cron_jobs
 	@echo "ROOTDIR=$$PWD" >> .cronfile
 	@echo "PYTHON=$$PWD/venv/bin/python" >> .cronfile
@@ -22,16 +22,24 @@ install_cron: cron_jobs
 	rm .cronfile
 	touch cron_jobs
 
-setup: venv install_cron
-	test -d logs || mkdir logs
-	test -d archivo || mkdir archivo
+create_dir:
+	mkdir -p logs
+	mkdir -p archivo
+
+setup: venv install_cron create_dir
+
+setup_without_cron: venv create_dir
 
 update_environment:
 	git pull
 	venv/bin/pip install -r requirements.txt --upgrade
 
-main: update_environment
+all: update_environment
 	$$PWD/venv/bin/python main.py
+
+all_local:
+	git pull
+	python main.py
 
 clean:
 	rm -rf venv/
