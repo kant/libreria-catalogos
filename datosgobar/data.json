@@ -9,6 +9,58 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "oficinadecretos@jus.gov.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
+            },
+            "accessLevel": "public",
+            "description": "En este conjunto de datos se detalla la estructura y la nómina de jueces, fiscales y defensores de la justicia nacional y de la justicia federal de la República Argentina, estado de cobertura de cargos, estado de los concursos destinados a cubrir los cargos que se encuentran vacantes, decretos y/o resoluciones de designación y/o traslado de los jueces, fiscales o defensoresos y presidente y ministro en funciones al momento de la designación.",
+            "license": "Creative Commons Attribution",
+            "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
+            "issued": "2017-05-10T20:11:39.801773",
+            "modified": "2017-08-02T03:36:36.920296",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "accrualPeriodicity": "eventual",
+            "landingPage": "http://datos.jus.gob.ar/dataset/magistrados-de-la-justicia-federal-y-de-la-justicia-nacional",
+            "identifier": "9dc77157-599d-4b50-9495-87222e1b9556",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/02405dca-f61b-4401-8fa5-dcdebf464277/download/magistrados-justicia-federal-nacional-2017-06-15.csv",
+                    "description": "Listado actual de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional. No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación.",
+                    "title": "Magistrados de la Justicia Federal y de la Justicia Nacional - 2017-06-15",
+                    "issued": "2017-08-02T03:36:36.962351",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/02405dca-f61b-4401-8fa5-dcdebf464277/download/magistrados-justicia-federal-nacional-2017-06-15.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/278ed068-4c35-4a6f-a364-b77e517d7d36/download/magistrados-justicia-federal-nacional-2017-07-20.csv",
+                    "description": "Listado actual de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional. No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación.",
+                    "title": "Magistrados de la Justicia Federal y de la Justicia Nacional - 2017-07-20",
+                    "issued": "2017-08-02T03:36:36.962362",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/278ed068-4c35-4a6f-a364-b77e517d7d36/download/magistrados-justicia-federal-nacional-2017-07-20.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional-2017-05-19.csv",
+                    "description": "Listado actual de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional. No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación.",
+                    "title": "Magistrados de la Justicia Federal y de la Justicia Nacional - 2017-05-19",
+                    "issued": "2017-08-02T03:36:36.962367",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional-2017-05-19.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/e26edbf0-21a9-48d6-8ee1-ebb79de1cf86/download/magistrados-justicia-federal-nacional-2017-07-28.csv",
+                    "description": "Listado actual de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional. No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación.",
+                    "title": "Magistrados de la Justicia Federal y de la Justicia Nacional - 2017-07-28",
+                    "issued": "2017-08-02T03:36:36.962372",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/e26edbf0-21a9-48d6-8ee1-ebb79de1cf86/download/magistrados-justicia-federal-nacional-2017-07-28.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal"
             },
@@ -800,50 +852,6 @@
                     "issued": "2017-07-26T16:13:57.803863",
                     "format": "CSV",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d43fa140-f43f-4cc2-8491-b1d8bb899de4/resource/4c66093d-1293-4c44-a4c4-4cc1d914127e/download/victimas-accionar-represivo-ilegal-sin-denuncia-formal.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "oficinadecretos@jus.gov.ar",
-                "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
-            },
-            "accessLevel": "public",
-            "description": "En este conjunto de datos se detalla la estructura y la nómina de jueces, fiscales y defensores de la justicia nacional y de la justicia federal de la República Argentina, estado de cobertura de cargos, estado de los concursos destinados a cubrir los cargos que se encuentran vacantes, decretos y/o resoluciones de designación y/o traslado de los jueces, fiscales o defensoresos y presidente y ministro en funciones al momento de la designación.",
-            "license": "Creative Commons Attribution",
-            "title": "Magistrados de la Justicia Federal y de la Justicia Nacional",
-            "issued": "2017-05-10T20:11:39.801773",
-            "modified": "2017-07-26T16:13:28.953070",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "accrualPeriodicity": "eventual",
-            "landingPage": "http://datos.jus.gob.ar/dataset/magistrados-de-la-justicia-federal-y-de-la-justicia-nacional",
-            "identifier": "9dc77157-599d-4b50-9495-87222e1b9556",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/02405dca-f61b-4401-8fa5-dcdebf464277/download/magistrados-justicia-federal-nacional-2017-06-15.csv",
-                    "description": "Listado actual de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional. No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación.",
-                    "title": "Magistrados de la Justicia Federal y de la Justicia Nacional - 2017-06-15",
-                    "issued": "2017-07-26T16:13:28.989733",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/02405dca-f61b-4401-8fa5-dcdebf464277/download/magistrados-justicia-federal-nacional-2017-06-15.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/278ed068-4c35-4a6f-a364-b77e517d7d36/download/magistrados-justicia-federal-nacional-2017-07-20.csv",
-                    "description": "Listado actual de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional. No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación.",
-                    "title": "Magistrados de la Justicia Federal y de la Justicia Nacional - 2017-07-20",
-                    "issued": "2017-07-26T16:13:28.989745",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/278ed068-4c35-4a6f-a364-b77e517d7d36/download/magistrados-justicia-federal-nacional-2017-07-20.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional-2017-05-19.csv",
-                    "description": "Listado actual de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional. No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación.",
-                    "title": "Magistrados de la Justicia Federal y de la Justicia Nacional - 2017-05-19",
-                    "issued": "2017-07-26T16:13:28.989750",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/3c18d46e-729e-4973-8efd-f54cab18b7e3/resource/3c8c1fea-c97b-4368-b31b-da244d66adb3/download/magistrados-justicia-federal-nacional-2017-05-19.csv"
                 }
             ]
         },
