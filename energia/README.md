@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 174
+- **Cantidad Total de Datasets**: 173
 - **Cantidad Total de Distribuciones**: 971
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 174
+- **Cantidad de Datasets NO Federados**: 173
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets no federados:
@@ -90,7 +90,6 @@
 - [Gas Entregado, por Tipo de Usuario y por cuenta de Terceros](http://www.enargas.gov.ar/secciones/transporte-y-distribucion/datos-operativos.php)
 - [Generación Eléctrica Bruta Asociada a redes desde 1930]()
 - [Generación Eléctrica - Centrales de generación]()
-- [Generación Eléctrica - Centrales de generación con biomasa]()
 - [Generación Eléctrica - Pequeños Aprovechamientos Hidroeléctricos (PAH)]()
 - [Mapas de Generación y Transporte Eléctrico]()
 - [Geología Climatología Curvas de Nivel IGN]()
