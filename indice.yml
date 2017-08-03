@@ -36,6 +36,11 @@ energia:
   formato: "ckan"
   federado: true
 
+enacom:
+  url: "http://datosabiertos.enacom.gob.ar/data.json/"
+  formato: "json"
+  federado: true
+
 transporte:
   url: "https://servicios.transporte.gob.ar/gobierno_abierto/data.json"
   formato: "json"
