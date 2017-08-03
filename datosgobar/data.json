@@ -9,6 +9,494 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "informatica@anmac.gob.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas."
+            },
+            "accessLevel": "public",
+            "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\r\nLos datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
+            "license": "Creative Commons Attribution",
+            "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
+            "issued": "2017-05-10T20:11:37.590245",
+            "modified": "2017-08-03T03:05:56.212766",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "accrualPeriodicity": "R/P0.5M",
+            "landingPage": "http://datos.jus.gob.ar/dataset/solicitudes-de-autorizacin-de-portacin-de-armas-de-fuego",
+            "identifier": "705f8686-3d4c-4528-b4fe-6343307f4d35",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/2e0a4e06-0d2e-4e78-861d-1105e558e493/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-07 quincena 1",
+                    "issued": "2017-08-03T03:05:56.264538",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/2e0a4e06-0d2e-4e78-861d-1105e558e493/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/12fa46ba-6d3a-444b-9e4f-47e74cf0c547/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-06 quincena 2",
+                    "issued": "2017-08-03T03:05:56.264551",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/12fa46ba-6d3a-444b-9e4f-47e74cf0c547/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/85ecea5c-72ee-4a50-9b2c-afdce3bf644c/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-06 quincena 1",
+                    "issued": "2017-08-03T03:05:56.264556",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/85ecea5c-72ee-4a50-9b2c-afdce3bf644c/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/100c662e-e23f-4fef-a0b8-f0a2e7e2ef51/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-05 quincena 2",
+                    "issued": "2017-08-03T03:05:56.264561",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/100c662e-e23f-4fef-a0b8-f0a2e7e2ef51/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/b9e4ccbd-ce07-45e6-ba78-c49db817ce53/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-05 quincena 1",
+                    "issued": "2017-08-03T03:05:56.264565",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/b9e4ccbd-ce07-45e6-ba78-c49db817ce53/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/df5a65e3-ada8-4bd7-af02-1595d629cce0/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-04 quincena 2",
+                    "issued": "2017-08-03T03:05:56.264569",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/df5a65e3-ada8-4bd7-af02-1595d629cce0/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/a2dbffcb-88ec-42e9-9691-df402902c835/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-04 quincena 1",
+                    "issued": "2017-08-03T03:05:56.264573",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/a2dbffcb-88ec-42e9-9691-df402902c835/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/71c8085b-c41c-44f7-b313-7d83815a37b6/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-03 quincena 2",
+                    "issued": "2017-08-03T03:05:56.264577",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/71c8085b-c41c-44f7-b313-7d83815a37b6/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/39c786ce-62c6-4d83-89fa-6ddabdc45384/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-03 quincena 1",
+                    "issued": "2017-08-03T03:05:56.264581",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/39c786ce-62c6-4d83-89fa-6ddabdc45384/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/0b07966b-d548-4815-87ae-b93e578f4a4d/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-02 quincena 2",
+                    "issued": "2017-08-03T03:05:56.264585",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/0b07966b-d548-4815-87ae-b93e578f4a4d/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/8050fbee-d4cd-45df-974e-254d4b56a34e/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-02 quincena 1",
+                    "issued": "2017-08-03T03:05:56.264588",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/8050fbee-d4cd-45df-974e-254d4b56a34e/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/fff14c7b-b688-40a0-89b3-5053a216429d/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-01 quincena 2",
+                    "issued": "2017-08-03T03:05:56.264592",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/fff14c7b-b688-40a0-89b3-5053a216429d/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/95bc93c7-9cc5-4e22-a0b4-5f7c35b34df1/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-01 quincena 1",
+                    "issued": "2017-08-03T03:05:56.264596",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/95bc93c7-9cc5-4e22-a0b4-5f7c35b34df1/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/520d7359-c272-4587-9ab7-4d7b64ff43c2/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2016-12 quincena 2",
+                    "issued": "2017-08-03T03:05:56.264600",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/520d7359-c272-4587-9ab7-4d7b64ff43c2/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/da95a03a-f3cc-442b-8afb-c7c1206a6ee7/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2016-12 quincena 1",
+                    "issued": "2017-08-03T03:05:56.264604",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/da95a03a-f3cc-442b-8afb-c7c1206a6ee7/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/71ddb76f-e325-4da7-9ea6-da27b6532f30/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2016-11 quincena 2",
+                    "issued": "2017-08-03T03:05:56.264608",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/71ddb76f-e325-4da7-9ea6-da27b6532f30/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/8b8d0995-1608-4a1b-8d83-4051ec4cfb2a/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-07 quincena 2",
+                    "issued": "2017-08-03T03:05:56.264612",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/8b8d0995-1608-4a1b-8d83-4051ec4cfb2a/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/d40294f8-449c-4d12-a7d5-ad5116ad5822/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-08 quincena 1",
+                    "issued": "2017-08-03T03:05:56.264616",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/d40294f8-449c-4d12-a7d5-ad5116ad5822/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "informatica@anmac.gob.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de materiales Controlados - Coordinación de Sistemas"
+            },
+            "accessLevel": "public",
+            "description": "En este conjunto de datos se detallan las solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\r\nLos datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
+            "license": "Creative Commons Attribution",
+            "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
+            "issued": "2017-05-10T20:11:37.966049",
+            "modified": "2017-08-03T03:05:48.964551",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "accrualPeriodicity": "R/P0.5M",
+            "landingPage": "http://datos.jus.gob.ar/dataset/solicitudes-de-condicin-de-legtimo-usuario-de-armas-de-fuego",
+            "identifier": "d30d5574-41ab-4d89-ad3e-7296769f1646",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/deaab5ff-7d75-4341-965c-73c0b48e2f84/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-07 quincena 2",
+                    "issued": "2017-08-03T03:05:49.017843",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/deaab5ff-7d75-4341-965c-73c0b48e2f84/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0ecec60a-0723-4232-a401-6565ebb282cf/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-07 quincena 1",
+                    "issued": "2017-08-03T03:05:49.017856",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0ecec60a-0723-4232-a401-6565ebb282cf/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/84efd56e-0a22-4949-a840-85142badd9db/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\"",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-06 quincena 2",
+                    "issued": "2017-08-03T03:05:49.017862",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/84efd56e-0a22-4949-a840-85142badd9db/download/solicitudes-condicion-legitimo-usuario-armas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/a7b73d8f-4363-444d-b4bc-2e7e76cd9ba4/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\"",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-05 quincena 2",
+                    "issued": "2017-08-03T03:05:49.017866",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/a7b73d8f-4363-444d-b4bc-2e7e76cd9ba4/download/solicitudes-condicion-legitimo-usuario-armas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/ae1fe04a-c882-46af-ae56-76aadcce2017/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-06 quincena 1",
+                    "issued": "2017-08-03T03:05:49.017871",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/ae1fe04a-c882-46af-ae56-76aadcce2017/download/solicitudes-condicion-legitimo-usuario-armas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/81b987e0-f361-4abc-9b90-74a5c0a45344/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\"",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-05 quincena 1",
+                    "issued": "2017-08-03T03:05:49.017875",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/81b987e0-f361-4abc-9b90-74a5c0a45344/download/solicitudes-condicion-legitimo-usuario-armas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/2ce2f0f7-2a7d-4b01-aabc-2e8a48e8b1b4/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-04 quincena 2",
+                    "issued": "2017-08-03T03:05:49.017880",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/2ce2f0f7-2a7d-4b01-aabc-2e8a48e8b1b4/download/solicitudes-condicion-legitimo-usuario-armas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/986d4eeb-4b86-4e6f-abf2-149dcaf1d0ee/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-04 quincena 1",
+                    "issued": "2017-08-03T03:05:49.017884",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/986d4eeb-4b86-4e6f-abf2-149dcaf1d0ee/download/solicitudes-condicion-legitimo-usuario-armas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/b35fbfb5-35aa-4549-b7f1-e9dfa2239f03/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-03 quincena 2",
+                    "issued": "2017-08-03T03:05:49.017888",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/b35fbfb5-35aa-4549-b7f1-e9dfa2239f03/download/solicitudes-condicion-legitimo-usuario-armas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/4544ef97-6922-42fb-9695-51e2a2308b28/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-03 quincena 1",
+                    "issued": "2017-08-03T03:05:49.017893",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/4544ef97-6922-42fb-9695-51e2a2308b28/download/solicitudes-condicion-legitimo-usuario-armas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0b56d1c2-0644-4ae8-a63b-0648ae07cdbe/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-02 quincena 2",
+                    "issued": "2017-08-03T03:05:49.017897",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0b56d1c2-0644-4ae8-a63b-0648ae07cdbe/download/solicitudes-condicion-legitimo-usuario-armas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/f5828b7d-cdbd-4939-a7d9-eb1155a220cb/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-02 quincena 1",
+                    "issued": "2017-08-03T03:05:49.017901",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/f5828b7d-cdbd-4939-a7d9-eb1155a220cb/download/solicitudes-condicion-legitimo-usuario-armas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/11366abf-c0e8-4160-9ec1-a298ecf25049/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-01 quincena 2",
+                    "issued": "2017-08-03T03:05:49.017905",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/11366abf-c0e8-4160-9ec1-a298ecf25049/download/solicitudes-condicion-legitimo-usuario-armas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/8a2ed739-751f-4b2e-abbd-6031b572b013/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-01 quincena 1",
+                    "issued": "2017-08-03T03:05:49.017910",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/8a2ed739-751f-4b2e-abbd-6031b572b013/download/solicitudes-condicion-legitimo-usuario-armas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/4be8ec0f-7915-46a7-a1fd-e63de52cf3e8/download/solicitudes-condicion-legitimo-usuario-armas.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2016-12 quincena 2",
+                    "issued": "2017-08-03T03:05:49.017914",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/4be8ec0f-7915-46a7-a1fd-e63de52cf3e8/download/solicitudes-condicion-legitimo-usuario-armas.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/10a9f969-982f-408f-86fc-e20e85275e07/download/solicitudes-codicion-legitimo-usuario-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2016-12 quincena 1",
+                    "issued": "2017-08-03T03:05:49.017918",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/10a9f969-982f-408f-86fc-e20e85275e07/download/solicitudes-codicion-legitimo-usuario-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/7269a7ba-1c7f-4b46-bb8d-d659e60e949d/download/solicitudes-codicion-legitimo-usuario-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2016-11 quincena 2",
+                    "issued": "2017-08-03T03:05:49.017922",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/7269a7ba-1c7f-4b46-bb8d-d659e60e949d/download/solicitudes-codicion-legitimo-usuario-armas-fuego.csv"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/9e659dd5-912c-4edb-8405-af6179fc9bc9/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv",
+                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-08 quincena 1",
+                    "issued": "2017-08-03T03:05:49.017927",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/9e659dd5-912c-4edb-8405-af6179fc9bc9/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "fmichele@dnrec.jus.gov.ar",
+                "name": "Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Direccion Nacional Registro Nacional de Reincidencia"
+            },
+            "accessLevel": "public",
+            "description": "La base Co.Na.R.C., creada a partir de la sanción del decreto 346/2009, se conforma con las comunicaciones que los tribunales realizan al Registro Nacional de Reincidencia de toda medida restrictiva a la libertad ambulatoria que se dicta en el marco de una causa penal, en cualquier jurisdicción del país (ámbito federal, nacional, provincial y de la CABA).  La base sólo refleja las órdenes de detención vigentes hasta las 7:00 hs. de la fecha de actualización.",
+            "license": "Creative Commons Attribution",
+            "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
+            "issued": "2017-05-10T20:11:40.398833",
+            "modified": "2017-08-03T03:04:36.593468",
+            "theme": [
+                "Justicia, seguridad y legales"
+            ],
+            "accrualPeriodicity": "R/P1D",
+            "landingPage": "http://datos.jus.gob.ar/dataset/sistema-de-consulta-nacional-de-rebeldas-y-capturas---conarc",
+            "identifier": "2b3f30d7-7124-494a-b08c-a1cfc2d49aa3",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv",
+                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 02-08-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
+                    "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
+                    "issued": "2017-08-03T03:04:36.618977",
+                    "format": "CSV",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "accessLevel": "public",
+            "description": "Cantidad de empleados por gerencia.",
+            "license": "Creative Commons Attribution",
+            "title": "Personal por Gerencia",
+            "issued": "2017-05-16T01:06:45.631640",
+            "modified": "2017-08-03T03:04:11.920345",
+            "theme": [
+                "Ciencia y tecnología"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "landingPage": "http://datos.arsat.com.ar/dataviews/238091/personal-por-gerencia/",
+            "identifier": "4b5ff508-b1d3-4d94-8abd-5c6f05161974",
+            "distribution": [
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Cantidad de empleados por gerencia.",
+                    "title": "Personal por Gerencia",
+                    "issued": "2017-08-03T03:04:11.961578",
+                    "format": "CSV",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Cantidad de empleados por gerencia.",
+                    "title": "Personal por Gerencia",
+                    "issued": "2017-08-03T03:04:11.961588",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Cantidad de empleados por gerencia.",
+                    "title": "Personal por Gerencia",
+                    "issued": "2017-08-03T03:04:11.961593",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "accessLevel": "public",
+            "description": "Listado de todos los empleados de ARSAT",
+            "license": "Creative Commons Attribution",
+            "title": "Listado de Personal",
+            "issued": "2017-05-16T01:04:05.405595",
+            "modified": "2017-08-03T03:02:18.175810",
+            "theme": [
+                "Ciencia y tecnología"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "landingPage": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/",
+            "identifier": "fc29b3d4-66a6-4eb6-a90a-16bd13342560",
+            "distribution": [
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Listado de todos los empleados de ARSAT",
+                    "title": "Listado de Personal",
+                    "issued": "2017-08-03T03:02:18.223170",
+                    "format": "CSV",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Listado de todos los empleados de ARSAT",
+                    "title": "Listado de Personal",
+                    "issued": "2017-08-03T03:02:18.223181",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Listado de todos los empleados de ARSAT",
+                    "title": "Listado de Personal",
+                    "issued": "2017-08-03T03:02:18.223186",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "accessLevel": "public",
+            "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados.",
+            "license": "Creative Commons Attribution",
+            "title": "Promedios de edad y antigüedad del personal",
+            "issued": "2017-05-16T01:03:55.375061",
+            "modified": "2017-08-03T03:02:07.236256",
+            "theme": [
+                "Ciencia y tecnología"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "landingPage": "http://datos.arsat.com.ar/dataviews/238094/promedios-de-edad-y-antiguedad-del-personal/",
+            "identifier": "025e809f-ccc2-4cf1-9253-70b4b93ff156",
+            "distribution": [
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados.",
+                    "title": "Promedios de edad y antigüedad del personal",
+                    "issued": "2017-08-03T03:02:07.281329",
+                    "format": "CSV",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
+                    "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados.",
+                    "title": "Promedios de edad y antigüedad del personal",
+                    "issued": "2017-08-03T03:02:07.281340",
+                    "format": "XLS",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
+                    "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados.",
+                    "title": "Promedios de edad y antigüedad del personal",
+                    "issued": "2017-08-03T03:02:07.281345",
+                    "format": "JSON",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "oficinadecretos@jus.gov.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos"
             },
@@ -321,34 +809,6 @@
         },
         {
             "publisher": {
-                "mbox": "fmichele@dnrec.jus.gov.ar",
-                "name": "Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Direccion Nacional Registro Nacional de Reincidencia"
-            },
-            "accessLevel": "public",
-            "description": "La base Co.Na.R.C., creada a partir de la sanción del decreto 346/2009, se conforma con las comunicaciones que los tribunales realizan al Registro Nacional de Reincidencia de toda medida restrictiva a la libertad ambulatoria que se dicta en el marco de una causa penal, en cualquier jurisdicción del país (ámbito federal, nacional, provincial y de la CABA).  La base sólo refleja las órdenes de detención vigentes hasta las 7:00 hs. de la fecha de actualización.",
-            "license": "Creative Commons Attribution",
-            "title": "Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.",
-            "issued": "2017-05-10T20:11:40.398833",
-            "modified": "2017-07-28T14:38:57.610948",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "accrualPeriodicity": "R/P1D",
-            "landingPage": "http://datos.jus.gob.ar/dataset/sistema-de-consulta-nacional-de-rebeldas-y-capturas---conarc",
-            "identifier": "2b3f30d7-7124-494a-b08c-a1cfc2d49aa3",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv",
-                    "description": "Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.) vigentes al 28-07-2017. Para optimizar los resultados de búsqueda ingresar por apellido y por documento.",
-                    "title": "Sistema de Consulta Nacional de Rebeldías y Capturas",
-                    "issued": "2017-07-28T14:38:57.638314",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/e042c362-ff39-476f-9328-056a9de753f0/resource/a95d0e79-08c4-49b9-88b8-d569484bf1d7/download/rebeldias-y-capturas.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
                 "mbox": "datosabiertos@saij.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
             },
@@ -372,318 +832,6 @@
                     "issued": "2017-07-26T16:14:42.451047",
                     "format": "RDF",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/e41e8224-f868-4688-9fae-94d320f8ee5e/resource/0a823ec3-4609-41b6-8af8-93afd23aaf9c/download/tesauro-saij.rdf"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "informatica@anmac.gob.ar",
-                "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas."
-            },
-            "accessLevel": "public",
-            "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\r\nLos datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
-            "license": "Creative Commons Attribution",
-            "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
-            "issued": "2017-05-10T20:11:37.590245",
-            "modified": "2017-07-26T16:14:29.689308",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "accrualPeriodicity": "R/P0.5M",
-            "landingPage": "http://datos.jus.gob.ar/dataset/solicitudes-de-autorizacin-de-portacin-de-armas-de-fuego",
-            "identifier": "705f8686-3d4c-4528-b4fe-6343307f4d35",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/2e0a4e06-0d2e-4e78-861d-1105e558e493/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-07 quincena 1",
-                    "issued": "2017-07-26T16:14:29.721037",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/2e0a4e06-0d2e-4e78-861d-1105e558e493/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/12fa46ba-6d3a-444b-9e4f-47e74cf0c547/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-06 quincena 2",
-                    "issued": "2017-07-26T16:14:29.721052",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/12fa46ba-6d3a-444b-9e4f-47e74cf0c547/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/85ecea5c-72ee-4a50-9b2c-afdce3bf644c/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-06 quincena 1",
-                    "issued": "2017-07-26T16:14:29.721060",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/85ecea5c-72ee-4a50-9b2c-afdce3bf644c/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/100c662e-e23f-4fef-a0b8-f0a2e7e2ef51/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-05 quincena 2",
-                    "issued": "2017-07-26T16:14:29.721069",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/100c662e-e23f-4fef-a0b8-f0a2e7e2ef51/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/b9e4ccbd-ce07-45e6-ba78-c49db817ce53/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-05 quincena 1",
-                    "issued": "2017-07-26T16:14:29.721078",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/b9e4ccbd-ce07-45e6-ba78-c49db817ce53/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/df5a65e3-ada8-4bd7-af02-1595d629cce0/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-04 quincena 2",
-                    "issued": "2017-07-26T16:14:29.721087",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/df5a65e3-ada8-4bd7-af02-1595d629cce0/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/a2dbffcb-88ec-42e9-9691-df402902c835/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-04 quincena 1",
-                    "issued": "2017-07-26T16:14:29.721094",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/a2dbffcb-88ec-42e9-9691-df402902c835/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/71c8085b-c41c-44f7-b313-7d83815a37b6/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-03 quincena 2",
-                    "issued": "2017-07-26T16:14:29.721102",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/71c8085b-c41c-44f7-b313-7d83815a37b6/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/39c786ce-62c6-4d83-89fa-6ddabdc45384/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-03 quincena 1",
-                    "issued": "2017-07-26T16:14:29.721109",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/39c786ce-62c6-4d83-89fa-6ddabdc45384/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/0b07966b-d548-4815-87ae-b93e578f4a4d/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-02 quincena 2",
-                    "issued": "2017-07-26T16:14:29.721118",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/0b07966b-d548-4815-87ae-b93e578f4a4d/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/8050fbee-d4cd-45df-974e-254d4b56a34e/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-02 quincena 1",
-                    "issued": "2017-07-26T16:14:29.721126",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/8050fbee-d4cd-45df-974e-254d4b56a34e/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/fff14c7b-b688-40a0-89b3-5053a216429d/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-01 quincena 2",
-                    "issued": "2017-07-26T16:14:29.721131",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/fff14c7b-b688-40a0-89b3-5053a216429d/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/95bc93c7-9cc5-4e22-a0b4-5f7c35b34df1/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-01 quincena 1",
-                    "issued": "2017-07-26T16:14:29.721136",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/95bc93c7-9cc5-4e22-a0b4-5f7c35b34df1/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/520d7359-c272-4587-9ab7-4d7b64ff43c2/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2016-12 quincena 2",
-                    "issued": "2017-07-26T16:14:29.721140",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/520d7359-c272-4587-9ab7-4d7b64ff43c2/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/da95a03a-f3cc-442b-8afb-c7c1206a6ee7/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2016-12 quincena 1",
-                    "issued": "2017-07-26T16:14:29.721144",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/da95a03a-f3cc-442b-8afb-c7c1206a6ee7/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/71ddb76f-e325-4da7-9ea6-da27b6532f30/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2016-11 quincena 2",
-                    "issued": "2017-07-26T16:14:29.721148",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/71ddb76f-e325-4da7-9ea6-da27b6532f30/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/8b8d0995-1608-4a1b-8d83-4051ec4cfb2a/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-07 quincena 2",
-                    "issued": "2017-07-26T16:14:29.721152",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/35278d98-c274-4612-9d1d-72d0d0923368/resource/8b8d0995-1608-4a1b-8d83-4051ec4cfb2a/download/solicitudes-autorizacion-portacion-armas-fuego.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "informatica@anmac.gob.ar",
-                "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de materiales Controlados - Coordinación de Sistemas"
-            },
-            "accessLevel": "public",
-            "description": "En este conjunto de datos se detallan las solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\r\nLos datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
-            "license": "Creative Commons Attribution",
-            "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
-            "issued": "2017-05-10T20:11:37.966049",
-            "modified": "2017-07-26T16:14:18.185047",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "accrualPeriodicity": "R/P0.5M",
-            "landingPage": "http://datos.jus.gob.ar/dataset/solicitudes-de-condicin-de-legtimo-usuario-de-armas-de-fuego",
-            "identifier": "d30d5574-41ab-4d89-ad3e-7296769f1646",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/deaab5ff-7d75-4341-965c-73c0b48e2f84/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-07 quincena 2",
-                    "issued": "2017-07-26T16:14:18.216392",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/deaab5ff-7d75-4341-965c-73c0b48e2f84/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0ecec60a-0723-4232-a401-6565ebb282cf/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-07 quincena 1",
-                    "issued": "2017-07-26T16:14:18.216403",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0ecec60a-0723-4232-a401-6565ebb282cf/download/solicitudes-condicion-legitimo-usuario-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/84efd56e-0a22-4949-a840-85142badd9db/download/solicitudes-condicion-legitimo-usuario-armas.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\"",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-06 quincena 2",
-                    "issued": "2017-07-26T16:14:18.216408",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/84efd56e-0a22-4949-a840-85142badd9db/download/solicitudes-condicion-legitimo-usuario-armas.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/a7b73d8f-4363-444d-b4bc-2e7e76cd9ba4/download/solicitudes-condicion-legitimo-usuario-armas.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\"",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-05 quincena 2",
-                    "issued": "2017-07-26T16:14:18.216413",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/a7b73d8f-4363-444d-b4bc-2e7e76cd9ba4/download/solicitudes-condicion-legitimo-usuario-armas.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/ae1fe04a-c882-46af-ae56-76aadcce2017/download/solicitudes-condicion-legitimo-usuario-armas.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-06 quincena 1",
-                    "issued": "2017-07-26T16:14:18.216417",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/ae1fe04a-c882-46af-ae56-76aadcce2017/download/solicitudes-condicion-legitimo-usuario-armas.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/81b987e0-f361-4abc-9b90-74a5c0a45344/download/solicitudes-condicion-legitimo-usuario-armas.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\"",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-05 quincena 1",
-                    "issued": "2017-07-26T16:14:18.216421",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/81b987e0-f361-4abc-9b90-74a5c0a45344/download/solicitudes-condicion-legitimo-usuario-armas.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/2ce2f0f7-2a7d-4b01-aabc-2e8a48e8b1b4/download/solicitudes-condicion-legitimo-usuario-armas.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-04 quincena 2",
-                    "issued": "2017-07-26T16:14:18.216425",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/2ce2f0f7-2a7d-4b01-aabc-2e8a48e8b1b4/download/solicitudes-condicion-legitimo-usuario-armas.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/986d4eeb-4b86-4e6f-abf2-149dcaf1d0ee/download/solicitudes-condicion-legitimo-usuario-armas.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-04 quincena 1",
-                    "issued": "2017-07-26T16:14:18.216429",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/986d4eeb-4b86-4e6f-abf2-149dcaf1d0ee/download/solicitudes-condicion-legitimo-usuario-armas.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/b35fbfb5-35aa-4549-b7f1-e9dfa2239f03/download/solicitudes-condicion-legitimo-usuario-armas.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-03 quincena 2",
-                    "issued": "2017-07-26T16:14:18.216433",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/b35fbfb5-35aa-4549-b7f1-e9dfa2239f03/download/solicitudes-condicion-legitimo-usuario-armas.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/4544ef97-6922-42fb-9695-51e2a2308b28/download/solicitudes-condicion-legitimo-usuario-armas.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-03 quincena 1",
-                    "issued": "2017-07-26T16:14:18.216437",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/4544ef97-6922-42fb-9695-51e2a2308b28/download/solicitudes-condicion-legitimo-usuario-armas.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0b56d1c2-0644-4ae8-a63b-0648ae07cdbe/download/solicitudes-condicion-legitimo-usuario-armas.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-02 quincena 2",
-                    "issued": "2017-07-26T16:14:18.216442",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/0b56d1c2-0644-4ae8-a63b-0648ae07cdbe/download/solicitudes-condicion-legitimo-usuario-armas.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/f5828b7d-cdbd-4939-a7d9-eb1155a220cb/download/solicitudes-condicion-legitimo-usuario-armas.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-02 quincena 1",
-                    "issued": "2017-07-26T16:14:18.216446",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/f5828b7d-cdbd-4939-a7d9-eb1155a220cb/download/solicitudes-condicion-legitimo-usuario-armas.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/11366abf-c0e8-4160-9ec1-a298ecf25049/download/solicitudes-condicion-legitimo-usuario-armas.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-01 quincena 2",
-                    "issued": "2017-07-26T16:14:18.216450",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/11366abf-c0e8-4160-9ec1-a298ecf25049/download/solicitudes-condicion-legitimo-usuario-armas.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/8a2ed739-751f-4b2e-abbd-6031b572b013/download/solicitudes-condicion-legitimo-usuario-armas.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2017-01 quincena 1",
-                    "issued": "2017-07-26T16:14:18.216454",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/8a2ed739-751f-4b2e-abbd-6031b572b013/download/solicitudes-condicion-legitimo-usuario-armas.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/4be8ec0f-7915-46a7-a1fd-e63de52cf3e8/download/solicitudes-condicion-legitimo-usuario-armas.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2016-12 quincena 2",
-                    "issued": "2017-07-26T16:14:18.216458",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/4be8ec0f-7915-46a7-a1fd-e63de52cf3e8/download/solicitudes-condicion-legitimo-usuario-armas.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/10a9f969-982f-408f-86fc-e20e85275e07/download/solicitudes-codicion-legitimo-usuario-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2016-12 quincena 1",
-                    "issued": "2017-07-26T16:14:18.216462",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/10a9f969-982f-408f-86fc-e20e85275e07/download/solicitudes-codicion-legitimo-usuario-armas-fuego.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/7269a7ba-1c7f-4b46-bb8d-d659e60e949d/download/solicitudes-codicion-legitimo-usuario-armas-fuego.csv",
-                    "description": "Listado de Solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
-                    "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - 2016-11 quincena 2",
-                    "issued": "2017-07-26T16:14:18.216466",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/0a0c3def-3d81-4850-854c-7af25831250b/resource/7269a7ba-1c7f-4b46-bb8d-d659e60e949d/download/solicitudes-codicion-legitimo-usuario-armas-fuego.csv"
                 }
             ]
         },
@@ -952,50 +1100,6 @@
                     "issued": "2017-07-26T16:12:21.600694",
                     "format": "CSV",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/0617105d-4743-42e1-9afb-b5fdeb5d2a23/download/base-complementaria-infoleg-normas-modificatorias.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "accessLevel": "public",
-            "description": "Cantidad de empleados por gerencia al 31/05/2017",
-            "license": "Creative Commons Attribution",
-            "title": "Personal por Gerencia",
-            "issued": "2017-05-16T01:06:45.631640",
-            "modified": "2017-07-26T16:12:10.466709",
-            "theme": [
-                "Ciencia y tecnología"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "landingPage": "http://datos.arsat.com.ar/dataviews/238091/personal-por-gerencia/",
-            "identifier": "4b5ff508-b1d3-4d94-8abd-5c6f05161974",
-            "distribution": [
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Cantidad de empleados por gerencia al 31/05/2017",
-                    "title": "Personal por Gerencia",
-                    "issued": "2017-07-26T16:12:10.508666",
-                    "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Cantidad de empleados por gerencia al 31/05/2017",
-                    "title": "Personal por Gerencia",
-                    "issued": "2017-07-26T16:12:10.508678",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Cantidad de empleados por gerencia al 31/05/2017",
-                    "title": "Personal por Gerencia",
-                    "issued": "2017-07-26T16:12:10.508683",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/CANTI-DE-PERSO-POR-GEREN/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ]
         },
@@ -1568,94 +1672,6 @@
                     "issued": "2017-07-26T16:09:51.707564",
                     "format": "JSON",
                     "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LICIT-PUBLI/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "accessLevel": "public",
-            "description": "Listado de todos los empleados de ARSAT al 31/05/2017",
-            "license": "Creative Commons Attribution",
-            "title": "Listado de Personal",
-            "issued": "2017-05-16T01:04:05.405595",
-            "modified": "2017-07-26T16:09:42.982224",
-            "theme": [
-                "Ciencia y tecnología"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "landingPage": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/",
-            "identifier": "fc29b3d4-66a6-4eb6-a90a-16bd13342560",
-            "distribution": [
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de todos los empleados de ARSAT al 31/05/2017",
-                    "title": "Listado de Personal",
-                    "issued": "2017-07-26T16:09:43.025761",
-                    "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Listado de todos los empleados de ARSAT al 31/05/2017",
-                    "title": "Listado de Personal",
-                    "issued": "2017-07-26T16:09:43.025774",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Listado de todos los empleados de ARSAT al 31/05/2017",
-                    "title": "Listado de Personal",
-                    "issued": "2017-07-26T16:09:43.025779",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "accessLevel": "public",
-            "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados al 31/05/2017",
-            "license": "Creative Commons Attribution",
-            "title": "Promedios de edad y antigüedad del personal",
-            "issued": "2017-05-16T01:03:55.375061",
-            "modified": "2017-07-26T16:09:31.460447",
-            "theme": [
-                "Ciencia y tecnología"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "landingPage": "http://datos.arsat.com.ar/dataviews/238094/promedios-de-edad-y-antiguedad-del-personal/",
-            "identifier": "025e809f-ccc2-4cf1-9253-70b4b93ff156",
-            "distribution": [
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados al 31/05/2017",
-                    "title": "Promedios de edad y antigüedad del personal",
-                    "issued": "2017-07-26T16:09:31.501710",
-                    "format": "CSV",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1",
-                    "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados al 31/05/2017",
-                    "title": "Promedios de edad y antigüedad del personal",
-                    "issued": "2017-07-26T16:09:31.501722",
-                    "format": "XLS",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff",
-                    "description": "Promedios de edad y antigüedad de los empleados de ARSAT registrados al 31/05/2017",
-                    "title": "Promedios de edad y antigüedad del personal",
-                    "issued": "2017-07-26T16:09:31.501727",
-                    "format": "JSON",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/PROME-DE-EDAD-Y-ANTIG/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
                 }
             ]
         },
