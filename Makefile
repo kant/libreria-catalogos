@@ -4,6 +4,8 @@
 # instalar cronfile
 # correr rutina diaria
 
+PYTHON_PATH=python
+
 # Las dos recetas siguientes fueron tomadas de
 # http://blog.bottlepy.org/2012/07/16/virtualenv-and-makefiles.html
 download_python:
@@ -48,7 +50,7 @@ all: update_environment
 
 all_local:
 	git pull
-	python main.py
+	$(PYTHON_PATH) main.py
 
 clean:
 	rm -rf venv/

@@ -163,7 +163,10 @@ def process_catalog(org, datajson):
                 '%s no es una extension valida para un catalogo.', file_ext)
 
         logger.info('- Escritura de catálogo')
-        write_json_catalog(catalog, 'data.json')
+        if catalog and len(catalog) > 0:
+            write_json_catalog(catalog, 'data.json')
+        else:
+            raise Exception("El catálogo {} no se pudo generar".format(org))
 
         # Creates README and auxiliary reports
         logger.info('- Generación de reportes')

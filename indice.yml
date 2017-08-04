@@ -31,6 +31,11 @@ arsat:
   formato: "json"
   federado: true
 
+mincyt:
+  url: "http://datos.mincyt.gob.ar/datasets/data.json"
+  formato: "json"
+  federado: true
+
 energia:
   url: "https://datos.minem.gob.ar/"
   formato: "ckan"
@@ -76,7 +81,3 @@ pami:
   formato: "ckan"
   federado: true
 
-mincyt:
-  url: "http://datos.mincyt.gob.ar/datasets/data.json"
-  formato: "json"
-  federado: true
