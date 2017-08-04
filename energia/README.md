@@ -1,12 +1,12 @@
 
-# Catálogo: Datos MINEM
+# Catálogo: Ministerio de Energia y Mineria
 
 ## Información General
 
-- **Autor**: Datos MINEM
+- **Autor**: Ministerio de Energia y Mineria
 - **Correo Electrónico**: datos@minem.gob.ar
 - **Ruta del catálogo**: None
-- **Nombre del catálogo**: Datos MINEM
+- **Nombre del catálogo**: Ministerio de Energia y Mineria
 - **Descripción**:
 
 > Iniciativa de apertura de datos del Ministerio de Energíy MineríOB
