@@ -1,20 +1,20 @@
 
-# Catálogo: DatosMINEM
+# Catálogo: Datos MINEM
 
 ## Información General
 
-- **Autor**: DatosMINEM
-- **Correo Electrónico**: None
+- **Autor**: Datos MINEM
+- **Correo Electrónico**: datos@minem.gob.ar
 - **Ruta del catálogo**: None
-- **Nombre del catálogo**: DatosMINEM
+- **Nombre del catálogo**: Datos MINEM
 - **Descripción**:
 
 > Iniciativa de apertura de datos del Ministerio de Energíy MineríOB
 
 ## Estado de los metadatos y cantidad de recursos
 
-- **Estado metadatos globales**: ERROR
-- **Estado metadatos catálogo**: ERROR
+- **Estado metadatos globales**: OK
+- **Estado metadatos catálogo**: OK
 - **Cantidad Total de Datasets**: 173
 - **Cantidad Total de Distribuciones**: 971
 
