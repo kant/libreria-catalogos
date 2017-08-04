@@ -9,7 +9,7 @@
 - **Nombre del catálogo**: Ministerio de Energia y Mineria
 - **Descripción**:
 
-> Iniciativa de apertura de datos del Ministerio de Energíy MineríOB
+> Iniciativa de apertura de datos del Ministerio de Energia Mineria
 
 ## Estado de los metadatos y cantidad de recursos
 
