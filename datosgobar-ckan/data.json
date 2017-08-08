@@ -3309,6 +3309,44 @@
         },
         {
             "publisher": {
+                "mbox": "informes@renaper.gov.ar",
+                "name": "Ministerio del Interior, Obras Públicas y Vivienda, Secretaría del Interior. Registro Nacional de las Personas"
+            },
+            "landingPage": "",
+            "description": "Nombres registrados en el Registro Nacional de las Personas agrupados por año. La información surge de los puestos de toma de trámites del DNI en todo el país, incluyendo argentinos y extranjeros nacionalizados. ",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Nombres de Personas físicas",
+            "issued": "2017-07-27T15:02:42.681630",
+            "modified": "2017-08-08T12:37:22.918663",
+            "theme": [
+                "soci"
+            ],
+            "keyword": [
+                "REGISTRO",
+                "RENAPER"
+            ],
+            "contactPoint": {
+                "hasEmail": "informes@renaper.gov.ar",
+                "fn": "Ministerio del Interior, Obras Públicas y Vivienda, Secretaría del Interior. Registro Nacional de las Personas"
+            },
+            "identifier": "b8418d41-8e0c-4e85-8aa8-80d51a840132",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/b8418d41-8e0c-4e85-8aa8-80d51a840132/resource/5e585bd4-bc7c-4ac6-b9a1-bcf44b85b28e",
+                    "description": "Listado histórico de los nombres registrados ante el Registro Nacional de las Personas desde 1922 agrupado por nombre y año.",
+                    "title": "Histórico de nombres",
+                    "byteSize": null,
+                    "format": "ZIP",
+                    "mediaType": null,
+                    "modified": "2017-07-27T16:01:28.278928",
+                    "downloadURL": "http://datos.gob.ar/dataset/b8418d41-8e0c-4e85-8aa8-80d51a840132/resource/5e585bd4-bc7c-4ac6-b9a1-bcf44b85b28e/download/historico-nombres.zip",
+                    "issued": "2017-07-27T16:01:28.310795",
+                    "identifier": "5e585bd4-bc7c-4ac6-b9a1-bcf44b85b28e"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "pautas@medios.gov.ar",
                 "name": "Jefatura de Gabinete de Ministros. Secretaría de Comunicación Pública."
             },
