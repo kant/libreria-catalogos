@@ -1,91 +1,93 @@
 {
     "publisher": {
-        "name": "ENACOM"
+        "mbox": "contacto@enacom.gob.ar",
+        "name": "Ente Nacional de Comunicaciones (ENACOM)"
     },
     "landingPage": "http://datosabiertos.enacom.gob.ar/home/",
-    "description": "ENACOM",
+    "description": "Ente Nacional de Comunicaciones (ENACOM)",
     "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
-    "title": "ENACOM",
+    "title": "Ente Nacional de Comunicaciones (ENACOM)",
     "themeTaxonomy": [
         {
             "label": "Servicios Postales",
-            "id": "TECH",
+            "id": "servicios-postales",
             "description": ""
         },
         {
             "label": "Servicios de Telefonia",
-            "id": "TECH",
+            "id": "servicios-de-telefonia",
             "description": ""
         },
         {
             "label": "Espectro Radioelectrico",
-            "id": "TECH",
+            "id": "espectro-radioelectrico",
             "description": ""
         },
         {
             "label": "Servicios de Radiodifusion",
-            "id": "TECH",
+            "id": "servicios-de-radiodifusion",
             "description": ""
         },
         {
             "label": "Telecomunicaciones",
-            "id": "TECH",
+            "id": "telecomunicaciones",
             "description": ""
         },
         {
             "label": "Equipos de comunicacion Autorizados",
-            "id": "TECH",
+            "id": "equipos-de-comunicacion-autorizados",
             "description": ""
         },
         {
             "label": "Convenios",
-            "id": "TECH",
+            "id": "convenios",
             "description": ""
         },
         {
             "label": "Denuncias y reclamos",
-            "id": "TECH",
+            "id": "denuncias-y-reclamos",
             "description": ""
         },
         {
             "label": "Acceso a Internet",
-            "id": "TECH",
+            "id": "acceso-a-internet",
             "description": ""
         },
         {
             "label": "Telefonía móvil",
-            "id": "TECH",
+            "id": "telefonia-movil",
             "description": ""
         },
         {
             "label": "FOMECA",
-            "id": "TECH",
+            "id": "FOMECA",
             "description": ""
         },
         {
             "label": "Telefonía fija",
-            "id": "TECH",
+            "id": "telefonia-fija",
             "description": ""
         },
         {
             "label": "TV por suscripción",
-            "id": "TECH",
+            "id": "tv-por-suscripcion",
             "description": ""
         },
         {
             "label": "Licencias",
-            "id": "TECH",
+            "id": "licencias",
             "description": ""
         }
     ],
     "dataset": [
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
             "superTheme": [
-                "TECH"
+                "telefonia-movil"
             ],
             "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
             "issued": "2017-08-02T18:52:25",
@@ -135,11 +137,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número de reclamos recibidos sobre los operadores con más reclamos recibidos por el servicio de telefonía móvil (año corrido)",
             "superTheme": [
-                "TECH"
+                "denuncias-y-reclamos"
             ],
             "title": "Operadores con el mayor número de reclamos recibidos,servicio de telefonía móvil",
             "issued": "2017-07-26T14:22:24",
@@ -189,11 +192,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número mensual de reclamos recibidos por tipo de reclamo",
             "superTheme": [
-                "TECH"
+                "denuncias-y-reclamos"
             ],
             "title": "Reclamos mensuales recibidos por motivo de reclamo",
             "issued": "2017-07-27T18:29:20",
@@ -243,11 +247,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número de reclamos recibidos sobre los operadores con más reclamos recibidos por el servicio de Internet fijo (año corrido)",
             "superTheme": [
-                "TECH"
+                "denuncias-y-reclamos"
             ],
             "title": "Operadores con el mayor número de reclamos recibidos, servicio de Internet fijo",
             "issued": "2017-07-26T14:17:38",
@@ -297,11 +302,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número de reclamos recibidos sobre los operadores con más reclamos recibidos por el servicio de telefonía fija (año corrido)",
             "superTheme": [
-                "TECH"
+                "denuncias-y-reclamos"
             ],
             "title": "Operadores con el mayor número de reclamos recibidos, servicio de telefonía fija",
             "issued": "2017-07-26T14:20:14",
@@ -351,11 +357,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número de reclamos recibidos por tipo de servicio en lo corrido del año",
             "superTheme": [
-                "TECH"
+                "denuncias-y-reclamos"
             ],
             "title": "Reclamos por tipo de servicio (año corrido)",
             "issued": "2017-07-26T14:13:20",
@@ -405,11 +412,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número mensual de reclamos recibidos por tipo de servicio",
             "superTheme": [
-                "TECH"
+                "denuncias-y-reclamos"
             ],
             "title": "Reclamos mensuales por tipo de servicio",
             "issued": "2017-07-26T14:11:00",
@@ -459,11 +467,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número mensual de reclamos recibidos por motivo de reclamación y operador del servicio",
             "superTheme": [
-                "TECH"
+                "denuncias-y-reclamos"
             ],
             "title": "Reclamos por operador y motivo de reclamo",
             "issued": "2017-07-24T13:31:06",
@@ -513,11 +522,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número de reclamos recibidos por motivo de reclamación en lo corrido del año",
             "superTheme": [
-                "TECH"
+                "denuncias-y-reclamos"
             ],
             "title": "Reclamos por motivo de reclamación (año corrido)",
             "issued": "2017-07-17T13:01:41",
@@ -567,11 +577,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número de denuncias recibidas por cada delegación de Enacom en lo corrido del año",
             "superTheme": [
-                "TECH"
+                "denuncias-y-reclamos"
             ],
             "title": "Denuncias recibidas por delegación (año corrido)",
             "issued": "2017-07-17T12:46:23",
@@ -621,11 +632,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número mensual de denuncias recibidas por delegación de Enacom",
             "superTheme": [
-                "TECH"
+                "denuncias-y-reclamos"
             ],
             "title": "Denuncias mensuales recibidas",
             "issued": "2017-07-07T14:36:23",
@@ -675,11 +687,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Listado de licencias de operadores de TIC",
             "superTheme": [
-                "TECH"
+                "licencias"
             ],
             "title": "Licenciatarios TIC",
             "issued": "2017-08-01T19:39:30",
@@ -728,11 +741,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número total de accesos al servicio de Internet fijo por velocidad de bajada (trimestral)",
             "superTheme": [
-                "TECH"
+                "acceso-a-internet"
             ],
             "title": "Total nacional de accesos a Internet fijo por velocidad de bajada",
             "issued": "2017-08-01T17:06:16",
@@ -784,11 +798,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número de accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros) (trimestral)",
             "superTheme": [
-                "TECH"
+                "telefonia-fija"
             ],
             "title": "Accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros)",
             "issued": "2017-07-26T15:18:54",
@@ -838,11 +853,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes.",
             "superTheme": [
-                "TECH"
+                "telefonia-movil"
             ],
             "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
             "issued": "2017-07-26T15:01:52",
@@ -893,11 +909,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número de radiobases 4G desplegadas por los operadores",
             "superTheme": [
-                "TECH"
+                "telefonia-movil"
             ],
             "title": "Radiobases 4G desplegadas por trimestre y provincia",
             "issued": "2017-07-26T14:58:56",
@@ -948,11 +965,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número de accesos de televisión por suscripción por provincia (trimestral)",
             "superTheme": [
-                "TECH"
+                "tv-por-suscripcion"
             ],
             "title": "Accesos de televisión por suscripción por provincia",
             "issued": "2017-07-26T17:20:16",
@@ -1002,11 +1020,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Ingresos trimestrales de los operadores por el servicio de telefonía fija (miles de $)",
             "superTheme": [
-                "TECH"
+                "telefonia-fija"
             ],
             "title": "Ingresos trimestrales por la prestación del servicio de telefonía fija",
             "issued": "2017-07-26T17:03:46",
@@ -1056,11 +1075,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Penetración por provincia del servicio de telefonía fija (métrica: hogares y habitantes)",
             "superTheme": [
-                "TECH"
+                "telefonia-fija"
             ],
             "title": "Penetración provincial de la telefonía fija",
             "issued": "2017-07-26T16:53:47",
@@ -1112,11 +1132,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Penetración total nacional de la telefonía fija por trimestre (métrica: hogares y habitantes)",
             "superTheme": [
-                "TECH"
+                "telefonia-fija"
             ],
             "title": "Penetración total nacional de la telefonía fija por trimestre",
             "issued": "2017-07-26T17:01:43",
@@ -1166,11 +1187,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número total de accesos al servicio de telefonía fija (hogares, comerciales, gobierno y otros) (trimestral)",
             "superTheme": [
-                "TECH"
+                "telefonia-fija"
             ],
             "title": "Total nacional de accesos a telefonía fija",
             "issued": "2017-07-26T16:42:13",
@@ -1219,11 +1241,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Montos aprobados y pagados a las entidades beneficiadas por el programa Fomeca desde diciembre de 2015 (corte junio 30 de 2017)",
             "superTheme": [
-                "TECH"
+                "FOMECA"
             ],
             "title": "Fomeca: montos aprobados y pagados por entidad beneficiada",
             "issued": "2017-07-31T19:46:21",
@@ -1270,11 +1293,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Ingresos trimestrales de los operadores por el servicio de televisión por suscripción y satelital (miles de $)",
             "superTheme": [
-                "TECH"
+                "tv-por-suscripcion"
             ],
             "title": "Ingresos trimestrales por la prestación de los servicios de televisión",
             "issued": "2017-07-26T17:24:47",
@@ -1325,11 +1349,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Penetración por provincia del servicio de televisión por suscripción (métrica: hogares y habitantes)",
             "superTheme": [
-                "TECH"
+                "tv-por-suscripcion"
             ],
             "title": "Penetración provincial de la televisión por suscripción",
             "issued": "2017-07-26T17:28:25",
@@ -1380,11 +1405,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Penetración total nacional de la televisión por suscripción y satelital (métrica: hogares y habitantes)",
             "superTheme": [
-                "TECH"
+                "tv-por-suscripcion"
             ],
             "title": "Penetración total nacional de la televisión por suscripción y satelital",
             "issued": "2017-07-26T17:44:57",
@@ -1435,11 +1461,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número total de acesos a televisión por suscripción y satelital (trimestral)",
             "superTheme": [
-                "TECH"
+                "tv-por-suscripcion"
             ],
             "title": "Total nacional de accesos a televisión por suscripción y televisión satelital",
             "issued": "2017-07-26T17:21:45",
@@ -1489,11 +1516,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Ingresos trimestrales de los operadores por el servicio de telefonía móvil",
             "superTheme": [
-                "TECH"
+                "telefonia-movil"
             ],
             "title": "Ingresos trimestrales por la prestación del servicio de telefonía móvil",
             "issued": "2017-07-19T18:39:39",
@@ -1543,11 +1571,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Penetración del servicio de telefonía móvil (métrica: población)",
             "superTheme": [
-                "TECH"
+                "telefonia-movil"
             ],
             "title": "Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes)",
             "issued": "2017-07-24T13:19:12",
@@ -1597,11 +1626,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número total de accesos al servicio de telefonía móvil (trimestral)",
             "superTheme": [
-                "TECH"
+                "telefonia-movil"
             ],
             "title": "Total nacional de accesos a telefonía móvil",
             "issued": "2017-07-24T13:22:33",
@@ -1650,11 +1680,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Miles de minutos originados trimestralmente en terminales móviles",
             "superTheme": [
-                "TECH"
+                "telefonia-movil"
             ],
             "title": "Telefonía móvil: minutos salientes (miles)",
             "issued": "2017-07-17T15:43:58",
@@ -1703,11 +1734,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número trimestral de mensajes cortos de texto enviados",
             "superTheme": [
-                "TECH"
+                "telefonia-movil"
             ],
             "title": "Número de SMS enviados",
             "issued": "2017-07-17T15:30:38",
@@ -1757,11 +1789,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número trimestral de llamadas originadas en terminales móviles",
             "superTheme": [
-                "TECH"
+                "telefonia-movil"
             ],
             "title": "Telefonía móvil: número de llamadas salientes",
             "issued": "2017-07-17T15:40:47",
@@ -1810,11 +1843,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Penetración del servicio de Internet fijo (métrica: hogares)",
             "superTheme": [
-                "TECH"
+                "acceso-a-internet"
             ],
             "title": "Penetración del Internet fijo por provincia (accesos por cada 100 hogares)",
             "issued": "2017-07-17T14:12:34",
@@ -1865,11 +1899,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Ingresos trimestrales de los operadores por el servicio de Internet fijo",
             "superTheme": [
-                "TECH"
+                "acceso-a-internet"
             ],
             "title": "Ingresos por la operación del servicio de Internet fijo",
             "issued": "2017-07-17T13:45:38",
@@ -1920,11 +1955,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Penetración del servicio de Internet fijo (métrica: población)",
             "superTheme": [
-                "TECH"
+                "acceso-a-internet"
             ],
             "title": "Penetración del Internet fijo por provincia (accesos por cada 100 habitantes)",
             "issued": "2017-07-17T14:11:20",
@@ -1975,11 +2011,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)",
             "superTheme": [
-                "TECH"
+                "acceso-a-internet"
             ],
             "title": "Banda ancha y banda angosta por provincia",
             "issued": "2017-07-17T13:26:41",
@@ -2031,11 +2068,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
             "superTheme": [
-                "TECH"
+                "acceso-a-internet"
             ],
             "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
             "issued": "2017-07-17T13:36:56",
@@ -2087,11 +2125,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Consulta las tecnologías disponibles en tu localidad para acceder al servicio de Internet fijo y móvil",
             "superTheme": [
-                "TECH"
+                "acceso-a-internet"
             ],
             "title": "Conectividad al servicio de Internet",
             "issued": "2017-07-24T15:04:59",
@@ -2143,11 +2182,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Series trimestrales de la penetración del Internet fijo en las métricas por cada 100 habitantes y por cada 100 hogares",
             "superTheme": [
-                "TECH"
+                "acceso-a-internet"
             ],
             "title": "Penetración nacional del Internet fijo",
             "issued": "2017-07-17T14:14:50",
@@ -2198,11 +2238,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Personal ocupado por trimestre en el correo oficial y en operadores postales privados",
             "superTheme": [
-                "TECH"
+                "servicios-postales"
             ],
             "title": "Personal ocupado por trimestre en el correo oficial y en operadores privados",
             "issued": "2017-07-24T14:54:17",
@@ -2252,11 +2293,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Unidades trimestrales de servicios postales del correo oficial y operadores privados por provincia",
             "superTheme": [
-                "TECH"
+                "servicios-postales"
             ],
             "title": "Unidades trimestrales vendidas de servicios postales, correo oficial y privados",
             "issued": "2017-07-24T14:52:14",
@@ -2306,11 +2348,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Ventas trimestrales de servicios postales del correo oficial y operadores privados (en $) por provincia",
             "superTheme": [
-                "TECH"
+                "servicios-postales"
             ],
             "title": "Ventas trimestrales de servicios postales del correo oficial y privados",
             "issued": "2017-07-24T14:41:41",
@@ -2361,11 +2404,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Unidades mensuales de servicios monetarios postales del correo oficial",
             "superTheme": [
-                "TECH"
+                "servicios-postales"
             ],
             "title": "Unidades mensuales vendidas de servicios monetarios postales del correo oficial",
             "issued": "2017-07-24T14:38:41",
@@ -2415,11 +2459,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Unidades trimestrales de servicios postales del correo oficial y operadores privados.",
             "superTheme": [
-                "TECH"
+                "servicios-postales"
             ],
             "title": "Unidades mensuales vendidas de servicios postales del correo oficial y privados",
             "issued": "2017-07-24T14:30:50",
@@ -2468,11 +2513,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Unidades mensuales de servicios telegráficos del correo oficial y operadores privados",
             "superTheme": [
-                "TECH"
+                "servicios-postales"
             ],
             "title": "Unidades mensuales vendidas de servicios telegráficos, correo oficial y privados",
             "issued": "2017-07-24T14:35:34",
@@ -2522,11 +2568,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Ventas mensuals de servicios monetarios postales del correo oficial (en $).",
             "superTheme": [
-                "TECH"
+                "servicios-postales"
             ],
             "title": "Ventas mensuales de servicios monetarios postales del correo oficial (en $)",
             "issued": "2017-07-24T14:18:55",
@@ -2577,11 +2624,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Ventas mensuales de servicios telegráficos del correo oficial y operadores privados (en $)",
             "superTheme": [
-                "TECH"
+                "servicios-postales"
             ],
             "title": "Ventas mensuales de servicios telegráficos del correo oficial y privados",
             "issued": "2017-07-24T14:08:23",
@@ -2632,11 +2680,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Ventas mensuales de servicios postales del correo oficial y operadores privados (en $)",
             "superTheme": [
-                "TECH"
+                "servicios-postales"
             ],
             "title": "Ventas mensuales de servicios postales del correo oficial y operadores privados",
             "issued": "2017-07-24T13:57:42",
@@ -2686,11 +2735,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número de accesos al servicio de Internet fijo por velocidad de bajada en cada provincia (trimestral)",
             "superTheme": [
-                "TECH"
+                "acceso-a-internet"
             ],
             "title": "Acceso a Internet fijo por velocidad de bajada y provincia",
             "issued": "2017-07-14T20:19:01",
@@ -2742,11 +2792,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)",
             "superTheme": [
-                "TECH"
+                "acceso-a-internet"
             ],
             "title": "Acceso a Internet fijo por tecnología y provincia",
             "issued": "2017-07-14T14:01:12",
@@ -2797,11 +2848,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)",
             "superTheme": [
-                "TECH"
+                "acceso-a-internet"
             ],
             "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
             "issued": "2017-07-14T19:19:12",
@@ -2851,11 +2903,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Listado de Radioaficionados - ENACOM",
             "superTheme": [
-                "TECH"
+                "espectro-radioelectrico"
             ],
             "title": "Listado de Radioaficionados",
             "issued": "2017-04-11T20:04:43",
@@ -2905,11 +2958,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Listado de prestadores postales autorizados a dar servicios postales en la Republica Argentina",
             "superTheme": [
-                "TECH"
+                "servicios-postales"
             ],
             "title": "Registro de Proveedores Postales",
             "issued": "2016-09-27T15:45:52",
@@ -2961,11 +3015,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Listado de prestadores postales autorizados a dar servicios de mensajeria en la Republica Argentina",
             "superTheme": [
-                "TECH"
+                "servicios-postales"
             ],
             "title": "Subregistro de Proveedores de Servicios de Mensajería",
             "issued": "2016-09-22T20:44:20",
@@ -3017,11 +3072,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Homologación de empresas inscriptas - ENACOM",
             "superTheme": [
-                "TECH"
+                "equipos-de-comunicacion-autorizados"
             ],
             "title": "Homologación de empresas inscriptas",
             "issued": "2016-09-22T20:42:00",
@@ -3073,11 +3129,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Listado de prestadores de telefonía - ENACOM",
             "superTheme": [
-                "TECH"
+                "servicios-de-telefonia"
             ],
             "title": "Listado de prestadores de telefonía",
             "issued": "2016-09-22T20:39:06",
@@ -3129,11 +3186,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Listado de radioclubes - ENACOM",
             "superTheme": [
-                "TECH"
+                "espectro-radioelectrico"
             ],
             "title": "Listado de radioclubes",
             "issued": "2016-09-22T20:34:47",
@@ -3183,11 +3241,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Homologación de equipos inscriptos - ENACOM",
             "superTheme": [
-                "TECH"
+                "equipos-de-comunicacion-autorizados"
             ],
             "title": "Homologación de equipos inscriptos",
             "issued": "2016-09-20T21:02:26",
@@ -3239,11 +3298,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Listado de estaciones repetidoras - ENACOM",
             "superTheme": [
-                "TECH"
+                "espectro-radioelectrico"
             ],
             "title": "Listado de estaciones repetidoras",
             "issued": "2016-09-20T21:01:00",
@@ -3295,11 +3355,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado",
             "superTheme": [
-                "TECH"
+                "servicios-de-telefonia"
             ],
             "title": "Numeración geográfica",
             "issued": "2016-09-20T20:59:01",
@@ -3349,11 +3410,12 @@
         },
         {
             "publisher": {
-                "name": "ENACOM"
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
             "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
             "superTheme": [
-                "TECH"
+                "servicios-de-telefonia"
             ],
             "title": "Numeración no geográfica",
             "issued": "2016-09-20T20:56:16",
