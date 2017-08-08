@@ -1,20 +1,20 @@
 
-# Catálogo: ENACOM
+# Catálogo: Ente Nacional de Comunicaciones (ENACOM)
 
 ## Información General
 
-- **Autor**: ENACOM
-- **Correo Electrónico**: None
+- **Autor**: Ente Nacional de Comunicaciones (ENACOM)
+- **Correo Electrónico**: contacto@enacom.gob.ar
 - **Ruta del catálogo**: None
-- **Nombre del catálogo**: ENACOM
+- **Nombre del catálogo**: Ente Nacional de Comunicaciones (ENACOM)
 - **Descripción**:
 
-> ENACOM
+> Ente Nacional de Comunicaciones (ENACOM)
 
 ## Estado de los metadatos y cantidad de recursos
 
-- **Estado metadatos globales**: ERROR
-- **Estado metadatos catálogo**: ERROR
+- **Estado metadatos globales**: OK
+- **Estado metadatos catálogo**: OK
 - **Cantidad Total de Datasets**: 61
 - **Cantidad Total de Distribuciones**: 183
 
