@@ -3317,7 +3317,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Nombres de personas físicas",
             "issued": "2017-07-27T15:02:42.681630",
-            "modified": "2017-08-09T15:03:35.034948",
+            "modified": "2017-08-10T14:08:54.283438",
             "theme": [
                 "soci"
             ],
@@ -3342,6 +3342,54 @@
                     "downloadURL": "http://datos.gob.ar/dataset/b8418d41-8e0c-4e85-8aa8-80d51a840132/resource/5e585bd4-bc7c-4ac6-b9a1-bcf44b85b28e/download/historico-nombres.zip",
                     "issued": "2017-07-27T16:01:28.310795",
                     "identifier": "5e585bd4-bc7c-4ac6-b9a1-bcf44b85b28e"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/b8418d41-8e0c-4e85-8aa8-80d51a840132/resource/811bf426-fc36-4f20-b2e1-59bdbb938153",
+                    "description": "Listado de los nombres registrados ante el Registro Nacional de las Personas entre 1920 y 1924 inclusive, agrupados por nombre y año.",
+                    "title": "Nombres de personas 1920-1924",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-10T14:03:11.394136",
+                    "downloadURL": "http://datos.gob.ar/dataset/b8418d41-8e0c-4e85-8aa8-80d51a840132/resource/811bf426-fc36-4f20-b2e1-59bdbb938153/download/nombres-1920-1924.csv",
+                    "issued": "2017-08-10T14:03:11.431919",
+                    "identifier": "811bf426-fc36-4f20-b2e1-59bdbb938153"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/b8418d41-8e0c-4e85-8aa8-80d51a840132/resource/6f108571-4bde-443c-8d5c-420437478267",
+                    "description": "Listado de los nombres registrados ante el Registro Nacional de las Personas entre 1925 y 1929 inclusive, agrupados por nombre y año.",
+                    "title": "Nombres de personas 1925-1929",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-10T14:05:43.302978",
+                    "downloadURL": "http://datos.gob.ar/dataset/b8418d41-8e0c-4e85-8aa8-80d51a840132/resource/6f108571-4bde-443c-8d5c-420437478267/download/nombres-1925-1929.csv",
+                    "issued": "2017-08-10T14:05:43.342626",
+                    "identifier": "6f108571-4bde-443c-8d5c-420437478267"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/b8418d41-8e0c-4e85-8aa8-80d51a840132/resource/0ef09d87-2b8c-4f54-8a2f-c088a988624d",
+                    "description": "Listado de los nombres registrados ante el Registro Nacional de las Personas entre 1930 y 1934 inclusive, agrupados por nombre y año.",
+                    "title": "Nombres de personas 1930-1934",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-10T14:07:09.343246",
+                    "downloadURL": "http://datos.gob.ar/dataset/b8418d41-8e0c-4e85-8aa8-80d51a840132/resource/0ef09d87-2b8c-4f54-8a2f-c088a988624d/download/nombres-1930-1934.csv",
+                    "issued": "2017-08-10T14:07:09.385824",
+                    "identifier": "0ef09d87-2b8c-4f54-8a2f-c088a988624d"
+                },
+                {
+                    "accessURL": "http://datos.gob.ar/dataset/b8418d41-8e0c-4e85-8aa8-80d51a840132/resource/87ee40f7-723e-4e08-bbd7-1777cedede69",
+                    "description": "Listado de los nombres registrados ante el Registro Nacional de las Personas entre 1935 y 1939 inclusive, agrupados por nombre y año.",
+                    "title": "Nombres de personas 1935-1939",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-10T14:08:54.263048",
+                    "downloadURL": "http://datos.gob.ar/dataset/b8418d41-8e0c-4e85-8aa8-80d51a840132/resource/87ee40f7-723e-4e08-bbd7-1777cedede69/download/nombres-1935-1939.csv",
+                    "issued": "2017-08-10T14:08:54.309513",
+                    "identifier": "87ee40f7-723e-4e08-bbd7-1777cedede69"
                 }
             ]
         },
