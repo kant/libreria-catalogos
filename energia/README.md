@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 173
-- **Cantidad Total de Distribuciones**: 971
+- **Cantidad Total de Datasets**: 175
+- **Cantidad Total de Distribuciones**: 976
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 173
+- **Cantidad de Datasets NO Federados**: 175
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets no federados:
@@ -113,6 +113,7 @@
 - [Información Socioeconómica Jefe de Hogar con educación primaria completa]()
 - [Información Socioeconómica NBI (Deciles)]()
 - [Información Socioeconómica Urbanizaciones Cerradas Wikimapia](http://wikimapia.org)
+- [Informe Estadístico Anual 2016 del sector energético]()
 - [Informes Estadísticos del Sector Eléctrico (Quinquenales y Decenales)]()
 - [Informe Trimestral de Coyuntura Energética]()
 - [Instalaciones de hidrocarburos - Ductos Res. 319/1993]()
@@ -143,6 +144,7 @@
 - [Participación de importaciones mineras por rubro]()
 - [Perforación de pozos de petróleo y gas]()
 - [Plan de Acción e Inversiones a Ejecutar (Tablas Dinámicas)]()
+- [Potencia Máxima del Sistema Eléctrico (1980-2017)]()
 - [Producción y exploración de hidrocarburos - Pozos de Petróleo y Gas]()
 - [Pozos y Metros Perforados (Tablas Dinámicas)]()
 - [Precio Internacional (PI) del petróleo crudo]()
