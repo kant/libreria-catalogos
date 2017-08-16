@@ -22,11 +22,19 @@
 - **Cantidad de Datasets NO Federados**: 2
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
-## Datasets no federados:
+## Datasets federados que fueron eliminados en el nodo original
+
+
+
+## Datasets no federados
 
 - [Agencias de viajes](http://datos.yvera.gob.ar/dataset/agencias-de-viajes)
 - [Territorio](http://datos.yvera.gob.ar/dataset/territorio)
 
-## Datasets incluidos
+## Datasets federados
+
+
+
+## Reporte
 
 Por favor, consulte el informe [`datasets.csv`](datasets.csv).
