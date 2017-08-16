@@ -22,10 +22,18 @@
 - **Cantidad de Datasets NO Federados**: 0
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
-## Datasets no federados:
+## Datasets federados que fueron eliminados en el nodo original
 
 
 
-## Datasets incluidos
+## Datasets no federados
+
+
+
+## Datasets federados
+
+
+
+## Reporte
 
 Por favor, consulte el informe [`datasets.csv`](datasets.csv).
