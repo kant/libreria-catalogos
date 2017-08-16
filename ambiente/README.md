@@ -22,10 +22,18 @@
 - **Cantidad de Datasets NO Federados**: 1
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
-## Datasets no federados:
+## Datasets federados que fueron eliminados en el nodo original
+
+
+
+## Datasets no federados
 
 - [Calidad de Agua](http://datos.ambiente.gob.ar/dataset/calidad-de-agua)
 
-## Datasets incluidos
+## Datasets federados
+
+
+
+## Reporte
 
 Por favor, consulte el informe [`datasets.csv`](datasets.csv).
