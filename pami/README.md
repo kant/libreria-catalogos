@@ -22,7 +22,11 @@
 - **Cantidad de Datasets NO Federados**: 26
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
-## Datasets no federados:
+## Datasets federados que fueron eliminados en el nodo original
+
+
+
+## Datasets no federados
 
 - [Bocas de atención de los Prestadores de PAMI]()
 - [Campaña de Vacunación Antigripal]()
@@ -51,6 +55,10 @@
 - [Turnos para trámites en las dependencias de PAMI]()
 - [Vademécum de Medicamentos]()
 
-## Datasets incluidos
+## Datasets federados
+
+
+
+## Reporte
 
 Por favor, consulte el informe [`datasets.csv`](datasets.csv).
