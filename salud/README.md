@@ -22,7 +22,11 @@
 - **Cantidad de Datasets NO Federados**: 8
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
-## Datasets no federados:
+## Datasets federados que fueron eliminados en el nodo original
+
+
+
+## Datasets no federados
 
 - [Registro Federal de Droguerias (REDRO)](http://datos.sisa.msal.gov.ar/dataset/registro-federal-de-droguerias-redro)
 - [INCUCAI](http://datos.sisa.msal.gov.ar/dataset/incucai)
@@ -33,6 +37,10 @@
 - [Estadísticas de consultas e internaciones en establecimientos públicos SERIE 11](http://www.deis.msal.gov.ar/)
 - [Registro Federal de Establecimientos de Salud (REFES)](http://sisa.msal.gov.ar)
 
-## Datasets incluidos
+## Datasets federados
+
+
+
+## Reporte
 
 Por favor, consulte el informe [`datasets.csv`](datasets.csv).
