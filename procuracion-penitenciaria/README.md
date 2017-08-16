@@ -22,7 +22,11 @@
 - **Cantidad de Datasets NO Federados**: 17
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
-## Datasets no federados:
+## Datasets federados que fueron eliminados en el nodo original
+
+
+
+## Datasets no federados
 
 - [Listado de personas en Resguardo en el Servicio Penitenciario Federal](www.ppn.gov.ar)
 - [Casos de Tortura y Malos Tratos registrados e investigados por la PPN](www.ppn.gov.ar)
@@ -42,6 +46,10 @@
 - [Gestión de reclamos y afines](http://181.209.63.46/dataset/gestion-de-reclamos-y-afines)
 - [Registro de llamadas Central Telefónica](http://181.209.63.46/dataset/registro-de-llamadas-central-telefonica)
 
-## Datasets incluidos
+## Datasets federados
+
+
+
+## Reporte
 
 Por favor, consulte el informe [`datasets.csv`](datasets.csv).
