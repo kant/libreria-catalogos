@@ -22,10 +22,22 @@
 - **Cantidad de Datasets NO Federados**: 0
 - **Porcentaje de Datasets NO Federados**: 0.0%
 
-## Datasets no federados:
+## Datasets federados que fueron eliminados en el nodo original
 
 
 
-## Datasets incluidos
+## Datasets no federados
+
+
+
+## Datasets federados
+
+- [Empresas de ejecución de proyectos de ciencia, tecnología e innovación](http://www.sicytar.mincyt.gob.ar)
+- [Proyectos de ciencia, tecnología e innovación](http://www.sicytar.mincyt.gob.ar/)
+- [Recursos humanos en ciencia y tecnología](http://www.sicytar.mincyt.gob.ar/)
+- [Equipamiento científico-tecnológico](http://sistemasnacionales.mincyt.gob.ar/)
+- [Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino](http://www.sicytar.mincyt.gob.ar/)
+
+## Reporte
 
 Por favor, consulte el informe [`datasets.csv`](datasets.csv).
