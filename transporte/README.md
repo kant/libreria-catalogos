@@ -22,7 +22,11 @@
 - **Cantidad de Datasets NO Federados**: 12
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
-## Datasets no federados:
+## Datasets federados que fueron eliminados en el nodo original
+
+
+
+## Datasets no federados
 
 - [Empresas Transporte RMBA](None)
 - [Líneas Transporte RMBA](None)
@@ -37,6 +41,10 @@
 - [S.I.S.T.A.U.](None)
 - [Aeropuertos](None)
 
-## Datasets incluidos
+## Datasets federados
+
+
+
+## Reporte
 
 Por favor, consulte el informe [`datasets.csv`](datasets.csv).
