@@ -5278,42 +5278,6 @@
         },
         {
             "publisher": {
-                "mbox": "accesobd@dnrpa.gov.ar",
-                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
-            },
-            "accessLevel": "public",
-            "description": "En este conjunto de datos se detalla la cantidad de automotores 0km inscriptos y automotores transferidos, discriminados por año, mes, provincia. Se consideran automotores: automóviles,  camiones,  inclusive  los  llamados  tractores  para  semirremolque,  camionetas,  rurales,  jeeps,  furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aún  cuando  no  estuvieran  carrozados. Se consideran motovehículos: ciclomotores, motocicletas, motocarro (motocargas y motofurgones), motonetas, triciclos y cuatriciclos con motor. En cuanto a maquinarias están incluidas aquellas de uso agrícola, vial e industrial.",
-            "license": "Creative Commons Attribution",
-            "title": "Estadística de Trámites de Automotores, Motovehículos y Maquinarias",
-            "issued": "2017-05-11T19:22:57.258187",
-            "modified": "2017-06-22T20:52:42.082215",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "accrualPeriodicity": "R/P1M",
-            "landingPage": "http://www.dnrpa.gov.ar",
-            "identifier": "3e9a07cf-57fa-466f-823e-6b60542f8f7f",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/2436ab65-44da-4f45-a59d-5e09136e1df2/download/estadistica-inscripciones-iniciales-autos-motos-maquinarias.csv",
-                    "description": "Estadística mensual de inscripciones iniciales de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
-                    "title": "Estadística de inscripciones iniciales de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
-                    "issued": "2017-06-22T20:52:42.110799",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/2436ab65-44da-4f45-a59d-5e09136e1df2/download/estadistica-inscripciones-iniciales-autos-motos-maquinarias.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/65219d23-89af-4b19-85cb-c37364c4f9cb/download/estadistica-transferencias-autos-motos-maquinarias.csv",
-                    "description": "Estadística mensual de transferencias de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
-                    "title": "Estadística de transferencias de automotores, motovehículos y maquinarias agrícolas, viales e industriales",
-                    "issued": "2017-06-22T20:52:42.110812",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/65219d23-89af-4b19-85cb-c37364c4f9cb/download/estadistica-transferencias-autos-motos-maquinarias.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
                 "mbox": "aferrer@anticorrupcion.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción."
             },
@@ -5365,58 +5329,6 @@
                     "issued": "2017-06-22T20:50:47.670014",
                     "format": "CSV",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/7c268f77-e007-43ba-8a18-d50ef022f8e3/resource/a861d92f-272b-4c9f-8f2f-52946558d337/download/reporteobsequiosfuncionariospublicos.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "uniddjjoa@jus.gov.ar",
-                "name": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción."
-            },
-            "accessLevel": "public",
-            "description": "Datos correspondiente a las Declaraciones Juradas Patrimoniales Integrales presentadas por los sujetos obligados conforme lo normado en la Ley de Ética Pública 25.188 modificada por la Ley 26.857, reglamentada por el Decreto Nro. 895/2013 y la Resolución General AFIP Nro. 3511/2013 y Resolución M.J. y D.H. Nro. 1695/2013. La utilización de este conjunto de datos se encuentra regulada por el Art. 11 de la Ley de Ética Pública 25.188.",
-            "license": "Creative Commons Attribution",
-            "title": "Declaración Jurada Patrimonial Integral de Carácter Público",
-            "issued": "2017-05-10T20:11:40.058444",
-            "modified": "2017-06-22T20:49:29.482122",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "landingPage": "https://www2.jus.gov.ar/consultaddjj",
-            "identifier": "c06d7c82-103a-4869-bd98-567544d595ae",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/b029969c-85a7-4adb-afe1-33165e835517/download/declaraciones-juradas-2015.csv",
-                    "description": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2015",
-                    "title": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2015",
-                    "issued": "2017-06-22T20:49:29.526207",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/b029969c-85a7-4adb-afe1-33165e835517/download/declaraciones-juradas-2015.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/0bd85cd7-ef0a-4e62-be7b-6d58db17ebbc/download/declaraciones-juradas-2014.csv",
-                    "description": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2014",
-                    "title": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2014",
-                    "issued": "2017-06-22T20:49:29.526220",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/0bd85cd7-ef0a-4e62-be7b-6d58db17ebbc/download/declaraciones-juradas-2014.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/357e0886-2b15-481b-9e4b-d7f663c214bb/download/declaraciones-juradas-2013.csv",
-                    "description": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2013",
-                    "title": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2013",
-                    "issued": "2017-06-22T20:49:29.526225",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/357e0886-2b15-481b-9e4b-d7f663c214bb/download/declaraciones-juradas-2013.csv"
-                },
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/daad6625-2610-4d7e-b4fc-45a235e48f07/download/declaraciones-juradas-2012.csv",
-                    "description": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2012",
-                    "title": "Declaraciones Juradas Patrimoniales Integrales para el año fiscal 2012",
-                    "issued": "2017-06-22T20:49:29.526230",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/4680199f-6234-4262-8a2a-8f7993bf784d/resource/daad6625-2610-4d7e-b4fc-45a235e48f07/download/declaraciones-juradas-2012.csv"
                 }
             ]
         },
@@ -5836,33 +5748,6 @@
                     "issued": "2017-05-11T14:58:37.143581",
                     "format": "CSV",
                     "downloadURL": "http://datos.jus.gob.ar/dataset/bbdac295-c88e-4e2d-8f74-a845a2e93a61/resource/54bd9fa1-a059-4411-b146-457791e882f8/download/listado-registros-seccionales.csv"
-                }
-            ]
-        },
-        {
-            "publisher": {
-                "mbox": "",
-                "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios."
-            },
-            "accessLevel": "public",
-            "description": "En este conjunto de datos se detalla la cantidad de automotores 0km inscriptos, discriminados por año, mes, provincia. Se consideran automotores: automóviles, camiones, inclusive los llamados tractores para semirremolque, camionetas, rurales, jeeps, furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aún cuando no estuvieran carrozados. Se consideran motovehículos: ciclomotores, motocicletas, motocarro (motocargas y motofurgones), motonetas, triciclos y cuatriciclos con motor.",
-            "license": "Creative Commons Attribution",
-            "title": "Estadística de Inscripciones Iniciales de Automotores y Motovehículos",
-            "issued": "2017-05-10T20:11:39.832652",
-            "modified": "2017-05-10T22:02:35.879508",
-            "theme": [
-                "Justicia, seguridad y legales"
-            ],
-            "landingPage": "http://datos.jus.gob.ar/dataset/estadstica-de-inscripciones-iniciales-de-automotores-y-motovehculos",
-            "identifier": "db6bf4c1-f984-47ec-99ad-236248f50982",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/2436ab65-44da-4f45-a59d-5e09136e1df2/download/estadistica-inscripciones-iniciales-autos-motos.csv",
-                    "description": "Estadística mensual de inscripciones iniciales de automotores y motovehículos",
-                    "title": "Estadística de inscripciones iniciales de automotores y motovehículos",
-                    "issued": "2017-05-10T20:11:48.673012",
-                    "format": "CSV",
-                    "downloadURL": "http://datos.jus.gob.ar/dataset/de4560f4-8620-4cb5-a3a5-e3e5684c0e45/resource/2436ab65-44da-4f45-a59d-5e09136e1df2/download/estadistica-inscripciones-iniciales-autos-motos.csv"
                 }
             ]
         },
