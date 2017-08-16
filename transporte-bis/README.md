@@ -22,7 +22,11 @@
 - **Cantidad de Datasets NO Federados**: 23
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
-## Datasets no federados:
+## Datasets federados que fueron eliminados en el nodo original
+
+
+
+## Datasets no federados
 
 - [TMDA](https://datos.transporte.gob.ar/dataset/tmda)
 - [Caminos Terciarios](https://datos.transporte.gob.ar/dataset/caminos-terciarios)
@@ -48,6 +52,10 @@
 - [Lineas transporte RMBA](https://datos.transporte.gob.ar/dataset/lineas-transporte-rmba)
 - [Recorridos de Líneas de Transporte de Región Metropolitana de Buenos Aires (RMBA)](https://datos.transporte.gob.ar/dataset/recorridos-de-lineas-de-transporte-rmba-jn)
 
-## Datasets incluidos
+## Datasets federados
+
+
+
+## Reporte
 
 Por favor, consulte el informe [`datasets.csv`](datasets.csv).
