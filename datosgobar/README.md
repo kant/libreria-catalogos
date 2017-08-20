@@ -32,7 +32,6 @@
 
 ## Datasets federados
 
-- [Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.](http://datos.jus.gob.ar/dataset/sistema-de-consulta-nacional-de-rebeldas-y-capturas---conarc)
 - [Personal por Gerencia](http://datos.arsat.com.ar/dataviews/238091/personal-por-gerencia/)
 - [Listado de Proveedores](http://datos.arsat.com.ar/dataviews/237843/listado-de-proveedores/)
 - [Declaraciones Juradas Patrimoniales - Directorio y Gerentes](http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/)
@@ -61,6 +60,7 @@
 - [Datos de las estaciones de transmisión en construcción o planificadas](http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/)
 - [Fibra óptica de la empresa Transener](http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/)
 - [Honorarios de Directores](http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/)
+- [Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.](http://datos.jus.gob.ar/dataset/sistema-de-consulta-nacional-de-rebeldas-y-capturas---conarc)
 - [Numeración no geográfica](http://enacom.cloudapi.junar.com/api/v2/datastreams/NUMER-NO-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Numeración geográfica](http://enacom.cloudapi.junar.com/api/v2/datastreams/NUMER-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Listado de estaciones repetidoras](http://enacom.cloudapi.junar.com/api/v2/datastreams/LISTA-DE-ESTAC-REPET/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
