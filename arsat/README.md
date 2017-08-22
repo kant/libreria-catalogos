@@ -45,6 +45,7 @@
 ## Datasets federados
 
 - [Registro de Audiencias](None)
+- [Puntos de conexión al Plan Federal de Internet](None)
 - [Licitaciones](None)
 - [Escuelas conectadas](None)
 - [Escuelas de próxima conexión](None)
@@ -55,7 +56,6 @@
 - [Escuelas Conectadas con Tecnología Gillat](None)
 - [Listado de Proveedores](None)
 - [Futuros puntos de conexión al Plan Federal de Internet](None)
-- [Puntos de conexión al Plan Federal de Internet](None)
 - [Honorarios de Directores](None)
 - [Categorías y escalas salariales](None)
 - [Áreas de cobertura de la televisión digital abierta](None)
