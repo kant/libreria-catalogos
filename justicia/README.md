@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 29
-- **Cantidad Total de Distribuciones**: 179
+- **Cantidad Total de Datasets**: 30
+- **Cantidad Total de Distribuciones**: 189
 
-- **Cantidad de Datasets Federados**: 18
+- **Cantidad de Datasets Federados**: 19
 - **Cantidad de Datasets NO Federados**: 11
-- **Porcentaje de Datasets NO Federados**: 37.93%
+- **Porcentaje de Datasets NO Federados**: 36.67%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -44,6 +44,7 @@
 
 ## Datasets federados
 
+- [Solicitudes de Autorización de Portación de Armas de Fuego]()
 - [Base Infoleg de Normativa Nacional](http://www.infoleg.gob.ar)
 - [Base SAIJ de Normativa Provincial]()
 - [Centros de Acceso a la Justicia -CAJ-](http://www.jus.gob.ar/accesoalajusticia.aspx)
