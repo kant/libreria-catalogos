@@ -9,6 +9,156 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "informatica@anmac.gob.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas."
+            },
+            "landingPage": "",
+            "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\r\nLos datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
+            "issued": "2017-08-22T18:33:16.495717",
+            "modified": "2017-08-22T18:59:45.639572",
+            "theme": [],
+            "keyword": [
+                "ANMaC",
+                "RENAR",
+                "armas",
+                "portación"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "R/P0.5M",
+            "contactPoint": {
+                "hasEmail": "informatica@anmac.gob.ar",
+                "fn": "Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas."
+            },
+            "identifier": "932019a8-e08a-4269-83e0-aa0b8191c21d",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/2d3524d7-4add-45e6-b6d3-bef59c2ecb61",
+                    "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2016-11 quincena 1",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-22T15:36:26.799969",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/2d3524d7-4add-45e6-b6d3-bef59c2ecb61/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-08-22T15:36:26.902362",
+                    "identifier": "2d3524d7-4add-45e6-b6d3-bef59c2ecb61"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/eabf36ef-d6a0-48d3-9b12-cd0e58084af3",
+                    "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2016-11 quincena  2",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-22T15:41:25.114184",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/eabf36ef-d6a0-48d3-9b12-cd0e58084af3/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-08-22T15:41:25.213073",
+                    "identifier": "eabf36ef-d6a0-48d3-9b12-cd0e58084af3"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/5d2e6a7a-1de9-48a8-8e8f-0283afc63275",
+                    "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2016-12 quincena  1",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-22T15:43:37.359613",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/5d2e6a7a-1de9-48a8-8e8f-0283afc63275/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-08-22T15:43:37.464462",
+                    "identifier": "5d2e6a7a-1de9-48a8-8e8f-0283afc63275"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/ec1e7ba0-e370-499a-b710-70fb09a18902",
+                    "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2016-12 quincena  2",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-22T15:45:22.943255",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/ec1e7ba0-e370-499a-b710-70fb09a18902/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-08-22T15:45:23.059995",
+                    "identifier": "ec1e7ba0-e370-499a-b710-70fb09a18902"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/04816788-9af3-4fb9-a874-bca40aa56316",
+                    "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-01 quincena  1",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-22T15:50:30.543347",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/04816788-9af3-4fb9-a874-bca40aa56316/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-08-22T15:47:45.930791",
+                    "identifier": "04816788-9af3-4fb9-a874-bca40aa56316"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/67c2454d-e0a3-4208-a2bf-58376eaa7370",
+                    "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-01 quincena  2",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-22T15:51:54.154408",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/67c2454d-e0a3-4208-a2bf-58376eaa7370/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-08-22T15:51:54.276177",
+                    "identifier": "67c2454d-e0a3-4208-a2bf-58376eaa7370"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/b8229119-2620-40ab-a8d8-5fef777a3169",
+                    "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-02 quincena  1",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-22T15:54:12.127997",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/b8229119-2620-40ab-a8d8-5fef777a3169/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-08-22T15:54:12.260834",
+                    "identifier": "b8229119-2620-40ab-a8d8-5fef777a3169"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/c4c4af04-7e44-4419-b7cd-b438744ff366",
+                    "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-02 quincena  2",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-22T15:56:21.026586",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/c4c4af04-7e44-4419-b7cd-b438744ff366/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-08-22T15:56:21.161413",
+                    "identifier": "c4c4af04-7e44-4419-b7cd-b438744ff366"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/ec05e806-b768-4d49-82f9-f78b451decd9",
+                    "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-03 quincena  1",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-22T15:57:58.335710",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/ec05e806-b768-4d49-82f9-f78b451decd9/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-08-22T15:57:58.472449",
+                    "identifier": "ec05e806-b768-4d49-82f9-f78b451decd9"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/5562f0d4-73b4-41ff-82d1-8d921ecc057a",
+                    "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2017-03 quincena  2",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-22T15:59:37.699040",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/932019a8-e08a-4269-83e0-aa0b8191c21d/resource/5562f0d4-73b4-41ff-82d1-8d921ecc057a/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-08-22T15:59:37.841465",
+                    "identifier": "5562f0d4-73b4-41ff-82d1-8d921ecc057a"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "datosabiertos@saij.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica"
             },
