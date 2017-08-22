@@ -2819,6 +2819,60 @@
         },
         {
             "publisher": {
+                "mbox": " informatica@anmac.gob.ar",
+                "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas."
+            },
+            "landingPage": "",
+            "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\r\nLos datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC N°0009/2016.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Solicitudes de Autorización de Portación de Armas de Fuego",
+            "issued": "2017-08-22T15:03:45.033890",
+            "modified": "2017-08-22T15:19:42.484870",
+            "theme": [],
+            "keyword": [
+                "ANMaC",
+                "RENAR",
+                "armas",
+                "portación"
+            ],
+            "superTheme": [
+                "JUST"
+            ],
+            "accrualPeriodicity": "R/P0.5M",
+            "contactPoint": {
+                "hasEmail": " informatica@anmac.gob.ar",
+                "fn": "Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas."
+            },
+            "identifier": "df88ab9f-b75b-447b-bae8-0229dcf3f576",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/df88ab9f-b75b-447b-bae8-0229dcf3f576/resource/14c8d3fe-e2c1-47d2-8bc3-4ccef4867bbf",
+                    "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".\r\n",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2016-11 quincena 2",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-22T12:17:07.598899",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/df88ab9f-b75b-447b-bae8-0229dcf3f576/resource/14c8d3fe-e2c1-47d2-8bc3-4ccef4867bbf/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-08-22T12:08:30.275652",
+                    "identifier": "14c8d3fe-e2c1-47d2-8bc3-4ccef4867bbf"
+                },
+                {
+                    "accessURL": "http://datos.jus.gob.ar/dataset/df88ab9f-b75b-447b-bae8-0229dcf3f576/resource/2f0e6600-2f44-40d2-99e7-d09607f942bb",
+                    "description": "En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el \"Sistema de Control Ciudadano para Autorizaciones\".",
+                    "title": "Solicitudes de Autorización de Portación de Armas de Fuego - 2016-11 quincena 1",
+                    "byteSize": null,
+                    "format": "CSV",
+                    "mediaType": null,
+                    "modified": "2017-08-22T12:19:34.818693",
+                    "downloadURL": "http://datos.jus.gob.ar/dataset/df88ab9f-b75b-447b-bae8-0229dcf3f576/resource/2f0e6600-2f44-40d2-99e7-d09607f942bb/download/solicitudes-autorizacion-portacion-armas-fuego.csv",
+                    "issued": "2017-08-22T12:19:34.946305",
+                    "identifier": "2f0e6600-2f44-40d2-99e7-d09607f942bb"
+                }
+            ]
+        },
+        {
+            "publisher": {
                 "mbox": "informatica@anmac.gob.ar",
                 "name": "Ministerio de Justicia y Derechos Humanos. Agencia Nacional de materiales Controlados - Coordinación de Sistemas"
             },
@@ -2827,7 +2881,7 @@
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Solicitudes de Condición de Legítimo Usuario de Armas de Fuego",
             "issued": "2016-09-02T18:14:39.283242",
-            "modified": "2017-08-22T14:37:16.222203",
+            "modified": "2017-08-22T15:01:08.271775",
             "theme": [
                 "sistema-registral"
             ],
