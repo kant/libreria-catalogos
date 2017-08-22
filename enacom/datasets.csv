@@ -1,62 +1,63 @@
 indice,titulo,identificador,estado_metadatos,cant_errores,cant_distribuciones
-0,Denuncias mensuales recibidas,NUMER-MENSU-DE-DENUN,OK,0,3
-1,Denuncias recibidas por delegación (año corrido),DENUN-RECIB-POR-DELEG-ANO,OK,0,3
-2,Reclamos por motivo de reclamación (año corrido),TOTAL-DE-RECLA-POR-TIPO,OK,0,3
-3,Reclamos mensuales por tipo de servicio,RECLA-MENSU-POR-TIPO-DE,OK,0,3
-4,Reclamos por operador y motivo de reclamo,RECLA-POR-OPERA-ANO-CORRI,OK,0,3
-5,"Operadores con el mayor número de reclamos recibidos, servicio de Internet fijo",OPERA-CON-EL-MAYOR-NUMER,OK,0,3
-6,Reclamos por tipo de servicio (año corrido),RECLA-POR-TIPO-DE-SERVI,OK,0,3
-7,"Operadores con el mayor número de reclamos recibidos, servicio de telefonía fija",OPERA-CON-EL-MAYOR-65162,OK,0,3
-8,"Operadores con el mayor número de reclamos recibidos,servicio de telefonía móvil",OPERA-CON-EL-MAYOR-16582,OK,0,3
-9,Reclamos mensuales recibidos por motivo de reclamo,NUMER-MENSU-DE-RECLA-88502,OK,0,3
-10,Portabilidad numérica móvil: portaciones netas mensuales por operador,PORTA-NUMER-MOVIL-ALTAS-Y,OK,0,3
-11,Licenciatarios TIC,LICEN-TIC,OK,0,3
-12,Total nacional de accesos a Internet fijo por velocidad de bajada,TOTAL-NACIO-DE-ACCES-32663,OK,0,3
-13,"Accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros)",ACCES-DE-TELEF-FIJA-POR,OK,0,3
-14,Número de radiobases 4G por provincia por cada 100 mil habitantes,NUMER-DE-RADIO-4G-POR,OK,0,3
-15,Radiobases 4G desplegadas por trimestre y provincia,RADIO-4G-DESPL-POR-TRIME,OK,0,3
-16,Accesos de televisión por suscripción por provincia,ACCES-DE-TELEV-POR-SUSCR,OK,0,3
-17,Ingresos trimestrales por la prestación del servicio de telefonía fija,INGRE-TRIME-POR-LA-96059,OK,0,3
-18,Penetración provincial de la telefonía fija,PENET-PROVI-DE-LA-TELEF,OK,0,3
-19,Penetración total nacional de la telefonía fija por trimestre,PENET-TOTAL-NACIO-DE-LA,OK,0,3
-20,Total nacional de accesos a telefonía fija,TOTAL-NACIO-DE-ACCES-18734,OK,0,3
-21,Fomeca: montos aprobados y pagados por entidad beneficiada,FOMEC-MONTO-APROB-Y-PAGAD,OK,0,3
-22,Ingresos trimestrales por la prestación de los servicios de televisión,INGRE-TRIME-POR-LA-86109,OK,0,3
-23,Penetración provincial de la televisión por suscripción,PENET-PROVI-DE-LA-TELEV,OK,0,3
-24,Penetración total nacional de la televisión por suscripción y satelital,PENET-TOTAL-NACIO-DE-55233,OK,0,3
-25,Total nacional de accesos a televisión por suscripción y televisión satelital,TOTAL-NACIO-DE-ACCES-40941,OK,0,3
-26,Ingresos trimestrales por la prestación del servicio de telefonía móvil,INGRE-TRIME-POR-LA-PREST,OK,0,3
-27,Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes),PENET-NACIO-DE-LA-TELEF,OK,0,3
-28,Total nacional de accesos a telefonía móvil,TOTAL-NACIO-DE-ACCES-52199,OK,0,3
-29,Telefonía móvil: minutos salientes (miles),TELEF-MOVIL-MINUT-SALIE-MILES,OK,0,3
-30,Número de SMS enviados,NUMER-DE-SMS-ENVIA,OK,0,3
-31,Telefonía móvil: número de llamadas salientes,TELEF-MOVIL-NUMER-DE-LLAMA,OK,0,3
-32,Penetración del Internet fijo por provincia (accesos por cada 100 hogares),PENET-DEL-INTER-FIJO-51614,OK,0,3
-33,Ingresos por la operación del servicio de Internet fijo,INGRE-POR-LA-OPERA-DEL,OK,0,3
-34,Penetración del Internet fijo por provincia (accesos por cada 100 habitantes),PENET-DEL-INTER-FIJO-POR,OK,0,3
-35,Banda ancha y banda angosta por provincia,BANDA-ANCHA-Y-BANDA-ANGOS,OK,0,3
-36,Total nacional de accesos a Internet fijo por banda ancha y banda angosta,TOTAL-NACIO-DE-ACCES-48866,OK,0,3
-37,Conectividad al servicio de Internet,CONEC-AL-SERVI-DE-INTER,OK,0,3
-38,Penetración nacional del Internet fijo,PENET-NACIO-DEL-INTER-FIJO,OK,0,3
-39,Personal ocupado por trimestre en el correo oficial y en operadores privados,PERSO-OCUPA-POR-TRIME-EN,OK,0,3
-40,"Unidades trimestrales vendidas de servicios postales, correo oficial y privados",UNIDA-TRIME-VENDI-DE-43333,OK,0,3
-41,Ventas trimestrales de servicios postales del correo oficial y privados,VENTA-TRIME-DE-SERVI-37520,OK,0,3
-42,Unidades mensuales vendidas de servicios monetarios postales del correo oficial,UNIDA-TRIME-VENDI-DE-15730,OK,0,3
-43,Unidades mensuales vendidas de servicios postales del correo oficial y privados,UNIDA-TRIME-VENDI-DE-SERVI,OK,0,3
-44,"Unidades mensuales vendidas de servicios telegráficos, correo oficial y privados",UNIDA-TRIME-VENDI-DE-57028,OK,0,3
-45,Ventas mensuales de servicios monetarios postales del correo oficial (en $),VENTA-TRIME-DE-SERVI-MONET,OK,0,3
-46,Ventas mensuales de servicios telegráficos del correo oficial y privados,VENTA-TRIME-DE-SERVI-TELEG,OK,0,3
-47,Ventas mensuales de servicios postales del correo oficial y operadores privados,VENTA-TRIME-DE-SERVI-POSTA,OK,0,3
-48,Acceso a Internet fijo por velocidad de bajada y provincia,ACCES-A-INTER-FIJO-23248,OK,0,3
-49,Acceso a Internet fijo por tecnología y provincia,ACCES-A-INTER-FIJO-POR,OK,0,3
-50,Total nacional de accesos a Internet fijo por tipo de tecnología,TOTAL-NACIO-DE-ACCES-A,OK,0,3
-51,Listado de Radioaficionados,LISTA-DE-RADIO,OK,0,3
-52,Registro de Proveedores Postales,REGIS-DE-PROVE-POSTA,OK,0,3
-53,Subregistro de Proveedores de Servicios de Mensajería,SUBRE-DE-PROVE-DE-21678,OK,0,3
-54,Homologación de empresas inscriptas,HOMOL-DE-EMPRE-INSCR,OK,0,3
-55,Listado de prestadores de telefonía,LISTA-DE-PREST-DE-TELEF,OK,0,3
-56,Listado de radioclubes,LISTA-DE-RADIO-87358,OK,0,3
-57,Homologación de equipos inscriptos,HOMOL-DE-EQUIP-INSCR,OK,0,3
-58,Listado de estaciones repetidoras,LISTA-DE-ESTAC-REPET,OK,0,3
-59,Numeración geográfica,NUMER-GEOGR,OK,0,3
-60,Numeración no geográfica,NUMER-NO-GEOGR,OK,0,3
+0,Portabilidad numérica móvil: altas mensuales por operador,PORTA-NUMER-MOVIL-ALTAS-MENSU,OK,0,3
+1,Portabilidad numérica móvil: portaciones netas mensuales por operador,PORTA-NUMER-MOVIL-ALTAS-Y,OK,0,3
+2,Denuncias mensuales recibidas,NUMER-MENSU-DE-DENUN,OK,0,3
+3,Denuncias recibidas por delegación (año corrido),DENUN-RECIB-POR-DELEG-ANO,OK,0,3
+4,Reclamos por motivo de reclamación (año corrido),TOTAL-DE-RECLA-POR-TIPO,OK,0,3
+5,Reclamos mensuales por tipo de servicio,RECLA-MENSU-POR-TIPO-DE,OK,0,3
+6,Reclamos por operador y motivo de reclamo,RECLA-POR-OPERA-ANO-CORRI,OK,0,3
+7,"Operadores con el mayor número de reclamos recibidos, servicio de Internet fijo",OPERA-CON-EL-MAYOR-NUMER,OK,0,3
+8,Reclamos por tipo de servicio (año corrido),RECLA-POR-TIPO-DE-SERVI,OK,0,3
+9,"Operadores con el mayor número de reclamos recibidos, servicio de telefonía fija",OPERA-CON-EL-MAYOR-65162,OK,0,3
+10,"Operadores con el mayor número de reclamos recibidos,servicio de telefonía móvil",OPERA-CON-EL-MAYOR-16582,OK,0,3
+11,Reclamos mensuales recibidos por motivo de reclamo,NUMER-MENSU-DE-RECLA-88502,OK,0,3
+12,Licenciatarios TIC,LICEN-TIC,OK,0,3
+13,Total nacional de accesos a Internet fijo por velocidad de bajada,TOTAL-NACIO-DE-ACCES-32663,OK,0,3
+14,"Accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros)",ACCES-DE-TELEF-FIJA-POR,OK,0,3
+15,Número de radiobases 4G por provincia por cada 100 mil habitantes,NUMER-DE-RADIO-4G-POR,OK,0,3
+16,Radiobases 4G desplegadas por trimestre y provincia,RADIO-4G-DESPL-POR-TRIME,OK,0,3
+17,Accesos de televisión por suscripción por provincia,ACCES-DE-TELEV-POR-SUSCR,OK,0,3
+18,Ingresos trimestrales por la prestación del servicio de telefonía fija,INGRE-TRIME-POR-LA-96059,OK,0,3
+19,Penetración provincial de la telefonía fija,PENET-PROVI-DE-LA-TELEF,OK,0,3
+20,Penetración total nacional de la telefonía fija por trimestre,PENET-TOTAL-NACIO-DE-LA,OK,0,3
+21,Total nacional de accesos a telefonía fija,TOTAL-NACIO-DE-ACCES-18734,OK,0,3
+22,Fomeca: montos aprobados y pagados por entidad beneficiada,FOMEC-MONTO-APROB-Y-PAGAD,OK,0,3
+23,Ingresos trimestrales por la prestación de los servicios de televisión,INGRE-TRIME-POR-LA-86109,OK,0,3
+24,Penetración provincial de la televisión por suscripción,PENET-PROVI-DE-LA-TELEV,OK,0,3
+25,Penetración total nacional de la televisión por suscripción y satelital,PENET-TOTAL-NACIO-DE-55233,OK,0,3
+26,Total nacional de accesos a televisión por suscripción y televisión satelital,TOTAL-NACIO-DE-ACCES-40941,OK,0,3
+27,Ingresos trimestrales por la prestación del servicio de telefonía móvil,INGRE-TRIME-POR-LA-PREST,OK,0,3
+28,Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes),PENET-NACIO-DE-LA-TELEF,OK,0,3
+29,Total nacional de accesos a telefonía móvil,TOTAL-NACIO-DE-ACCES-52199,OK,0,3
+30,Telefonía móvil: minutos salientes (miles),TELEF-MOVIL-MINUT-SALIE-MILES,OK,0,3
+31,Número de SMS enviados,NUMER-DE-SMS-ENVIA,OK,0,3
+32,Telefonía móvil: número de llamadas salientes,TELEF-MOVIL-NUMER-DE-LLAMA,OK,0,3
+33,Penetración del Internet fijo por provincia (accesos por cada 100 hogares),PENET-DEL-INTER-FIJO-51614,OK,0,3
+34,Ingresos por la operación del servicio de Internet fijo,INGRE-POR-LA-OPERA-DEL,OK,0,3
+35,Penetración del Internet fijo por provincia (accesos por cada 100 habitantes),PENET-DEL-INTER-FIJO-POR,OK,0,3
+36,Banda ancha y banda angosta por provincia,BANDA-ANCHA-Y-BANDA-ANGOS,OK,0,3
+37,Total nacional de accesos a Internet fijo por banda ancha y banda angosta,TOTAL-NACIO-DE-ACCES-48866,OK,0,3
+38,Conectividad al servicio de Internet,CONEC-AL-SERVI-DE-INTER,OK,0,3
+39,Penetración nacional del Internet fijo,PENET-NACIO-DEL-INTER-FIJO,OK,0,3
+40,Personal ocupado por trimestre en el correo oficial y en operadores privados,PERSO-OCUPA-POR-TRIME-EN,OK,0,3
+41,"Unidades trimestrales vendidas de servicios postales, correo oficial y privados",UNIDA-TRIME-VENDI-DE-43333,OK,0,3
+42,Ventas trimestrales de servicios postales del correo oficial y privados,VENTA-TRIME-DE-SERVI-37520,OK,0,3
+43,Unidades mensuales vendidas de servicios monetarios postales del correo oficial,UNIDA-TRIME-VENDI-DE-15730,OK,0,3
+44,Unidades mensuales vendidas de servicios postales del correo oficial y privados,UNIDA-TRIME-VENDI-DE-SERVI,OK,0,3
+45,"Unidades mensuales vendidas de servicios telegráficos, correo oficial y privados",UNIDA-TRIME-VENDI-DE-57028,OK,0,3
+46,Ventas mensuales de servicios monetarios postales del correo oficial (en $),VENTA-TRIME-DE-SERVI-MONET,OK,0,3
+47,Ventas mensuales de servicios telegráficos del correo oficial y privados,VENTA-TRIME-DE-SERVI-TELEG,OK,0,3
+48,Ventas mensuales de servicios postales del correo oficial y operadores privados,VENTA-TRIME-DE-SERVI-POSTA,OK,0,3
+49,Acceso a Internet fijo por velocidad de bajada y provincia,ACCES-A-INTER-FIJO-23248,OK,0,3
+50,Acceso a Internet fijo por tecnología y provincia,ACCES-A-INTER-FIJO-POR,OK,0,3
+51,Total nacional de accesos a Internet fijo por tipo de tecnología,TOTAL-NACIO-DE-ACCES-A,OK,0,3
+52,Listado de Radioaficionados,LISTA-DE-RADIO,OK,0,3
+53,Registro de Proveedores Postales,REGIS-DE-PROVE-POSTA,OK,0,3
+54,Subregistro de Proveedores de Servicios de Mensajería,SUBRE-DE-PROVE-DE-21678,OK,0,3
+55,Homologación de empresas inscriptas,HOMOL-DE-EMPRE-INSCR,OK,0,3
+56,Listado de prestadores de telefonía,LISTA-DE-PREST-DE-TELEF,OK,0,3
+57,Listado de radioclubes,LISTA-DE-RADIO-87358,OK,0,3
+58,Homologación de equipos inscriptos,HOMOL-DE-EQUIP-INSCR,OK,0,3
+59,Listado de estaciones repetidoras,LISTA-DE-ESTAC-REPET,OK,0,3
+60,Numeración geográfica,NUMER-GEOGR,OK,0,3
+61,Numeración no geográfica,NUMER-NO-GEOGR,OK,0,3
