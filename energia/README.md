@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 175
-- **Cantidad Total de Distribuciones**: 977
+- **Cantidad Total de Datasets**: 176
+- **Cantidad Total de Distribuciones**: 978
 
 - **Cantidad de Datasets Federados**: 104
-- **Cantidad de Datasets NO Federados**: 71
-- **Porcentaje de Datasets NO Federados**: 40.57%
+- **Cantidad de Datasets NO Federados**: 72
+- **Porcentaje de Datasets NO Federados**: 40.91%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -65,6 +65,7 @@
 - [Información Socioeconómica Jefe de Hogar con educación primaria completa]()
 - [Información Socioeconómica NBI (Deciles)]()
 - [Información Socioeconómica Urbanizaciones Cerradas Wikimapia](http://wikimapia.org)
+- [Informe: Análisis de la demanda eléctrica del  primer semestre de 2017]()
 - [Informe Estadístico Anual 2016 del sector energético]()
 - [Informes Estadísticos del Sector Eléctrico (Quinquenales y Decenales)]()
 - [Informe Trimestral de Coyuntura Energética]()
