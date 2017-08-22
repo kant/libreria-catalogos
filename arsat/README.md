@@ -45,6 +45,7 @@
 ## Datasets federados
 
 - [Registro de Audiencias](None)
+- [Coordenadas de la red de fibra óptica en servicio](None)
 - [Personal por Gerencia](None)
 - [Promedios de edad y antigüedad del personal](None)
 - [Listado de Personal](None)
@@ -65,7 +66,6 @@
 - [Datos de las estaciones de transmisión en construcción o planificadas](None)
 - [Datos de las estaciones transmisoras](None)
 - [Fibra óptica tendida](None)
-- [Coordenadas de la red de fibra óptica en servicio](None)
 - [Ejecuciones Presupuestarias 2016](None)
 - [Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica](None)
 - [Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América](None)
