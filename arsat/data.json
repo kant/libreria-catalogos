@@ -156,6 +156,62 @@
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
+            "description": "Listado de todos los empleados de ARSAT",
+            "superTheme": [
+                "TECH"
+            ],
+            "title": "Listado de Personal",
+            "issued": "2017-08-22T15:20:35",
+            "modified": "2017-08-22T16:26:57",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "gestion-transparente"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "ARSAT",
+                "Personal",
+                "transparencia"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/",
+                    "description": "Listado de todos los empleados de ARSAT",
+                    "title": "Listado de Personal",
+                    "issued": "2017-08-22T15:20:35",
+                    "format": "CSV",
+                    "modified": "2017-08-22T16:26:57",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/",
+                    "description": "Listado de todos los empleados de ARSAT",
+                    "title": "Listado de Personal",
+                    "issued": "2017-08-22T15:20:35",
+                    "format": "XLS",
+                    "modified": "2017-08-22T16:26:57",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/",
+                    "description": "Listado de todos los empleados de ARSAT",
+                    "title": "Listado de Personal",
+                    "issued": "2017-08-22T15:20:35",
+                    "format": "JSON",
+                    "modified": "2017-08-22T16:26:57",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "identifier": "LISTA-DE-PERSO-98437",
+            "homepage": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
             "description": "La tabla muestra la ubicación precisa de los puntos de acceso al Plan Federal de Internet que se encuentran en servicio junto a otros datos como la población de la localidad y la fecha de conexión.",
             "superTheme": [
                 "TECH"
@@ -559,10 +615,7 @@
                 "gestion-transparente"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "Personal"
-            ],
+            "keywords": [],
             "distribution": [
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238093/total-de-personal-por-genero/",
@@ -614,10 +667,7 @@
                 "gestion-transparente"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "Personal"
-            ],
+            "keywords": [],
             "distribution": [
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238095/personal-de-arsat-segun-contrato-laboral/",
@@ -669,10 +719,7 @@
                 "gestion-transparente"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "Personal"
-            ],
+            "keywords": [],
             "distribution": [
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238097/personal-de-arsat-asignado-a-areas-operativas-o-de-soporte/",
@@ -724,10 +771,7 @@
                 "gestion-transparente"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "Personal"
-            ],
+            "keywords": [],
             "distribution": [
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238092/personal-por-provincia/",
@@ -779,10 +823,7 @@
                 "gestion-transparente"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "Personal"
-            ],
+            "keywords": [],
             "distribution": [
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238094/promedios-de-edad-y-antiguedad-del-personal/",
@@ -834,10 +875,7 @@
                 "gestion-transparente"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "Personal"
-            ],
+            "keywords": [],
             "distribution": [
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238091/personal-por-gerencia/",
@@ -875,58 +913,6 @@
                 "mbox": "gcamporro@arsat.com.ar",
                 "name": "ARSAT"
             },
-            "description": "Listado de todos los empleados de ARSAT",
-            "superTheme": [
-                "TECH"
-            ],
-            "title": "Listado de Personal",
-            "issued": "2017-07-31T18:25:05",
-            "modified": "2017-08-01T13:11:14",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "gestion-transparente"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/",
-                    "description": "Listado de todos los empleados de ARSAT",
-                    "title": "Listado de Personal",
-                    "issued": "2017-07-31T18:25:05",
-                    "format": "CSV",
-                    "modified": "2017-08-01T13:11:14",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/",
-                    "description": "Listado de todos los empleados de ARSAT",
-                    "title": "Listado de Personal",
-                    "issued": "2017-07-31T18:25:05",
-                    "format": "XLS",
-                    "modified": "2017-08-01T13:11:14",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/",
-                    "description": "Listado de todos los empleados de ARSAT",
-                    "title": "Listado de Personal",
-                    "issued": "2017-07-31T18:25:05",
-                    "format": "JSON",
-                    "modified": "2017-08-01T13:11:14",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/LISTA-DE-PERSO-98437/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "identifier": "LISTA-DE-PERSO-98437",
-            "homepage": "http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
             "description": "La tabla muestra el número de empleados de ARSAT  que desarrollan sus tareas en la Estación Terrena en Benavidez y cuantos en el interior del país.",
             "superTheme": [
                 "TECH"
@@ -941,10 +927,7 @@
                 "gestion-transparente"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "Personal"
-            ],
+            "keywords": [],
             "distribution": [
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238096/personal-de-arsat-segun-zona-laboral/",
@@ -996,10 +979,7 @@
                 "gestion-transparente"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ARSAT",
-                "Personal"
-            ],
+            "keywords": [],
             "distribution": [
                 {
                     "accessURL": "http://datos.arsat.com.ar/dataviews/238113/personal-por-gerencia-distinguido-por-genero/",
