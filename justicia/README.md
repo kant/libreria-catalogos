@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 30
-- **Cantidad Total de Distribuciones**: 195
+- **Cantidad Total de Datasets**: 29
+- **Cantidad Total de Distribuciones**: 179
 
-- **Cantidad de Datasets Federados**: 19
+- **Cantidad de Datasets Federados**: 18
 - **Cantidad de Datasets NO Federados**: 11
-- **Porcentaje de Datasets NO Federados**: 36.67%
+- **Porcentaje de Datasets NO Federados**: 37.93%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -61,7 +61,6 @@
 - [Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-](http://www.jus.gob.ar/derechoshumanos/areas-tematicas/ruvte.aspx)
 - [Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP]()
 - [Solicitudes de Condición de Legítimo Usuario de Armas de Fuego]()
-- [Solicitudes de Autorización de Portación de Armas de Fuego]()
 - [Tesauro SAIJ de Derecho Argentino]()
 
 ## Reporte
