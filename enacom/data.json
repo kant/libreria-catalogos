@@ -85,6 +85,116 @@
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
+            "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
+            "superTheme": [
+                "TECH"
+            ],
+            "title": "Portabilidad numérica móvil: altas mensuales por operador",
+            "issued": "2017-08-22T16:32:31",
+            "modified": "2017-08-22T16:32:34",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "Telefonia movil",
+                "portabilidad"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
+                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
+                    "issued": "2017-08-22T16:32:31",
+                    "format": "CSV",
+                    "modified": "2017-08-22T16:32:34",
+                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
+                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
+                    "issued": "2017-08-22T16:32:31",
+                    "format": "XLS",
+                    "modified": "2017-08-22T16:32:34",
+                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
+                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
+                    "issued": "2017-08-22T16:32:31",
+                    "format": "JSON",
+                    "modified": "2017-08-22T16:32:34",
+                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611"
+                }
+            ],
+            "identifier": "PORTA-NUMER-MOVIL-ALTAS-MENSU",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
+            "superTheme": [
+                "TECH"
+            ],
+            "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+            "issued": "2017-08-02T18:52:25",
+            "modified": "2017-08-22T16:31:06",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "keywords": [
+                "Telefonia movil",
+                "portabilidad"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
+                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+                    "issued": "2017-08-02T18:52:25",
+                    "format": "CSV",
+                    "modified": "2017-08-22T16:31:06",
+                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
+                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+                    "issued": "2017-08-02T18:52:25",
+                    "format": "XLS",
+                    "modified": "2017-08-22T16:31:06",
+                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
+                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+                    "issued": "2017-08-02T18:52:25",
+                    "format": "JSON",
+                    "modified": "2017-08-22T16:31:06",
+                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611"
+                }
+            ],
+            "identifier": "PORTA-NUMER-MOVIL-ALTAS-Y",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
             "description": "Número mensual de denuncias recibidas por delegación de Enacom",
             "superTheme": [
                 "TECH"
@@ -629,61 +739,6 @@
             ],
             "identifier": "NUMER-MENSU-DE-RECLA-88502",
             "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240263/reclamos-mensuales-recibidos-por-motivo-de-reclamo/"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
-            "superTheme": [
-                "TECH"
-            ],
-            "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-            "issued": "2017-08-02T18:52:25",
-            "modified": "2017-08-02T18:52:30",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Telefonia movil",
-                "portabilidad"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
-                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-                    "issued": "2017-08-02T18:52:25",
-                    "format": "CSV",
-                    "modified": "2017-08-02T18:52:30",
-                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
-                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-                    "issued": "2017-08-02T18:52:25",
-                    "format": "XLS",
-                    "modified": "2017-08-02T18:52:30",
-                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
-                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-                    "issued": "2017-08-02T18:52:25",
-                    "format": "JSON",
-                    "modified": "2017-08-02T18:52:30",
-                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611"
-                }
-            ],
-            "identifier": "PORTA-NUMER-MOVIL-ALTAS-Y",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/"
         },
         {
             "publisher": {
