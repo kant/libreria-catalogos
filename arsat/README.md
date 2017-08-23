@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 41
-- **Cantidad Total de Distribuciones**: 123
+- **Cantidad Total de Datasets**: 42
+- **Cantidad Total de Distribuciones**: 126
 
 - **Cantidad de Datasets Federados**: 28
-- **Cantidad de Datasets NO Federados**: 13
-- **Porcentaje de Datasets NO Federados**: 31.71%
+- **Cantidad de Datasets NO Federados**: 14
+- **Porcentaje de Datasets NO Federados**: 33.33%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -29,6 +29,7 @@
 ## Datasets no federados
 
 - [Registro de Visitas](None)
+- [Puntos de Conexión al Plan Federal de Internet por provincia](None)
 - [Personal de ARSAT según zona laboral](None)
 - [Personal por Gerencia distinguido por género](None)
 - [Personal de ARSAT según contrato laboral](None)
@@ -45,6 +46,7 @@
 ## Datasets federados
 
 - [Registro de Audiencias](None)
+- [Futuros puntos de conexión al Plan Federal de Internet](None)
 - [Coordenadas de la red de fibra óptica en servicio](None)
 - [Personal por Gerencia](None)
 - [Promedios de edad y antigüedad del personal](None)
@@ -56,7 +58,6 @@
 - [Datos de uso de la plataforma](None)
 - [Escuelas Conectadas con Tecnología Gillat](None)
 - [Listado de Proveedores](None)
-- [Futuros puntos de conexión al Plan Federal de Internet](None)
 - [Honorarios de Directores](None)
 - [Categorías y escalas salariales](None)
 - [Áreas de cobertura de la televisión digital abierta](None)
