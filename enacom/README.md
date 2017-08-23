@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: OK
 - **Estado metadatos catálogo**: OK
-- **Cantidad Total de Datasets**: 61
-- **Cantidad Total de Distribuciones**: 183
+- **Cantidad Total de Datasets**: 62
+- **Cantidad Total de Distribuciones**: 186
 
 - **Cantidad de Datasets Federados**: 36
-- **Cantidad de Datasets NO Federados**: 25
-- **Porcentaje de Datasets NO Federados**: 40.98%
+- **Cantidad de Datasets NO Federados**: 26
+- **Porcentaje de Datasets NO Federados**: 41.94%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -28,6 +28,7 @@
 
 ## Datasets no federados
 
+- [Portabilidad numérica móvil: altas mensuales por operador](None)
 - [Denuncias recibidas por delegación (año corrido)](None)
 - [Reclamos por motivo de reclamación (año corrido)](None)
 - [Operadores con el mayor número de reclamos recibidos, servicio de Internet fijo](None)
@@ -56,11 +57,11 @@
 
 ## Datasets federados
 
+- [Portabilidad numérica móvil: portaciones netas mensuales por operador](None)
 - [Denuncias mensuales recibidas](None)
 - [Reclamos mensuales por tipo de servicio](None)
 - [Reclamos por operador y motivo de reclamo](None)
 - [Reclamos mensuales recibidos por motivo de reclamo](None)
-- [Portabilidad numérica móvil: portaciones netas mensuales por operador](None)
 - [Licenciatarios TIC](None)
 - [Accesos de televisión por suscripción por provincia](None)
 - [Ingresos trimestrales por la prestación del servicio de telefonía fija](None)

@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 41
-- **Cantidad Total de Distribuciones**: 123
+- **Cantidad Total de Datasets**: 42
+- **Cantidad Total de Distribuciones**: 126
 
 - **Cantidad de Datasets Federados**: 28
-- **Cantidad de Datasets NO Federados**: 13
-- **Porcentaje de Datasets NO Federados**: 31.71%
+- **Cantidad de Datasets NO Federados**: 14
+- **Porcentaje de Datasets NO Federados**: 33.33%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -29,15 +29,16 @@
 ## Datasets no federados
 
 - [Registro de Visitas](None)
-- [Cantidad de clientes por provincia](None)
-- [Cantidad Total de Megabits en servicio por provincia](None)
-- [Porcentaje de avance del Plan](None)
-- [Total de personal por género](None)
-- [Personal de ARSAT según contrato laboral](None)
-- [Personal de ARSAT asignado a áreas operativas o de soporte](None)
-- [Personal por provincia](None)
+- [Puntos de Conexión al Plan Federal de Internet por provincia](None)
 - [Personal de ARSAT según zona laboral](None)
 - [Personal por Gerencia distinguido por género](None)
+- [Personal de ARSAT según contrato laboral](None)
+- [Total de personal por género](None)
+- [Personal de ARSAT asignado a áreas operativas o de soporte](None)
+- [Personal por provincia](None)
+- [Cantidad Total de Megabits en servicio por provincia](None)
+- [Cantidad de clientes por provincia](None)
+- [Porcentaje de avance del Plan](None)
 - [Fibra óptica próxima a iluminar](None)
 - [Datos del área de cobertura de la Banda KU del satélite ARSAT-1](None)
 - [Salarios Gerentes](None)
@@ -45,17 +46,18 @@
 ## Datasets federados
 
 - [Registro de Audiencias](None)
+- [Futuros puntos de conexión al Plan Federal de Internet](None)
+- [Coordenadas de la red de fibra óptica en servicio](None)
+- [Personal por Gerencia](None)
+- [Promedios de edad y antigüedad del personal](None)
+- [Listado de Personal](None)
+- [Puntos de conexión al Plan Federal de Internet](None)
 - [Licitaciones](None)
 - [Escuelas conectadas](None)
 - [Escuelas de próxima conexión](None)
-- [Promedios de edad y antigüedad del personal](None)
-- [Personal por Gerencia](None)
-- [Listado de Personal](None)
 - [Datos de uso de la plataforma](None)
 - [Escuelas Conectadas con Tecnología Gillat](None)
 - [Listado de Proveedores](None)
-- [Futuros puntos de conexión al Plan Federal de Internet](None)
-- [Puntos de conexión al Plan Federal de Internet](None)
 - [Honorarios de Directores](None)
 - [Categorías y escalas salariales](None)
 - [Áreas de cobertura de la televisión digital abierta](None)
@@ -65,7 +67,6 @@
 - [Datos de las estaciones de transmisión en construcción o planificadas](None)
 - [Datos de las estaciones transmisoras](None)
 - [Fibra óptica tendida](None)
-- [Coordenadas de la red de fibra óptica en servicio](None)
 - [Ejecuciones Presupuestarias 2016](None)
 - [Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica](None)
 - [Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América](None)

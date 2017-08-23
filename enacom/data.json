@@ -85,9 +85,122 @@
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número mensual de denuncias recibidas por delegación de Enacom",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil",
+                "portabilidad"
+            ],
+            "title": "Portabilidad numérica móvil: altas mensuales por operador",
+            "issued": "2017-08-22T16:32:31",
+            "modified": "2017-08-22T16:32:34",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
+                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
+                    "issued": "2017-08-22T16:32:31",
+                    "format": "CSV",
+                    "modified": "2017-08-22T16:32:34",
+                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
+                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
+                    "issued": "2017-08-22T16:32:31",
+                    "format": "XLS",
+                    "modified": "2017-08-22T16:32:34",
+                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
+                    "description": "Número de altas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: altas mensuales por operador",
+                    "issued": "2017-08-22T16:32:31",
+                    "format": "JSON",
+                    "modified": "2017-08-22T16:32:34",
+                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-MENSU/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611"
+                }
+            ],
+            "identifier": "PORTA-NUMER-MOVIL-ALTAS-MENSU",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241761/portabilidad-numerica-movil-altas-mensuales-por-operador/",
+            "description": "Número de altas mensuales de la portabilidad numérica móvil por operador"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil",
+                "portabilidad"
+            ],
+            "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+            "issued": "2017-08-02T18:52:25",
+            "modified": "2017-08-22T16:31:06",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "telefonia-movil"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
+                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+                    "issued": "2017-08-02T18:52:25",
+                    "format": "CSV",
+                    "modified": "2017-08-22T16:31:06",
+                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
+                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+                    "issued": "2017-08-02T18:52:25",
+                    "format": "XLS",
+                    "modified": "2017-08-22T16:31:06",
+                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
+                },
+                {
+                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
+                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
+                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
+                    "issued": "2017-08-02T18:52:25",
+                    "format": "JSON",
+                    "modified": "2017-08-22T16:31:06",
+                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611"
+                }
+            ],
+            "identifier": "PORTA-NUMER-MOVIL-ALTAS-Y",
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
+            "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador"
+        },
+        {
+            "publisher": {
+                "mbox": "contacto@enacom.gob.ar",
+                "name": "Ente Nacional de Comunicaciones (ENACOM)"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "denuncias",
+                "reclamos"
             ],
             "title": "Denuncias mensuales recibidas",
             "issued": "2017-07-07T14:36:23",
@@ -99,10 +212,6 @@
                 "denuncias-y-reclamos"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "denuncias",
-                "reclamos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240261/denuncias-mensuales-recibidas/",
@@ -133,16 +242,20 @@
                 }
             ],
             "identifier": "NUMER-MENSU-DE-DENUN",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240261/denuncias-mensuales-recibidas/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240261/denuncias-mensuales-recibidas/",
+            "description": "Número mensual de denuncias recibidas por delegación de Enacom"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número de denuncias recibidas por cada delegación de Enacom en lo corrido del año",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "denuncias",
+                "reclamos"
             ],
             "title": "Denuncias recibidas por delegación (año corrido)",
             "issued": "2017-07-17T12:46:23",
@@ -154,10 +267,6 @@
                 "denuncias-y-reclamos"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "denuncias",
-                "reclamos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240970/denuncias-recibidas-por-delegacion-ano-corrido/",
@@ -188,16 +297,20 @@
                 }
             ],
             "identifier": "DENUN-RECIB-POR-DELEG-ANO",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240970/denuncias-recibidas-por-delegacion-ano-corrido/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240970/denuncias-recibidas-por-delegacion-ano-corrido/",
+            "description": "Número de denuncias recibidas por cada delegación de Enacom en lo corrido del año"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número de reclamos recibidos por motivo de reclamación en lo corrido del año",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "denuncias",
+                "reclamos"
             ],
             "title": "Reclamos por motivo de reclamación (año corrido)",
             "issued": "2017-07-17T13:01:41",
@@ -209,10 +322,6 @@
                 "denuncias-y-reclamos"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "denuncias",
-                "reclamos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240787/reclamos-por-motivo-de-reclamacion-ano-corrido/",
@@ -243,16 +352,20 @@
                 }
             ],
             "identifier": "TOTAL-DE-RECLA-POR-TIPO",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240787/reclamos-por-motivo-de-reclamacion-ano-corrido/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240787/reclamos-por-motivo-de-reclamacion-ano-corrido/",
+            "description": "Número de reclamos recibidos por motivo de reclamación en lo corrido del año"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número mensual de reclamos recibidos por tipo de servicio",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "denuncias",
+                "reclamos"
             ],
             "title": "Reclamos mensuales por tipo de servicio",
             "issued": "2017-07-26T14:11:00",
@@ -264,10 +377,6 @@
                 "denuncias-y-reclamos"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "denuncias",
-                "reclamos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241297/reclamos-mensuales-por-tipo-de-servicio/",
@@ -298,16 +407,20 @@
                 }
             ],
             "identifier": "RECLA-MENSU-POR-TIPO-DE",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241297/reclamos-mensuales-por-tipo-de-servicio/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241297/reclamos-mensuales-por-tipo-de-servicio/",
+            "description": "Número mensual de reclamos recibidos por tipo de servicio"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número mensual de reclamos recibidos por motivo de reclamación y operador del servicio",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "denuncias",
+                "reclamos"
             ],
             "title": "Reclamos por operador y motivo de reclamo",
             "issued": "2017-07-24T13:31:06",
@@ -319,10 +432,6 @@
                 "denuncias-y-reclamos"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "denuncias",
-                "reclamos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241161/reclamos-por-operador-y-motivo-de-reclamo/",
@@ -353,16 +462,20 @@
                 }
             ],
             "identifier": "RECLA-POR-OPERA-ANO-CORRI",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241161/reclamos-por-operador-y-motivo-de-reclamo/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241161/reclamos-por-operador-y-motivo-de-reclamo/",
+            "description": "Número mensual de reclamos recibidos por motivo de reclamación y operador del servicio"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número de reclamos recibidos sobre los operadores con más reclamos recibidos por el servicio de Internet fijo (año corrido)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "denuncias",
+                "reclamos"
             ],
             "title": "Operadores con el mayor número de reclamos recibidos, servicio de Internet fijo",
             "issued": "2017-07-26T14:17:38",
@@ -374,10 +487,6 @@
                 "denuncias-y-reclamos"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "denuncias",
-                "reclamos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241299/operadores-con-el-mayor-numero-de-reclamos-recibidos-servicio-de-internet-fijo/",
@@ -408,16 +517,20 @@
                 }
             ],
             "identifier": "OPERA-CON-EL-MAYOR-NUMER",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241299/operadores-con-el-mayor-numero-de-reclamos-recibidos-servicio-de-internet-fijo/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241299/operadores-con-el-mayor-numero-de-reclamos-recibidos-servicio-de-internet-fijo/",
+            "description": "Número de reclamos recibidos sobre los operadores con más reclamos recibidos por el servicio de Internet fijo (año corrido)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número de reclamos recibidos por tipo de servicio en lo corrido del año",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "denuncias",
+                "reclamos"
             ],
             "title": "Reclamos por tipo de servicio (año corrido)",
             "issued": "2017-07-26T14:13:20",
@@ -429,10 +542,6 @@
                 "denuncias-y-reclamos"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "denuncias",
-                "reclamos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241298/reclamos-por-tipo-de-servicio-ano-corrido/",
@@ -463,16 +572,20 @@
                 }
             ],
             "identifier": "RECLA-POR-TIPO-DE-SERVI",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241298/reclamos-por-tipo-de-servicio-ano-corrido/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241298/reclamos-por-tipo-de-servicio-ano-corrido/",
+            "description": "Número de reclamos recibidos por tipo de servicio en lo corrido del año"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número de reclamos recibidos sobre los operadores con más reclamos recibidos por el servicio de telefonía fija (año corrido)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "denuncias",
+                "reclamos"
             ],
             "title": "Operadores con el mayor número de reclamos recibidos, servicio de telefonía fija",
             "issued": "2017-07-26T14:20:14",
@@ -484,10 +597,6 @@
                 "denuncias-y-reclamos"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "denuncias",
-                "reclamos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241301/operadores-con-el-mayor-numero-de-reclamos-recibidos-servicio-de-telefonia-fija/",
@@ -518,16 +627,20 @@
                 }
             ],
             "identifier": "OPERA-CON-EL-MAYOR-65162",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241301/operadores-con-el-mayor-numero-de-reclamos-recibidos-servicio-de-telefonia-fija/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241301/operadores-con-el-mayor-numero-de-reclamos-recibidos-servicio-de-telefonia-fija/",
+            "description": "Número de reclamos recibidos sobre los operadores con más reclamos recibidos por el servicio de telefonía fija (año corrido)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número de reclamos recibidos sobre los operadores con más reclamos recibidos por el servicio de telefonía móvil (año corrido)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "denuncias",
+                "reclamos"
             ],
             "title": "Operadores con el mayor número de reclamos recibidos,servicio de telefonía móvil",
             "issued": "2017-07-26T14:22:24",
@@ -539,10 +652,6 @@
                 "denuncias-y-reclamos"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "denuncias",
-                "reclamos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241303/operadores-con-el-mayor-numero-de-reclamos-recibidosservicio-de-telefonia-movil/",
@@ -573,16 +682,20 @@
                 }
             ],
             "identifier": "OPERA-CON-EL-MAYOR-16582",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241303/operadores-con-el-mayor-numero-de-reclamos-recibidosservicio-de-telefonia-movil/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241303/operadores-con-el-mayor-numero-de-reclamos-recibidosservicio-de-telefonia-movil/",
+            "description": "Número de reclamos recibidos sobre los operadores con más reclamos recibidos por el servicio de telefonía móvil (año corrido)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número mensual de reclamos recibidos por tipo de reclamo",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "denuncias",
+                "reclamos"
             ],
             "title": "Reclamos mensuales recibidos por motivo de reclamo",
             "issued": "2017-07-27T18:29:20",
@@ -594,10 +707,6 @@
                 "denuncias-y-reclamos"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "denuncias",
-                "reclamos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240263/reclamos-mensuales-recibidos-por-motivo-de-reclamo/",
@@ -628,71 +737,19 @@
                 }
             ],
             "identifier": "NUMER-MENSU-DE-RECLA-88502",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240263/reclamos-mensuales-recibidos-por-motivo-de-reclamo/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240263/reclamos-mensuales-recibidos-por-motivo-de-reclamo/",
+            "description": "Número mensual de reclamos recibidos por tipo de reclamo"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
             "superTheme": [
                 "TECH"
             ],
-            "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-            "issued": "2017-08-02T18:52:25",
-            "modified": "2017-08-02T18:52:30",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "telefonia-movil"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Telefonia movil",
-                "portabilidad"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
-                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-                    "issued": "2017-08-02T18:52:25",
-                    "format": "CSV",
-                    "modified": "2017-08-02T18:52:30",
-                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
-                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-                    "issued": "2017-08-02T18:52:25",
-                    "format": "XLS",
-                    "modified": "2017-08-02T18:52:30",
-                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1"
-                },
-                {
-                    "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/",
-                    "description": "Diferencia entre las altas y bajas mensuales de la portabilidad numérica móvil por operador",
-                    "title": "Portabilidad numérica móvil: portaciones netas mensuales por operador",
-                    "issued": "2017-08-02T18:52:25",
-                    "format": "JSON",
-                    "modified": "2017-08-02T18:52:30",
-                    "downloadURL": "http://enacom.cloudapi.junar.com/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611"
-                }
-            ],
-            "identifier": "PORTA-NUMER-MOVIL-ALTAS-Y",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240983/portabilidad-numerica-movil-portaciones-netas-mensuales-por-operador/"
-        },
-        {
-            "publisher": {
-                "mbox": "contacto@enacom.gob.ar",
-                "name": "Ente Nacional de Comunicaciones (ENACOM)"
-            },
-            "description": "Listado de licencias de operadores de TIC",
-            "superTheme": [
-                "TECH"
+            "keyword": [
+                "licencias"
             ],
             "title": "Licenciatarios TIC",
             "issued": "2017-08-01T19:39:30",
@@ -704,9 +761,6 @@
                 "licencias"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "licencias"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241430/licenciatarios-tic/",
@@ -737,16 +791,22 @@
                 }
             ],
             "identifier": "LICEN-TIC",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241430/licenciatarios-tic/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241430/licenciatarios-tic/",
+            "description": "Listado de licencias de operadores de TIC"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número total de accesos al servicio de Internet fijo por velocidad de bajada (trimestral)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Internet",
+                "banda ancha",
+                "banda angosta",
+                "provincial"
             ],
             "title": "Total nacional de accesos a Internet fijo por velocidad de bajada",
             "issued": "2017-08-01T17:06:16",
@@ -758,12 +818,6 @@
                 "acceso-a-internet"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Internet",
-                "banda ancha",
-                "banda angosta",
-                "provincial"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241420/total-nacional-de-accesos-a-internet-fijo-por-velocidad-de-bajada/",
@@ -794,16 +848,20 @@
                 }
             ],
             "identifier": "TOTAL-NACIO-DE-ACCES-32663",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241420/total-nacional-de-accesos-a-internet-fijo-por-velocidad-de-bajada/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241420/total-nacional-de-accesos-a-internet-fijo-por-velocidad-de-bajada/",
+            "description": "Número total de accesos al servicio de Internet fijo por velocidad de bajada (trimestral)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número de accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros) (trimestral)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "telefonia fija",
+                "provincial"
             ],
             "title": "Accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros)",
             "issued": "2017-07-26T15:18:54",
@@ -815,10 +873,6 @@
                 "telefonia-fija"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "telefonia fija",
-                "provincial"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241309/accesos-de-telefonia-fija-por-provincia-hogares-comerciales-gobierno-y-otros/",
@@ -849,16 +903,21 @@
                 }
             ],
             "identifier": "ACCES-DE-TELEF-FIJA-POR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241309/accesos-de-telefonia-fija-por-provincia-hogares-comerciales-gobierno-y-otros/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241309/accesos-de-telefonia-fija-por-provincia-hogares-comerciales-gobierno-y-otros/",
+            "description": "Número de accesos de telefonía fija por provincia (hogares, comerciales, gobierno y otros) (trimestral)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes.",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil",
+                "4G",
+                "provincial"
             ],
             "title": "Número de radiobases 4G por provincia por cada 100 mil habitantes",
             "issued": "2017-07-26T15:01:52",
@@ -870,11 +929,6 @@
                 "telefonia-movil"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Telefonia movil",
-                "4G",
-                "provincial"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
@@ -905,16 +959,21 @@
                 }
             ],
             "identifier": "NUMER-DE-RADIO-4G-POR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241306/numero-de-radiobases-4g-por-provincia-por-cada-100-mil-habitantes/",
+            "description": "Número de radiobases 4G por provincia por cada 100 mil habitantes."
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número de radiobases 4G desplegadas por los operadores",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil",
+                "4G",
+                "provincial"
             ],
             "title": "Radiobases 4G desplegadas por trimestre y provincia",
             "issued": "2017-07-26T14:58:56",
@@ -926,11 +985,6 @@
                 "telefonia-movil"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Telefonia movil",
-                "4G",
-                "provincial"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
@@ -961,16 +1015,20 @@
                 }
             ],
             "identifier": "RADIO-4G-DESPL-POR-TRIME",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
+            "description": "Número de radiobases 4G desplegadas por los operadores"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número de accesos de televisión por suscripción por provincia (trimestral)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "televisión por suscripción",
+                "provincial"
             ],
             "title": "Accesos de televisión por suscripción por provincia",
             "issued": "2017-07-26T17:20:16",
@@ -982,10 +1040,6 @@
                 "tv-por-suscripcion"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "televisión por suscripción",
-                "provincial"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241320/accesos-de-television-por-suscripcion-por-provincia/",
@@ -1016,16 +1070,20 @@
                 }
             ],
             "identifier": "ACCES-DE-TELEV-POR-SUSCR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241320/accesos-de-television-por-suscripcion-por-provincia/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241320/accesos-de-television-por-suscripcion-por-provincia/",
+            "description": "Número de accesos de televisión por suscripción por provincia (trimestral)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Ingresos trimestrales de los operadores por el servicio de telefonía fija (miles de $)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "telefonia fija",
+                "ingresos"
             ],
             "title": "Ingresos trimestrales por la prestación del servicio de telefonía fija",
             "issued": "2017-07-26T17:03:46",
@@ -1037,10 +1095,6 @@
                 "telefonia-fija"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "telefonia fija",
-                "ingresos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241318/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-fija/",
@@ -1071,16 +1125,22 @@
                 }
             ],
             "identifier": "INGRE-TRIME-POR-LA-96059",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241318/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-fija/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241318/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-fija/",
+            "description": "Ingresos trimestrales de los operadores por el servicio de telefonía fija (miles de $)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Penetración por provincia del servicio de telefonía fija (métrica: hogares y habitantes)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "telefonia fija",
+                "provincial",
+                "penetración",
+                "ingresos"
             ],
             "title": "Penetración provincial de la telefonía fija",
             "issued": "2017-07-26T16:53:47",
@@ -1092,12 +1152,6 @@
                 "telefonia-fija"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "telefonia fija",
-                "provincial",
-                "penetración",
-                "ingresos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241315/penetracion-provincial-de-la-telefonia-fija/",
@@ -1128,16 +1182,20 @@
                 }
             ],
             "identifier": "PENET-PROVI-DE-LA-TELEF",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241315/penetracion-provincial-de-la-telefonia-fija/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241315/penetracion-provincial-de-la-telefonia-fija/",
+            "description": "Penetración por provincia del servicio de telefonía fija (métrica: hogares y habitantes)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Penetración total nacional de la telefonía fija por trimestre (métrica: hogares y habitantes)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "telefonia fija",
+                "penetración"
             ],
             "title": "Penetración total nacional de la telefonía fija por trimestre",
             "issued": "2017-07-26T17:01:43",
@@ -1149,10 +1207,6 @@
                 "telefonia-fija"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "telefonia fija",
-                "penetración"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241316/penetracion-total-nacional-de-la-telefonia-fija-por-trimestre/",
@@ -1183,16 +1237,19 @@
                 }
             ],
             "identifier": "PENET-TOTAL-NACIO-DE-LA",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241316/penetracion-total-nacional-de-la-telefonia-fija-por-trimestre/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241316/penetracion-total-nacional-de-la-telefonia-fija-por-trimestre/",
+            "description": "Penetración total nacional de la telefonía fija por trimestre (métrica: hogares y habitantes)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número total de accesos al servicio de telefonía fija (hogares, comerciales, gobierno y otros) (trimestral)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "telefonia fija"
             ],
             "title": "Total nacional de accesos a telefonía fija",
             "issued": "2017-07-26T16:42:13",
@@ -1204,9 +1261,6 @@
                 "telefonia-fija"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "telefonia fija"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241314/total-nacional-de-accesos-a-telefonia-fija/",
@@ -1237,17 +1291,18 @@
                 }
             ],
             "identifier": "TOTAL-NACIO-DE-ACCES-18734",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241314/total-nacional-de-accesos-a-telefonia-fija/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241314/total-nacional-de-accesos-a-telefonia-fija/",
+            "description": "Número total de accesos al servicio de telefonía fija (hogares, comerciales, gobierno y otros) (trimestral)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Montos aprobados y pagados a las entidades beneficiadas por el programa Fomeca desde diciembre de 2015 (corte junio 30 de 2017)",
             "superTheme": [
                 "TECH"
             ],
+            "keyword": [],
             "title": "Fomeca: montos aprobados y pagados por entidad beneficiada",
             "issued": "2017-07-31T19:46:21",
             "modified": "2017-08-01T17:01:28",
@@ -1258,7 +1313,6 @@
                 "fomeca"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240985/fomeca-montos-aprobados-y-pagados-por-entidad-beneficiada/",
@@ -1289,16 +1343,21 @@
                 }
             ],
             "identifier": "FOMEC-MONTO-APROB-Y-PAGAD",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240985/fomeca-montos-aprobados-y-pagados-por-entidad-beneficiada/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240985/fomeca-montos-aprobados-y-pagados-por-entidad-beneficiada/",
+            "description": "Montos aprobados y pagados a las entidades beneficiadas por el programa Fomeca desde diciembre de 2015 (corte junio 30 de 2017)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Ingresos trimestrales de los operadores por el servicio de televisión por suscripción y satelital (miles de $)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "televisión por suscripción",
+                "televisión satelital",
+                "ingresos"
             ],
             "title": "Ingresos trimestrales por la prestación de los servicios de televisión",
             "issued": "2017-07-26T17:24:47",
@@ -1310,11 +1369,6 @@
                 "tv-por-suscripcion"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "televisión por suscripción",
-                "televisión satelital",
-                "ingresos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241325/ingresos-trimestrales-por-la-prestacion-de-los-servicios-de-television/",
@@ -1345,16 +1399,21 @@
                 }
             ],
             "identifier": "INGRE-TRIME-POR-LA-86109",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241325/ingresos-trimestrales-por-la-prestacion-de-los-servicios-de-television/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241325/ingresos-trimestrales-por-la-prestacion-de-los-servicios-de-television/",
+            "description": "Ingresos trimestrales de los operadores por el servicio de televisión por suscripción y satelital (miles de $)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Penetración por provincia del servicio de televisión por suscripción (métrica: hogares y habitantes)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "televisión por suscripción",
+                "televisión satelital",
+                "penetración"
             ],
             "title": "Penetración provincial de la televisión por suscripción",
             "issued": "2017-07-26T17:28:25",
@@ -1366,11 +1425,6 @@
                 "tv-por-suscripcion"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "televisión por suscripción",
-                "televisión satelital",
-                "penetración"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241326/penetracion-provincial-de-la-television-por-suscripcion/",
@@ -1401,16 +1455,21 @@
                 }
             ],
             "identifier": "PENET-PROVI-DE-LA-TELEV",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241326/penetracion-provincial-de-la-television-por-suscripcion/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241326/penetracion-provincial-de-la-television-por-suscripcion/",
+            "description": "Penetración por provincia del servicio de televisión por suscripción (métrica: hogares y habitantes)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Penetración total nacional de la televisión por suscripción y satelital (métrica: hogares y habitantes)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "televisión por suscripción",
+                "televisión satelital",
+                "penetración"
             ],
             "title": "Penetración total nacional de la televisión por suscripción y satelital",
             "issued": "2017-07-26T17:44:57",
@@ -1422,11 +1481,6 @@
                 "tv-por-suscripcion"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "televisión por suscripción",
-                "televisión satelital",
-                "penetración"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241328/penetracion-total-nacional-de-la-television-por-suscripcion-y-satelital/",
@@ -1457,16 +1511,20 @@
                 }
             ],
             "identifier": "PENET-TOTAL-NACIO-DE-55233",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241328/penetracion-total-nacional-de-la-television-por-suscripcion-y-satelital/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241328/penetracion-total-nacional-de-la-television-por-suscripcion-y-satelital/",
+            "description": "Penetración total nacional de la televisión por suscripción y satelital (métrica: hogares y habitantes)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número total de acesos a televisión por suscripción y satelital (trimestral)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "televisión por suscripción",
+                "televisión satelital"
             ],
             "title": "Total nacional de accesos a televisión por suscripción y televisión satelital",
             "issued": "2017-07-26T17:21:45",
@@ -1478,10 +1536,6 @@
                 "tv-por-suscripcion"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "televisión por suscripción",
-                "televisión satelital"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241322/total-nacional-de-accesos-a-television-por-suscripcion-y-television-satelital/",
@@ -1512,16 +1566,20 @@
                 }
             ],
             "identifier": "TOTAL-NACIO-DE-ACCES-40941",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241322/total-nacional-de-accesos-a-television-por-suscripcion-y-television-satelital/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241322/total-nacional-de-accesos-a-television-por-suscripcion-y-television-satelital/",
+            "description": "Número total de acesos a televisión por suscripción y satelital (trimestral)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Ingresos trimestrales de los operadores por el servicio de telefonía móvil",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil",
+                "ingresos"
             ],
             "title": "Ingresos trimestrales por la prestación del servicio de telefonía móvil",
             "issued": "2017-07-19T18:39:39",
@@ -1533,10 +1591,6 @@
                 "telefonia-movil"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Telefonia movil",
-                "ingresos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241070/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-movil/",
@@ -1567,16 +1621,20 @@
                 }
             ],
             "identifier": "INGRE-TRIME-POR-LA-PREST",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241070/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-movil/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241070/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-movil/",
+            "description": "Ingresos trimestrales de los operadores por el servicio de telefonía móvil"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Penetración del servicio de telefonía móvil (métrica: población)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil",
+                "penetración"
             ],
             "title": "Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes)",
             "issued": "2017-07-24T13:19:12",
@@ -1588,10 +1646,6 @@
                 "telefonia-movil"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Telefonia movil",
-                "penetración"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241158/penetracion-nacional-de-la-telefonia-movil-accesos-por-cada-100-habitantes/",
@@ -1622,16 +1676,19 @@
                 }
             ],
             "identifier": "PENET-NACIO-DE-LA-TELEF",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241158/penetracion-nacional-de-la-telefonia-movil-accesos-por-cada-100-habitantes/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241158/penetracion-nacional-de-la-telefonia-movil-accesos-por-cada-100-habitantes/",
+            "description": "Penetración del servicio de telefonía móvil (métrica: población)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número total de accesos al servicio de telefonía móvil (trimestral)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil"
             ],
             "title": "Total nacional de accesos a telefonía móvil",
             "issued": "2017-07-24T13:22:33",
@@ -1643,9 +1700,6 @@
                 "telefonia-movil"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Telefonia movil"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241160/total-nacional-de-accesos-a-telefonia-movil/",
@@ -1676,16 +1730,19 @@
                 }
             ],
             "identifier": "TOTAL-NACIO-DE-ACCES-52199",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241160/total-nacional-de-accesos-a-telefonia-movil/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241160/total-nacional-de-accesos-a-telefonia-movil/",
+            "description": "Número total de accesos al servicio de telefonía móvil (trimestral)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Miles de minutos originados trimestralmente en terminales móviles",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil"
             ],
             "title": "Telefonía móvil: minutos salientes (miles)",
             "issued": "2017-07-17T15:43:58",
@@ -1697,9 +1754,6 @@
                 "telefonia-movil"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Telefonia movil"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240992/telefonia-movil-minutos-salientes-miles/",
@@ -1730,16 +1784,20 @@
                 }
             ],
             "identifier": "TELEF-MOVIL-MINUT-SALIE-MILES",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240992/telefonia-movil-minutos-salientes-miles/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240992/telefonia-movil-minutos-salientes-miles/",
+            "description": "Miles de minutos originados trimestralmente en terminales móviles"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número trimestral de mensajes cortos de texto enviados",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil",
+                "SMS"
             ],
             "title": "Número de SMS enviados",
             "issued": "2017-07-17T15:30:38",
@@ -1751,10 +1809,6 @@
                 "telefonia-movil"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Telefonia movil",
-                "SMS"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240989/numero-de-sms-enviados/",
@@ -1785,16 +1839,19 @@
                 }
             ],
             "identifier": "NUMER-DE-SMS-ENVIA",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240989/numero-de-sms-enviados/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240989/numero-de-sms-enviados/",
+            "description": "Número trimestral de mensajes cortos de texto enviados"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número trimestral de llamadas originadas en terminales móviles",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Telefonia movil"
             ],
             "title": "Telefonía móvil: número de llamadas salientes",
             "issued": "2017-07-17T15:40:47",
@@ -1806,9 +1863,6 @@
                 "telefonia-movil"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Telefonia movil"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240991/telefonia-movil-numero-de-llamadas-salientes/",
@@ -1839,16 +1893,21 @@
                 }
             ],
             "identifier": "TELEF-MOVIL-NUMER-DE-LLAMA",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240991/telefonia-movil-numero-de-llamadas-salientes/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240991/telefonia-movil-numero-de-llamadas-salientes/",
+            "description": "Número trimestral de llamadas originadas en terminales móviles"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Penetración del servicio de Internet fijo (métrica: hogares)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Internet",
+                "banda ancha",
+                "penetración"
             ],
             "title": "Penetración del Internet fijo por provincia (accesos por cada 100 hogares)",
             "issued": "2017-07-17T14:12:34",
@@ -1860,11 +1919,6 @@
                 "acceso-a-internet"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Internet",
-                "banda ancha",
-                "penetración"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240980/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-hogares/",
@@ -1895,16 +1949,21 @@
                 }
             ],
             "identifier": "PENET-DEL-INTER-FIJO-51614",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240980/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-hogares/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240980/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-hogares/",
+            "description": "Penetración del servicio de Internet fijo (métrica: hogares)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Ingresos trimestrales de los operadores por el servicio de Internet fijo",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "ingresos",
+                "Internet",
+                "banda ancha"
             ],
             "title": "Ingresos por la operación del servicio de Internet fijo",
             "issued": "2017-07-17T13:45:38",
@@ -1916,11 +1975,6 @@
                 "acceso-a-internet"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "ingresos",
-                "Internet",
-                "banda ancha"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240977/ingresos-por-la-operacion-del-servicio-de-internet-fijo/",
@@ -1951,16 +2005,21 @@
                 }
             ],
             "identifier": "INGRE-POR-LA-OPERA-DEL",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240977/ingresos-por-la-operacion-del-servicio-de-internet-fijo/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240977/ingresos-por-la-operacion-del-servicio-de-internet-fijo/",
+            "description": "Ingresos trimestrales de los operadores por el servicio de Internet fijo"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Penetración del servicio de Internet fijo (métrica: población)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Internet",
+                "banda ancha",
+                "penetración"
             ],
             "title": "Penetración del Internet fijo por provincia (accesos por cada 100 habitantes)",
             "issued": "2017-07-17T14:11:20",
@@ -1972,11 +2031,6 @@
                 "acceso-a-internet"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Internet",
-                "banda ancha",
-                "penetración"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240978/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-habitantes/",
@@ -2007,16 +2061,22 @@
                 }
             ],
             "identifier": "PENET-DEL-INTER-FIJO-POR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240978/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-habitantes/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240978/penetracion-del-internet-fijo-por-provincia-accesos-por-cada-100-habitantes/",
+            "description": "Penetración del servicio de Internet fijo (métrica: población)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Internet",
+                "banda ancha",
+                "banda angosta",
+                "provincial"
             ],
             "title": "Banda ancha y banda angosta por provincia",
             "issued": "2017-07-17T13:26:41",
@@ -2028,12 +2088,6 @@
                 "acceso-a-internet"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Internet",
-                "banda ancha",
-                "banda angosta",
-                "provincial"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240974/banda-ancha-y-banda-angosta-por-provincia/",
@@ -2064,16 +2118,22 @@
                 }
             ],
             "identifier": "BANDA-ANCHA-Y-BANDA-ANGOS",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240974/banda-ancha-y-banda-angosta-por-provincia/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240974/banda-ancha-y-banda-angosta-por-provincia/",
+            "description": "Número de accesos al servicio de Internet fijo por banda ancha y banda angosta en cada provincia (trimestral)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Internet",
+                "banda ancha",
+                "banda angosta",
+                "provincial"
             ],
             "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
             "issued": "2017-07-17T13:36:56",
@@ -2085,12 +2145,6 @@
                 "acceso-a-internet"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Internet",
-                "banda ancha",
-                "banda angosta",
-                "provincial"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
@@ -2121,16 +2175,22 @@
                 }
             ],
             "identifier": "TOTAL-NACIO-DE-ACCES-48866",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
+            "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Consulta las tecnologías disponibles en tu localidad para acceder al servicio de Internet fijo y móvil",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Internet",
+                "banda ancha",
+                "provincial",
+                "Telefonia movil"
             ],
             "title": "Conectividad al servicio de Internet",
             "issued": "2017-07-24T15:04:59",
@@ -2142,12 +2202,6 @@
                 "acceso-a-internet"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Internet",
-                "banda ancha",
-                "provincial",
-                "Telefonia movil"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/",
@@ -2178,16 +2232,21 @@
                 }
             ],
             "identifier": "CONEC-AL-SERVI-DE-INTER",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/",
+            "description": "Consulta las tecnologías disponibles en tu localidad para acceder al servicio de Internet fijo y móvil"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Series trimestrales de la penetración del Internet fijo en las métricas por cada 100 habitantes y por cada 100 hogares",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Internet",
+                "banda ancha",
+                "penetración"
             ],
             "title": "Penetración nacional del Internet fijo",
             "issued": "2017-07-17T14:14:50",
@@ -2199,11 +2258,6 @@
                 "acceso-a-internet"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Internet",
-                "banda ancha",
-                "penetración"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240981/penetracion-nacional-del-internet-fijo/",
@@ -2234,16 +2288,20 @@
                 }
             ],
             "identifier": "PENET-NACIO-DEL-INTER-FIJO",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240981/penetracion-nacional-del-internet-fijo/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240981/penetracion-nacional-del-internet-fijo/",
+            "description": "Series trimestrales de la penetración del Internet fijo en las métricas por cada 100 habitantes y por cada 100 hogares"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Personal ocupado por trimestre en el correo oficial y en operadores postales privados",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "servicios postales",
+                "ocupacion"
             ],
             "title": "Personal ocupado por trimestre en el correo oficial y en operadores privados",
             "issued": "2017-07-24T14:54:17",
@@ -2255,10 +2313,6 @@
                 "servicios-postales"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "servicios postales",
-                "ocupacion"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241174/personal-ocupado-por-trimestre-en-el-correo-oficial-y-en-operadores-privados/",
@@ -2289,16 +2343,20 @@
                 }
             ],
             "identifier": "PERSO-OCUPA-POR-TRIME-EN",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241174/personal-ocupado-por-trimestre-en-el-correo-oficial-y-en-operadores-privados/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241174/personal-ocupado-por-trimestre-en-el-correo-oficial-y-en-operadores-privados/",
+            "description": "Personal ocupado por trimestre en el correo oficial y en operadores postales privados"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Unidades trimestrales de servicios postales del correo oficial y operadores privados por provincia",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "servicios postales",
+                "provincial"
             ],
             "title": "Unidades trimestrales vendidas de servicios postales, correo oficial y privados",
             "issued": "2017-07-24T14:52:14",
@@ -2310,10 +2368,6 @@
                 "servicios-postales"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "servicios postales",
-                "provincial"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241173/unidades-trimestrales-vendidas-de-servicios-postales-correo-oficial-y-privados/",
@@ -2344,16 +2398,21 @@
                 }
             ],
             "identifier": "UNIDA-TRIME-VENDI-DE-43333",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241173/unidades-trimestrales-vendidas-de-servicios-postales-correo-oficial-y-privados/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241173/unidades-trimestrales-vendidas-de-servicios-postales-correo-oficial-y-privados/",
+            "description": "Unidades trimestrales de servicios postales del correo oficial y operadores privados por provincia"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Ventas trimestrales de servicios postales del correo oficial y operadores privados (en $) por provincia",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "servicios postales",
+                "ingresos",
+                "provincial"
             ],
             "title": "Ventas trimestrales de servicios postales del correo oficial y privados",
             "issued": "2017-07-24T14:41:41",
@@ -2365,11 +2424,6 @@
                 "servicios-postales"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "servicios postales",
-                "ingresos",
-                "provincial"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241171/ventas-trimestrales-de-servicios-postales-del-correo-oficial-y-privados/",
@@ -2400,16 +2454,20 @@
                 }
             ],
             "identifier": "VENTA-TRIME-DE-SERVI-37520",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241171/ventas-trimestrales-de-servicios-postales-del-correo-oficial-y-privados/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241171/ventas-trimestrales-de-servicios-postales-del-correo-oficial-y-privados/",
+            "description": "Ventas trimestrales de servicios postales del correo oficial y operadores privados (en $) por provincia"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Unidades mensuales de servicios monetarios postales del correo oficial",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "servicios postales",
+                "servicios monetarios"
             ],
             "title": "Unidades mensuales vendidas de servicios monetarios postales del correo oficial",
             "issued": "2017-07-24T14:38:41",
@@ -2421,10 +2479,6 @@
                 "servicios-postales"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "servicios postales",
-                "servicios monetarios"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241169/unidades-mensuales-vendidas-de-servicios-monetarios-postales-del-correo-oficial/",
@@ -2455,16 +2509,19 @@
                 }
             ],
             "identifier": "UNIDA-TRIME-VENDI-DE-15730",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241169/unidades-mensuales-vendidas-de-servicios-monetarios-postales-del-correo-oficial/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241169/unidades-mensuales-vendidas-de-servicios-monetarios-postales-del-correo-oficial/",
+            "description": "Unidades mensuales de servicios monetarios postales del correo oficial"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Unidades trimestrales de servicios postales del correo oficial y operadores privados.",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "servicios postales"
             ],
             "title": "Unidades mensuales vendidas de servicios postales del correo oficial y privados",
             "issued": "2017-07-24T14:30:50",
@@ -2476,9 +2533,6 @@
                 "servicios-postales"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "servicios postales"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241165/unidades-mensuales-vendidas-de-servicios-postales-del-correo-oficial-y-privados/",
@@ -2509,16 +2563,20 @@
                 }
             ],
             "identifier": "UNIDA-TRIME-VENDI-DE-SERVI",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241165/unidades-mensuales-vendidas-de-servicios-postales-del-correo-oficial-y-privados/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241165/unidades-mensuales-vendidas-de-servicios-postales-del-correo-oficial-y-privados/",
+            "description": "Unidades trimestrales de servicios postales del correo oficial y operadores privados."
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Unidades mensuales de servicios telegráficos del correo oficial y operadores privados",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "servicios postales",
+                "servicios telegráficos"
             ],
             "title": "Unidades mensuales vendidas de servicios telegráficos, correo oficial y privados",
             "issued": "2017-07-24T14:35:34",
@@ -2530,10 +2588,6 @@
                 "servicios-postales"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "servicios postales",
-                "servicios telegráficos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241167/unidades-mensuales-vendidas-de-servicios-telegraficos-correo-oficial-y-privados/",
@@ -2564,16 +2618,21 @@
                 }
             ],
             "identifier": "UNIDA-TRIME-VENDI-DE-57028",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241167/unidades-mensuales-vendidas-de-servicios-telegraficos-correo-oficial-y-privados/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241167/unidades-mensuales-vendidas-de-servicios-telegraficos-correo-oficial-y-privados/",
+            "description": "Unidades mensuales de servicios telegráficos del correo oficial y operadores privados"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Ventas mensuals de servicios monetarios postales del correo oficial (en $).",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "servicios postales",
+                "ingresos",
+                "servicios monetarios"
             ],
             "title": "Ventas mensuales de servicios monetarios postales del correo oficial (en $)",
             "issued": "2017-07-24T14:18:55",
@@ -2585,11 +2644,6 @@
                 "servicios-postales"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "servicios postales",
-                "ingresos",
-                "servicios monetarios"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241164/ventas-mensuales-de-servicios-monetarios-postales-del-correo-oficial-en/",
@@ -2620,16 +2674,21 @@
                 }
             ],
             "identifier": "VENTA-TRIME-DE-SERVI-MONET",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241164/ventas-mensuales-de-servicios-monetarios-postales-del-correo-oficial-en/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241164/ventas-mensuales-de-servicios-monetarios-postales-del-correo-oficial-en/",
+            "description": "Ventas mensuals de servicios monetarios postales del correo oficial (en $)."
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Ventas mensuales de servicios telegráficos del correo oficial y operadores privados (en $)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "servicios postales",
+                "servicios telegráficos",
+                "ingresos"
             ],
             "title": "Ventas mensuales de servicios telegráficos del correo oficial y privados",
             "issued": "2017-07-24T14:08:23",
@@ -2641,11 +2700,6 @@
                 "servicios-postales"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "servicios postales",
-                "servicios telegráficos",
-                "ingresos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241163/ventas-mensuales-de-servicios-telegraficos-del-correo-oficial-y-privados/",
@@ -2676,16 +2730,20 @@
                 }
             ],
             "identifier": "VENTA-TRIME-DE-SERVI-TELEG",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241163/ventas-mensuales-de-servicios-telegraficos-del-correo-oficial-y-privados/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241163/ventas-mensuales-de-servicios-telegraficos-del-correo-oficial-y-privados/",
+            "description": "Ventas mensuales de servicios telegráficos del correo oficial y operadores privados (en $)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Ventas mensuales de servicios postales del correo oficial y operadores privados (en $)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "servicios postales",
+                "ingresos"
             ],
             "title": "Ventas mensuales de servicios postales del correo oficial y operadores privados",
             "issued": "2017-07-24T13:57:42",
@@ -2697,10 +2755,6 @@
                 "servicios-postales"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "servicios postales",
-                "ingresos"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241162/ventas-mensuales-de-servicios-postales-del-correo-oficial-y-operadores-privados/",
@@ -2731,16 +2785,22 @@
                 }
             ],
             "identifier": "VENTA-TRIME-DE-SERVI-POSTA",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241162/ventas-mensuales-de-servicios-postales-del-correo-oficial-y-operadores-privados/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/241162/ventas-mensuales-de-servicios-postales-del-correo-oficial-y-operadores-privados/",
+            "description": "Ventas mensuales de servicios postales del correo oficial y operadores privados (en $)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número de accesos al servicio de Internet fijo por velocidad de bajada en cada provincia (trimestral)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Internet",
+                "banda ancha",
+                "banda angosta",
+                "provincial"
             ],
             "title": "Acceso a Internet fijo por velocidad de bajada y provincia",
             "issued": "2017-07-14T20:19:01",
@@ -2752,12 +2812,6 @@
                 "acceso-a-internet"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Internet",
-                "banda ancha",
-                "banda angosta",
-                "provincial"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240904/acceso-a-internet-fijo-por-velocidad-de-bajada-y-provincia/",
@@ -2788,16 +2842,21 @@
                 }
             ],
             "identifier": "ACCES-A-INTER-FIJO-23248",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240904/acceso-a-internet-fijo-por-velocidad-de-bajada-y-provincia/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240904/acceso-a-internet-fijo-por-velocidad-de-bajada-y-provincia/",
+            "description": "Número de accesos al servicio de Internet fijo por velocidad de bajada en cada provincia (trimestral)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Internet",
+                "banda ancha",
+                "provincial"
             ],
             "title": "Acceso a Internet fijo por tecnología y provincia",
             "issued": "2017-07-14T14:01:12",
@@ -2809,11 +2868,6 @@
                 "acceso-a-internet"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Internet",
-                "banda ancha",
-                "provincial"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
@@ -2844,16 +2898,20 @@
                 }
             ],
             "identifier": "ACCES-A-INTER-FIJO-POR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240898/acceso-a-internet-fijo-por-tecnologia-y-provincia/",
+            "description": "Número de accesos al servicio de Internet fijo por tipo de tecnología en cada provincia (trimestral)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Internet",
+                "banda ancha"
             ],
             "title": "Total nacional de accesos a Internet fijo por tipo de tecnología",
             "issued": "2017-07-14T19:19:12",
@@ -2865,10 +2923,6 @@
                 "acceso-a-internet"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Internet",
-                "banda ancha"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
@@ -2899,16 +2953,20 @@
                 }
             ],
             "identifier": "TOTAL-NACIO-DE-ACCES-A",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/240902/total-nacional-de-accesos-a-internet-fijo-por-tipo-de-tecnologia/",
+            "description": "Número total de accesos al servicio de Internet fijo por tipo de tecnología (trimestral)"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Listado de Radioaficionados - ENACOM",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "radioaficionado",
+                "espectro radioelectrico"
             ],
             "title": "Listado de Radioaficionados",
             "issued": "2017-04-11T20:04:43",
@@ -2920,10 +2978,6 @@
                 "espectro-radioelectrico"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "radioaficionado",
-                "espectro radioelectrico"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231694/listado-de-radioaficionados/",
@@ -2954,16 +3008,22 @@
                 }
             ],
             "identifier": "LISTA-DE-RADIO",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231694/listado-de-radioaficionados/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231694/listado-de-radioaficionados/",
+            "description": "Listado de Radioaficionados - ENACOM"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Listado de prestadores postales autorizados a dar servicios postales en la Republica Argentina",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "prestaciones",
+                "Autorizaciones",
+                "correo",
+                "proveedores postales"
             ],
             "title": "Registro de Proveedores Postales",
             "issued": "2016-09-27T15:45:52",
@@ -2975,12 +3035,6 @@
                 "servicios-postales"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "prestaciones",
-                "Autorizaciones",
-                "correo",
-                "proveedores postales"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/232258/registro-de-proveedores-postales/",
@@ -3011,16 +3065,22 @@
                 }
             ],
             "identifier": "REGIS-DE-PROVE-POSTA",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/232258/registro-de-proveedores-postales/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/232258/registro-de-proveedores-postales/",
+            "description": "Listado de prestadores postales autorizados a dar servicios postales en la Republica Argentina"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Listado de prestadores postales autorizados a dar servicios de mensajeria en la Republica Argentina",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Prestadores postales",
+                "autorizaciones mensajeria",
+                "mensajeria",
+                "autorizados mensajeria"
             ],
             "title": "Subregistro de Proveedores de Servicios de Mensajería",
             "issued": "2016-09-22T20:44:20",
@@ -3032,12 +3092,6 @@
                 "servicios-postales"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Prestadores postales",
-                "autorizaciones mensajeria",
-                "mensajeria",
-                "autorizados mensajeria"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231953/subregistro-de-proveedores-de-servicios-de-mensajeria/",
@@ -3068,16 +3122,22 @@
                 }
             ],
             "identifier": "SUBRE-DE-PROVE-DE-21678",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231953/subregistro-de-proveedores-de-servicios-de-mensajeria/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231953/subregistro-de-proveedores-de-servicios-de-mensajeria/",
+            "description": "Listado de prestadores postales autorizados a dar servicios de mensajeria en la Republica Argentina"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Homologación de empresas inscriptas - ENACOM",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Equipos de comunicacion",
+                " Homologaciones",
+                "inscriptos",
+                " autorizados"
             ],
             "title": "Homologación de empresas inscriptas",
             "issued": "2016-09-22T20:42:00",
@@ -3089,12 +3149,6 @@
                 "equipos-de-comunicacion-autorizados"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Equipos de comunicacion",
-                " Homologaciones",
-                "inscriptos",
-                " autorizados"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231949/homologacion-de-empresas-inscriptas/",
@@ -3125,16 +3179,22 @@
                 }
             ],
             "identifier": "HOMOL-DE-EMPRE-INSCR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231949/homologacion-de-empresas-inscriptas/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231949/homologacion-de-empresas-inscriptas/",
+            "description": "Homologación de empresas inscriptas - ENACOM"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Listado de prestadores de telefonía - ENACOM",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "telefonia fija",
+                " Proveedores de telefonia",
+                "Telefonia movil",
+                "Larga distancia"
             ],
             "title": "Listado de prestadores de telefonía",
             "issued": "2016-09-22T20:39:06",
@@ -3146,12 +3206,6 @@
                 "servicios-de-telefonia"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "telefonia fija",
-                " Proveedores de telefonia",
-                "Telefonia movil",
-                "Larga distancia"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231946/listado-de-prestadores-de-telefonia/",
@@ -3182,16 +3236,20 @@
                 }
             ],
             "identifier": "LISTA-DE-PREST-DE-TELEF",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231946/listado-de-prestadores-de-telefonia/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231946/listado-de-prestadores-de-telefonia/",
+            "description": "Listado de prestadores de telefonía - ENACOM"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Listado de radioclubes - ENACOM",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "espectro radioelectrico",
+                " radioclubes"
             ],
             "title": "Listado de radioclubes",
             "issued": "2016-09-22T20:34:47",
@@ -3203,10 +3261,6 @@
                 "espectro-radioelectrico"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "espectro radioelectrico",
-                " radioclubes"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231941/listado-de-radioclubes/",
@@ -3237,16 +3291,22 @@
                 }
             ],
             "identifier": "LISTA-DE-RADIO-87358",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231941/listado-de-radioclubes/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231941/listado-de-radioclubes/",
+            "description": "Listado de radioclubes - ENACOM"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Homologación de equipos inscriptos - ENACOM",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "Equipos de comunicacion",
+                "Homologaciones",
+                "inscriptos",
+                "autorizados"
             ],
             "title": "Homologación de equipos inscriptos",
             "issued": "2016-09-20T21:02:26",
@@ -3258,12 +3318,6 @@
                 "equipos-de-comunicacion-autorizados"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "Equipos de comunicacion",
-                "Homologaciones",
-                "inscriptos",
-                "autorizados"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231695/homologacion-de-equipos-inscriptos/",
@@ -3294,16 +3348,22 @@
                 }
             ],
             "identifier": "HOMOL-DE-EQUIP-INSCR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231695/homologacion-de-equipos-inscriptos/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231695/homologacion-de-equipos-inscriptos/",
+            "description": "Homologación de equipos inscriptos - ENACOM"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Listado de estaciones repetidoras - ENACOM",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "espectro radioelectrico",
+                "estaciones repetidoras",
+                "estaciones",
+                "radioaficionados"
             ],
             "title": "Listado de estaciones repetidoras",
             "issued": "2016-09-20T21:01:00",
@@ -3315,12 +3375,6 @@
                 "espectro-radioelectrico"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "espectro radioelectrico",
-                "estaciones repetidoras",
-                "estaciones",
-                "radioaficionados"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231696/listado-de-estaciones-repetidoras/",
@@ -3351,16 +3405,20 @@
                 }
             ],
             "identifier": "LISTA-DE-ESTAC-REPET",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231696/listado-de-estaciones-repetidoras/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231696/listado-de-estaciones-repetidoras/",
+            "description": "Listado de estaciones repetidoras - ENACOM"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "numeracion",
+                "telefonia"
             ],
             "title": "Numeración geográfica",
             "issued": "2016-09-20T20:59:01",
@@ -3372,10 +3430,6 @@
                 "servicios-de-telefonia"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "numeracion",
-                "telefonia"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
@@ -3406,16 +3460,20 @@
                 }
             ],
             "identifier": "NUMER-GEOGR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231697/numeracion-geografica/",
+            "description": "Es la numeración asociada a una zona geográfica en particular.Tiene la siguiente estructura: Indicativo Interurbano + Numero de Abonado"
         },
         {
             "publisher": {
                 "mbox": "contacto@enacom.gob.ar",
                 "name": "Ente Nacional de Comunicaciones (ENACOM)"
             },
-            "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país",
             "superTheme": [
                 "TECH"
+            ],
+            "keyword": [
+                "numeracion",
+                "telefonia"
             ],
             "title": "Numeración no geográfica",
             "issued": "2016-09-20T20:56:16",
@@ -3427,10 +3485,6 @@
                 "servicios-de-telefonia"
             ],
             "accrualPeriodicity": "R/P1Y",
-            "keywords": [
-                "numeracion",
-                "telefonia"
-            ],
             "distribution": [
                 {
                     "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
@@ -3461,7 +3515,8 @@
                 }
             ],
             "identifier": "NUMER-NO-GEOGR",
-            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/"
+            "homepage": "http://datosabiertos.enacom.gob.ar/dataviews/231698/numeracion-no-geografica/",
+            "description": "Es aquella numeración que no tiene asociación alguna con una zona geográfica, su destino puede estar en cualquier parte del país"
         }
     ]
 }

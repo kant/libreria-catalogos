@@ -1,25 +1,25 @@
 
-# Catálogo: DATOS DEL MINISTERIO DE AMBIENTE DE LA NACIÓN
+# Catálogo: Título del portal
 
 ## Información General
 
 - **Autor**: 
 - **Correo Electrónico**: 
 - **Ruta del catálogo**: None
-- **Nombre del catálogo**: DATOS DEL MINISTERIO DE AMBIENTE DE LA NACIÓN
+- **Nombre del catálogo**: Título del portal
 - **Descripción**:
 
-> Este es un sitio destinado a poner a tu alcance datos públicos en formatos abiertos para que puedas usarlos y compartirlos.
+> Describí el portal. Explicá de qué se trata tu catálogo de datos. Por favor, hacelo en no más de tres líneas.
 
 ## Estado de los metadatos y cantidad de recursos
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 1
-- **Cantidad Total de Distribuciones**: 1
+- **Cantidad Total de Datasets**: 0
+- **Cantidad Total de Distribuciones**: 0
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 1
+- **Cantidad de Datasets NO Federados**: 0
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,7 +28,7 @@
 
 ## Datasets no federados
 
-- [Calidad de Agua](http://datos.ambiente.gob.ar/dataset/calidad-de-agua)
+
 
 ## Datasets federados
 
