@@ -163,6 +163,61 @@
                 "ARSAT",
                 "PLAN FEDERAL DE INTERNET"
             ],
+            "title": "Cantidad Total de Megabits en servicio por provincia",
+            "issued": "2017-08-25T14:29:33",
+            "modified": "2017-08-25T14:29:38",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
+                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Cantidad Total de Megabits en servicio por provincia",
+                    "issued": "2017-08-25T14:29:33",
+                    "format": "CSV",
+                    "modified": "2017-08-25T14:29:38",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
+                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Cantidad Total de Megabits en servicio por provincia",
+                    "issued": "2017-08-25T14:29:33",
+                    "format": "XLS",
+                    "modified": "2017-08-25T14:29:38",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
+                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
+                    "title": "Cantidad Total de Megabits en servicio por provincia",
+                    "issued": "2017-08-25T14:29:33",
+                    "format": "JSON",
+                    "modified": "2017-08-25T14:29:38",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "identifier": "REFEF-CANTI-DE-CLIEN-Y",
+            "homepage": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
+            "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet."
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "ARSAT",
+                "PLAN FEDERAL DE INTERNET"
+            ],
             "title": "Puntos de Conexión al Plan Federal de Internet por provincia",
             "issued": "2017-08-23T13:37:59",
             "modified": "2017-08-23T13:49:05",
@@ -875,65 +930,7 @@
             "superTheme": [
                 "TECH"
             ],
-            "keyword": [
-                "ARSAT",
-                "PLAN FEDERAL DE INTERNET"
-            ],
-            "title": "Cantidad Total de Megabits en servicio por provincia",
-            "issued": "2017-08-18T12:33:39",
-            "modified": "2017-08-18T12:35:16",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
-                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
-                    "title": "Cantidad Total de Megabits en servicio por provincia",
-                    "issued": "2017-08-18T12:33:39",
-                    "format": "CSV",
-                    "modified": "2017-08-18T12:35:16",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
-                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
-                    "title": "Cantidad Total de Megabits en servicio por provincia",
-                    "issued": "2017-08-18T12:33:39",
-                    "format": "XLS",
-                    "modified": "2017-08-18T12:35:16",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
-                    "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet.",
-                    "title": "Cantidad Total de Megabits en servicio por provincia",
-                    "issued": "2017-08-18T12:33:39",
-                    "format": "JSON",
-                    "modified": "2017-08-18T12:35:16",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/REFEF-CANTI-DE-CLIEN-Y/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "identifier": "REFEF-CANTI-DE-CLIEN-Y",
-            "homepage": "http://datos.arsat.com.ar/dataviews/235847/cantidad-total-de-megabits-en-servicio-por-provincia/",
-            "description": "La tabla divide por provincia la cantidad total de megabits por segundo en servicio correspondientes a los proveedores locales conectados al Plan Federal de Internet."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ARSAT",
-                "PLAN FEDERAL DE INTERNET"
-            ],
+            "keyword": [],
             "title": "Cantidad de clientes por provincia",
             "issued": "2017-08-18T12:24:48",
             "modified": "2017-08-18T12:35:15",
