@@ -29,6 +29,7 @@
 ## Datasets no federados
 
 - [Registro de Visitas](None)
+- [Cantidad Total de Megabits en servicio por provincia](None)
 - [Puntos de Conexión al Plan Federal de Internet por provincia](None)
 - [Personal de ARSAT según zona laboral](None)
 - [Personal por Gerencia distinguido por género](None)
@@ -36,7 +37,6 @@
 - [Total de personal por género](None)
 - [Personal de ARSAT asignado a áreas operativas o de soporte](None)
 - [Personal por provincia](None)
-- [Cantidad Total de Megabits en servicio por provincia](None)
 - [Cantidad de clientes por provincia](None)
 - [Porcentaje de avance del Plan](None)
 - [Fibra óptica próxima a iluminar](None)
