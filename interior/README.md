@@ -1,15 +1,15 @@
 
-# Catálogo: Título del portal
+# Catálogo: Datos Abiertos del Ministerio del Interior, Obras Publicas y Vivienda
 
 ## Información General
 
 - **Autor**: 
 - **Correo Electrónico**: 
 - **Ruta del catálogo**: None
-- **Nombre del catálogo**: Título del portal
+- **Nombre del catálogo**: Datos Abiertos del Ministerio del Interior, Obras Publicas y Vivienda
 - **Descripción**:
 
-> Describí el portal. Explicá de qué se trata tu catálogo de datos. Por favor, hacelo en no más de tres líneas.
+> Ponemos a tu alcance datos públicos en formatos abiertos para que puedas usarlos, modificarlos y compartirlos. Estos datos son tuyos. Podés crear visualizaciones, aplicaciones y grandes herramientas con ellos.
 
 ## Estado de los metadatos y cantidad de recursos
 
