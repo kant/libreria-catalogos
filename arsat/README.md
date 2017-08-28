@@ -29,6 +29,8 @@
 ## Datasets no federados
 
 - [Registro de Visitas](None)
+- [Cantidad Total de Megabits en servicio por provincia](None)
+- [Cantidad de clientes por provincia](None)
 - [Puntos de Conexión al Plan Federal de Internet por provincia](None)
 - [Personal de ARSAT según zona laboral](None)
 - [Personal por Gerencia distinguido por género](None)
@@ -36,8 +38,6 @@
 - [Total de personal por género](None)
 - [Personal de ARSAT asignado a áreas operativas o de soporte](None)
 - [Personal por provincia](None)
-- [Cantidad Total de Megabits en servicio por provincia](None)
-- [Cantidad de clientes por provincia](None)
 - [Porcentaje de avance del Plan](None)
 - [Fibra óptica próxima a iluminar](None)
 - [Datos del área de cobertura de la Banda KU del satélite ARSAT-1](None)
@@ -46,6 +46,7 @@
 ## Datasets federados
 
 - [Registro de Audiencias](None)
+- [Escuelas Conectadas con Tecnología Gillat](None)
 - [Futuros puntos de conexión al Plan Federal de Internet](None)
 - [Coordenadas de la red de fibra óptica en servicio](None)
 - [Personal por Gerencia](None)
@@ -56,7 +57,6 @@
 - [Escuelas conectadas](None)
 - [Escuelas de próxima conexión](None)
 - [Datos de uso de la plataforma](None)
-- [Escuelas Conectadas con Tecnología Gillat](None)
 - [Listado de Proveedores](None)
 - [Honorarios de Directores](None)
 - [Categorías y escalas salariales](None)
