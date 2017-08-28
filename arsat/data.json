@@ -161,6 +161,62 @@
             ],
             "keyword": [
                 "ARSAT",
+                "VSAT",
+                "SERVICIOS SATELITALES"
+            ],
+            "title": "Escuelas Conectadas con Tecnología Gillat",
+            "issued": "2017-08-28T16:24:45",
+            "modified": "2017-08-28T16:25:41",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "servicios-satelitales"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gillat/",
+                    "description": "Escuelas Conectadas con equipos Satelitales de Tecnología Gillat",
+                    "title": "Escuelas Conectadas con Tecnología Gillat",
+                    "issued": "2017-08-28T16:24:45",
+                    "format": "CSV",
+                    "modified": "2017-08-28T16:25:41",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCUE-CONEC-CON-TECNO-GILLA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gillat/",
+                    "description": "Escuelas Conectadas con equipos Satelitales de Tecnología Gillat",
+                    "title": "Escuelas Conectadas con Tecnología Gillat",
+                    "issued": "2017-08-28T16:24:45",
+                    "format": "XLS",
+                    "modified": "2017-08-28T16:25:41",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCUE-CONEC-CON-TECNO-GILLA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gillat/",
+                    "description": "Escuelas Conectadas con equipos Satelitales de Tecnología Gillat",
+                    "title": "Escuelas Conectadas con Tecnología Gillat",
+                    "issued": "2017-08-28T16:24:45",
+                    "format": "JSON",
+                    "modified": "2017-08-28T16:25:41",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCUE-CONEC-CON-TECNO-GILLA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "identifier": "ESCUE-CONEC-CON-TECNO-GILLA",
+            "homepage": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gillat/",
+            "description": "Escuelas Conectadas con equipos Satelitales de Tecnología Gillat"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
+                "ARSAT",
                 "PLAN FEDERAL DE INTERNET"
             ],
             "title": "Cantidad Total de Megabits en servicio por provincia",
@@ -1257,62 +1313,6 @@
             "identifier": "ODEON-ESTAD-DE-USO",
             "homepage": "http://datos.arsat.com.ar/dataviews/235920/datos-de-uso-de-la-plataforma/",
             "description": "La tabla muestra el avance mes a mes de la cantidad de usuarios registrados en Cine.AR Play la cantidad de producciones que ven en la plataforma y el tiempo total de visualizaciones."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ARSAT",
-                "VSAT",
-                "SERVICIOS SATELITALES"
-            ],
-            "title": "Escuelas Conectadas con Tecnología Gillat",
-            "issued": "2017-07-27T12:52:02",
-            "modified": "2017-07-27T12:52:19",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "servicios-satelitales"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gillat/",
-                    "description": "Escuelas Conectadas con equipos Satelitales de Tecnología Gillat",
-                    "title": "Escuelas Conectadas con Tecnología Gillat",
-                    "issued": "2017-07-27T12:52:02",
-                    "format": "CSV",
-                    "modified": "2017-07-27T12:52:19",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCUE-CONEC-CON-TECNO-GILLA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gillat/",
-                    "description": "Escuelas Conectadas con equipos Satelitales de Tecnología Gillat",
-                    "title": "Escuelas Conectadas con Tecnología Gillat",
-                    "issued": "2017-07-27T12:52:02",
-                    "format": "XLS",
-                    "modified": "2017-07-27T12:52:19",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCUE-CONEC-CON-TECNO-GILLA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gillat/",
-                    "description": "Escuelas Conectadas con equipos Satelitales de Tecnología Gillat",
-                    "title": "Escuelas Conectadas con Tecnología Gillat",
-                    "issued": "2017-07-27T12:52:02",
-                    "format": "JSON",
-                    "modified": "2017-07-27T12:52:19",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/ESCUE-CONEC-CON-TECNO-GILLA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "identifier": "ESCUE-CONEC-CON-TECNO-GILLA",
-            "homepage": "http://datos.arsat.com.ar/dataviews/238752/escuelas-conectadas-con-tecnologia-gillat/",
-            "description": "Escuelas Conectadas con equipos Satelitales de Tecnología Gillat"
         },
         {
             "publisher": {
