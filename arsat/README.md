@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 42
-- **Cantidad Total de Distribuciones**: 126
+- **Cantidad Total de Datasets**: 43
+- **Cantidad Total de Distribuciones**: 129
 
 - **Cantidad de Datasets Federados**: 28
-- **Cantidad de Datasets NO Federados**: 14
-- **Porcentaje de Datasets NO Federados**: 33.33%
+- **Cantidad de Datasets NO Federados**: 15
+- **Porcentaje de Datasets NO Federados**: 34.88%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -29,6 +29,7 @@
 ## Datasets no federados
 
 - [Registro de Visitas](None)
+- [Tráfico de Internet entrante y saliente](None)
 - [Cantidad Total de Megabits en servicio por provincia](None)
 - [Cantidad de clientes por provincia](None)
 - [Puntos de Conexión al Plan Federal de Internet por provincia](None)
