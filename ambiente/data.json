@@ -3,9 +3,20 @@
         "mbox": "",
         "name": ""
     },
-    "description": "Describí el portal. Explicá de qué se trata tu catálogo de datos. Por favor, hacelo en no más de tres líneas.",
+    "description": "Portal de información pública en formatos abiertos destinado a facilitar el acceso y operación de los datos gestionados por este Ministerio.",
     "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
-    "title": "Título del portal",
+    "title": "Datos Abiertos del Ministerio de Ambiente y Desarrollo Sustentable",
     "dataset": [],
-    "themeTaxonomy": []
+    "themeTaxonomy": [
+        {
+            "description": "Datos que gestiona o genera la Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos",
+            "id": "agua",
+            "label": "Agua"
+        },
+        {
+            "description": "Datos que gestiona o genera la Dirección de Fauna Silvestre y Conservación de la Biodiversidad.",
+            "id": "biodiversidad",
+            "label": "Biodiversidad"
+        }
+    ]
 }
