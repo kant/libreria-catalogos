@@ -15,12 +15,12 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 43
-- **Cantidad Total de Distribuciones**: 129
+- **Cantidad Total de Datasets**: 44
+- **Cantidad Total de Distribuciones**: 132
 
 - **Cantidad de Datasets Federados**: 28
-- **Cantidad de Datasets NO Federados**: 15
-- **Porcentaje de Datasets NO Federados**: 34.88%
+- **Cantidad de Datasets NO Federados**: 16
+- **Porcentaje de Datasets NO Federados**: 36.36%
 
 ## Datasets federados que fueron eliminados en el nodo original
 
@@ -29,6 +29,7 @@
 ## Datasets no federados
 
 - [Registro de Visitas](None)
+- [Distribución por provincia de las escuelas conectadas con tecnología Gillat](None)
 - [Tráfico de Internet entrante y saliente](None)
 - [Cantidad Total de Megabits en servicio por provincia](None)
 - [Cantidad de clientes por provincia](None)
