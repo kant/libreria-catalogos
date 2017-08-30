@@ -16,7 +16,7 @@
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
 - **Cantidad Total de Datasets**: 23
-- **Cantidad Total de Distribuciones**: 181
+- **Cantidad Total de Distribuciones**: 188
 
 - **Cantidad de Datasets Federados**: 0
 - **Cantidad de Datasets NO Federados**: 23
@@ -28,13 +28,13 @@
 
 ## Datasets no federados
 
-- [Cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad](http://172.18.0.4/dataset/cancelaciones-rmba-periodo-modo-empresa-linea-tipo-pasaje-cantidad)
-- [Cancelaciones RMBA - periodo - modo - empresa - linea - cantidad](http://172.18.0.4/dataset/cancelaciones-rmba-periodo-modo-empresa-linea-cantidad)
-- [Cancelaciones RMBA - periodo - modo - empresa - cantidad](http://172.18.0.4/dataset/cancelaciones-rmba-periodo-modo-empresa-cantidad)
-- [Cancelaciones RMBA - periodo - modo - cantidad](http://172.18.0.4/dataset/cancelaciones-rmba-periodo-modo-cantidad)
-- [Cancelaciones RMBA periodo-cantidad](http://172.18.0.4/dataset/cancelaciones-rmba-periodo-cantidad)
-- [Empresas transporte RMBA](http://172.18.0.4/dataset/empresas-transporte-rmba)
 - [Lineas transporte RMBA](http://172.18.0.4/dataset/lineas-transporte-rmba)
+- [Empresas transporte RMBA](http://172.18.0.4/dataset/empresas-transporte-rmba)
+- [Cancelaciones RMBA periodo-cantidad](http://172.18.0.4/dataset/cancelaciones-rmba-periodo-cantidad)
+- [Cancelaciones RMBA - periodo - modo - cantidad](http://172.18.0.4/dataset/cancelaciones-rmba-periodo-modo-cantidad)
+- [Cancelaciones RMBA - periodo - modo - empresa - cantidad](http://172.18.0.4/dataset/cancelaciones-rmba-periodo-modo-empresa-cantidad)
+- [Cancelaciones RMBA - periodo - modo - empresa - linea - cantidad](http://172.18.0.4/dataset/cancelaciones-rmba-periodo-modo-empresa-linea-cantidad)
+- [Cancelaciones RMBA - periodo - modo - empresa - linea - tipo pasaje - cantidad](http://172.18.0.4/dataset/cancelaciones-rmba-periodo-modo-empresa-linea-tipo-pasaje-cantidad)
 - [TMDA](https://datos.transporte.gob.ar/dataset/tmda)
 - [Caminos Terciarios](https://datos.transporte.gob.ar/dataset/caminos-terciarios)
 - [Rutas Provinciales](https://datos.transporte.gob.ar/dataset/rutas-provinciales)
