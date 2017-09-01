@@ -48,6 +48,7 @@
 ## Datasets federados
 
 - [Registro de Audiencias](None)
+- [Datos de uso de la plataforma](None)
 - [Declaraciones Juradas Patrimoniales - Directorio y Gerentes](None)
 - [Escuelas Conectadas con Tecnología Gillat](None)
 - [Futuros puntos de conexión al Plan Federal de Internet](None)
@@ -59,7 +60,6 @@
 - [Licitaciones](None)
 - [Escuelas conectadas](None)
 - [Escuelas de próxima conexión](None)
-- [Datos de uso de la plataforma](None)
 - [Listado de Proveedores](None)
 - [Honorarios de Directores](None)
 - [Categorías y escalas salariales](None)
