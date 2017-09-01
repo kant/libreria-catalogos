@@ -29,6 +29,7 @@
 ## Datasets no federados
 
 - [Registro de Visitas](None)
+- [Fibra óptica próxima a iluminar](None)
 - [Cantidad de clientes por provincia](None)
 - [Cantidad Total de Megabits en servicio por provincia](None)
 - [Distribución por provincia de las escuelas conectadas con tecnología Gillat](None)
@@ -41,13 +42,15 @@
 - [Personal de ARSAT asignado a áreas operativas o de soporte](None)
 - [Personal por provincia](None)
 - [Porcentaje de avance del Plan](None)
-- [Fibra óptica próxima a iluminar](None)
 - [Datos del área de cobertura de la Banda KU del satélite ARSAT-1](None)
 - [Salarios Gerentes](None)
 
 ## Datasets federados
 
 - [Registro de Audiencias](None)
+- [Fibra óptica en obra](None)
+- [Fibra óptica planificada](None)
+- [Fibra óptica tendida](None)
 - [Datos de uso de la plataforma](None)
 - [Declaraciones Juradas Patrimoniales - Directorio y Gerentes](None)
 - [Escuelas Conectadas con Tecnología Gillat](None)
@@ -65,11 +68,8 @@
 - [Categorías y escalas salariales](None)
 - [Áreas de cobertura de la televisión digital abierta](None)
 - [Fibra óptica de la empresa Transener](None)
-- [Fibra óptica planificada](None)
-- [Fibra óptica en obra](None)
 - [Datos de las estaciones de transmisión en construcción o planificadas](None)
 - [Datos de las estaciones transmisoras](None)
-- [Fibra óptica tendida](None)
 - [Ejecuciones Presupuestarias 2016](None)
 - [Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica](None)
 - [Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América](None)
