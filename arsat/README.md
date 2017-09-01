@@ -48,6 +48,7 @@
 ## Datasets federados
 
 - [Registro de Audiencias](None)
+- [Declaraciones Juradas Patrimoniales - Directorio y Gerentes](None)
 - [Escuelas Conectadas con Tecnología Gillat](None)
 - [Futuros puntos de conexión al Plan Federal de Internet](None)
 - [Coordenadas de la red de fibra óptica en servicio](None)
@@ -74,7 +75,6 @@
 - [Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América](None)
 - [Datos del área de cobertura en Banda KU del satélite ARSAT-2 en América del Sur](None)
 - [Kilómetros de fibra óptica previstos y localidades contempladas por provincia](None)
-- [Declaraciones Juradas Patrimoniales - Directorio y Gerentes](None)
 
 ## Reporte
 
