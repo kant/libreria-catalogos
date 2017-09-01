@@ -16,7 +16,7 @@
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
 - **Cantidad Total de Datasets**: 213
-- **Cantidad Total de Distribuciones**: 853
+- **Cantidad Total de Distribuciones**: 854
 
 - **Cantidad de Datasets Federados**: 213
 - **Cantidad de Datasets NO Federados**: 0
@@ -32,6 +32,7 @@
 
 ## Datasets federados
 
+- [Registro, sistematización y seguimiento de femicidios y homicidios agravados por el género](http://datos.jus.gob.ar/dataset/registro-sistematizacin-y-seguimiento-de-femicidios-y-homicidios-agravados-por-el-gnero)
 - [Numeración no geográfica](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Numeración geográfica](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Listado de estaciones repetidoras](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
@@ -68,6 +69,7 @@
 - [Reclamos mensuales por tipo de servicio](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RECLA-MENSU-POR-TIPO-DE/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Reclamos mensuales recibidos por motivo de reclamo](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-MENSU-DE-RECLA-88502/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Portabilidad numérica móvil: portaciones netas mensuales por operador](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
+- [Magistrados de la Justicia Federal y de la Justicia Nacional](http://datos.jus.gob.ar/dataset/magistrados-de-la-justicia-federal-y-de-la-justicia-nacional)
 - [Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.](http://datos.jus.gob.ar/dataset/sistema-de-consulta-nacional-de-rebeldas-y-capturas---conarc)
 - [Personal por Gerencia](http://datos.arsat.com.ar/dataviews/238091/personal-por-gerencia/)
 - [Listado de Proveedores](http://datos.arsat.com.ar/dataviews/237843/listado-de-proveedores/)
@@ -204,7 +206,6 @@
 - [Autoridades nacionales desde 1944](http://datos.minem.gob.ar/dataset/autoridades-nacionales-desde-1944)
 - [Inspecciones de abastecimiento en instalaciones de hidrocarburos](http://datos.minem.gob.ar/dataset/inspecciones-de-abastecimiento-en-instalaciones-de-hidrocarburos)
 - [Actividad ambiental de petróleo y gas](http://datos.minem.gob.ar/dataset/actividad-ambiental-de-petrleo-y-gas)
-- [Registro, sistematización y seguimiento de femicidios y homicidios agravados por el género](http://datos.jus.gob.ar/dataset/registro-sistematizacin-y-seguimiento-de-femicidios-y-homicidios-agravados-por-el-gnero)
 - [Estadística de trámites de motovehículos](http://www.dnrpa.gov.ar)
 - [Estadística de trámites de maquinarias](http://www.dnrpa.gov.ar)
 - [Estadística de trámites de automotores](http://www.dnrpa.gov.ar)
@@ -212,7 +213,6 @@
 - [Declaraciones Juradas Patrimoniales Integrales de carácter público](https://www2.jus.gov.ar/consultaddjj)
 - [Base Infoleg de Normativa Nacional](http://www.infoleg.gob.ar)
 - [Nombres de personas físicas](http://datos.gob.ar/dataset/nombres-personas-fisicas)
-- [Magistrados de la Justicia Federal y de la Justicia Nacional](http://datos.jus.gob.ar/dataset/magistrados-de-la-justicia-federal-y-de-la-justicia-nacional)
 - [Internos del Servicio Penitenciario Federal - SPF](http://datos.jus.gob.ar/dataset/internos-del-servicio-penitenciario-federal---spf)
 - [Tesauro SAIJ de Derecho Argentino](http://datos.jus.gob.ar/dataset/tesauro-saij-de-derecho-argentino)
 - [Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP](http://datos.jus.gob.ar/dataset/sistema-nacional-de-estadsticas-sobre-ejecucin-de-la-pena--sneep)
