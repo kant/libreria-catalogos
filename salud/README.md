@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 8
-- **Cantidad Total de Distribuciones**: 8
+- **Cantidad Total de Datasets**: 10
+- **Cantidad Total de Distribuciones**: 10
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 8
+- **Cantidad de Datasets NO Federados**: 10
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,6 +28,8 @@
 
 ## Datasets no federados
 
+- [Cosméticos. Listado de estabelecimientos.](http://www.anmat.gov.ar/dataset/cosmeticos-listado-de-estabelecimientos)
+- [Listado de faltantes de medicamentos](http://www.anmat.gov.ar/dataset/listado-de-faltantes-de-medicamentos)
 - [Registro Federal de Droguerias (REDRO)](http://datos.sisa.msal.gov.ar/dataset/registro-federal-de-droguerias-redro)
 - [INCUCAI](http://datos.sisa.msal.gov.ar/dataset/incucai)
 - [Legislacion en Salud de la República Argentina (LEGISALUD)](http://leg.msal.gov.ar/)
