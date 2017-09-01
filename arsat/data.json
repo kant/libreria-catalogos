@@ -160,6 +160,62 @@
                 "TECH"
             ],
             "keyword": [
+                "transparencia",
+                "ARSAT",
+                "Declaraciones juradas"
+            ],
+            "title": "Declaraciones Juradas Patrimoniales - Directorio y Gerentes",
+            "issued": "2017-09-01T13:22:22",
+            "modified": "2017-09-01T13:24:08",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "gestion-transparente"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/",
+                    "description": "Detalle de las declaraciones juradas patrimoniales presentadas por Directorio y Gerentes de ARSAT",
+                    "title": "Declaraciones Juradas Patrimoniales - Directorio y Gerentes",
+                    "issued": "2017-09-01T13:22:22",
+                    "format": "CSV",
+                    "modified": "2017-09-01T13:24:08",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/DECLA-JURAD-DIREC-Y-GEREN/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/",
+                    "description": "Detalle de las declaraciones juradas patrimoniales presentadas por Directorio y Gerentes de ARSAT",
+                    "title": "Declaraciones Juradas Patrimoniales - Directorio y Gerentes",
+                    "issued": "2017-09-01T13:22:22",
+                    "format": "XLS",
+                    "modified": "2017-09-01T13:24:08",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/DECLA-JURAD-DIREC-Y-GEREN/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/",
+                    "description": "Detalle de las declaraciones juradas patrimoniales presentadas por Directorio y Gerentes de ARSAT",
+                    "title": "Declaraciones Juradas Patrimoniales - Directorio y Gerentes",
+                    "issued": "2017-09-01T13:22:22",
+                    "format": "JSON",
+                    "modified": "2017-09-01T13:24:08",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/DECLA-JURAD-DIREC-Y-GEREN/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "identifier": "DECLA-JURAD-DIREC-Y-GEREN",
+            "homepage": "http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/",
+            "description": "Detalle de las declaraciones juradas patrimoniales presentadas por Directorio y Gerentes de ARSAT"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "ARSAT",
                 "PLAN FEDERAL DE INTERNET"
             ],
@@ -2407,62 +2463,6 @@
             "identifier": "PLAN-FEDER-DE-INTER-MONTO",
             "homepage": "http://datos.arsat.com.ar/dataviews/236003/kilometros-de-fibra-optica-previstos-y-localidades-contempladas-por-provincia/",
             "description": "La tabla indica la cantidad de kilómetros totales de fibra óptica que ARSAT tendrá en cada provincia al finalizar las obras del Plan Federal de internet junto a la cantidad de localidades contempladas por provincia."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "transparencia",
-                "ARSAT",
-                "Declaraciones juradas"
-            ],
-            "title": "Declaraciones Juradas Patrimoniales - Directorio y Gerentes",
-            "issued": "2017-05-11T12:56:41",
-            "modified": "2017-05-11T12:56:48",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "gestion-transparente"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/",
-                    "description": "Detalle de las declaraciones juradas patrimoniales presentadas por Directorio y Gerentes de ARSAT",
-                    "title": "Declaraciones Juradas Patrimoniales - Directorio y Gerentes",
-                    "issued": "2017-05-11T12:56:41",
-                    "format": "CSV",
-                    "modified": "2017-05-11T12:56:48",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/DECLA-JURAD-DIREC-Y-GEREN/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/",
-                    "description": "Detalle de las declaraciones juradas patrimoniales presentadas por Directorio y Gerentes de ARSAT",
-                    "title": "Declaraciones Juradas Patrimoniales - Directorio y Gerentes",
-                    "issued": "2017-05-11T12:56:41",
-                    "format": "XLS",
-                    "modified": "2017-05-11T12:56:48",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/DECLA-JURAD-DIREC-Y-GEREN/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/",
-                    "description": "Detalle de las declaraciones juradas patrimoniales presentadas por Directorio y Gerentes de ARSAT",
-                    "title": "Declaraciones Juradas Patrimoniales - Directorio y Gerentes",
-                    "issued": "2017-05-11T12:56:41",
-                    "format": "JSON",
-                    "modified": "2017-05-11T12:56:48",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/DECLA-JURAD-DIREC-Y-GEREN/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "identifier": "DECLA-JURAD-DIREC-Y-GEREN",
-            "homepage": "http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/",
-            "description": "Detalle de las declaraciones juradas patrimoniales presentadas por Directorio y Gerentes de ARSAT"
         }
     ]
 }
