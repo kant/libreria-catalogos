@@ -10,6 +10,66 @@
         {
             "publisher": {
                 "mbox": "",
+                "name": "ANMAT"
+            },
+            "accessLevel": "public",
+            "description": "Listado y localización de productos elaboradores, importadores y exportadores de productos cosméticos.",
+            "license": "Creative Commons Attribution",
+            "title": "Cosméticos. Listado de estabelecimientos.",
+            "issued": "2017-08-31T20:10:46.054116",
+            "modified": "2017-08-31T20:11:12.652311",
+            "theme": [
+                "ANMAT"
+            ],
+            "superTheme": [
+                "HEAL"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "landingPage": "http://www.anmat.gov.ar/dataset/cosmeticos-listado-de-estabelecimientos",
+            "identifier": "30cbaed4-dadf-4044-8e30-3fbce0a48a6f",
+            "distribution": [
+                {
+                    "accessURL": "http://www.anmat.gov.ar/cosmeticos/Cosmeticos.asp",
+                    "issued": "2017-08-31T20:11:12.144913",
+                    "downloadURL": "http://www.anmat.gov.ar/cosmeticos/Cosmeticos.asp",
+                    "description": "Listado y localización de productos elaboradores, importadores y exportadores de productos cosméticos.",
+                    "title": "Cosméticos. Listado de estabelecimientos."
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
+                "name": "ANMAT"
+            },
+            "accessLevel": "public",
+            "description": "Listado de medicamentos que, por distintas circunstancias, no se encuentran disponibles para su dispensación.",
+            "license": "Creative Commons Attribution",
+            "title": "Listado de faltantes de medicamentos",
+            "issued": "2017-08-31T20:09:12.728343",
+            "modified": "2017-08-31T20:09:57.974111",
+            "theme": [
+                "ANMAT"
+            ],
+            "superTheme": [
+                "HEAL"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "landingPage": "http://www.anmat.gov.ar/dataset/listado-de-faltantes-de-medicamentos",
+            "identifier": "d9ebb3a9-ea4a-416c-be3c-0f51c82d5304",
+            "distribution": [
+                {
+                    "accessURL": "http://www.anmat.gov.ar/",
+                    "issued": "2017-08-31T20:09:57.706286",
+                    "downloadURL": "http://www.anmat.gov.ar/",
+                    "description": "Listado de medicamentos que, por distintas circunstancias, no se encuentran disponibles para su dispensación.",
+                    "title": "Listado de faltantes de medicamentos"
+                }
+            ]
+        },
+        {
+            "publisher": {
+                "mbox": "",
                 "name": "Dirección Nacional de Regulación"
             },
             "accessLevel": "public",
@@ -281,6 +341,11 @@
         }
     ],
     "themeTaxonomy": [
+        {
+            "description": "ANMAT",
+            "id": "anmat",
+            "label": "ANMAT"
+        },
         {
             "description": "",
             "id": "direccion-de-epidemiologia",
