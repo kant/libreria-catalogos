@@ -16,7 +16,7 @@
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: OK
 - **Cantidad Total de Datasets**: 213
-- **Cantidad Total de Distribuciones**: 854
+- **Cantidad Total de Distribuciones**: 856
 
 - **Cantidad de Datasets Federados**: 213
 - **Cantidad de Datasets NO Federados**: 0
@@ -32,7 +32,6 @@
 
 ## Datasets federados
 
-- [Registro, sistematización y seguimiento de femicidios y homicidios agravados por el género](http://datos.jus.gob.ar/dataset/registro-sistematizacin-y-seguimiento-de-femicidios-y-homicidios-agravados-por-el-gnero)
 - [Numeración no geográfica](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-NO-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Numeración geográfica](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Listado de estaciones repetidoras](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
@@ -69,7 +68,8 @@
 - [Reclamos mensuales por tipo de servicio](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RECLA-MENSU-POR-TIPO-DE/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Reclamos mensuales recibidos por motivo de reclamo](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-MENSU-DE-RECLA-88502/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
 - [Portabilidad numérica móvil: portaciones netas mensuales por operador](http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/PORTA-NUMER-MOVIL-ALTAS-Y/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1)
-- [Magistrados de la Justicia Federal y de la Justicia Nacional](http://datos.jus.gob.ar/dataset/magistrados-de-la-justicia-federal-y-de-la-justicia-nacional)
+- [Solicitudes de Autorización de Portación de Armas de Fuego](http://datos.jus.gob.ar/dataset/solicitudes-de-autorizacin-de-portacin-de-armas-de-fuego)
+- [Solicitudes de Condición de Legítimo Usuario de Armas de Fuego](http://datos.jus.gob.ar/dataset/solicitudes-de-condicin-de-legtimo-usuario-de-armas-de-fuego)
 - [Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.](http://datos.jus.gob.ar/dataset/sistema-de-consulta-nacional-de-rebeldas-y-capturas---conarc)
 - [Personal por Gerencia](http://datos.arsat.com.ar/dataviews/238091/personal-por-gerencia/)
 - [Listado de Proveedores](http://datos.arsat.com.ar/dataviews/237843/listado-de-proveedores/)
@@ -99,9 +99,9 @@
 - [Datos de las estaciones de transmisión en construcción o planificadas](http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/)
 - [Fibra óptica de la empresa Transener](http://datos.arsat.com.ar/dataviews/238787/fibra-optica-de-la-empresa-transener/)
 - [Honorarios de Directores](http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/)
-- [Solicitudes de Condición de Legítimo Usuario de Armas de Fuego](http://datos.jus.gob.ar/dataset/solicitudes-de-condicin-de-legtimo-usuario-de-armas-de-fuego)
+- [Registro, sistematización y seguimiento de femicidios y homicidios agravados por el género](http://datos.jus.gob.ar/dataset/registro-sistematizacin-y-seguimiento-de-femicidios-y-homicidios-agravados-por-el-gnero)
+- [Magistrados de la Justicia Federal y de la Justicia Nacional](http://datos.jus.gob.ar/dataset/magistrados-de-la-justicia-federal-y-de-la-justicia-nacional)
 - [Estadística de mediaciones prejudiciales y judiciales](http://datos.jus.gob.ar/dataset/estadstica-de-mediaciones-prejudiciales-y-judiciales)
-- [Solicitudes de Autorización de Portación de Armas de Fuego](http://datos.jus.gob.ar/dataset/solicitudes-de-autorizacin-de-portacin-de-armas-de-fuego)
 - [Ventas GLP](http://datos.minem.gob.ar/dataset/ventas-glp)
 - [Transporte de hidrocarburos  - Ductos Troncales - Propanoductos](http://datos.minem.gob.ar/dataset/transporte-de-hidrocarburos---ductos-troncales---propanoductos)
 - [Transporte Hidrocarburos - Ductos Troncales - Poliductos](http://datos.minem.gob.ar/dataset/transporte-hidrocarburos---ductos-troncales---poliductos)
