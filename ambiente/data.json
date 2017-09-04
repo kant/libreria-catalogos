@@ -6,61 +6,7 @@
     "description": "Portal de información pública en formatos abiertos destinado a facilitar el acceso y operación de los datos gestionados por este Ministerio.",
     "superThemeTaxonomy": "http://datos.gob.ar/superThemeTaxonomy.json",
     "title": "Datos Abiertos del Ministerio de Ambiente y Desarrollo Sustentable",
-    "dataset": [
-        {
-            "publisher": {
-                "mbox": "dgarhya@ambiente.gob.ar",
-                "name": "Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos"
-            },
-            "accessLevel": "public",
-            "description": "Conjunto de relevamientos trimestrales (2013-2016) de la calidad del agua de la franja costera (lado argentino) del Río de la Plata realizada por el MAyDS en conjunto con los Municipios que integran la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO).",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Muestreos de calidad de agua de RIIGLO 2013-2016",
-            "issued": "2017-09-04T14:47:06.568407",
-            "temporal": "2013-03-01T03:00:00.000Z/2016-12-30T03:00:00.000Z",
-            "modified": "2017-09-04T14:59:35.388880",
-            "language": "spa",
-            "theme": [
-                "Agua"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/da28ea45-d7ac-4339-802a-b729e28b5d48/resource/f7ba4fc0-bf76-4564-9923-1dccaff53d13/download/muestreo-calidad-de-agua-riiglo-invierno-2013.csv",
-                    "description": "Conjunto de determinaciones in situ/laboratorio de parámetros de calidad de agua de muestras extraídas a lo largo de la franja costera del Río de la Plata, en la campaña Invierno 2013.",
-                    "title": "Muestreos de calidad de agua de la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO) invierno-2013",
-                    "issued": "2017-09-04T14:52:22.759274",
-                    "format": "CSV",
-                    "modified": "2017-09-04T14:59:35.372977",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/da28ea45-d7ac-4339-802a-b729e28b5d48/resource/f7ba4fc0-bf76-4564-9923-1dccaff53d13/download/muestreo-calidad-de-agua-riiglo-invierno-2013.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Identificador de la estación de muestreo",
-                            "title": "estacion_id"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "RIIGLO",
-                "agua",
-                "calidad",
-                "muestreos",
-                "río de la plata"
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "superTheme": [
-                "ENVI"
-            ],
-            "landingPage": "http://calidaddeagua.ambiente.gob.ar",
-            "identifier": "da28ea45-d7ac-4339-802a-b729e28b5d48",
-            "contactPoint": {
-                "hasEmail": "mailto:dgarhya@ambiente.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos"
-            }
-        }
-    ],
+    "dataset": [],
     "themeTaxonomy": [
         {
             "description": "Datos que gestiona o genera la Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos",
