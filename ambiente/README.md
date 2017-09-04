@@ -1,15 +1,15 @@
 
-# Catálogo: Datos Abiertos del Ministerio de Ambiente y Desarrollo Sustentable
+# Catálogo: Título del portal
 
 ## Información General
 
 - **Autor**: 
 - **Correo Electrónico**: 
 - **Ruta del catálogo**: None
-- **Nombre del catálogo**: Datos Abiertos del Ministerio de Ambiente y Desarrollo Sustentable
+- **Nombre del catálogo**: Título del portal
 - **Descripción**:
 
-> Portal de información pública en formatos abiertos destinado a facilitar el acceso y operación de los datos gestionados por este Ministerio.
+> Describí el portal. Explicá de qué se trata tu catálogo de datos. Por favor, hacelo en no más de tres líneas.
 
 ## Estado de los metadatos y cantidad de recursos
 
