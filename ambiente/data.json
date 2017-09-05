@@ -9,6 +9,63 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "desersuelo@ambiente.gob.ar",
+                "name": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
+            },
+            "accessLevel": "public",
+            "description": "El Índice de Aridez especifica cual es la situación hídrica de una región en base a la relación oferta/demanda hídrica. El índice propuesto por las Naciones Unidas para el Medio Ambiente (UNEP, por sus siglas en inglés) define la aridez mediante la interrelación de la temperatura con las precipitaciones, basándose en el supuesto que con la temperatura aumenta correlativamente la evapotranspiración.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Índice de Aridez",
+            "issued": "2017-09-05T13:18:59.718018",
+            "temporal": "2010-01-01T03:00:00.000Z/2010-12-31T03:00:00.000Z",
+            "modified": "2017-09-05T13:26:33.184184",
+            "language": "spa",
+            "theme": [
+                "Tierra y suelo"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/31a2acad-c95c-4346-9447-eb0603935c9f/resource/46c21043-0257-49a9-8bd4-b290998d639c/download/indice-de-aridez.csv",
+                    "description": "Expresa la relación entre la precipitación anual promedio y la evapotranspiración potencial en un área determinada (UNEP, 1992)",
+                    "title": "indice-de-aridez",
+                    "issued": "2017-09-05T13:26:32.572205",
+                    "format": "CSV",
+                    "modified": "2017-09-05T13:26:32.527236",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/31a2acad-c95c-4346-9447-eb0603935c9f/resource/46c21043-0257-49a9-8bd4-b290998d639c/download/indice-de-aridez.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Categorías del Índice de Aridez:\nHiperárida                      <0.05\nÁrida                         0.05 a 0.20\n",
+                            "title": "indice_de_aridez_categoria"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie en kilómetros cuadrados para cada categoría del índice de aridez",
+                            "title": "indice_de_aridez_superficie_km2"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "balance hídrico",
+                "evapotranspiración",
+                "precipitación",
+                "Índice aridez"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "www.desertificacion.gob.ar",
+            "identifier": "31a2acad-c95c-4346-9447-eb0603935c9f",
+            "contactPoint": {
+                "hasEmail": "mailto:desersuelo@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "dgarhya@ambiente.gob.ar",
                 "name": "Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos"
             },
