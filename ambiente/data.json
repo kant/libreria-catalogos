@@ -13,6 +13,172 @@
                 "name": "Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos"
             },
             "accessLevel": "public",
+            "description": "El datasets muestra el listado de humedales de la Argentina incluidos dentro del listado de humedales de Importancia Internacional en el marco de la convención de Ramsar. Los sitios Ramsar son un conjunto de humedales   de gran valor para el país y para el mundo por los servicios y beneficios que proporcionan  y son designados a partir de la propuesta de los países firmantes",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Humedales de Argentina dentro de la Convención Ramsar",
+            "issued": "2017-09-05T15:40:12.325746",
+            "temporal": "/2017-09-04T03:00:00.000Z",
+            "modified": "2017-09-05T15:55:49.216506",
+            "language": "spa",
+            "theme": [
+                "Agua"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/0060e144-5b8a-405d-a8fc-bad574ed2153/resource/39d12a68-e36c-4c18-816c-d43aef874724/download/humedales-argentina-dentro-convenio-ramsar.csv",
+                    "description": "El datasets muestra el listado de humedales de la Argentina designados como humedales de importancia internacional en el marco de la convención de Ramsar",
+                    "title": "Humedales de Argentina dentro de la Convención Ramsar",
+                    "issued": "2017-09-05T15:44:59.531995",
+                    "format": "CSV",
+                    "modified": "2017-09-05T15:44:59.486974",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/0060e144-5b8a-405d-a8fc-bad574ed2153/resource/39d12a68-e36c-4c18-816c-d43aef874724/download/humedales-argentina-dentro-convenio-ramsar.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Denominación del sitio Ramsar",
+                            "title": "sitio_ramsar_nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia donde se ubica el sitio Ramsar",
+                            "title": "sitio_ramsar_provincia_nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Ecorregión donde se ubica el sitio Ramsar",
+                            "title": "sitio_ramsar_ecorregión_ocupada_nombre"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Superficie ocupada por el sitio Ramsar en hectareas",
+                            "title": "sitio_ramsar_superficie_hectareas"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/0060e144-5b8a-405d-a8fc-bad574ed2153/resource/625bfabf-398c-49c7-966d-28a510e24af6/download/superficie-sitio-ramsar-por-provincia.csv",
+                    "description": "El datasets muestra la superficie y el porcentaje de territorio provincial de humedales designados como humedales de importancia internacional en el marco de la convención de Ramsar",
+                    "title": "Superficie de los sitios Ramsar por provincia",
+                    "issued": "2017-09-05T15:55:49.248246",
+                    "format": "CSV",
+                    "modified": "2017-09-05T15:55:49.198162",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/0060e144-5b8a-405d-a8fc-bad574ed2153/resource/625bfabf-398c-49c7-966d-28a510e24af6/download/superficie-sitio-ramsar-por-provincia.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Denominación de la provincia",
+                            "title": "provincia_nombre"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Superficie total de la provincia",
+                            "title": "provincia_superficie_hectareas"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Superficie de sitios designados como humedales de importancia internacional en el marco de la convención de Ramsar",
+                            "title": "sitio_ramsar_superficie_provincia_hectareas"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Porcentaje de la superficie provincial se sitios designados como humedales de importancia internacional en el marco de la convención de Ramsar",
+                            "title": "sitio_ramsar_superficie_provincia_porcentaje"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Humedales",
+                "SR",
+                "aves acuáticas migratorias",
+                "sitios Ramsar"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/humedales-de-argentina-dentro-de-la-convencion-ramsar",
+            "identifier": "0060e144-5b8a-405d-a8fc-bad574ed2153",
+            "contactPoint": {
+                "hasEmail": "mailto:dgarhya@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "chiriart@ambiente.gob.ar",
+                "name": "Dirección de Producción y Consumo Sustentable"
+            },
+            "accessLevel": "public",
+            "description": "Información sobre los Programas de Reconversión Industrial (PRI) voluntarios que lleva adelante la Dirección de Producción y Consumo Sustentable (DPyCS) del Ministerio de Ambiente y Desarrollo Sustentable de la Nación, con provincias y empresas a partir de brindar asistencia técnica, capacitación y acompañamiento en su implementación, y con el fin de mejorar el desempeño y la gestión ambiental del sector productivo y de actividades de servicio.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Programa de Reconversión Industrial - PRI",
+            "issued": "2017-09-05T15:32:10.860505",
+            "temporal": "2014-01-01T03:00:00.000Z/2017-09-01T03:00:00.000Z",
+            "modified": "2017-09-05T15:37:57.992861",
+            "language": "spa",
+            "theme": [
+                "Producción y consumo sustentable"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/47db353d-b9ed-4054-a8a9-546c97d2833b/download/acuerdos-pri-provincia.csv",
+                    "description": "Identificación de las provincias que acordaron trabajar con MAyDS en Programas de Reconversión Industrial (capacitación, asistencia técnica e implementación)",
+                    "title": "Provincias-que-acordaron-trabajar-con-MAyDS-en-programas-de-reconversión-industrial",
+                    "issued": "2017-09-05T15:37:57.562993",
+                    "format": "CSV",
+                    "modified": "2017-09-05T15:37:57.493596",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/47db353d-b9ed-4054-a8a9-546c97d2833b/download/acuerdos-pri-provincia.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Identificación de la provincia que acordó con Nación trabajar en Programas de Reconversión Industrial.",
+                            "title": "provincia_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Descripción de la provincia que acordó con Nación trabajar en Programas de Reconversión Industrial.",
+                            "title": "provincia_desc"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Identificación de la existencia de acuerdo",
+                            "title": "tiene_acuerdo_pri"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "PRI",
+                "consumo sustentable",
+                "contaminación",
+                "eficiencia energía",
+                "gestión de residuos",
+                "industria",
+                "industrial",
+                "producción",
+                "programa",
+                "reconversión"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/programa-de-reconversion-industrial-pri",
+            "identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
+            "contactPoint": {
+                "hasEmail": "mailto:chiriart@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Producción y Consumo Sustentable"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "dgarhya@ambiente.gob.ar",
+                "name": "Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos"
+            },
+            "accessLevel": "public",
             "description": "El 28 de Octubre de 2010 fue promulgada la Ley 26.639 de “Presupuestos Mínimos para la Preservación de los Glaciares y del Ambiente Periglacial”, que contempla entre otras medidas, la creación de un Inventario Nacional de Glaciares.",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Inventario Nacional de Glaciares - Ley N° 26639",
