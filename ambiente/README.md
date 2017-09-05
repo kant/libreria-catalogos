@@ -28,6 +28,9 @@
 
 ## Datasets no federados
 
+- [Asignación presupuestaria para construcción de obras para tratamientos de residuos](http://observatoriorsu.ambiente.gob.ar)
+- [Grado de la degradación de tierras secas en Argentina](www.desertificacion.gob.ar)
+- [Proyectos con financiamiento externo](http://datos.ambiente.gob.ar/dataset/proyectos-con-financiamiento-externo)
 - [Programa de Reconversión Industrial - PRI](http://datos.ambiente.gob.ar/dataset/programa-de-reconversion-industrial-pri)
 - [Normativa nacional Argentina vinculada a Suelos](http://ambiente.gob.ar/suelos)
 - [Plan integral comunitario (PICs)](http://datos.ambiente.gob.ar/dataset/plan-integral-comunitario-pics)
@@ -37,7 +40,6 @@
 - [Sanciones administrativas aplicadas](http://datos.ambiente.gob.ar/dataset/sanciones-administrativas-aplicadas)
 - [Normativa ambiental](http://datos.ambiente.gob.ar/dataset/normativa-ambiental)
 - [Generación de residuos](http://observatoriorsu.ambiente.gob.ar)
-- [Asignación presupuestaria para construcción de obras para tratamientos de residuos](http://observatoriorsu.ambiente.gob.ar)
 - [Comercialización de fauna silvestre](http://datos.ambiente.gob.ar/dataset/comercializacion-de-fauna-silvestre)
 - [Fiscalización de fauna](http://datos.ambiente.gob.ar/dataset/fiscalizacion-de-fauna)
 - [Decomisos por comercio ilegal de especies](http://datos.ambiente.gob.ar/dataset/decomisos-por-comercio-ilegal-de-especies)
@@ -45,8 +47,6 @@
 - [Humedales de Argentina dentro de la Convención Ramsar](http://datos.ambiente.gob.ar/dataset/humedales-de-argentina-dentro-de-la-convencion-ramsar)
 - [Inventario Nacional de Glaciares - Ley N° 26639](www.glaciaresargentinos.gob.ar)
 - [Muestreos de calidad de agua de RIIGLO 2013-2016](http://calidaddeagua.ambiente.gob.ar)
-- [Proyectos con financiamiento externo](http://datos.ambiente.gob.ar/dataset/proyectos-con-financiamiento-externo)
-- [Grado de la degradación de tierras secas en Argentina](www.desertificacion.gob.ar)
 
 ## Datasets federados
 
