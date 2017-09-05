@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 4
-- **Cantidad Total de Distribuciones**: 10
+- **Cantidad Total de Datasets**: 6
+- **Cantidad Total de Distribuciones**: 15
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 4
+- **Cantidad de Datasets NO Federados**: 6
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -29,6 +29,8 @@
 ## Datasets no federados
 
 - [Muestreos de calidad de agua de RIIGLO 2013-2016](http://calidaddeagua.ambiente.gob.ar)
+- [Proyectos con financiamiento externo](http://datos.ambiente.gob.ar/dataset/proyectos-con-financiamiento-externo)
+- [Plan integral comunitario (PICs)](http://datos.ambiente.gob.ar/dataset/plan-integral-comunitario-pics)
 - [Normativa nacional Argentina vinculada a Suelos](http://ambiente.gob.ar/suelos)
 - [Grado de la degradación de tierras secas en Argentina](www.desertificacion.gob.ar)
 - [Índice de Aridez](www.desertificacion.gob.ar)
