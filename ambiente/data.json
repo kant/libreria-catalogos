@@ -9,6 +9,90 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "participacionciudadana@ambiente.gob.ar",
+                "name": "Dirección de participación ciudadana y medioambiente"
+            },
+            "accessLevel": "public",
+            "description": "Organizaciones de la sociedad civil inscriptas en el Ministerio de Ambiente y Desarrollo Sustentable",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Organizaciones de la sociedad civil",
+            "issued": "2017-09-05T17:05:16.269266",
+            "temporal": "2017-04-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-05T17:22:41.120746",
+            "language": "spa",
+            "theme": [
+                "Participación ciudadana"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/b67a0774-0c7a-4a23-8d23-b5fb76a814b5/resource/f8960692-877e-427b-99cb-5079ff34c16b/download/organizaciones-sociedad-civil.csv",
+                    "description": "Son las sociedades que están inscriptas en el registro de participación ciudadana",
+                    "title": "organizaciones-sociedad-civil",
+                    "issued": "2017-09-05T17:13:44.734830",
+                    "format": "CSV",
+                    "modified": "2017-09-05T17:22:41.104040",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/b67a0774-0c7a-4a23-8d23-b5fb76a814b5/resource/f8960692-877e-427b-99cb-5079ff34c16b/download/organizaciones-sociedad-civil.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Denominación de la Organización de la Sociedad Civil",
+                            "title": "OSC_nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de Organización de Sociedad civil",
+                            "title": "OSC_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia donde está radicada la OSC",
+                            "title": "OSC_localizacion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Mail de contacto de la OSC",
+                            "title": "OSC_contacto_correo_electronico"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Página Web de la OSC",
+                            "title": "OSC_contacto_pagina_web"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Facebook de la OSC",
+                            "title": "OSC_contacto_facebook"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Twitter de la OSC",
+                            "title": "OSC_contacto_twitter"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Asociaciones y Fundaciones",
+                "Necesidades sociales",
+                "ONG",
+                "OSC",
+                "Sin fines de lucro",
+                "Sociedad civil"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/organizaciones-de-la-sociedad-civil",
+            "identifier": "b67a0774-0c7a-4a23-8d23-b5fb76a814b5",
+            "contactPoint": {
+                "hasEmail": "mailto:participacionciudadana@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de participación ciudadana y medioambiente"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "chiriart@ambiente.gob.ar",
                 "name": "Dirección de Producción y Consumo Sustentable"
             },
