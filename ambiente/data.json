@@ -9,6 +9,126 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "chiriart@ambiente.gob.ar",
+                "name": "Dirección de Producción y Consumo Sustentable"
+            },
+            "accessLevel": "public",
+            "description": "Información sobre los Programas de Reconversión Industrial (PRI) voluntarios que lleva adelante la Dirección de Producción y Consumo Sustentable (DPyCS) del Ministerio de Ambiente y Desarrollo Sustentable de la Nación, con provincias y empresas a partir de brindar asistencia técnica, capacitación y acompañamiento en su implementación, y con el fin de mejorar el desempeño y la gestión ambiental del sector productivo y de actividades de servicio.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Programa de Reconversión Industrial - PRI",
+            "issued": "2017-09-05T15:32:10.860505",
+            "temporal": "2014-01-01T03:00:00.000Z/2017-09-01T03:00:00.000Z",
+            "modified": "2017-09-05T16:52:07.494859",
+            "language": "spa",
+            "theme": [
+                "Producción y consumo sustentable"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/47db353d-b9ed-4054-a8a9-546c97d2833b/download/acuerdos-pri-provincia.csv",
+                    "description": "Identificación de las provincias que acordaron trabajar con MAyDS en Programas de Reconversión Industrial (capacitación, asistencia técnica e implementación)",
+                    "title": "acuerdos-pri-provincia",
+                    "issued": "2017-09-05T15:37:57.562993",
+                    "format": "CSV",
+                    "modified": "2017-09-05T15:37:57.493596",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/47db353d-b9ed-4054-a8a9-546c97d2833b/download/acuerdos-pri-provincia.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Identificación de la provincia que acordó con Nación trabajar en Programas de Reconversión Industrial.",
+                            "title": "provincia_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Descripción de la provincia que acordó con Nación trabajar en Programas de Reconversión Industrial.",
+                            "title": "provincia_desc"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Identificación de la existencia de acuerdo",
+                            "title": "tiene_acuerdo_pri"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/3f34caf7-4e7f-4ed6-ab66-9c83a6aafcab/download/empresas-pri-activos-provincia.csv",
+                    "description": "Cantidad de empresas con Programas de Reconversión Industrial - PRI - firmados en proceso de implementación desde 2014, discriminadas por provincia.",
+                    "title": "empresas-pri-activos-provincia",
+                    "issued": "2017-09-05T16:41:27.135592",
+                    "format": "CSV",
+                    "modified": "2017-09-05T16:41:27.049941",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/3f34caf7-4e7f-4ed6-ab66-9c83a6aafcab/download/empresas-pri-activos-provincia.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Código provincial del sistema de identificadores de la cartografía censal del Censo Nacional 2010 del Instituto Nacional de Estadísticas y Censos",
+                            "title": "provincia_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Descripción de la provincia que se encuentra implementando Programas de Reconversión Industrial en empresas desde 2014.",
+                            "title": "provincia_desc"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Cantidad de empresas con Programa de Reconversión Industrial firmados en implementación desde 2014, para cada provincia.",
+                            "title": "empresas_pri_activos_numero"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/ce96d534-e437-4f14-b807-b0bf041ad4f2/download/empresas-pri-activos-por-actividad-economica.csv",
+                    "description": "Cantidad de empresas con Programas de Reconversión Industrial – PRI - firmados en proceso de implementación desde 2014, discriminadas por actividad económica",
+                    "title": "empresas-pri-activos-por-actividad-economica",
+                    "issued": "2017-09-05T16:52:07.542993",
+                    "format": "CSV",
+                    "modified": "2017-09-05T16:52:07.474199",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/ce96d534-e437-4f14-b807-b0bf041ad4f2/download/empresas-pri-activos-por-actividad-economica.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Identificación de la actividad económica de las empresas con programa en proceso de implementación",
+                            "title": "actividad_economica_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Descripción de la actividad económica de las empresas con programa en proceso de implementación",
+                            "title": "actividad_economica_descripcion"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de empresas con PRI firmados en proceso de implementación desde 2014, para la actividad económica.",
+                            "title": "empresas_pri_activos_cantidad"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "PRI",
+                "consumo sustentable",
+                "contaminación",
+                "eficiencia energía",
+                "gestión de residuos",
+                "industria",
+                "industrial",
+                "producción",
+                "programa",
+                "reconversión"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/programa-de-reconversion-industrial-pri",
+            "identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
+            "contactPoint": {
+                "hasEmail": "mailto:chiriart@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Producción y Consumo Sustentable"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "dgarhya@ambiente.gob.ar",
                 "name": "Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos"
             },
@@ -103,74 +223,6 @@
                 "hasEmail": "mailto:dgarhya@ambiente.gob.ar",
                 "@type": "vcard:Contact",
                 "fn": "Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "chiriart@ambiente.gob.ar",
-                "name": "Dirección de Producción y Consumo Sustentable"
-            },
-            "accessLevel": "public",
-            "description": "Información sobre los Programas de Reconversión Industrial (PRI) voluntarios que lleva adelante la Dirección de Producción y Consumo Sustentable (DPyCS) del Ministerio de Ambiente y Desarrollo Sustentable de la Nación, con provincias y empresas a partir de brindar asistencia técnica, capacitación y acompañamiento en su implementación, y con el fin de mejorar el desempeño y la gestión ambiental del sector productivo y de actividades de servicio.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Programa de Reconversión Industrial - PRI",
-            "issued": "2017-09-05T15:32:10.860505",
-            "temporal": "2014-01-01T03:00:00.000Z/2017-09-01T03:00:00.000Z",
-            "modified": "2017-09-05T15:37:57.992861",
-            "language": "spa",
-            "theme": [
-                "Producción y consumo sustentable"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/47db353d-b9ed-4054-a8a9-546c97d2833b/download/acuerdos-pri-provincia.csv",
-                    "description": "Identificación de las provincias que acordaron trabajar con MAyDS en Programas de Reconversión Industrial (capacitación, asistencia técnica e implementación)",
-                    "title": "Provincias-que-acordaron-trabajar-con-MAyDS-en-programas-de-reconversión-industrial",
-                    "issued": "2017-09-05T15:37:57.562993",
-                    "format": "CSV",
-                    "modified": "2017-09-05T15:37:57.493596",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/47db353d-b9ed-4054-a8a9-546c97d2833b/download/acuerdos-pri-provincia.csv",
-                    "field": [
-                        {
-                            "type": "integer",
-                            "description": "Identificación de la provincia que acordó con Nación trabajar en Programas de Reconversión Industrial.",
-                            "title": "provincia_id"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Descripción de la provincia que acordó con Nación trabajar en Programas de Reconversión Industrial.",
-                            "title": "provincia_desc"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Identificación de la existencia de acuerdo",
-                            "title": "tiene_acuerdo_pri"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "PRI",
-                "consumo sustentable",
-                "contaminación",
-                "eficiencia energía",
-                "gestión de residuos",
-                "industria",
-                "industrial",
-                "producción",
-                "programa",
-                "reconversión"
-            ],
-            "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "ENVI"
-            ],
-            "landingPage": "http://datos.ambiente.gob.ar/dataset/programa-de-reconversion-industrial-pri",
-            "identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
-            "contactPoint": {
-                "hasEmail": "mailto:chiriart@ambiente.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección de Producción y Consumo Sustentable"
             }
         },
         {
