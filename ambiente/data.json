@@ -18,7 +18,7 @@
             "title": "Muestreos de calidad de agua de RIIGLO 2013-2016",
             "issued": "2017-09-04T18:57:39.390303",
             "temporal": "2013-03-01T03:00:00.000Z/2016-12-30T03:00:00.000Z",
-            "modified": "2017-09-05T14:21:03.760676",
+            "modified": "2017-09-05T15:01:43.467147",
             "language": "spa",
             "theme": [
                 "Agua"
@@ -464,6 +464,174 @@
                             "title": "no3_mg_l"
                         }
                     ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/80238997-47c7-4e30-8f52-7cf49949bc11/download/muestreo-calidad-de-agua-riiglo-invierno-2016.csv",
+                    "description": "Conjunto de determinaciones in situ/laboratorio de parámetros de calidad de agua de muestras extraídas a lo largo de la franja costera del Río de la Plata, en la campaña Invierno 2016.",
+                    "title": "Muestreos de calidad de agua de la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO) Invierno-2016",
+                    "issued": "2017-09-05T14:33:29.954832",
+                    "format": "CSV",
+                    "modified": "2017-09-05T14:33:29.862798",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/80238997-47c7-4e30-8f52-7cf49949bc11/download/muestreo-calidad-de-agua-riiglo-invierno-2016.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Identificador de la estación de muestreo",
+                            "title": "estacion_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la estación de muestreo",
+                            "title": "estacion_ubicacion"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de extracción de la muestra",
+                            "title": "extraccion_fecha"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Valor medido del parámetro ‘demanda bioquímica de oxígeno’ en mg/l",
+                            "title": "dqo_mg_l"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Valor medido del parámetro ‘bacterias coliformes totales’ en NMP/100ml",
+                            "title": "coliformes_totales_nmp_100ml"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Valor medido del parámetro ‘bacterias escherichia coli’ en NMP/100ml",
+                            "title": "escherichia_coli_nmp_100ml"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Valor medido del parámetro ‘bacterias coliformes fecales’ en NMP/100ml",
+                            "title": "coliformes_fecales_nmp_100ml"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘amonio’ en mg/l",
+                            "title": "nh4_mg_l"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘nitratos’ en mg/l",
+                            "title": "no3_mg_l"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/f960fc03-ddcb-4a6f-b10a-765faf907371/download/muestreo-calidad-de-agua-riiglo-verano-2016.csv",
+                    "description": "Conjunto de determinaciones in situ/laboratorio de parámetros de calidad de agua de muestras extraídas a lo largo de la franja costera del Río de la Plata, en la campaña Verano 2016.",
+                    "title": "Muestreos de calidad de agua de la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO) Verano-2016",
+                    "issued": "2017-09-05T14:49:47.965943",
+                    "format": "CSV",
+                    "modified": "2017-09-05T14:49:47.898125",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/f960fc03-ddcb-4a6f-b10a-765faf907371/download/muestreo-calidad-de-agua-riiglo-verano-2016.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Identificador de la estación de muestreo",
+                            "title": "estacion_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la estación de muestreo",
+                            "title": "estacion_ubicacion"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de extracción de la muestra",
+                            "title": "extraccion_fecha"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Valor medido del parámetro ‘demanda bioquímica de oxígeno’ en mg/l",
+                            "title": "dqo_mg_l"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Valor medido del parámetro ‘bacterias coliformes totales’ en NMP/100ml",
+                            "title": "coliformes_totales_nmp_100ml"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘bacterias escherichia coli’ en NMP/100ml",
+                            "title": "escherichia_coli_nmp_100ml"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Valor medido del parámetro ‘bacterias coliformes fecales’ en NMP/100ml",
+                            "title": "coliformes_fecales_nmp_100ml"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘amonio’ en mg/l",
+                            "title": "nh4_mg_l"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘nitratos’ en mg/l",
+                            "title": "no3_mg_l"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/7cf2a681-0e2a-436f-bae0-7ff01a6ad290/download/muestreo-calidad-de-agua-riiglo-primavera-2016.csv",
+                    "description": "Conjunto de determinaciones in situ/laboratorio de parámetros de calidad de agua de muestras extraídas a lo largo de la franja costera del Río de la Plata, en la campaña Primavera 2016.",
+                    "title": "Muestreos de calidad de agua de la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO) Primavera-2016",
+                    "issued": "2017-09-05T15:01:43.512143",
+                    "format": "CSV",
+                    "modified": "2017-09-05T15:01:43.439950",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/7cf2a681-0e2a-436f-bae0-7ff01a6ad290/download/muestreo-calidad-de-agua-riiglo-primavera-2016.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Identificador de la estación de muestreo",
+                            "title": "estacion_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la estación de muestreo",
+                            "title": "estacion_ubicacion"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de extracción de la muestra",
+                            "title": "extraccion_fecha"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Valor medido del parámetro ‘demanda bioquímica de oxígeno’ en mg/l",
+                            "title": "dqo_mg_l"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘bacterias coliformes totales’ en NMP/100ml",
+                            "title": "coliformes_totales_nmp_100ml"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘bacterias escherichia coli’ en NMP/100ml",
+                            "title": "escherichia_coli_nmp_100ml"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Valor medido del parámetro ‘bacterias coliformes fecales’ en NMP/100ml",
+                            "title": "coliformes_fecales_nmp_100ml"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘amonio’ en mg/l",
+                            "title": "nh4_mg_l"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘nitratos’ en mg/l",
+                            "title": "no3_mg_l"
+                        }
+                    ]
                 }
             ],
             "keyword": [
@@ -483,6 +651,192 @@
                 "hasEmail": "mailto:dgarhya@ambiente.gob.ar",
                 "@type": "vcard:Contact",
                 "fn": "Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "dinacofi@ambiente.gob.ar",
+                "name": "Dirección Nacional de Cooperación y Financiamiento Internacional"
+            },
+            "accessLevel": "public",
+            "description": "Información sobre proyectos con financiamiento externo, incluyendo préstamos y donaciones.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Proyectos con financiamiento externo",
+            "issued": "2017-09-05T14:42:43.871120",
+            "temporal": "2009-09-01T03:00:00.000Z/2017-07-31T03:00:00.000Z",
+            "modified": "2017-09-05T14:50:11.660120",
+            "language": "spa",
+            "theme": [
+                "Cooperación internacional"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/3b8c5484-c346-4dd6-8376-e6b521ee745e/resource/86a11a62-3b91-4d8c-943b-56ccabb54385/download/proyectos-financiamiento-externo.csv",
+                    "description": "Listado de préstamos y donaciones con financiamiento internacional existentes en el Ministerio de Ambiente y Desarrollo Sustentable",
+                    "title": "proyectos-con-financiamiento-externo",
+                    "issued": "2017-09-05T14:50:11.316362",
+                    "format": "CSV",
+                    "modified": "2017-09-05T14:50:11.270352",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/3b8c5484-c346-4dd6-8376-e6b521ee745e/resource/86a11a62-3b91-4d8c-943b-56ccabb54385/download/proyectos-financiamiento-externo.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Número de identificación de los proyectos asignados por los organismos que los implementan",
+                            "title": "proyecto_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Título oficial del proyecto",
+                            "title": "proyecto_nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Organismo que financia el proyecto",
+                            "title": "proyecto_origen"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Fuente de financiamiento del proyecto: El número 21 indica que se trata de una donación, el 22 indica que se trata de un préstamo. ",
+                            "title": "proyecto_fuente"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Describe si es un préstamos o una donación",
+                            "title": "proyecto_tipo"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Monto total necesario para la ejecución del Proyecto",
+                            "title": "proyecto_monto_USD"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Coordinadores y responsables técnicos y financieros del MAyDS, para cada uno de los proyectos",
+                            "title": "proyecto_responsable"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Etapa en que se encuentra cada proyecto al día de la fecha",
+                            "title": "proyecto_estado"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Lugar físico donde se llevará a cabo el proyecto",
+                            "title": "proyecto_localización"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Cooperación",
+                "Donaciones",
+                "Financiamiento internacional",
+                "Proyectos",
+                "Préstamos"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/proyectos-con-financiamiento-externo",
+            "identifier": "3b8c5484-c346-4dd6-8376-e6b521ee745e",
+            "contactPoint": {
+                "hasEmail": "mailto:dinacofi@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección Nacional de Cooperación y Financiamiento Internacional"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "mabapillo@ambiente.gob.ar",
+                "name": "Dirección de Pueblos Originarios"
+            },
+            "accessLevel": "public",
+            "description": "El dataset muestra los planes de asistencia técnica en proceso de implementación en las comunidades beneficiarias",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Plan integral comunitario (PICs)",
+            "issued": "2017-09-05T14:27:36.467239",
+            "temporal": "2016-01-01T03:00:00.000Z/2017-09-01T03:00:00.000Z",
+            "modified": "2017-09-05T14:32:54.248802",
+            "language": "spa",
+            "theme": [
+                "Pueblos originarios"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9a4f202f-4cb4-4dc1-9557-503c68e2b32e/resource/dec86fa1-5bdc-4c24-a201-4bc300ca6741/download/plan-integral-comunitario.csv",
+                    "description": "Son los los planes de asistencia técnica en implementación de las comunidades beneficiarias",
+                    "title": "Plan-integral-comunitario",
+                    "issued": "2017-09-05T14:32:52.658647",
+                    "format": "CSV",
+                    "modified": "2017-09-05T14:32:52.590025",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9a4f202f-4cb4-4dc1-9557-503c68e2b32e/resource/dec86fa1-5bdc-4c24-a201-4bc300ca6741/download/plan-integral-comunitario.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Nombre de la comunidad que recibe el PICs",
+                            "title": "comunidad_nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de comunidad que recibe el plan, (campesina criollo e indígena)",
+                            "title": "comunidad_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia donde reside la comunidad y se ejecuta el PICs",
+                            "title": "provincia_descripcion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Departamento provincial donde reside la comunidad y se ejecuta el PICs",
+                            "title": "departamento_descripcion"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de familias que integran el PICs",
+                            "title": "comunidad_familias_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Superficie en hectáreas que ocupa la comunidad",
+                            "title": "comunidad_superficie_ocupada_hectareas"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Organización que asiste a la comunidad en la formulación del PICs",
+                            "title": "organizacion_asistencia_tecnica_nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Etapa en la implementación que se encuentra el PICs",
+                            "title": "plan_integral_comunitario_estado"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Estado de avance en porcentaje que se encuentra el PICs para su implementación",
+                            "title": "plan_integral_comunitario_avance_porcentaje"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Plan integral comunitario",
+                "comunidades campesinas",
+                "comunidades criollas",
+                "comunidades indígenas",
+                "pueblos originarios"
+            ],
+            "accrualPeriodicity": "R/PT1S",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/plan-integral-comunitario-pics",
+            "identifier": "9a4f202f-4cb4-4dc1-9557-503c68e2b32e",
+            "contactPoint": {
+                "hasEmail": "mailto:mabapillo@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Pueblos Originarios"
             }
         },
         {
