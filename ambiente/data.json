@@ -9,6 +9,91 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "caltieri@ambiente.gob.ar",
+                "name": "Dirección de Normativa Ambiental"
+            },
+            "accessLevel": "public",
+            "description": "Recopilación de las disposiciones legales que tienen al Ministerio de Ambiente y Desarrollo Sustentable como autoridad de aplicación",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Normativa ambiental",
+            "issued": "2017-09-05T18:01:52.859547",
+            "temporal": "1971-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-05T18:06:20.549213",
+            "language": "spa",
+            "theme": [
+                "Normativa ambiental"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/b4110596-d9f4-42ff-b5d8-08f26e1c83c0/resource/22a44141-ddd6-4b67-b7a8-e3bc6245a733/download/normativa-ambiental-.csv",
+                    "description": "El dataset muestra el marco jurídico ambiental vigente",
+                    "title": "Normativa-ambiental",
+                    "issued": "2017-09-05T18:06:20.194182",
+                    "format": "CSV",
+                    "modified": "2017-09-05T18:06:20.094665",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/b4110596-d9f4-42ff-b5d8-08f26e1c83c0/resource/22a44141-ddd6-4b67-b7a8-e3bc6245a733/download/normativa-ambiental-.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Normativa vinculada al tema",
+                            "title": "normativa_tema"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de normativa",
+                            "title": "normativa_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Número de identificación de la normativa ",
+                            "title": "normativa_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Año de sanción de la normativa ",
+                            "title": "normativa_anio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Marco jurídico ambiental vigente del cual el MAyDS es autoridad de aplicación ",
+                            "title": "normativa_descripcion"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Convenio",
+                "ambiente",
+                "biodiversidad",
+                "bosques",
+                "cambio climático",
+                "desertificación",
+                "disposición",
+                "fauna",
+                "ley",
+                "manejo del fuego",
+                "ozono",
+                "presupuestos mínimos de protección ambiental",
+                "residuos",
+                "residuos peligrosos",
+                "resolución",
+                "riesgo ambiental",
+                "seguro ambiental"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/normativa-ambiental",
+            "identifier": "b4110596-d9f4-42ff-b5d8-08f26e1c83c0",
+            "contactPoint": {
+                "hasEmail": "mailto:caltieri@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Normativa Ambiental"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "jfabri@ambiente.gob.ar",
                 "name": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
             },
@@ -18,7 +103,7 @@
             "title": "Superficie, porcentaje y número de áreas naturales protegidas",
             "issued": "2017-09-05T17:24:20.516587",
             "temporal": "/2016-12-30T03:00:00.000Z",
-            "modified": "2017-09-05T17:52:41.770603",
+            "modified": "2017-09-05T18:06:06.970551",
             "language": "spa",
             "theme": [
                 "Áreas naturales protegidas"
@@ -30,7 +115,7 @@
                     "title": "Áreas naturales protegidas en Mar Argentino",
                     "issued": "2017-09-05T17:31:20.141492",
                     "format": "CSV",
-                    "modified": "2017-09-05T17:31:20.066709",
+                    "modified": "2017-09-05T18:04:19.194674",
                     "downloadURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/4557aa5c-d022-4062-ac2f-48441ac95659/download/areas-naturales-protegidas-mar-argentino.csv",
                     "field": [
                         {
@@ -97,13 +182,13 @@
                     ]
                 },
                 {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/e0ad159b-53d9-404f-b0b7-e83c9681b217/download/areas-naturales-protegidas-provincia.csv",
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/e0ad159b-53d9-404f-b0b7-e83c9681b217/download/areas-naturales-protegidas-provincia-cantidad.csv",
                     "description": "Datos correspondientes a la cantidad de áreas protegidas por provincia",
                     "title": "Cantidad de áreas naturales protegidas por provincia",
                     "issued": "2017-09-05T17:47:06.948966",
                     "format": "CSV",
-                    "modified": "2017-09-05T17:47:06.882605",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/e0ad159b-53d9-404f-b0b7-e83c9681b217/download/areas-naturales-protegidas-provincia.csv",
+                    "modified": "2017-09-05T18:06:06.950253",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/e0ad159b-53d9-404f-b0b7-e83c9681b217/download/areas-naturales-protegidas-provincia-cantidad.csv",
                     "field": [
                         {
                             "type": "integer",
