@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 13
-- **Cantidad Total de Distribuciones**: 28
+- **Cantidad Total de Datasets**: 17
+- **Cantidad Total de Distribuciones**: 33
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 13
+- **Cantidad de Datasets NO Federados**: 17
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,7 +28,11 @@
 
 ## Datasets no federados
 
+- [Generación de residuos](http://observatoriorsu.ambiente.gob.ar)
+- [Fiscalización de fauna](http://datos.ambiente.gob.ar/dataset/fiscalizacion-de-fauna)
 - [Normativa ambiental](http://datos.ambiente.gob.ar/dataset/normativa-ambiental)
+- [Decomisos por comercio ilegal de especies](http://datos.ambiente.gob.ar/dataset/decomisos-por-comercio-ilegal-de-especies)
+- [Sanciones administrativas aplicadas](http://datos.ambiente.gob.ar/dataset/sanciones-administrativas-aplicadas)
 - [Superficie, porcentaje y número de áreas naturales protegidas](http://datos.ambiente.gob.ar/dataset/superficie-porcentaje-y-numero-de-areas-naturales-protegidas)
 - [Programa Nacional de Emprendedores para el Desarrollo Sustentable (PROESUS)](https://proesus.ambiente.gob.ar/)
 - [Organizaciones de la sociedad civil](http://datos.ambiente.gob.ar/dataset/organizaciones-de-la-sociedad-civil)
