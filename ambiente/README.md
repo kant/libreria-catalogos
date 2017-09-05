@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 1
-- **Cantidad Total de Distribuciones**: 2
+- **Cantidad Total de Datasets**: 2
+- **Cantidad Total de Distribuciones**: 3
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 1
+- **Cantidad de Datasets NO Federados**: 2
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,6 +28,7 @@
 
 ## Datasets no federados
 
+- [Índice de Aridez](www.desertificacion.gob.ar)
 - [Muestreos de calidad de agua de RIIGLO 2013-2016](http://calidaddeagua.ambiente.gob.ar)
 
 ## Datasets federados
