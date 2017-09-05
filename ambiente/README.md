@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 3
-- **Cantidad Total de Distribuciones**: 7
+- **Cantidad Total de Datasets**: 4
+- **Cantidad Total de Distribuciones**: 10
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 3
+- **Cantidad de Datasets NO Federados**: 4
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,8 +28,9 @@
 
 ## Datasets no federados
 
-- [Grado de la degradación de tierras secas en Argentina](www.desertificacion.gob.ar)
 - [Muestreos de calidad de agua de RIIGLO 2013-2016](http://calidaddeagua.ambiente.gob.ar)
+- [Normativa nacional Argentina vinculada a Suelos](http://ambiente.gob.ar/suelos)
+- [Grado de la degradación de tierras secas en Argentina](www.desertificacion.gob.ar)
 - [Índice de Aridez](www.desertificacion.gob.ar)
 
 ## Datasets federados
