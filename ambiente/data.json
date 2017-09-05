@@ -9,6 +9,151 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "llehmann@ambiente.gob.ar",
+                "name": "Dirección Nacional de Gestión Integral de los Residuos"
+            },
+            "accessLevel": "public",
+            "description": "El dataset muestra la generación de residuos a escala municipal y provincial, por habitante, por año y si cada municipio cuenta con planta de tratamiento",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Generación de residuos",
+            "issued": "2017-09-05T18:53:31.459087",
+            "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-05T19:00:32.187417",
+            "language": "spa",
+            "theme": [
+                "Residuos"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/c099ac6b-e6c0-464e-b3e0-8381bb6f35b2/resource/08c8bd92-188d-4349-9b06-c5a75d641480/download/generacion-de-residuos-solidos-urbanos-por-provincia.csv",
+                    "description": "El recurso describe la generación de residuos por habitante y año por municipio y provincia, si posee planta de tratamiento y la distancia al municipio perteneciente",
+                    "title": "generacion-de-residuos-solidos-urbanos-por-provincia",
+                    "issued": "2017-09-05T19:00:31.485501",
+                    "format": "CSV",
+                    "modified": "2017-09-05T19:00:31.435289",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/c099ac6b-e6c0-464e-b3e0-8381bb6f35b2/resource/08c8bd92-188d-4349-9b06-c5a75d641480/download/generacion-de-residuos-solidos-urbanos-por-provincia.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Provincia a la cual corresponde el municipio",
+                            "title": "provincia_nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre del municipio al cual corresponde el valor",
+                            "title": "Municipio_nombre"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de habitantes en el municipio",
+                            "title": "Municipio_habitantes"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Porcentaje de habitantes del municipio en relación a la provincia",
+                            "title": "Porcentaje_habitantes_Provincia"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Generación de residuos por habitante y por año en kilogramos del municipio",
+                            "title": "Generacion_Dia_Habitante_Kg"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Generacion de residuos generados por el municipio en toneladas",
+                            "title": "Generacion_Municipio_Tn"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Distancia del lugar de disposición final de los residuos generados por el municipio",
+                            "title": "Distancia_obra_km"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Existencia de planta de tratamiento del municipio",
+                            "title": "Con_Planta_de_Transferencia"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Generación de residuos",
+                "Plantas de tratamiento",
+                "RSU",
+                "Residuos por habitante",
+                "Tratamiento de residuos"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://observatoriorsu.ambiente.gob.ar",
+            "identifier": "c099ac6b-e6c0-464e-b3e0-8381bb6f35b2",
+            "contactPoint": {
+                "hasEmail": "mailto:llehmann@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección Nacional de Gestión Integral de los Residuos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "rnegreira@ambiente.gob.ar",
+                "name": "Dirección de Fauna Silvestre y Conservación de la Biodiversidad"
+            },
+            "accessLevel": "public",
+            "description": "Muestra las actuaciones del área de fiscalización de la Dirección de Fauna y Conservación de la Biodiversidad",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Fiscalización de fauna",
+            "issued": "2017-09-05T18:54:04.317639",
+            "temporal": "2012-03-01T03:00:00.000Z/2016-12-30T03:00:00.000Z",
+            "modified": "2017-09-05T18:59:05.003899",
+            "language": "spa",
+            "theme": [
+                "Biodiversidad",
+                "Fiscalización"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/c8864d14-0ac1-4c97-9fe6-10b12ef3ecdc/resource/52fa3a64-83be-4aed-b590-a2425bf8cfdd/download/actas-elaboradas-notificadas-por-fiscalizacion-de-fauna.csv",
+                    "description": "Son las actas que se elaboran y notifica el Área de Fiscalización de la Dirección de Fauna Silvestre y Conservación de la Biodiversidad",
+                    "title": "Actas elaboradas y notificadas por fiscalizacion de fauna",
+                    "issued": "2017-09-05T18:59:04.627263",
+                    "format": "CSV",
+                    "modified": "2017-09-05T18:59:04.581171",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/c8864d14-0ac1-4c97-9fe6-10b12ef3ecdc/resource/52fa3a64-83be-4aed-b590-a2425bf8cfdd/download/actas-elaboradas-notificadas-por-fiscalizacion-de-fauna.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de la serie",
+                            "title": "actas_elaboradas_y_notificadas_anio"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de actas que se elaboran y notifican",
+                            "title": "actas_elaboradas_y_notificadas_numero"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Actas",
+                "Fauna",
+                "Fiscalización"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/fiscalizacion-de-fauna",
+            "identifier": "c8864d14-0ac1-4c97-9fe6-10b12ef3ecdc",
+            "contactPoint": {
+                "hasEmail": "mailto:rnegreira@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Fauna Silvestre y Conservación de la Biodiversidad"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "caltieri@ambiente.gob.ar",
                 "name": "Dirección de Normativa Ambiental"
             },
@@ -18,7 +163,7 @@
             "title": "Normativa ambiental",
             "issued": "2017-09-05T18:01:52.859547",
             "temporal": "1971-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
-            "modified": "2017-09-05T18:06:20.549213",
+            "modified": "2017-09-05T18:45:30.518678",
             "language": "spa",
             "theme": [
                 "Normativa ambiental"
@@ -67,7 +212,6 @@
                 "biodiversidad",
                 "bosques",
                 "cambio climático",
-                "desertificación",
                 "disposición",
                 "fauna",
                 "ley",
@@ -90,6 +234,221 @@
                 "hasEmail": "mailto:caltieri@ambiente.gob.ar",
                 "@type": "vcard:Contact",
                 "fn": "Dirección de Normativa Ambiental"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "rnegreira@ambiente.gob.ar",
+                "name": "Dirección de Fauna Silvestre y Conservación de la Biodiversidad"
+            },
+            "accessLevel": "public",
+            "description": "Son los decomisos hechos por el Ministerio de especies de fauna silvestre de la tenencia o  comercio ilegal",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Decomisos por comercio ilegal de especies",
+            "issued": "2017-09-05T18:18:26.395350",
+            "temporal": "2011-03-01T03:00:00.000Z/2015-12-31T03:00:00.000Z",
+            "modified": "2017-09-05T18:45:27.732581",
+            "language": "spa",
+            "theme": [
+                "Biodiversidad"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/a84def2c-5233-41b1-9bc5-868671a84a92/resource/d02014ae-bc2a-4e72-a25f-384f0ac45d03/download/decomisos-de-fauna-por-comercio-ilegal.csv",
+                    "description": "Son los decomisos más frecuentes realizados  por el Ministerio de especies de fauna por comercio ilegal",
+                    "title": "Decomisos de fauna por comercio ilegal",
+                    "issued": "2017-09-05T18:33:48.666014",
+                    "format": "CSV",
+                    "modified": "2017-09-05T18:35:59.802101",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/a84def2c-5233-41b1-9bc5-868671a84a92/resource/d02014ae-bc2a-4e72-a25f-384f0ac45d03/download/decomisos-de-fauna-por-comercio-ilegal.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de la serie",
+                            "title": "decomisos_anio"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de ejemplares de jilguero decomisados",
+                            "title": "decomisos_jilgueros"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de ejemplares de cabecita negra decomisados",
+                            "title": "decomisos_cabecita_negra"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de ejemplares de cardenal común decomisados",
+                            "title": "decomisos_cardenal_común"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de ejemplares de corbatita común decomisados",
+                            "title": "decomisos_corbatita_común"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de ejemplares de cotorra australiana decomisados",
+                            "title": "decomisos_cotorra_australiana"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de ejemplares de canario decomisados",
+                            "title": "decomisos_canarios"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de ejemplares de cangrejo de agua dulce decomisados",
+                            "title": "decomisos_cangrejos_agua_dulce"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de ejemplares de tortuga de tierra decomisados",
+                            "title": "decomisos_tortugas_de_tierra"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/a84def2c-5233-41b1-9bc5-868671a84a92/resource/7b289472-6318-4199-a23d-627666ca04ec/download/decomisos-especies-comercializadas-ilegalmente-por-tipo.csv",
+                    "description": "Son los decomisos hechos por el Ministerio de especies de fauna comercializadas ilegalmente por tipo (secuestrados, rescatados, productos y subproductos, municiones y carne en kilogramos)",
+                    "title": "Decomisos de especies comercializadas ilegalmente por tipo",
+                    "issued": "2017-09-05T18:45:27.781495",
+                    "format": "CSV",
+                    "modified": "2017-09-05T18:45:27.712976",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/a84def2c-5233-41b1-9bc5-868671a84a92/resource/7b289472-6318-4199-a23d-627666ca04ec/download/decomisos-especies-comercializadas-ilegalmente-por-tipo.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de la serie",
+                            "title": "decomisos_anio"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de decomisos de ejemplares vivos secuestrados",
+                            "title": "decomisos_ejemplares_vivos_secuestrados"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de decomisos de ejemplares vivos rescatados",
+                            "title": "decomisos_ejemplares_vivos_rescates"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de decomisos de productos y subproductos (ej: cueros, plumas, prendas, marroquinería, calzado)",
+                            "title": "decomisos_ejemplares_vivos_productos_y_subproductos"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de decomisos de municiones 12-70 (cartuchos de escopeta)",
+                            "title": "decomisos_municiones_12_70"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de decomisos de carne (ej: proveniente de la caza ilegal o venta al público)",
+                            "title": "decomisos_carne_en_kilogramos"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Decomisos",
+                "cabecita negra",
+                "canarios",
+                "cangrejos de agua dulce",
+                "cardenal común",
+                "comercio ilegal",
+                "corbatita común",
+                "cotorra australiana",
+                "jilgueros",
+                "tortugas de tierra"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/decomisos-por-comercio-ilegal-de-especies",
+            "identifier": "a84def2c-5233-41b1-9bc5-868671a84a92",
+            "contactPoint": {
+                "hasEmail": "mailto:rnegreira@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Fauna Silvestre y Conservación de la Biodiversidad"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "gmpipet@ambiente.gob.ar",
+                "name": "Dirección de Infracciones Ambientales "
+            },
+            "accessLevel": "public",
+            "description": "Indican la cantidad, tipo y del área sustantiva que se aplican en el MAyDS",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Sanciones administrativas aplicadas",
+            "issued": "2017-09-05T18:26:18.099427",
+            "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-05T18:39:50.774680",
+            "language": "spa",
+            "theme": [
+                "Fiscalización"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/408ba48b-cd84-45bd-9632-254c10b637b9/resource/bf57fac3-d227-4360-a2e9-63b492a459bb/download/sanciones-administrativa-aplicadas.csv",
+                    "description": "Indican la cantidad, tipo y del área sustantiva que se aplican en el MAyDS",
+                    "title": "sanciones-administrativas-aplicadas",
+                    "issued": "2017-09-05T18:39:50.434492",
+                    "format": "CSV",
+                    "modified": "2017-09-05T18:39:50.393052",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/408ba48b-cd84-45bd-9632-254c10b637b9/resource/bf57fac3-d227-4360-a2e9-63b492a459bb/download/sanciones-administrativa-aplicadas.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de aplicación de la sanción",
+                            "title": "solicitud_inicio_sumario_anio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Área sustantiva que solicita el inicio del sumario",
+                            "title": "solicitud_inicio_sumario_area_sustantiva"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Indica que normativa se aplicó al sumario sancionado",
+                            "title": "normativa_aplicado_tipo"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Número de ley, decreto aplicada al sumario",
+                            "title": "normativa_aplicado_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Año de sanción de la normativa aplicada al sumario penalizado",
+                            "title": "normativa_aplicado_anio_de_sancion"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de penalidades o sanciones aplicadas",
+                            "title": "penalidades_aplicadas_numero"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Infracciones",
+                "Multas",
+                "Sanciones"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/sanciones-administrativas-aplicadas",
+            "identifier": "408ba48b-cd84-45bd-9632-254c10b637b9",
+            "contactPoint": {
+                "hasEmail": "mailto:gmpipet@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Infracciones Ambientales"
             }
         },
         {
