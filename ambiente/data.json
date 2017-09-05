@@ -9,6 +9,686 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "chiriart@ambiente.gob.ar",
+                "name": "Dirección de Producción y Consumo Sustentable"
+            },
+            "accessLevel": "public",
+            "description": "Información sobre los Programas de Reconversión Industrial (PRI) voluntarios que lleva adelante la Dirección de Producción y Consumo Sustentable (DPyCS) del Ministerio de Ambiente y Desarrollo Sustentable de la Nación, con provincias y empresas a partir de brindar asistencia técnica, capacitación y acompañamiento en su implementación, y con el fin de mejorar el desempeño y la gestión ambiental del sector productivo y de actividades de servicio.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Programa de Reconversión Industrial - PRI",
+            "issued": "2017-09-05T15:32:10.860505",
+            "temporal": "2014-01-01T03:00:00.000Z/2017-09-01T03:00:00.000Z",
+            "modified": "2017-09-05T19:30:02.757715",
+            "language": "spa",
+            "theme": [
+                "Producción y consumo sustentable"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/47db353d-b9ed-4054-a8a9-546c97d2833b/download/acuerdos-pri-provincia.csv",
+                    "description": "Identificación de las provincias que acordaron trabajar con MAyDS en Programas de Reconversión Industrial (capacitación, asistencia técnica e implementación)",
+                    "title": "Acuerdos PRI por provincia",
+                    "issued": "2017-09-05T15:37:57.562993",
+                    "format": "CSV",
+                    "modified": "2017-09-05T15:37:57.493596",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/47db353d-b9ed-4054-a8a9-546c97d2833b/download/acuerdos-pri-provincia.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Identificación de la provincia que acordó con Nación trabajar en Programas de Reconversión Industrial.",
+                            "title": "provincia_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Descripción de la provincia que acordó con Nación trabajar en Programas de Reconversión Industrial.",
+                            "title": "provincia_desc"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Identificación de la existencia de acuerdo",
+                            "title": "tiene_acuerdo_pri"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/3f34caf7-4e7f-4ed6-ab66-9c83a6aafcab/download/empresas-pri-activos-provincia.csv",
+                    "description": "Cantidad de empresas con Programas de Reconversión Industrial - PRI - firmados en proceso de implementación desde 2014, discriminadas por provincia.",
+                    "title": "Empresas con PRI activos por provincia",
+                    "issued": "2017-09-05T16:41:27.135592",
+                    "format": "CSV",
+                    "modified": "2017-09-05T16:41:27.049941",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/3f34caf7-4e7f-4ed6-ab66-9c83a6aafcab/download/empresas-pri-activos-provincia.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Código provincial del sistema de identificadores de la cartografía censal del Censo Nacional 2010 del Instituto Nacional de Estadísticas y Censos",
+                            "title": "provincia_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Descripción de la provincia que se encuentra implementando Programas de Reconversión Industrial en empresas desde 2014.",
+                            "title": "provincia_desc"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Cantidad de empresas con Programa de Reconversión Industrial firmados en implementación desde 2014, para cada provincia.",
+                            "title": "empresas_pri_activos_numero"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/ce96d534-e437-4f14-b807-b0bf041ad4f2/download/empresas-pri-activos-por-actividad-economica.csv",
+                    "description": "Cantidad de empresas con Programas de Reconversión Industrial – PRI - firmados en proceso de implementación desde 2014, discriminadas por actividad económica",
+                    "title": "Empresas con PRI activos por actividad económica",
+                    "issued": "2017-09-05T16:52:07.542993",
+                    "format": "CSV",
+                    "modified": "2017-09-05T16:52:07.474199",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/ce96d534-e437-4f14-b807-b0bf041ad4f2/download/empresas-pri-activos-por-actividad-economica.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Identificación de la actividad económica de las empresas con programa en proceso de implementación",
+                            "title": "actividad_economica_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Descripción de la actividad económica de las empresas con programa en proceso de implementación",
+                            "title": "actividad_economica_descripcion"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de empresas con PRI firmados en proceso de implementación desde 2014, para la actividad económica.",
+                            "title": "empresas_pri_activos_cantidad"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "PRI",
+                "consumo sustentable",
+                "contaminación",
+                "eficiencia energía",
+                "gestión de residuos",
+                "industria",
+                "industrial",
+                "producción",
+                "programa",
+                "reconversión"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/programa-de-reconversion-industrial-pri",
+            "identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
+            "contactPoint": {
+                "hasEmail": "mailto:chiriart@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Producción y Consumo Sustentable"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "desersuelo@ambiente.gob.a",
+                "name": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
+            },
+            "accessLevel": "public",
+            "description": "El dataset muestra el listado de la normativa nacional argentina vigente vinculada con la temática de suelos.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Normativa nacional Argentina vinculada a Suelos",
+            "issued": "2017-09-05T14:03:45.076961",
+            "temporal": "1981-01-01T03:00:00.000Z/2017-09-01T03:00:00.000Z",
+            "modified": "2017-09-05T19:27:47.000066",
+            "language": "spa",
+            "theme": [
+                "Normativa ambiental",
+                "Tierra y suelo"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/ec41f092-2a01-43ed-a12b-22d2a4c12bf8/resource/91803a80-013f-4694-89cb-16f1cfd9fb9a/download/normativa-nacional-argentina-suelos.csv",
+                    "description": "El dataset muestra el listado de la normativa nacional argentina vigente vinculada con la temática de suelos.",
+                    "title": "Normativa Nacional Argentina en la temática de suelos",
+                    "issued": "2017-09-05T14:10:42.666688",
+                    "format": "CSV",
+                    "modified": "2017-09-05T14:10:42.625724",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/ec41f092-2a01-43ed-a12b-22d2a4c12bf8/resource/91803a80-013f-4694-89cb-16f1cfd9fb9a/download/normativa-nacional-argentina-suelos.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Tipo de normativa",
+                            "title": "normativa_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Número de norma",
+                            "title": "normativa_numero"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Organismo que emitió la norma",
+                            "title": "normativa_organismo_emisor"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de publicación de la norma en el Boletín Oficial de la República Argentina",
+                            "title": "normativa_fecha_publicacion_boletin_oficial"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Síntesis temática de la norma",
+                            "title": "normativa_sumario"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "manejo sustentable de tierras",
+                "normativa vinculada a suelos",
+                "suelos"
+            ],
+            "accrualPeriodicity": "R/PT1S",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://ambiente.gob.ar/suelos",
+            "identifier": "ec41f092-2a01-43ed-a12b-22d2a4c12bf8",
+            "contactPoint": {
+                "hasEmail": "mailto:desersuelo@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "mabapillo@ambiente.gob.ar",
+                "name": "Dirección de Pueblos Originarios"
+            },
+            "accessLevel": "public",
+            "description": "El dataset muestra los planes de asistencia técnica en proceso de implementación en las comunidades beneficiarias",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Plan integral comunitario (PICs)",
+            "issued": "2017-09-05T14:27:36.467239",
+            "temporal": "2016-01-01T03:00:00.000Z/2017-09-01T03:00:00.000Z",
+            "modified": "2017-09-05T19:26:22.972357",
+            "language": "spa",
+            "theme": [
+                "Pueblos originarios"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9a4f202f-4cb4-4dc1-9557-503c68e2b32e/resource/dec86fa1-5bdc-4c24-a201-4bc300ca6741/download/plan-integral-comunitario.csv",
+                    "description": "Son los los planes de asistencia técnica en implementación de las comunidades beneficiarias",
+                    "title": "Plan integral comunitario (PICs)",
+                    "issued": "2017-09-05T14:32:52.658647",
+                    "format": "CSV",
+                    "modified": "2017-09-05T14:32:52.590025",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9a4f202f-4cb4-4dc1-9557-503c68e2b32e/resource/dec86fa1-5bdc-4c24-a201-4bc300ca6741/download/plan-integral-comunitario.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Nombre de la comunidad que recibe el PICs",
+                            "title": "comunidad_nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de comunidad que recibe el plan, (campesina criollo e indígena)",
+                            "title": "comunidad_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia donde reside la comunidad y se ejecuta el PICs",
+                            "title": "provincia_descripcion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Departamento provincial donde reside la comunidad y se ejecuta el PICs",
+                            "title": "departamento_descripcion"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de familias que integran el PICs",
+                            "title": "comunidad_familias_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Superficie en hectáreas que ocupa la comunidad",
+                            "title": "comunidad_superficie_ocupada_hectareas"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Organización que asiste a la comunidad en la formulación del PICs",
+                            "title": "organizacion_asistencia_tecnica_nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Etapa en la implementación que se encuentra el PICs",
+                            "title": "plan_integral_comunitario_estado"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Estado de avance en porcentaje que se encuentra el PICs para su implementación",
+                            "title": "plan_integral_comunitario_avance_porcentaje"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Plan integral comunitario",
+                "comunidades campesinas",
+                "comunidades criollas",
+                "comunidades indígenas",
+                "pueblos originarios"
+            ],
+            "accrualPeriodicity": "R/PT1S",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/plan-integral-comunitario-pics",
+            "identifier": "9a4f202f-4cb4-4dc1-9557-503c68e2b32e",
+            "contactPoint": {
+                "hasEmail": "mailto:mabapillo@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Pueblos Originarios"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "desersuelo@ambiente.gob.ar",
+                "name": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
+            },
+            "accessLevel": "public",
+            "description": "El Índice de Aridez especifica cual es la situación hídrica de una región en base a la relación oferta/demanda hídrica. El índice propuesto por las Naciones Unidas para el Medio Ambiente (UNEP, por sus siglas en inglés) define la aridez mediante la interrelación de la temperatura con las precipitaciones, basándose en el supuesto que con la temperatura aumenta correlativamente la evapotranspiración.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Índice de Aridez",
+            "issued": "2017-09-05T13:18:59.718018",
+            "temporal": "2010-01-01T03:00:00.000Z/2010-12-31T03:00:00.000Z",
+            "modified": "2017-09-05T19:25:15.921599",
+            "language": "spa",
+            "theme": [
+                "Tierra y suelo"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/31a2acad-c95c-4346-9447-eb0603935c9f/resource/46c21043-0257-49a9-8bd4-b290998d639c/download/indice-de-aridez.csv",
+                    "description": "Expresa la relación entre la precipitación anual promedio y la evapotranspiración potencial en un área determinada (UNEP, 1992)",
+                    "title": "Índice de aridez",
+                    "issued": "2017-09-05T13:26:32.572205",
+                    "format": "CSV",
+                    "modified": "2017-09-05T13:30:48.720336",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/31a2acad-c95c-4346-9447-eb0603935c9f/resource/46c21043-0257-49a9-8bd4-b290998d639c/download/indice-de-aridez.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Categorías del Índice de Aridez:\nHiperárida                      <0.05\nÁrida                         0.05 a 0.20\n",
+                            "title": "indice_de_aridez_categoria"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie en kilómetros cuadrados para cada categoría del índice de aridez",
+                            "title": "indice_de_aridez_superficie_km2"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "balance hídrico",
+                "evapotranspiración",
+                "precipitación",
+                "Índice aridez"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "www.desertificacion.gob.ar",
+            "identifier": "31a2acad-c95c-4346-9447-eb0603935c9f",
+            "contactPoint": {
+                "hasEmail": "mailto:desersuelo@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "participacionciudadana@ambiente.gob.ar",
+                "name": "Dirección de participación ciudadana y medioambiente"
+            },
+            "accessLevel": "public",
+            "description": "Organizaciones de la sociedad civil inscriptas en el Ministerio de Ambiente y Desarrollo Sustentable",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Organizaciones de la sociedad civil",
+            "issued": "2017-09-05T17:05:16.269266",
+            "temporal": "2017-04-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-05T19:24:23.897063",
+            "language": "spa",
+            "theme": [
+                "Participación ciudadana"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/b67a0774-0c7a-4a23-8d23-b5fb76a814b5/resource/f8960692-877e-427b-99cb-5079ff34c16b/download/organizaciones-sociedad-civil.csv",
+                    "description": "Son las sociedades que están inscriptas en el registro de participación ciudadana",
+                    "title": "Organizaciones de la sociedad civil",
+                    "issued": "2017-09-05T17:13:44.734830",
+                    "format": "CSV",
+                    "modified": "2017-09-05T17:22:41.104040",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/b67a0774-0c7a-4a23-8d23-b5fb76a814b5/resource/f8960692-877e-427b-99cb-5079ff34c16b/download/organizaciones-sociedad-civil.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Denominación de la Organización de la Sociedad Civil",
+                            "title": "OSC_nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de Organización de Sociedad civil",
+                            "title": "OSC_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia donde está radicada la OSC",
+                            "title": "OSC_localizacion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Mail de contacto de la OSC",
+                            "title": "OSC_contacto_correo_electronico"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Página Web de la OSC",
+                            "title": "OSC_contacto_pagina_web"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Facebook de la OSC",
+                            "title": "OSC_contacto_facebook"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Twitter de la OSC",
+                            "title": "OSC_contacto_twitter"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Asociaciones y Fundaciones",
+                "Necesidades sociales",
+                "ONG",
+                "OSC",
+                "Sin fines de lucro",
+                "Sociedad civil"
+            ],
+            "accrualPeriodicity": "R/P3M",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/organizaciones-de-la-sociedad-civil",
+            "identifier": "b67a0774-0c7a-4a23-8d23-b5fb76a814b5",
+            "contactPoint": {
+                "hasEmail": "mailto:participacionciudadana@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de participación ciudadana y medioambiente"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "pzalzman@ambiente.gob.ar",
+                "name": "Dirección de Nuevas Tecnologías para el Desarrollo Sustentable"
+            },
+            "accessLevel": "public",
+            "description": "El Programa PROESUS es una iniciativa para detectar, promover y fortalecer emprendimientos de alto impacto que fomenten el desarrollo sustentable mediante el uso de nuevas tecnologías. Se espera del mismo obtener respuestas locales e innovadoras a problemáticas ambientales. Se busca además dar entidad y visibilizar a la población de emprendedores que han incorporado la dimensión ambiental como eje transversal a sus iniciativas.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Programa Nacional de Emprendedores para el Desarrollo Sustentable (PROESUS)",
+            "issued": "2017-09-05T17:29:49.678627",
+            "temporal": "2016-08-11T03:00:00.000Z/2017-08-18T03:00:00.000Z",
+            "modified": "2017-09-05T19:23:24.902656",
+            "language": "spa",
+            "theme": [
+                "Nuevas tecnologías"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/a4e70ffe-fb56-46d8-a5e6-312db4879b20/download/emprendimientos-proesus-por-categoria.csv",
+                    "description": "Número de emprendimientos inscriptos en PROESUS por categoría. El Programa agrupa las iniciativas en 12 categorías a fin de sistematizar la información.",
+                    "title": "Emprendimientos PROESUS por categoría",
+                    "issued": "2017-09-05T17:34:25.179858",
+                    "format": "CSV",
+                    "modified": "2017-09-05T17:34:25.058566",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/a4e70ffe-fb56-46d8-a5e6-312db4879b20/download/emprendimientos-proesus-por-categoria.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Código asignado a cada categoría",
+                            "title": "categoria_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Denominación de la categoría",
+                            "title": "categoria_nombre"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de emprendimientos pertenecientes a una categoría.",
+                            "title": "emprendimientos_numero"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/c6e51536-16f8-4103-abe0-fa7e550cbff6/download/emprendimientos-proesus-por-provincia.xlsx",
+                    "description": "Cantidad de emprendimientos registrados en la plataforma PROESUS por usuarios pertenecientes a una Provincia. A los efectos de este recurso y a pesar de no pertenecer a esta categoría, la Ciudad de Bu",
+                    "title": "Emprendimientos PROESUS por provincia",
+                    "issued": "2017-09-05T17:41:52.753305",
+                    "format": "CSV",
+                    "modified": "2017-09-05T17:41:52.685002",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/c6e51536-16f8-4103-abe0-fa7e550cbff6/download/emprendimientos-proesus-por-provincia.xlsx",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Código provincial del sistema de identificadores de la cartografía censal del Censo Nacional 2010 del Instituto Nacional de Estadísticas y Censos",
+                            "title": "provincia_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Denominación de la Provincia",
+                            "title": "provincia_desc"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de emprendimientos inscriptos en la plataforma PROESUS en cada provincia",
+                            "title": "emprendimientos_numero"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Comunidad emprendedora",
+                "Desarrollo Sustentable",
+                "Emprendedores",
+                "Emprendedores sustentables",
+                "Emprendimientos",
+                "Emprendimientos sustentables",
+                "Innovación",
+                "Nuevas tecnologías",
+                "PROESUS",
+                "Programas"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "https://proesus.ambiente.gob.ar/",
+            "identifier": "1931bc96-46a5-48f3-b613-55626847ca61",
+            "contactPoint": {
+                "hasEmail": "mailto:pzalzman@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Nuevas Tecnologías para el Desarrollo Sustentable"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "gmpipet@ambiente.gob.ar",
+                "name": "Dirección de Infracciones Ambientales "
+            },
+            "accessLevel": "public",
+            "description": "Indican la cantidad, tipo y del área sustantiva que se aplican en el MAyDS",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Sanciones administrativas aplicadas",
+            "issued": "2017-09-05T18:26:18.099427",
+            "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-05T19:22:17.044947",
+            "language": "spa",
+            "theme": [
+                "Fiscalización"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/408ba48b-cd84-45bd-9632-254c10b637b9/resource/bf57fac3-d227-4360-a2e9-63b492a459bb/download/sanciones-administrativa-aplicadas.csv",
+                    "description": "Indican la cantidad, tipo y del área sustantiva que se aplican en el MAyDS",
+                    "title": "Sanciones administrativas aplicadas",
+                    "issued": "2017-09-05T18:39:50.434492",
+                    "format": "CSV",
+                    "modified": "2017-09-05T18:39:50.393052",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/408ba48b-cd84-45bd-9632-254c10b637b9/resource/bf57fac3-d227-4360-a2e9-63b492a459bb/download/sanciones-administrativa-aplicadas.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de aplicación de la sanción",
+                            "title": "solicitud_inicio_sumario_anio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Área sustantiva que solicita el inicio del sumario",
+                            "title": "solicitud_inicio_sumario_area_sustantiva"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Indica que normativa se aplicó al sumario sancionado",
+                            "title": "normativa_aplicado_tipo"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Número de ley, decreto aplicada al sumario",
+                            "title": "normativa_aplicado_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Año de sanción de la normativa aplicada al sumario penalizado",
+                            "title": "normativa_aplicado_anio_de_sancion"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de penalidades o sanciones aplicadas",
+                            "title": "penalidades_aplicadas_numero"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Infracciones",
+                "Multas",
+                "Sanciones"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/sanciones-administrativas-aplicadas",
+            "identifier": "408ba48b-cd84-45bd-9632-254c10b637b9",
+            "contactPoint": {
+                "hasEmail": "mailto:gmpipet@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Infracciones Ambientales"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "caltieri@ambiente.gob.ar",
+                "name": "Dirección de Normativa Ambiental"
+            },
+            "accessLevel": "public",
+            "description": "Recopilación de las disposiciones legales que tienen al Ministerio de Ambiente y Desarrollo Sustentable como autoridad de aplicación",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Normativa ambiental",
+            "issued": "2017-09-05T18:01:52.859547",
+            "temporal": "1971-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-05T19:21:32.399828",
+            "language": "spa",
+            "theme": [
+                "Normativa ambiental"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/b4110596-d9f4-42ff-b5d8-08f26e1c83c0/resource/22a44141-ddd6-4b67-b7a8-e3bc6245a733/download/normativa-ambiental-.csv",
+                    "description": "El dataset muestra el marco jurídico ambiental vigente",
+                    "title": "Normativa ambiental",
+                    "issued": "2017-09-05T18:06:20.194182",
+                    "format": "CSV",
+                    "modified": "2017-09-05T18:06:20.094665",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/b4110596-d9f4-42ff-b5d8-08f26e1c83c0/resource/22a44141-ddd6-4b67-b7a8-e3bc6245a733/download/normativa-ambiental-.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Normativa vinculada al tema",
+                            "title": "normativa_tema"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de normativa",
+                            "title": "normativa_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Número de identificación de la normativa ",
+                            "title": "normativa_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Año de sanción de la normativa ",
+                            "title": "normativa_anio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Marco jurídico ambiental vigente del cual el MAyDS es autoridad de aplicación ",
+                            "title": "normativa_descripcion"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Convenio",
+                "ambiente",
+                "biodiversidad",
+                "bosques",
+                "cambio climático",
+                "disposición",
+                "fauna",
+                "ley",
+                "manejo del fuego",
+                "ozono",
+                "presupuestos mínimos de protección ambiental",
+                "residuos",
+                "residuos peligrosos",
+                "resolución",
+                "riesgo ambiental",
+                "seguro ambiental"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/normativa-ambiental",
+            "identifier": "b4110596-d9f4-42ff-b5d8-08f26e1c83c0",
+            "contactPoint": {
+                "hasEmail": "mailto:caltieri@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Normativa Ambiental"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "llehmann@ambiente.gob.ar",
                 "name": "Dirección Nacional de Gestión Integral de los Residuos"
             },
@@ -18,7 +698,7 @@
             "title": "Generación de residuos",
             "issued": "2017-09-05T18:53:31.459087",
             "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
-            "modified": "2017-09-05T19:00:32.187417",
+            "modified": "2017-09-05T19:20:32.602582",
             "language": "spa",
             "theme": [
                 "Residuos"
@@ -27,7 +707,7 @@
                 {
                     "accessURL": "http://datos.ambiente.gob.ar/dataset/c099ac6b-e6c0-464e-b3e0-8381bb6f35b2/resource/08c8bd92-188d-4349-9b06-c5a75d641480/download/generacion-de-residuos-solidos-urbanos-por-provincia.csv",
                     "description": "El recurso describe la generación de residuos por habitante y año por municipio y provincia, si posee planta de tratamiento y la distancia al municipio perteneciente",
-                    "title": "generacion-de-residuos-solidos-urbanos-por-provincia",
+                    "title": "Generación de residuos sólidos urbanos por provincia",
                     "issued": "2017-09-05T19:00:31.485501",
                     "format": "CSV",
                     "modified": "2017-09-05T19:00:31.435289",
@@ -97,6 +777,151 @@
         },
         {
             "publisher": {
+                "mbox": "llehmann@ambiente.gob.ar",
+                "name": "Dirección Nacional de Gestión Integral de los Residuos"
+            },
+            "accessLevel": "public",
+            "description": "El dataset muestra la asignación presupuestaria por tipo de obra, por localidad, y el porcentaje de la población alcanzada de la provincia",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Asignación presupuestaria para construcción de obras para tratamientos de residuos",
+            "issued": "2017-09-05T19:06:55.601815",
+            "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-05T19:19:07.802756",
+            "theme": [
+                "Residuos"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/05657188-4d10-4c1c-be3d-3308db35cc22/resource/b6bbafac-77b7-4cab-84a1-ccd61aae08b6/download/presupuestos-asignados-para-construccion-obras.csv",
+                    "description": "El recurso describe el presupuesto asignado por tipo de obra, por localidad, y el porcentaje de la población alcanzada de la provincia",
+                    "title": "Presupuestos asignados para construcción de obras",
+                    "issued": "2017-09-05T19:15:35.342243",
+                    "format": "CSV",
+                    "modified": "2017-09-05T19:15:35.288183",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/05657188-4d10-4c1c-be3d-3308db35cc22/resource/b6bbafac-77b7-4cab-84a1-ccd61aae08b6/download/presupuestos-asignados-para-construccion-obras.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Provincia a la cual corresponde la obra y el presupuesto asignado",
+                            "title": "provincia_nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Denominación de la obra",
+                            "title": "obra_denominacion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de obra en construcción",
+                            "title": "obra_tipo"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de inicio de la obra en construcción",
+                            "title": "obra_fecha_inicio"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Población alcanzada por la obra en construcción",
+                            "title": "obra_poblacion_alcanzada"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Porcentaje de la población de la provincia alcanzada por la obra en construcción",
+                            "title": "obra_porcentaje_poblacion_provincia"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Presupuesto asignado de la obra en construcción en pesos",
+                            "title": "obra_presupuesto_asignado_pesos"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Generación de residuos",
+                "Plantas de tratamiento",
+                "RSU",
+                "Relleno sanitario",
+                "Residuos por habitante",
+                "Tratamiento de residuos",
+                "asignación presupuestaria para obras de Tratamiento de residuos"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://observatoriorsu.ambiente.gob.ar",
+            "identifier": "05657188-4d10-4c1c-be3d-3308db35cc22",
+            "contactPoint": {
+                "hasEmail": "mailto:llehmann@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección Nacional de Gestión Integral de los Residuos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "cresico@ambiente.gob.ar",
+                "name": "Dirección de Fauna Silvestre y Conservación de la Biodiversidad"
+            },
+            "accessLevel": "public",
+            "description": "Muestra las actuaciones del área de comercialización de la Dirección de Fauna y Conservación de la Biodiversidad",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Comercialización de fauna silvestre",
+            "issued": "2017-09-05T19:05:20.317245",
+            "temporal": "2012-03-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-05T19:08:50.469368",
+            "language": "spa",
+            "theme": [
+                "Biodiversidad"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/3015d5f5-d032-4abc-a959-4eaea8c98fc2/resource/f1000f91-ce4d-4a48-9f04-babe46f156c4/download/autorizaciones-importaciones-exportaciones-flora-fauna.csv",
+                    "description": "Son las autorizaciones de importaciones y exportaciones de flora y fauna",
+                    "title": "Autorizaciones de importaciones y exportaciones de flora y fauna silvestre",
+                    "issued": "2017-09-05T19:08:49.861673",
+                    "format": "CSV",
+                    "modified": "2017-09-05T19:08:49.809444",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/3015d5f5-d032-4abc-a959-4eaea8c98fc2/resource/f1000f91-ce4d-4a48-9f04-babe46f156c4/download/autorizaciones-importaciones-exportaciones-flora-fauna.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de la serie",
+                            "title": "autorizaciones_anio"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de importaciones autorizadas",
+                            "title": "autorizaciones_importaciones_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de exportaciones autorizadas",
+                            "title": "autorizaciones_exportaciones_numero"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Autorizaciones",
+                "exportaciones de fauna",
+                "importaciones de fauna"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/comercializacion-de-fauna-silvestre",
+            "identifier": "3015d5f5-d032-4abc-a959-4eaea8c98fc2",
+            "contactPoint": {
+                "hasEmail": "mailto:cresico@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Fauna Silvestre y Conservación de la Biodiversidad"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "rnegreira@ambiente.gob.ar",
                 "name": "Dirección de Fauna Silvestre y Conservación de la Biodiversidad"
             },
@@ -150,90 +975,6 @@
                 "hasEmail": "mailto:rnegreira@ambiente.gob.ar",
                 "@type": "vcard:Contact",
                 "fn": "Dirección de Fauna Silvestre y Conservación de la Biodiversidad"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "caltieri@ambiente.gob.ar",
-                "name": "Dirección de Normativa Ambiental"
-            },
-            "accessLevel": "public",
-            "description": "Recopilación de las disposiciones legales que tienen al Ministerio de Ambiente y Desarrollo Sustentable como autoridad de aplicación",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Normativa ambiental",
-            "issued": "2017-09-05T18:01:52.859547",
-            "temporal": "1971-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
-            "modified": "2017-09-05T18:45:30.518678",
-            "language": "spa",
-            "theme": [
-                "Normativa ambiental"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/b4110596-d9f4-42ff-b5d8-08f26e1c83c0/resource/22a44141-ddd6-4b67-b7a8-e3bc6245a733/download/normativa-ambiental-.csv",
-                    "description": "El dataset muestra el marco jurídico ambiental vigente",
-                    "title": "Normativa-ambiental",
-                    "issued": "2017-09-05T18:06:20.194182",
-                    "format": "CSV",
-                    "modified": "2017-09-05T18:06:20.094665",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/b4110596-d9f4-42ff-b5d8-08f26e1c83c0/resource/22a44141-ddd6-4b67-b7a8-e3bc6245a733/download/normativa-ambiental-.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Normativa vinculada al tema",
-                            "title": "normativa_tema"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de normativa",
-                            "title": "normativa_tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Número de identificación de la normativa ",
-                            "title": "normativa_numero"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Año de sanción de la normativa ",
-                            "title": "normativa_anio"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Marco jurídico ambiental vigente del cual el MAyDS es autoridad de aplicación ",
-                            "title": "normativa_descripcion"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "Convenio",
-                "ambiente",
-                "biodiversidad",
-                "bosques",
-                "cambio climático",
-                "disposición",
-                "fauna",
-                "ley",
-                "manejo del fuego",
-                "ozono",
-                "presupuestos mínimos de protección ambiental",
-                "residuos",
-                "residuos peligrosos",
-                "resolución",
-                "riesgo ambiental",
-                "seguro ambiental"
-            ],
-            "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "ENVI"
-            ],
-            "landingPage": "http://datos.ambiente.gob.ar/dataset/normativa-ambiental",
-            "identifier": "b4110596-d9f4-42ff-b5d8-08f26e1c83c0",
-            "contactPoint": {
-                "hasEmail": "mailto:caltieri@ambiente.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección de Normativa Ambiental"
             }
         },
         {
@@ -377,82 +1118,6 @@
         },
         {
             "publisher": {
-                "mbox": "gmpipet@ambiente.gob.ar",
-                "name": "Dirección de Infracciones Ambientales "
-            },
-            "accessLevel": "public",
-            "description": "Indican la cantidad, tipo y del área sustantiva que se aplican en el MAyDS",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Sanciones administrativas aplicadas",
-            "issued": "2017-09-05T18:26:18.099427",
-            "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
-            "modified": "2017-09-05T18:39:50.774680",
-            "language": "spa",
-            "theme": [
-                "Fiscalización"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/408ba48b-cd84-45bd-9632-254c10b637b9/resource/bf57fac3-d227-4360-a2e9-63b492a459bb/download/sanciones-administrativa-aplicadas.csv",
-                    "description": "Indican la cantidad, tipo y del área sustantiva que se aplican en el MAyDS",
-                    "title": "sanciones-administrativas-aplicadas",
-                    "issued": "2017-09-05T18:39:50.434492",
-                    "format": "CSV",
-                    "modified": "2017-09-05T18:39:50.393052",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/408ba48b-cd84-45bd-9632-254c10b637b9/resource/bf57fac3-d227-4360-a2e9-63b492a459bb/download/sanciones-administrativa-aplicadas.csv",
-                    "field": [
-                        {
-                            "type": "integer",
-                            "description": "Año de aplicación de la sanción",
-                            "title": "solicitud_inicio_sumario_anio"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Área sustantiva que solicita el inicio del sumario",
-                            "title": "solicitud_inicio_sumario_area_sustantiva"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Indica que normativa se aplicó al sumario sancionado",
-                            "title": "normativa_aplicado_tipo"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Número de ley, decreto aplicada al sumario",
-                            "title": "normativa_aplicado_numero"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Año de sanción de la normativa aplicada al sumario penalizado",
-                            "title": "normativa_aplicado_anio_de_sancion"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Cantidad de penalidades o sanciones aplicadas",
-                            "title": "penalidades_aplicadas_numero"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "Infracciones",
-                "Multas",
-                "Sanciones"
-            ],
-            "accrualPeriodicity": "R/P1M",
-            "superTheme": [
-                "ENVI"
-            ],
-            "landingPage": "http://datos.ambiente.gob.ar/dataset/sanciones-administrativas-aplicadas",
-            "identifier": "408ba48b-cd84-45bd-9632-254c10b637b9",
-            "contactPoint": {
-                "hasEmail": "mailto:gmpipet@ambiente.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección de Infracciones Ambientales"
-            }
-        },
-        {
-            "publisher": {
                 "mbox": "jfabri@ambiente.gob.ar",
                 "name": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
             },
@@ -587,304 +1252,6 @@
                 "hasEmail": "mailto:jfabri@ambiente.gob.ar",
                 "@type": "vcard:Contact",
                 "fn": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "pzalzman@ambiente.gob.ar",
-                "name": "Dirección de Nuevas Tecnologías para el Desarrollo Sustentable"
-            },
-            "accessLevel": "public",
-            "description": "El Programa PROESUS es una iniciativa para detectar, promover y fortalecer emprendimientos de alto impacto que fomenten el desarrollo sustentable mediante el uso de nuevas tecnologías. Se espera del mismo obtener respuestas locales e innovadoras a problemáticas ambientales. Se busca además dar entidad y visibilizar a la población de emprendedores que han incorporado la dimensión ambiental como eje transversal a sus iniciativas.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Programa Nacional de Emprendedores para el Desarrollo Sustentable (PROESUS)",
-            "issued": "2017-09-05T17:29:49.678627",
-            "temporal": "2016-08-11T03:00:00.000Z/2017-08-18T03:00:00.000Z",
-            "modified": "2017-09-05T17:41:52.703924",
-            "language": "spa",
-            "theme": [
-                "Nuevas tecnologías"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/a4e70ffe-fb56-46d8-a5e6-312db4879b20/download/emprendimientos-proesus-por-categoria.csv",
-                    "description": "Número de emprendimientos inscriptos en PROESUS por categoría. El Programa agrupa las iniciativas en 12 categorías a fin de sistematizar la información.",
-                    "title": "Emprendimientos-PROESUS-por-categoría",
-                    "issued": "2017-09-05T17:34:25.179858",
-                    "format": "CSV",
-                    "modified": "2017-09-05T17:34:25.058566",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/a4e70ffe-fb56-46d8-a5e6-312db4879b20/download/emprendimientos-proesus-por-categoria.csv",
-                    "field": [
-                        {
-                            "type": "integer",
-                            "description": "Código asignado a cada categoría",
-                            "title": "categoria_id"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Denominación de la categoría",
-                            "title": "categoria_nombre"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Cantidad de emprendimientos pertenecientes a una categoría.",
-                            "title": "emprendimientos_numero"
-                        }
-                    ]
-                },
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/c6e51536-16f8-4103-abe0-fa7e550cbff6/download/emprendimientos-proesus-por-provincia.xlsx",
-                    "description": "Cantidad de emprendimientos registrados en la plataforma PROESUS por usuarios pertenecientes a una Provincia. A los efectos de este recurso y a pesar de no pertenecer a esta categoría, la Ciudad de Bu",
-                    "title": "Emprendimientos-PROESUS-por-provincia",
-                    "issued": "2017-09-05T17:41:52.753305",
-                    "format": "CSV",
-                    "modified": "2017-09-05T17:41:52.685002",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/c6e51536-16f8-4103-abe0-fa7e550cbff6/download/emprendimientos-proesus-por-provincia.xlsx",
-                    "field": [
-                        {
-                            "type": "integer",
-                            "description": "Código provincial del sistema de identificadores de la cartografía censal del Censo Nacional 2010 del Instituto Nacional de Estadísticas y Censos",
-                            "title": "provincia_id"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Denominación de la Provincia",
-                            "title": "provincia_desc"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Cantidad de emprendimientos inscriptos en la plataforma PROESUS en cada provincia",
-                            "title": "emprendimientos_numero"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "Comunidad emprendedora",
-                "Desarrollo Sustentable",
-                "Emprendedores",
-                "Emprendedores sustentables",
-                "Emprendimientos",
-                "Emprendimientos sustentables",
-                "Innovación",
-                "Nuevas tecnologías",
-                "PROESUS",
-                "Programas"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "superTheme": [
-                "ENVI"
-            ],
-            "landingPage": "https://proesus.ambiente.gob.ar/",
-            "identifier": "1931bc96-46a5-48f3-b613-55626847ca61",
-            "contactPoint": {
-                "hasEmail": "mailto:pzalzman@ambiente.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección de Nuevas Tecnologías para el Desarrollo Sustentable"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "participacionciudadana@ambiente.gob.ar",
-                "name": "Dirección de participación ciudadana y medioambiente"
-            },
-            "accessLevel": "public",
-            "description": "Organizaciones de la sociedad civil inscriptas en el Ministerio de Ambiente y Desarrollo Sustentable",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Organizaciones de la sociedad civil",
-            "issued": "2017-09-05T17:05:16.269266",
-            "temporal": "2017-04-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
-            "modified": "2017-09-05T17:22:41.120746",
-            "language": "spa",
-            "theme": [
-                "Participación ciudadana"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/b67a0774-0c7a-4a23-8d23-b5fb76a814b5/resource/f8960692-877e-427b-99cb-5079ff34c16b/download/organizaciones-sociedad-civil.csv",
-                    "description": "Son las sociedades que están inscriptas en el registro de participación ciudadana",
-                    "title": "organizaciones-sociedad-civil",
-                    "issued": "2017-09-05T17:13:44.734830",
-                    "format": "CSV",
-                    "modified": "2017-09-05T17:22:41.104040",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/b67a0774-0c7a-4a23-8d23-b5fb76a814b5/resource/f8960692-877e-427b-99cb-5079ff34c16b/download/organizaciones-sociedad-civil.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Denominación de la Organización de la Sociedad Civil",
-                            "title": "OSC_nombre"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de Organización de Sociedad civil",
-                            "title": "OSC_tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Provincia donde está radicada la OSC",
-                            "title": "OSC_localizacion"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Mail de contacto de la OSC",
-                            "title": "OSC_contacto_correo_electronico"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Página Web de la OSC",
-                            "title": "OSC_contacto_pagina_web"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Facebook de la OSC",
-                            "title": "OSC_contacto_facebook"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Twitter de la OSC",
-                            "title": "OSC_contacto_twitter"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "Asociaciones y Fundaciones",
-                "Necesidades sociales",
-                "ONG",
-                "OSC",
-                "Sin fines de lucro",
-                "Sociedad civil"
-            ],
-            "accrualPeriodicity": "R/P3M",
-            "superTheme": [
-                "ENVI"
-            ],
-            "landingPage": "http://datos.ambiente.gob.ar/dataset/organizaciones-de-la-sociedad-civil",
-            "identifier": "b67a0774-0c7a-4a23-8d23-b5fb76a814b5",
-            "contactPoint": {
-                "hasEmail": "mailto:participacionciudadana@ambiente.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección de participación ciudadana y medioambiente"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "chiriart@ambiente.gob.ar",
-                "name": "Dirección de Producción y Consumo Sustentable"
-            },
-            "accessLevel": "public",
-            "description": "Información sobre los Programas de Reconversión Industrial (PRI) voluntarios que lleva adelante la Dirección de Producción y Consumo Sustentable (DPyCS) del Ministerio de Ambiente y Desarrollo Sustentable de la Nación, con provincias y empresas a partir de brindar asistencia técnica, capacitación y acompañamiento en su implementación, y con el fin de mejorar el desempeño y la gestión ambiental del sector productivo y de actividades de servicio.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Programa de Reconversión Industrial - PRI",
-            "issued": "2017-09-05T15:32:10.860505",
-            "temporal": "2014-01-01T03:00:00.000Z/2017-09-01T03:00:00.000Z",
-            "modified": "2017-09-05T16:52:07.494859",
-            "language": "spa",
-            "theme": [
-                "Producción y consumo sustentable"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/47db353d-b9ed-4054-a8a9-546c97d2833b/download/acuerdos-pri-provincia.csv",
-                    "description": "Identificación de las provincias que acordaron trabajar con MAyDS en Programas de Reconversión Industrial (capacitación, asistencia técnica e implementación)",
-                    "title": "acuerdos-pri-provincia",
-                    "issued": "2017-09-05T15:37:57.562993",
-                    "format": "CSV",
-                    "modified": "2017-09-05T15:37:57.493596",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/47db353d-b9ed-4054-a8a9-546c97d2833b/download/acuerdos-pri-provincia.csv",
-                    "field": [
-                        {
-                            "type": "integer",
-                            "description": "Identificación de la provincia que acordó con Nación trabajar en Programas de Reconversión Industrial.",
-                            "title": "provincia_id"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Descripción de la provincia que acordó con Nación trabajar en Programas de Reconversión Industrial.",
-                            "title": "provincia_desc"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Identificación de la existencia de acuerdo",
-                            "title": "tiene_acuerdo_pri"
-                        }
-                    ]
-                },
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/3f34caf7-4e7f-4ed6-ab66-9c83a6aafcab/download/empresas-pri-activos-provincia.csv",
-                    "description": "Cantidad de empresas con Programas de Reconversión Industrial - PRI - firmados en proceso de implementación desde 2014, discriminadas por provincia.",
-                    "title": "empresas-pri-activos-provincia",
-                    "issued": "2017-09-05T16:41:27.135592",
-                    "format": "CSV",
-                    "modified": "2017-09-05T16:41:27.049941",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/3f34caf7-4e7f-4ed6-ab66-9c83a6aafcab/download/empresas-pri-activos-provincia.csv",
-                    "field": [
-                        {
-                            "type": "integer",
-                            "description": "Código provincial del sistema de identificadores de la cartografía censal del Censo Nacional 2010 del Instituto Nacional de Estadísticas y Censos",
-                            "title": "provincia_id"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Descripción de la provincia que se encuentra implementando Programas de Reconversión Industrial en empresas desde 2014.",
-                            "title": "provincia_desc"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Cantidad de empresas con Programa de Reconversión Industrial firmados en implementación desde 2014, para cada provincia.",
-                            "title": "empresas_pri_activos_numero"
-                        }
-                    ]
-                },
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/ce96d534-e437-4f14-b807-b0bf041ad4f2/download/empresas-pri-activos-por-actividad-economica.csv",
-                    "description": "Cantidad de empresas con Programas de Reconversión Industrial – PRI - firmados en proceso de implementación desde 2014, discriminadas por actividad económica",
-                    "title": "empresas-pri-activos-por-actividad-economica",
-                    "issued": "2017-09-05T16:52:07.542993",
-                    "format": "CSV",
-                    "modified": "2017-09-05T16:52:07.474199",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/ce96d534-e437-4f14-b807-b0bf041ad4f2/download/empresas-pri-activos-por-actividad-economica.csv",
-                    "field": [
-                        {
-                            "type": "integer",
-                            "description": "Identificación de la actividad económica de las empresas con programa en proceso de implementación",
-                            "title": "actividad_economica_id"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Descripción de la actividad económica de las empresas con programa en proceso de implementación",
-                            "title": "actividad_economica_descripcion"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Cantidad de empresas con PRI firmados en proceso de implementación desde 2014, para la actividad económica.",
-                            "title": "empresas_pri_activos_cantidad"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "PRI",
-                "consumo sustentable",
-                "contaminación",
-                "eficiencia energía",
-                "gestión de residuos",
-                "industria",
-                "industrial",
-                "producción",
-                "programa",
-                "reconversión"
-            ],
-            "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "ENVI"
-            ],
-            "landingPage": "http://datos.ambiente.gob.ar/dataset/programa-de-reconversion-industrial-pri",
-            "identifier": "9052dd12-505e-456e-9162-e3abdf60dba9",
-            "contactPoint": {
-                "hasEmail": "mailto:chiriart@ambiente.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección de Producción y Consumo Sustentable"
             }
         },
         {
@@ -1822,170 +2189,6 @@
         },
         {
             "publisher": {
-                "mbox": "mabapillo@ambiente.gob.ar",
-                "name": "Dirección de Pueblos Originarios"
-            },
-            "accessLevel": "public",
-            "description": "El dataset muestra los planes de asistencia técnica en proceso de implementación en las comunidades beneficiarias",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Plan integral comunitario (PICs)",
-            "issued": "2017-09-05T14:27:36.467239",
-            "temporal": "2016-01-01T03:00:00.000Z/2017-09-01T03:00:00.000Z",
-            "modified": "2017-09-05T14:32:54.248802",
-            "language": "spa",
-            "theme": [
-                "Pueblos originarios"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9a4f202f-4cb4-4dc1-9557-503c68e2b32e/resource/dec86fa1-5bdc-4c24-a201-4bc300ca6741/download/plan-integral-comunitario.csv",
-                    "description": "Son los los planes de asistencia técnica en implementación de las comunidades beneficiarias",
-                    "title": "Plan-integral-comunitario",
-                    "issued": "2017-09-05T14:32:52.658647",
-                    "format": "CSV",
-                    "modified": "2017-09-05T14:32:52.590025",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9a4f202f-4cb4-4dc1-9557-503c68e2b32e/resource/dec86fa1-5bdc-4c24-a201-4bc300ca6741/download/plan-integral-comunitario.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Nombre de la comunidad que recibe el PICs",
-                            "title": "comunidad_nombre"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de comunidad que recibe el plan, (campesina criollo e indígena)",
-                            "title": "comunidad_tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Provincia donde reside la comunidad y se ejecuta el PICs",
-                            "title": "provincia_descripcion"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Departamento provincial donde reside la comunidad y se ejecuta el PICs",
-                            "title": "departamento_descripcion"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Cantidad de familias que integran el PICs",
-                            "title": "comunidad_familias_numero"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Superficie en hectáreas que ocupa la comunidad",
-                            "title": "comunidad_superficie_ocupada_hectareas"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Organización que asiste a la comunidad en la formulación del PICs",
-                            "title": "organizacion_asistencia_tecnica_nombre"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Etapa en la implementación que se encuentra el PICs",
-                            "title": "plan_integral_comunitario_estado"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Estado de avance en porcentaje que se encuentra el PICs para su implementación",
-                            "title": "plan_integral_comunitario_avance_porcentaje"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "Plan integral comunitario",
-                "comunidades campesinas",
-                "comunidades criollas",
-                "comunidades indígenas",
-                "pueblos originarios"
-            ],
-            "accrualPeriodicity": "R/PT1S",
-            "superTheme": [
-                "ENVI"
-            ],
-            "landingPage": "http://datos.ambiente.gob.ar/dataset/plan-integral-comunitario-pics",
-            "identifier": "9a4f202f-4cb4-4dc1-9557-503c68e2b32e",
-            "contactPoint": {
-                "hasEmail": "mailto:mabapillo@ambiente.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección de Pueblos Originarios"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "desersuelo@ambiente.gob.a",
-                "name": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
-            },
-            "accessLevel": "public",
-            "description": "El dataset muestra el listado de la normativa nacional argentina vigente vinculada con la temática de suelos.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Normativa nacional Argentina vinculada a Suelos",
-            "issued": "2017-09-05T14:03:45.076961",
-            "temporal": "1981-01-01T03:00:00.000Z/2017-09-01T03:00:00.000Z",
-            "modified": "2017-09-05T14:10:43.549217",
-            "language": "spa",
-            "theme": [
-                "Tierra y suelo"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/ec41f092-2a01-43ed-a12b-22d2a4c12bf8/resource/91803a80-013f-4694-89cb-16f1cfd9fb9a/download/normativa-nacional-argentina-suelos.csv",
-                    "description": "El dataset muestra el listado de la normativa nacional argentina vigente vinculada con la temática de suelos.",
-                    "title": "normativa-nacional-argentina-suelos",
-                    "issued": "2017-09-05T14:10:42.666688",
-                    "format": "CSV",
-                    "modified": "2017-09-05T14:10:42.625724",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/ec41f092-2a01-43ed-a12b-22d2a4c12bf8/resource/91803a80-013f-4694-89cb-16f1cfd9fb9a/download/normativa-nacional-argentina-suelos.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Tipo de normativa",
-                            "title": "normativa_tipo"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Número de norma",
-                            "title": "normativa_numero"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Organismo que emitió la norma",
-                            "title": "normativa_organismo_emisor"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha de publicación de la norma en el Boletín Oficial de la República Argentina",
-                            "title": "normativa_fecha_publicacion_boletin_oficial"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Síntesis temática de la norma",
-                            "title": "normativa_sumario"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "manejo sustentable de tierras",
-                "normativa vinculada a suelos",
-                "suelos"
-            ],
-            "accrualPeriodicity": "R/PT1S",
-            "superTheme": [
-                "ENVI"
-            ],
-            "landingPage": "http://ambiente.gob.ar/suelos",
-            "identifier": "ec41f092-2a01-43ed-a12b-22d2a4c12bf8",
-            "contactPoint": {
-                "hasEmail": "mailto:desersuelo@ambiente.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
-            }
-        },
-        {
-            "publisher": {
                 "mbox": "desersuelo@ambiente.gob.ar",
                 "name": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
             },
@@ -2072,63 +2275,6 @@
             ],
             "landingPage": "www.desertificacion.gob.ar",
             "identifier": "2e21c5a0-9c96-44ad-8574-f865be07cad7",
-            "contactPoint": {
-                "hasEmail": "mailto:desersuelo@ambiente.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "desersuelo@ambiente.gob.ar",
-                "name": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
-            },
-            "accessLevel": "public",
-            "description": "El Índice de Aridez especifica cual es la situación hídrica de una región en base a la relación oferta/demanda hídrica. El índice propuesto por las Naciones Unidas para el Medio Ambiente (UNEP, por sus siglas en inglés) define la aridez mediante la interrelación de la temperatura con las precipitaciones, basándose en el supuesto que con la temperatura aumenta correlativamente la evapotranspiración.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Índice de Aridez",
-            "issued": "2017-09-05T13:18:59.718018",
-            "temporal": "2010-01-01T03:00:00.000Z/2010-12-31T03:00:00.000Z",
-            "modified": "2017-09-05T13:30:48.749997",
-            "language": "spa",
-            "theme": [
-                "Tierra y suelo"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/31a2acad-c95c-4346-9447-eb0603935c9f/resource/46c21043-0257-49a9-8bd4-b290998d639c/download/indice-de-aridez.csv",
-                    "description": "Expresa la relación entre la precipitación anual promedio y la evapotranspiración potencial en un área determinada (UNEP, 1992)",
-                    "title": "indice-de-aridez",
-                    "issued": "2017-09-05T13:26:32.572205",
-                    "format": "CSV",
-                    "modified": "2017-09-05T13:30:48.720336",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/31a2acad-c95c-4346-9447-eb0603935c9f/resource/46c21043-0257-49a9-8bd4-b290998d639c/download/indice-de-aridez.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Categorías del Índice de Aridez:\nHiperárida                      <0.05\nÁrida                         0.05 a 0.20\n",
-                            "title": "indice_de_aridez_categoria"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Superficie en kilómetros cuadrados para cada categoría del índice de aridez",
-                            "title": "indice_de_aridez_superficie_km2"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "balance hídrico",
-                "evapotranspiración",
-                "precipitación",
-                "Índice aridez"
-            ],
-            "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "ENVI"
-            ],
-            "landingPage": "www.desertificacion.gob.ar",
-            "identifier": "31a2acad-c95c-4346-9447-eb0603935c9f",
             "contactPoint": {
                 "hasEmail": "mailto:desersuelo@ambiente.gob.ar",
                 "@type": "vcard:Contact",
