@@ -9,6 +9,276 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "llehmann@ambiente.gob.ar",
+                "name": "Dirección Nacional de Gestión Integral de los Residuos"
+            },
+            "accessLevel": "public",
+            "description": "El dataset muestra la asignación presupuestaria por tipo de obra, por localidad, y el porcentaje de la población alcanzada de la provincia",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Asignación presupuestaria para construcción de obras para tratamientos de residuos",
+            "issued": "2017-09-05T19:06:55.601815",
+            "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-05T19:38:17.256106",
+            "theme": [
+                "Residuos"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/05657188-4d10-4c1c-be3d-3308db35cc22/resource/b6bbafac-77b7-4cab-84a1-ccd61aae08b6/download/presupuestos-asignados-para-construccion-obras.csv",
+                    "description": "El recurso describe el presupuesto asignado por tipo de obra, por localidad, y el porcentaje de la población alcanzada de la provincia",
+                    "title": "Presupuestos asignados para construcción de obras",
+                    "issued": "2017-09-05T19:15:35.342243",
+                    "format": "CSV",
+                    "modified": "2017-09-05T19:15:35.288183",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/05657188-4d10-4c1c-be3d-3308db35cc22/resource/b6bbafac-77b7-4cab-84a1-ccd61aae08b6/download/presupuestos-asignados-para-construccion-obras.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Provincia a la cual corresponde la obra y el presupuesto asignado",
+                            "title": "provincia_nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Denominación de la obra",
+                            "title": "obra_denominacion"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de obra en construcción",
+                            "title": "obra_tipo"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de inicio de la obra en construcción",
+                            "title": "obra_fecha_inicio"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Población alcanzada por la obra en construcción",
+                            "title": "obra_poblacion_alcanzada"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Porcentaje de la población de la provincia alcanzada por la obra en construcción",
+                            "title": "obra_porcentaje_poblacion_provincia"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Presupuesto asignado de la obra en construcción en pesos",
+                            "title": "obra_presupuesto_asignado_pesos"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Generación de residuos",
+                "Plantas de tratamiento",
+                "RSU",
+                "Relleno sanitario",
+                "Residuos por habitante",
+                "Tratamiento de residuos"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://observatoriorsu.ambiente.gob.ar",
+            "identifier": "05657188-4d10-4c1c-be3d-3308db35cc22",
+            "contactPoint": {
+                "hasEmail": "mailto:llehmann@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección Nacional de Gestión Integral de los Residuos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "desersuelo@ambiente.gob.ar",
+                "name": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
+            },
+            "accessLevel": "public",
+            "description": "Indica el grado de degradación de tierras secas en Argentina. Se define como tierras secas a aquellas que se encuentran por debajo la isohieta de  600 milímetros anuales. El grado se define como la intensidad del proceso de degradación. Incluye diferentes tipos de degradación",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Grado de la degradación de tierras secas en Argentina",
+            "issued": "2017-09-05T13:41:27.618043",
+            "temporal": "2010-01-01T03:00:00.000Z/2010-12-31T03:00:00.000Z",
+            "modified": "2017-09-05T19:32:43.042228",
+            "language": "spa",
+            "theme": [
+                "Tierra y suelo"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/c2b2a095-1fa0-47b2-9980-07a52aa6d48f/download/superficie-degradada-en-tierras-secas.csv",
+                    "description": "Estima el grado de degradación en 4 clases: leve – etapa inicial,; moderado – control y rehabilitación posible; fuerte – etapa avanzada,; extrema – rehabilitación imposible.",
+                    "title": "Superficie degradada en tierras secas por tipo",
+                    "issued": "2017-09-05T13:51:52.481292",
+                    "format": "CSV",
+                    "modified": "2017-09-05T13:51:52.433469",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/c2b2a095-1fa0-47b2-9980-07a52aa6d48f/download/superficie-degradada-en-tierras-secas.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Tipo de proceso de  degradación, puede ser erosión hídrica, erosión eólica, degradación física o degradación química de la tierra",
+                            "title": "degradacion_tipo"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie de tierras secas afectada  en grado bajo por el proceso en km 2",
+                            "title": "degradacion_baja_superficie_km2"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie de tierras secas afectada  en grado moderado por el proceso en km 2",
+                            "title": "degradacion_moderada_superficie_km2"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie de tierras secas afectada  en grado fuerte por el proceso en km 2",
+                            "title": "degradacion_fuerte_superficie_km2"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie de tierras secas afectada  en grado extremo por el proceso en km 2",
+                            "title": "degradacion_extrema_superficie_km2"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/921eea56-b7d7-4852-b24b-35df3187e935/download/superficie-tierras-secas-segun-precipitacion.csv",
+                    "description": "Estima la superficie de tierras secas del país según el régimen de precipitaciones. Se considera dentro de la categoría de tierras secas a todas aquellas tierras comprendidas debajo  isohieta 600mm",
+                    "title": "Superficie de tierra seca según precipitación",
+                    "issued": "2017-09-05T13:57:10.636710",
+                    "format": "CSV",
+                    "modified": "2017-09-05T13:57:10.578713",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/921eea56-b7d7-4852-b24b-35df3187e935/download/superficie-tierras-secas-segun-precipitacion.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Tipo de tierras",
+                            "title": "tierras_secas_pais"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Superficie de tierras secas en kilómetros cuadrados",
+                            "title": "superfiice_tierras_secas_ pais_km2"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Degradación",
+                "desertificación",
+                "erosión eólica",
+                "erosión hídrica",
+                "tierras secas"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "www.desertificacion.gob.ar",
+            "identifier": "2e21c5a0-9c96-44ad-8574-f865be07cad7",
+            "contactPoint": {
+                "hasEmail": "mailto:desersuelo@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "dinacofi@ambiente.gob.ar",
+                "name": "Dirección Nacional de Cooperación y Financiamiento Internacional"
+            },
+            "accessLevel": "public",
+            "description": "Información sobre proyectos con financiamiento externo, incluyendo préstamos y donaciones.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Proyectos con financiamiento externo",
+            "issued": "2017-09-05T14:42:43.871120",
+            "temporal": "2009-09-01T03:00:00.000Z/2017-07-31T03:00:00.000Z",
+            "modified": "2017-09-05T19:31:04.856075",
+            "language": "spa",
+            "theme": [
+                "Cooperación internacional"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/3b8c5484-c346-4dd6-8376-e6b521ee745e/resource/86a11a62-3b91-4d8c-943b-56ccabb54385/download/proyectos-financiamiento-externo.csv",
+                    "description": "Listado de préstamos y donaciones con financiamiento internacional existentes en el Ministerio de Ambiente y Desarrollo Sustentable",
+                    "title": "Proyectos con financiamiento externo",
+                    "issued": "2017-09-05T14:50:11.316362",
+                    "format": "CSV",
+                    "modified": "2017-09-05T14:50:11.270352",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/3b8c5484-c346-4dd6-8376-e6b521ee745e/resource/86a11a62-3b91-4d8c-943b-56ccabb54385/download/proyectos-financiamiento-externo.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Número de identificación de los proyectos asignados por los organismos que los implementan",
+                            "title": "proyecto_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Título oficial del proyecto",
+                            "title": "proyecto_nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Organismo que financia el proyecto",
+                            "title": "proyecto_origen"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Fuente de financiamiento del proyecto: El número 21 indica que se trata de una donación, el 22 indica que se trata de un préstamo. ",
+                            "title": "proyecto_fuente"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Describe si es un préstamos o una donación",
+                            "title": "proyecto_tipo"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Monto total necesario para la ejecución del Proyecto",
+                            "title": "proyecto_monto_USD"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Coordinadores y responsables técnicos y financieros del MAyDS, para cada uno de los proyectos",
+                            "title": "proyecto_responsable"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Etapa en que se encuentra cada proyecto al día de la fecha",
+                            "title": "proyecto_estado"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Lugar físico donde se llevará a cabo el proyecto",
+                            "title": "proyecto_localización"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Cooperación",
+                "Donaciones",
+                "Financiamiento internacional",
+                "Proyectos",
+                "Préstamos"
+            ],
+            "accrualPeriodicity": "R/P1M",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/proyectos-con-financiamiento-externo",
+            "identifier": "3b8c5484-c346-4dd6-8376-e6b521ee745e",
+            "contactPoint": {
+                "hasEmail": "mailto:dinacofi@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección Nacional de Cooperación y Financiamiento Internacional"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "chiriart@ambiente.gob.ar",
                 "name": "Dirección de Producción y Consumo Sustentable"
             },
@@ -769,90 +1039,6 @@
             ],
             "landingPage": "http://observatoriorsu.ambiente.gob.ar",
             "identifier": "c099ac6b-e6c0-464e-b3e0-8381bb6f35b2",
-            "contactPoint": {
-                "hasEmail": "mailto:llehmann@ambiente.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección Nacional de Gestión Integral de los Residuos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "llehmann@ambiente.gob.ar",
-                "name": "Dirección Nacional de Gestión Integral de los Residuos"
-            },
-            "accessLevel": "public",
-            "description": "El dataset muestra la asignación presupuestaria por tipo de obra, por localidad, y el porcentaje de la población alcanzada de la provincia",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Asignación presupuestaria para construcción de obras para tratamientos de residuos",
-            "issued": "2017-09-05T19:06:55.601815",
-            "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
-            "modified": "2017-09-05T19:19:07.802756",
-            "theme": [
-                "Residuos"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/05657188-4d10-4c1c-be3d-3308db35cc22/resource/b6bbafac-77b7-4cab-84a1-ccd61aae08b6/download/presupuestos-asignados-para-construccion-obras.csv",
-                    "description": "El recurso describe el presupuesto asignado por tipo de obra, por localidad, y el porcentaje de la población alcanzada de la provincia",
-                    "title": "Presupuestos asignados para construcción de obras",
-                    "issued": "2017-09-05T19:15:35.342243",
-                    "format": "CSV",
-                    "modified": "2017-09-05T19:15:35.288183",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/05657188-4d10-4c1c-be3d-3308db35cc22/resource/b6bbafac-77b7-4cab-84a1-ccd61aae08b6/download/presupuestos-asignados-para-construccion-obras.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Provincia a la cual corresponde la obra y el presupuesto asignado",
-                            "title": "provincia_nombre"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Denominación de la obra",
-                            "title": "obra_denominacion"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Tipo de obra en construcción",
-                            "title": "obra_tipo"
-                        },
-                        {
-                            "type": "date",
-                            "description": "Fecha de inicio de la obra en construcción",
-                            "title": "obra_fecha_inicio"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Población alcanzada por la obra en construcción",
-                            "title": "obra_poblacion_alcanzada"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Porcentaje de la población de la provincia alcanzada por la obra en construcción",
-                            "title": "obra_porcentaje_poblacion_provincia"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Presupuesto asignado de la obra en construcción en pesos",
-                            "title": "obra_presupuesto_asignado_pesos"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "Generación de residuos",
-                "Plantas de tratamiento",
-                "RSU",
-                "Relleno sanitario",
-                "Residuos por habitante",
-                "Tratamiento de residuos",
-                "asignación presupuestaria para obras de Tratamiento de residuos"
-            ],
-            "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "ENVI"
-            ],
-            "landingPage": "http://observatoriorsu.ambiente.gob.ar",
-            "identifier": "05657188-4d10-4c1c-be3d-3308db35cc22",
             "contactPoint": {
                 "hasEmail": "mailto:llehmann@ambiente.gob.ar",
                 "@type": "vcard:Contact",
@@ -2092,193 +2278,6 @@
                 "hasEmail": "mailto:dgarhya@ambiente.gob.ar",
                 "@type": "vcard:Contact",
                 "fn": "Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "dinacofi@ambiente.gob.ar",
-                "name": "Dirección Nacional de Cooperación y Financiamiento Internacional"
-            },
-            "accessLevel": "public",
-            "description": "Información sobre proyectos con financiamiento externo, incluyendo préstamos y donaciones.",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Proyectos con financiamiento externo",
-            "issued": "2017-09-05T14:42:43.871120",
-            "temporal": "2009-09-01T03:00:00.000Z/2017-07-31T03:00:00.000Z",
-            "modified": "2017-09-05T14:50:11.660120",
-            "language": "spa",
-            "theme": [
-                "Cooperación internacional"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/3b8c5484-c346-4dd6-8376-e6b521ee745e/resource/86a11a62-3b91-4d8c-943b-56ccabb54385/download/proyectos-financiamiento-externo.csv",
-                    "description": "Listado de préstamos y donaciones con financiamiento internacional existentes en el Ministerio de Ambiente y Desarrollo Sustentable",
-                    "title": "proyectos-con-financiamiento-externo",
-                    "issued": "2017-09-05T14:50:11.316362",
-                    "format": "CSV",
-                    "modified": "2017-09-05T14:50:11.270352",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/3b8c5484-c346-4dd6-8376-e6b521ee745e/resource/86a11a62-3b91-4d8c-943b-56ccabb54385/download/proyectos-financiamiento-externo.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Número de identificación de los proyectos asignados por los organismos que los implementan",
-                            "title": "proyecto_id"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Título oficial del proyecto",
-                            "title": "proyecto_nombre"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Organismo que financia el proyecto",
-                            "title": "proyecto_origen"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Fuente de financiamiento del proyecto: El número 21 indica que se trata de una donación, el 22 indica que se trata de un préstamo. ",
-                            "title": "proyecto_fuente"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Describe si es un préstamos o una donación",
-                            "title": "proyecto_tipo"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Monto total necesario para la ejecución del Proyecto",
-                            "title": "proyecto_monto_USD"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Coordinadores y responsables técnicos y financieros del MAyDS, para cada uno de los proyectos",
-                            "title": "proyecto_responsable"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Etapa en que se encuentra cada proyecto al día de la fecha",
-                            "title": "proyecto_estado"
-                        },
-                        {
-                            "type": "string",
-                            "description": "Lugar físico donde se llevará a cabo el proyecto",
-                            "title": "proyecto_localización"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "Cooperación",
-                "Donaciones",
-                "Financiamiento internacional",
-                "Proyectos",
-                "Préstamos"
-            ],
-            "accrualPeriodicity": "R/P1M",
-            "superTheme": [
-                "ENVI"
-            ],
-            "landingPage": "http://datos.ambiente.gob.ar/dataset/proyectos-con-financiamiento-externo",
-            "identifier": "3b8c5484-c346-4dd6-8376-e6b521ee745e",
-            "contactPoint": {
-                "hasEmail": "mailto:dinacofi@ambiente.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección Nacional de Cooperación y Financiamiento Internacional"
-            }
-        },
-        {
-            "publisher": {
-                "mbox": "desersuelo@ambiente.gob.ar",
-                "name": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
-            },
-            "accessLevel": "public",
-            "description": "Indica el grado de degradación de tierras secas en Argentina. Se define como tierras secas a aquellas que se encuentran por debajo la isohieta de  600 milímetros anuales. El grado se define como la intensidad del proceso de degradación. Incluye diferentes tipos de degradación",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Grado de la degradación de tierras secas en Argentina",
-            "issued": "2017-09-05T13:41:27.618043",
-            "temporal": "2010-01-01T03:00:00.000Z/2010-12-31T03:00:00.000Z",
-            "modified": "2017-09-05T13:57:10.605888",
-            "language": "spa",
-            "theme": [
-                "Tierra y suelo"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/c2b2a095-1fa0-47b2-9980-07a52aa6d48f/download/superficie-degradada-en-tierras-secas.csv",
-                    "description": "Estima el grado de degradación en 4 clases: leve – etapa inicial,; moderado – control y rehabilitación posible; fuerte – etapa avanzada,; extrema – rehabilitación imposible.",
-                    "title": "superficie-degradada-en-tierras-secas-por-tipo",
-                    "issued": "2017-09-05T13:51:52.481292",
-                    "format": "CSV",
-                    "modified": "2017-09-05T13:51:52.433469",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/c2b2a095-1fa0-47b2-9980-07a52aa6d48f/download/superficie-degradada-en-tierras-secas.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Tipo de proceso de  degradación, puede ser erosión hídrica, erosión eólica, degradación física o degradación química de la tierra",
-                            "title": "degradacion_tipo"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Superficie de tierras secas afectada  en grado bajo por el proceso en km 2",
-                            "title": "degradacion_baja_superficie_km2"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Superficie de tierras secas afectada  en grado moderado por el proceso en km 2",
-                            "title": "degradacion_moderada_superficie_km2"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Superficie de tierras secas afectada  en grado fuerte por el proceso en km 2",
-                            "title": "degradacion_fuerte_superficie_km2"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Superficie de tierras secas afectada  en grado extremo por el proceso en km 2",
-                            "title": "degradacion_extrema_superficie_km2"
-                        }
-                    ]
-                },
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/921eea56-b7d7-4852-b24b-35df3187e935/download/superficie-tierras-secas-segun-precipitacion.csv",
-                    "description": "Estima la superficie de tierras secas del país según el régimen de precipitaciones. Se considera dentro de la categoría de tierras secas a todas aquellas tierras comprendidas debajo  isohieta 600mm",
-                    "title": "superficie-tierra-seca-según-precipitacion",
-                    "issued": "2017-09-05T13:57:10.636710",
-                    "format": "CSV",
-                    "modified": "2017-09-05T13:57:10.578713",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/921eea56-b7d7-4852-b24b-35df3187e935/download/superficie-tierras-secas-segun-precipitacion.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Tipo de tierras",
-                            "title": "tierras_secas_pais"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Superficie de tierras secas en kilómetros cuadrados",
-                            "title": "superfiice_tierras_secas_ pais_km2"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "Degradación",
-                "desertificación",
-                "erosión eólica",
-                "erosión hídrica",
-                "tierras secas"
-            ],
-            "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "ENVI"
-            ],
-            "landingPage": "www.desertificacion.gob.ar",
-            "identifier": "2e21c5a0-9c96-44ad-8574-f865be07cad7",
-            "contactPoint": {
-                "hasEmail": "mailto:desersuelo@ambiente.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
             }
         }
     ],
