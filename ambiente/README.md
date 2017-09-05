@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 9
-- **Cantidad Total de Distribuciones**: 21
+- **Cantidad Total de Datasets**: 10
+- **Cantidad Total de Distribuciones**: 22
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 9
+- **Cantidad de Datasets NO Federados**: 10
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,6 +28,7 @@
 
 ## Datasets no federados
 
+- [Organizaciones de la sociedad civil](http://datos.ambiente.gob.ar/dataset/organizaciones-de-la-sociedad-civil)
 - [Programa de Reconversión Industrial - PRI](http://datos.ambiente.gob.ar/dataset/programa-de-reconversion-industrial-pri)
 - [Humedales de Argentina dentro de la Convención Ramsar](http://datos.ambiente.gob.ar/dataset/humedales-de-argentina-dentro-de-la-convencion-ramsar)
 - [Inventario Nacional de Glaciares - Ley N° 26639](www.glaciaresargentinos.gob.ar)
