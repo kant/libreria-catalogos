@@ -9,100 +9,6 @@
     "dataset": [
         {
             "publisher": {
-                "mbox": "desersuelo@ambiente.gob.ar",
-                "name": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
-            },
-            "accessLevel": "public",
-            "description": "Indica el grado de degradación de tierras secas en Argentina. Se define como tierras secas a aquellas que se encuentran por debajo la isohieta de  600 milímetros anuales. El grado se define como la intensidad del proceso de degradación. Incluye diferentes tipos de degradación",
-            "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Grado de la degradación de tierras secas en Argentina",
-            "issued": "2017-09-05T13:41:27.618043",
-            "temporal": "2010-01-01T03:00:00.000Z/2010-12-31T03:00:00.000Z",
-            "modified": "2017-09-05T13:57:10.605888",
-            "language": "spa",
-            "theme": [
-                "Tierra y suelo"
-            ],
-            "distribution": [
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/c2b2a095-1fa0-47b2-9980-07a52aa6d48f/download/superficie-degradada-en-tierras-secas.csv",
-                    "description": "Estima el grado de degradación en 4 clases: leve – etapa inicial,; moderado – control y rehabilitación posible; fuerte – etapa avanzada,; extrema – rehabilitación imposible.",
-                    "title": "superficie-degradada-en-tierras-secas-por-tipo",
-                    "issued": "2017-09-05T13:51:52.481292",
-                    "format": "CSV",
-                    "modified": "2017-09-05T13:51:52.433469",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/c2b2a095-1fa0-47b2-9980-07a52aa6d48f/download/superficie-degradada-en-tierras-secas.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Tipo de proceso de  degradación, puede ser erosión hídrica, erosión eólica, degradación física o degradación química de la tierra",
-                            "title": "degradacion_tipo"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Superficie de tierras secas afectada  en grado bajo por el proceso en km 2",
-                            "title": "degradacion_baja_superficie_km2"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Superficie de tierras secas afectada  en grado moderado por el proceso en km 2",
-                            "title": "degradacion_moderada_superficie_km2"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Superficie de tierras secas afectada  en grado fuerte por el proceso en km 2",
-                            "title": "degradacion_fuerte_superficie_km2"
-                        },
-                        {
-                            "type": "number",
-                            "description": "Superficie de tierras secas afectada  en grado extremo por el proceso en km 2",
-                            "title": "degradacion_extrema_superficie_km2"
-                        }
-                    ]
-                },
-                {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/921eea56-b7d7-4852-b24b-35df3187e935/download/superficie-tierras-secas-segun-precipitacion.csv",
-                    "description": "Estima la superficie de tierras secas del país según el régimen de precipitaciones. Se considera dentro de la categoría de tierras secas a todas aquellas tierras comprendidas debajo  isohieta 600mm",
-                    "title": "superficie-tierra-seca-según-precipitacion",
-                    "issued": "2017-09-05T13:57:10.636710",
-                    "format": "CSV",
-                    "modified": "2017-09-05T13:57:10.578713",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/921eea56-b7d7-4852-b24b-35df3187e935/download/superficie-tierras-secas-segun-precipitacion.csv",
-                    "field": [
-                        {
-                            "type": "string",
-                            "description": "Tipo de tierras",
-                            "title": "tierras_secas_pais"
-                        },
-                        {
-                            "type": "integer",
-                            "description": "Superficie de tierras secas en kilómetros cuadrados",
-                            "title": "superfiice_tierras_secas_ pais_km2"
-                        }
-                    ]
-                }
-            ],
-            "keyword": [
-                "Degradación",
-                "desertificación",
-                "erosión eólica",
-                "erosión hídrica",
-                "tierras secas"
-            ],
-            "accrualPeriodicity": "eventual",
-            "superTheme": [
-                "ENVI"
-            ],
-            "landingPage": "www.desertificacion.gob.ar",
-            "identifier": "2e21c5a0-9c96-44ad-8574-f865be07cad7",
-            "contactPoint": {
-                "hasEmail": "mailto:desersuelo@ambiente.gob.ar",
-                "@type": "vcard:Contact",
-                "fn": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
-            }
-        },
-        {
-            "publisher": {
                 "mbox": "dgarhya@ambiente.gob.ar",
                 "name": "Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos"
             },
@@ -112,7 +18,7 @@
             "title": "Muestreos de calidad de agua de RIIGLO 2013-2016",
             "issued": "2017-09-04T18:57:39.390303",
             "temporal": "2013-03-01T03:00:00.000Z/2016-12-30T03:00:00.000Z",
-            "modified": "2017-09-05T13:56:44.574104",
+            "modified": "2017-09-05T14:21:03.760676",
             "language": "spa",
             "theme": [
                 "Agua"
@@ -421,6 +327,143 @@
                             "title": "temperatura_agua"
                         }
                     ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/1d95280c-33ba-4b35-9dc5-8fd4c452deea/download/muestreo-calidad-de-agua-riiglo-primavera-2014.csv",
+                    "description": "Conjunto de determinaciones in situ/laboratorio de parámetros de calidad de agua de muestras extraídas a lo largo de la franja costera del Río de la Plata, en la campaña Primavera 2014.",
+                    "title": "Muestreos de calidad de agua de la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO) Primavera-2014",
+                    "issued": "2017-09-05T14:08:05.648245",
+                    "format": "CSV",
+                    "modified": "2017-09-05T14:08:05.591000",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/1d95280c-33ba-4b35-9dc5-8fd4c452deea/download/muestreo-calidad-de-agua-riiglo-primavera-2014.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Identificador de la estación de muestreo",
+                            "title": "estacion_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la estación de muestreo",
+                            "title": "estacion_ubicacion"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de extracción de la muestra",
+                            "title": "extraccion_fecha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘pH’ en unidades de pH",
+                            "title": "ph_uph"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘oxígeno disuelto’ en mg/l",
+                            "title": "od_mg_l"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘demanda bioquímica de oxígeno’ en mg/l",
+                            "title": "dqo_mg_l"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘bacterias coliformes totales’ en NMP/100ml",
+                            "title": "coliformes_totales_nmp_100ml"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘bacterias escherichia coli’ en NMP/100ml",
+                            "title": "escherichia_coli_nmp_100ml"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘bacterias coliformes fecales’ en NMP/100ml",
+                            "title": "coliformes_fecales_nmp_100ml"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘amonio’ en mg/l",
+                            "title": "nh4_mg_l"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘nitratos’ en mg/l",
+                            "title": "no3_mg_l"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘temperatura ambiente’ en °C",
+                            "title": "temperatura_ambiente"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘temperatura del agua’ en °C",
+                            "title": "temperatura_agua"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/8645e3d8-be3a-4d82-83f7-86a8e8fd7119/download/muestreo-calidad-de-agua-riiglo-otono-2016.csv",
+                    "description": "Conjunto de determinaciones in situ/laboratorio de parámetros de calidad de agua de muestras extraídas a lo largo de la franja costera del Río de la Plata, en la campaña Otoño 2016.",
+                    "title": "Muestreos de calidad de agua de la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO) Otoño-2016",
+                    "issued": "2017-09-05T14:21:03.800210",
+                    "format": "CSV",
+                    "modified": "2017-09-05T14:21:03.736440",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/894b56e5-6861-4863-965c-3ba12da7edd3/resource/8645e3d8-be3a-4d82-83f7-86a8e8fd7119/download/muestreo-calidad-de-agua-riiglo-otono-2016.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Identificador de la estación de muestreo",
+                            "title": "estacion_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la estación de muestreo",
+                            "title": "estacion_ubicacion"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de extracción de la muestra",
+                            "title": "extraccion_fecha"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘pH’ en unidades de pH",
+                            "title": "ph_uph"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Valor medido del parámetro ‘demanda bioquímica de oxígeno’ en mg/l",
+                            "title": "dqo_mg_l"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Valor medido del parámetro ‘bacterias coliformes totales’ en NMP/100ml",
+                            "title": "coliformes_totales_nmp_100ml"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Valor medido del parámetro ‘bacterias escherichia coli’ en NMP/100ml",
+                            "title": "escherichia_coli_nmp_100ml"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Valor medido del parámetro ‘bacterias coliformes fecales’ en NMP/100ml",
+                            "title": "coliformes_fecales_nmp_100ml"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘amonio’ en mg/l",
+                            "title": "nh4_mg_l"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Valor medido del parámetro ‘nitratos’ en mg/l",
+                            "title": "no3_mg_l"
+                        }
+                    ]
                 }
             ],
             "keyword": [
@@ -440,6 +483,171 @@
                 "hasEmail": "mailto:dgarhya@ambiente.gob.ar",
                 "@type": "vcard:Contact",
                 "fn": "Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "desersuelo@ambiente.gob.a",
+                "name": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
+            },
+            "accessLevel": "public",
+            "description": "El dataset muestra el listado de la normativa nacional argentina vigente vinculada con la temática de suelos.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Normativa nacional Argentina vinculada a Suelos",
+            "issued": "2017-09-05T14:03:45.076961",
+            "temporal": "1981-01-01T03:00:00.000Z/2017-09-01T03:00:00.000Z",
+            "modified": "2017-09-05T14:10:43.549217",
+            "language": "spa",
+            "theme": [
+                "Tierra y suelo"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/ec41f092-2a01-43ed-a12b-22d2a4c12bf8/resource/91803a80-013f-4694-89cb-16f1cfd9fb9a/download/normativa-nacional-argentina-suelos.csv",
+                    "description": "El dataset muestra el listado de la normativa nacional argentina vigente vinculada con la temática de suelos.",
+                    "title": "normativa-nacional-argentina-suelos",
+                    "issued": "2017-09-05T14:10:42.666688",
+                    "format": "CSV",
+                    "modified": "2017-09-05T14:10:42.625724",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/ec41f092-2a01-43ed-a12b-22d2a4c12bf8/resource/91803a80-013f-4694-89cb-16f1cfd9fb9a/download/normativa-nacional-argentina-suelos.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Tipo de normativa",
+                            "title": "normativa_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Número de norma",
+                            "title": "normativa_numero"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Organismo que emitió la norma",
+                            "title": "normativa_organismo_emisor"
+                        },
+                        {
+                            "type": "date",
+                            "description": "Fecha de publicación de la norma en el Boletín Oficial de la República Argentina",
+                            "title": "normativa_fecha_publicacion_boletin_oficial"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Síntesis temática de la norma",
+                            "title": "normativa_sumario"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "manejo sustentable de tierras",
+                "normativa vinculada a suelos",
+                "suelos"
+            ],
+            "accrualPeriodicity": "R/PT1S",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://ambiente.gob.ar/suelos",
+            "identifier": "ec41f092-2a01-43ed-a12b-22d2a4c12bf8",
+            "contactPoint": {
+                "hasEmail": "mailto:desersuelo@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "desersuelo@ambiente.gob.ar",
+                "name": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
+            },
+            "accessLevel": "public",
+            "description": "Indica el grado de degradación de tierras secas en Argentina. Se define como tierras secas a aquellas que se encuentran por debajo la isohieta de  600 milímetros anuales. El grado se define como la intensidad del proceso de degradación. Incluye diferentes tipos de degradación",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Grado de la degradación de tierras secas en Argentina",
+            "issued": "2017-09-05T13:41:27.618043",
+            "temporal": "2010-01-01T03:00:00.000Z/2010-12-31T03:00:00.000Z",
+            "modified": "2017-09-05T13:57:10.605888",
+            "language": "spa",
+            "theme": [
+                "Tierra y suelo"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/c2b2a095-1fa0-47b2-9980-07a52aa6d48f/download/superficie-degradada-en-tierras-secas.csv",
+                    "description": "Estima el grado de degradación en 4 clases: leve – etapa inicial,; moderado – control y rehabilitación posible; fuerte – etapa avanzada,; extrema – rehabilitación imposible.",
+                    "title": "superficie-degradada-en-tierras-secas-por-tipo",
+                    "issued": "2017-09-05T13:51:52.481292",
+                    "format": "CSV",
+                    "modified": "2017-09-05T13:51:52.433469",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/c2b2a095-1fa0-47b2-9980-07a52aa6d48f/download/superficie-degradada-en-tierras-secas.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Tipo de proceso de  degradación, puede ser erosión hídrica, erosión eólica, degradación física o degradación química de la tierra",
+                            "title": "degradacion_tipo"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie de tierras secas afectada  en grado bajo por el proceso en km 2",
+                            "title": "degradacion_baja_superficie_km2"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie de tierras secas afectada  en grado moderado por el proceso en km 2",
+                            "title": "degradacion_moderada_superficie_km2"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie de tierras secas afectada  en grado fuerte por el proceso en km 2",
+                            "title": "degradacion_fuerte_superficie_km2"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie de tierras secas afectada  en grado extremo por el proceso en km 2",
+                            "title": "degradacion_extrema_superficie_km2"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/921eea56-b7d7-4852-b24b-35df3187e935/download/superficie-tierras-secas-segun-precipitacion.csv",
+                    "description": "Estima la superficie de tierras secas del país según el régimen de precipitaciones. Se considera dentro de la categoría de tierras secas a todas aquellas tierras comprendidas debajo  isohieta 600mm",
+                    "title": "superficie-tierra-seca-según-precipitacion",
+                    "issued": "2017-09-05T13:57:10.636710",
+                    "format": "CSV",
+                    "modified": "2017-09-05T13:57:10.578713",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/921eea56-b7d7-4852-b24b-35df3187e935/download/superficie-tierras-secas-segun-precipitacion.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Tipo de tierras",
+                            "title": "tierras_secas_pais"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Superficie de tierras secas en kilómetros cuadrados",
+                            "title": "superfiice_tierras_secas_ pais_km2"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Degradación",
+                "desertificación",
+                "erosión eólica",
+                "erosión hídrica",
+                "tierras secas"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "www.desertificacion.gob.ar",
+            "identifier": "2e21c5a0-9c96-44ad-8574-f865be07cad7",
+            "contactPoint": {
+                "hasEmail": "mailto:desersuelo@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
             }
         },
         {
