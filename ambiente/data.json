@@ -9,6 +9,238 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "jfabri@ambiente.gob.ar",
+                "name": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
+            },
+            "accessLevel": "public",
+            "description": "Datos correspondientes a la superficie, porcentaje y número de áreas naturales protegidas por provincia y dentro del Mar Argentino (Plataforma Continental Argentina)",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Superficie, porcentaje y número de áreas naturales protegidas",
+            "issued": "2017-09-05T17:24:20.516587",
+            "temporal": "/2016-12-30T03:00:00.000Z",
+            "modified": "2017-09-05T17:52:41.770603",
+            "language": "spa",
+            "theme": [
+                "Áreas naturales protegidas"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/4557aa5c-d022-4062-ac2f-48441ac95659/download/areas-naturales-protegidas-mar-argentino.csv",
+                    "description": "Superficie, cantidad y porcentaje del área protegida que corresponde al Mar Argentino",
+                    "title": "Áreas naturales protegidas en Mar Argentino",
+                    "issued": "2017-09-05T17:31:20.141492",
+                    "format": "CSV",
+                    "modified": "2017-09-05T17:31:20.066709",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/4557aa5c-d022-4062-ac2f-48441ac95659/download/areas-naturales-protegidas-mar-argentino.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Denominación de la unidad geográfica (Mar Argentino)",
+                            "title": "unidad_geografica"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Total de la superficie de la unidad geográfica (Mar Argentino) en km2",
+                            "title": "unidad_geografica_superficie_km2"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de áreas protegidas en la unidad geográfica",
+                            "title": "areas_naturales_protegidas_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Superficie del área protegida en la unidad geográfica en km2",
+                            "title": "areas_naturales_protegidas_superficie_km2"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Porcentaje de la superficie del área protegida en relación a la unidad geográfica",
+                            "title": "areas_naturales_protegidas_porcentaje"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/986deea3-d8ef-4d92-8155-c5099d5edfab/download/areas-naturales-protegidas-porcentaje-superficie.csv",
+                    "description": "Datos correspondientes al porcentaje y superficie de áreas naturales protegidas por provincia",
+                    "title": "Porcentaje y superficie de áreas naturales protegidas por provincia",
+                    "issued": "2017-09-05T17:43:06.797965",
+                    "format": "CSV",
+                    "modified": "2017-09-05T17:43:06.731725",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/986deea3-d8ef-4d92-8155-c5099d5edfab/download/areas-naturales-protegidas-porcentaje-superficie.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Código de unidad geográfica utilizada por el INDEC",
+                            "title": "provincia_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Denominación de la provincia",
+                            "title": "provincia_desc"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Superficie de la provincia en km2",
+                            "title": "provincia_superficie_km2"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie del área protegida de la provincia en km2",
+                            "title": "areas_naturales_protegidas_superficie_km2"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Porcentaje de la superficie del área protegida en relación a la superficie total provincial",
+                            "title": "areas_naturales_protegidas_porcentaje"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/e0ad159b-53d9-404f-b0b7-e83c9681b217/download/areas-naturales-protegidas-provincia.csv",
+                    "description": "Datos correspondientes a la cantidad de áreas protegidas por provincia",
+                    "title": "Cantidad de áreas naturales protegidas por provincia",
+                    "issued": "2017-09-05T17:47:06.948966",
+                    "format": "CSV",
+                    "modified": "2017-09-05T17:47:06.882605",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/e0ad159b-53d9-404f-b0b7-e83c9681b217/download/areas-naturales-protegidas-provincia.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Código de unidad geográfica utilizada por el INDEC",
+                            "title": "provincia_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Denominación de la provincia",
+                            "title": "provincia_desc"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de áreas protegidas en la provincia",
+                            "title": "areas_naturales_protegidas_numero"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Areas protegidas",
+                "Conservación",
+                "Ordenamiento territorial",
+                "Plataforma marina",
+                "Protección",
+                "Reservas naturales",
+                "Áreas costero marinas",
+                "Áreas naturales protegidas"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/superficie-porcentaje-y-numero-de-areas-naturales-protegidas",
+            "identifier": "7111050b-ea63-4858-92e2-aa126352ae77",
+            "contactPoint": {
+                "hasEmail": "mailto:jfabri@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Ordenamiento Territorial, Suelos y Lucha contra la Desertificación"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "pzalzman@ambiente.gob.ar",
+                "name": "Dirección de Nuevas Tecnologías para el Desarrollo Sustentable"
+            },
+            "accessLevel": "public",
+            "description": "El Programa PROESUS es una iniciativa para detectar, promover y fortalecer emprendimientos de alto impacto que fomenten el desarrollo sustentable mediante el uso de nuevas tecnologías. Se espera del mismo obtener respuestas locales e innovadoras a problemáticas ambientales. Se busca además dar entidad y visibilizar a la población de emprendedores que han incorporado la dimensión ambiental como eje transversal a sus iniciativas.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Programa Nacional de Emprendedores para el Desarrollo Sustentable (PROESUS)",
+            "issued": "2017-09-05T17:29:49.678627",
+            "temporal": "2016-08-11T03:00:00.000Z/2017-08-18T03:00:00.000Z",
+            "modified": "2017-09-05T17:41:52.703924",
+            "language": "spa",
+            "theme": [
+                "Nuevas tecnologías"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/a4e70ffe-fb56-46d8-a5e6-312db4879b20/download/emprendimientos-proesus-por-categoria.csv",
+                    "description": "Número de emprendimientos inscriptos en PROESUS por categoría. El Programa agrupa las iniciativas en 12 categorías a fin de sistematizar la información.",
+                    "title": "Emprendimientos-PROESUS-por-categoría",
+                    "issued": "2017-09-05T17:34:25.179858",
+                    "format": "CSV",
+                    "modified": "2017-09-05T17:34:25.058566",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/a4e70ffe-fb56-46d8-a5e6-312db4879b20/download/emprendimientos-proesus-por-categoria.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Código asignado a cada categoría",
+                            "title": "categoria_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Denominación de la categoría",
+                            "title": "categoria_nombre"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de emprendimientos pertenecientes a una categoría.",
+                            "title": "emprendimientos_numero"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/c6e51536-16f8-4103-abe0-fa7e550cbff6/download/emprendimientos-proesus-por-provincia.xlsx",
+                    "description": "Cantidad de emprendimientos registrados en la plataforma PROESUS por usuarios pertenecientes a una Provincia. A los efectos de este recurso y a pesar de no pertenecer a esta categoría, la Ciudad de Bu",
+                    "title": "Emprendimientos-PROESUS-por-provincia",
+                    "issued": "2017-09-05T17:41:52.753305",
+                    "format": "CSV",
+                    "modified": "2017-09-05T17:41:52.685002",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/c6e51536-16f8-4103-abe0-fa7e550cbff6/download/emprendimientos-proesus-por-provincia.xlsx",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Código provincial del sistema de identificadores de la cartografía censal del Censo Nacional 2010 del Instituto Nacional de Estadísticas y Censos",
+                            "title": "provincia_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Denominación de la Provincia",
+                            "title": "provincia_desc"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de emprendimientos inscriptos en la plataforma PROESUS en cada provincia",
+                            "title": "emprendimientos_numero"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Comunidad emprendedora",
+                "Desarrollo Sustentable",
+                "Emprendedores",
+                "Emprendedores sustentables",
+                "Emprendimientos",
+                "Emprendimientos sustentables",
+                "Innovación",
+                "Nuevas tecnologías",
+                "PROESUS",
+                "Programas"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "https://proesus.ambiente.gob.ar/",
+            "identifier": "1931bc96-46a5-48f3-b613-55626847ca61",
+            "contactPoint": {
+                "hasEmail": "mailto:pzalzman@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Nuevas Tecnologías para el Desarrollo Sustentable"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "participacionciudadana@ambiente.gob.ar",
                 "name": "Dirección de participación ciudadana y medioambiente"
             },
