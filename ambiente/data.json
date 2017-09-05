@@ -13,6 +13,102 @@
                 "name": "Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos"
             },
             "accessLevel": "public",
+            "description": "El 28 de Octubre de 2010 fue promulgada la Ley 26.639 de “Presupuestos Mínimos para la Preservación de los Glaciares y del Ambiente Periglacial”, que contempla entre otras medidas, la creación de un Inventario Nacional de Glaciares.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Inventario Nacional de Glaciares - Ley N° 26639",
+            "issued": "2017-09-05T15:09:47.780765",
+            "temporal": "2015-03-02T03:00:00.000Z/2017-08-01T03:00:00.000Z",
+            "modified": "2017-09-05T15:25:27.960453",
+            "language": "spa",
+            "theme": [
+                "Agua"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/a0f15169-f826-4657-b53f-0471bf6392e3/resource/1ece7132-b379-4fb3-b9d9-7295e59e97fa/download/area-englazada-por-subcuenca.csv",
+                    "description": "Tabla que resume los resultados del ING, cuyo objetivo es la individualización de todos los glaciares y geoformas periglaciales que actúan como reserva hídricas existentes en el territorio nacional.",
+                    "title": "Área englazada por subcuenca publicada del Inventario Nacional de Glaciares (ING).",
+                    "issued": "2017-09-05T15:25:25.621833",
+                    "format": "CSV",
+                    "modified": "2017-09-05T15:25:25.582604",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/a0f15169-f826-4657-b53f-0471bf6392e3/resource/1ece7132-b379-4fb3-b9d9-7295e59e97fa/download/area-englazada-por-subcuenca.csv",
+                    "field": [
+                        {
+                            "type": "string",
+                            "description": "Nombre de la subcuenca del Inventario Nacional de Glaciares (ING)",
+                            "title": "subcuenca_nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Nombre de la cuenca de acuerdo a la denominación del Atlas de Cuencas y Regiones Hídricas Superficiales de la República Argentina",
+                            "title": "cuenca_nombre"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Región a la cual pertenece la subcuenca de acuerdo a las definidas por el Decreto Reglamentario 207/11",
+                            "title": "region_nombre"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Código provincial del sistema de identificadores de la cartografía censal del Censo Nacional 2010 del Instituto Nacional de Estadísticas y Censos",
+                            "title": "provincia_id"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Denominación de la Provincia, en caso de subcuencas compartidas entre una o más provincias, se asigna a la provincia que mayor área abarca en la subcuenca",
+                            "title": "provincia_nombre"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Área total de las subcuencas del ING en km2",
+                            "title": "subcuenca_area_total_km2"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Hace referencia a la cantidad de glaciares cubiertos, glaciares descubiertos, glaciares de escombros activos e inactivos, manchones de nieve que hay en cada subcuenca",
+                            "title": "subcuenca_cuerpos_ricos_numero"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Hace referencia a la suma de las área total de glaciares cubiertos, glaciares descubiertos, glaciares de escombros activos e inactivos, manchones de nieve que hay en cada subcuenca",
+                            "title": "subcuenca_area_englazada_km2"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Porcentaje de relación entre el área englazada y el área de la subcuenca",
+                            "title": "subcuenca_porcentaje_englazado"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Área de la subcuenca que no está englazada",
+                            "title": "subcuenca_no_englazada_km2"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Glaciares",
+                "Inventario",
+                "Área englazada"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "www.glaciaresargentinos.gob.ar",
+            "identifier": "a0f15169-f826-4657-b53f-0471bf6392e3",
+            "contactPoint": {
+                "hasEmail": "mailto:dgarhya@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "dgarhya@ambiente.gob.ar",
+                "name": "Dirección de Gestión Ambiental de Recursos Hídricos y Acuáticos"
+            },
+            "accessLevel": "public",
             "description": "Conjunto de relevamientos trimestrales (2013-2016) de la calidad del agua de la franja costera (lado argentino) del Río de la Plata realizada por el MAyDS en conjunto con los Municipios que integran la Red de Intercambio de Información de los Gobiernos Locales (RIIGLO).",
             "license": "Open Data Commons Open Database License (ODbL)",
             "title": "Muestreos de calidad de agua de RIIGLO 2013-2016",
