@@ -9,6 +9,70 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "jgoldschtein@ambiente.gob.ar",
+                "name": "Dirección de Educación Ambiental"
+            },
+            "accessLevel": "public",
+            "description": "Son los eventos de Educación Ambiental destinados a niños, jóvenes y público en general con el fin de  que enseñar contenidos y educar en hábitos y valores en relación al ambiente",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Grandes eventos de Educación Ambiental",
+            "issued": "2017-09-06T19:19:01.217453",
+            "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-06T19:30:04.510106",
+            "language": "spa",
+            "theme": [
+                "Educación"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/3bde7244-fffa-4357-b7b1-2c6277098455/resource/3912f768-5667-4b5f-a345-8f736fede061/download/eventos-educacion-ambiental.csv",
+                    "description": "Son los eventos de Educación Ambiental destinados a niños, jóvenes y público en general con el fin de  que enseñar contenidos y educar en hábitos y valores en relación al ambiente",
+                    "title": "Eventos de educación ambiental",
+                    "issued": "2017-09-06T19:25:30.941064",
+                    "format": "CSV",
+                    "modified": "2017-09-06T19:30:04.494948",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/3bde7244-fffa-4357-b7b1-2c6277098455/resource/3912f768-5667-4b5f-a345-8f736fede061/download/eventos-educacion-ambiental.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año en el cual se realiza el evento ",
+                            "title": "evento_anio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de evento realizado ",
+                            "title": "evento_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Destinatarios del evento",
+                            "title": "evento_destinatario"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de visitantes al evento",
+                            "title": "evento_visitantes_numero"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Educación ambiental"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/grandes-eventos-de-educacion-ambiental",
+            "identifier": "3bde7244-fffa-4357-b7b1-2c6277098455",
+            "contactPoint": {
+                "hasEmail": "mailto:jgoldschtein@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Educación Ambiental"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "cambioclimatico@ambiente.gob.ar",
                 "name": "Dirección Nacional de Cambio Climático"
             },
