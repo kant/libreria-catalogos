@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 21
-- **Cantidad Total de Distribuciones**: 43
+- **Cantidad Total de Datasets**: 22
+- **Cantidad Total de Distribuciones**: 44
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 21
+- **Cantidad de Datasets NO Federados**: 22
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,6 +28,7 @@
 
 ## Datasets no federados
 
+- [Encuentros y jornadas de educación ambiental](http://datos.ambiente.gob.ar/dataset/encuentros-y-jornadas-de-educacion-ambiental)
 - [Extracciones de productos forestales de especies nativas](http://datos.ambiente.gob.ar/dataset/extracciones-de-productos-forestales-de-especies-nativas)
 - [Incendios forestales](http://datos.ambiente.gob.ar/dataset/incendios-forestales)
 - [Asignación presupuestaria para construcción de obras para tratamientos de residuos](http://observatoriorsu.ambiente.gob.ar)
