@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 22
-- **Cantidad Total de Distribuciones**: 44
+- **Cantidad Total de Datasets**: 24
+- **Cantidad Total de Distribuciones**: 50
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 22
+- **Cantidad de Datasets NO Federados**: 24
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,6 +28,8 @@
 
 ## Datasets no federados
 
+- [Indicadores de emisiones de gases de efecto invernadero (GEI)](https://inventariogei.ambiente.gob.ar/)
+- [Material didáctico y de comunicación de Educación Ambiental](http://datos.ambiente.gob.ar/dataset/material-didactico-y-de-comunicacion-de-educacion-ambiental)
 - [Encuentros y jornadas de educación ambiental](http://datos.ambiente.gob.ar/dataset/encuentros-y-jornadas-de-educacion-ambiental)
 - [Extracciones de productos forestales de especies nativas](http://datos.ambiente.gob.ar/dataset/extracciones-de-productos-forestales-de-especies-nativas)
 - [Incendios forestales](http://datos.ambiente.gob.ar/dataset/incendios-forestales)
