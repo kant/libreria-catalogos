@@ -9,6 +9,226 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "cambioclimatico@ambiente.gob.ar",
+                "name": "Dirección Nacional de Cambio Climático"
+            },
+            "accessLevel": "public",
+            "description": "Emisiones gases de efecto invernadero (dióxido de carbono, metano, óxido nitroso, clorofluorocarbonos, hidrofluorocarbonos, hexafluoruro de azufre) de determinada/s categorías/s respecto de una variable relacionada con dicha categoría. Estos gases tienen la propiedad de retener momentáneamente la energía solar, por lo que incrementan el efecto invernadero y el cambio climático.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Indicadores de emisiones de gases de efecto invernadero (GEI)",
+            "issued": "2017-09-06T17:22:09.627565",
+            "temporal": "1990-03-01T03:00:00.000Z/2014-12-31T03:00:00.000Z",
+            "modified": "2017-09-06T17:58:12.662764",
+            "language": "spa",
+            "theme": [
+                "Cambio climático"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/f02bced4-8cd2-487e-b4e9-4443a83a2539/download/emisiones-gei-por-habitante.csv",
+                    "description": "Inventario total de GEI de la República Argentina dividido por la cantidad de habitantes (población total).",
+                    "title": "Emisiones de gases de efecto invernadero (GEI) por habitante",
+                    "issued": "2017-09-06T17:32:59.353325",
+                    "format": "CSV",
+                    "modified": "2017-09-06T17:34:08.862635",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/f02bced4-8cd2-487e-b4e9-4443a83a2539/download/emisiones-gei-por-habitante.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de la toma del dato",
+                            "title": "emisiones_ gei_anio"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Emisiones de GEI totales por habitante para cada año de la serie",
+                            "title": "emisiones_gei_por_habitante"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Toneladas de dióxido de carbono equivalente/habitante",
+                            "title": "emisiones_gei_por_habitante_unidad_medida"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/083c0172-9d5c-4354-877a-04a3f4876770/download/emisiones-gei-por-pbi.csv",
+                    "description": "Inventario total de GEI de la República Argentina dividido por el PBI por año. Se realizó a precios constantes con el 2004 como año base, ya que se cuenta con serie histórica anterior a ese año.",
+                    "title": "Emisiones de gases de efecto invernadero (GEI) por producto bruto interno (PBI)",
+                    "issued": "2017-09-06T17:46:51.456355",
+                    "format": "CSV",
+                    "modified": "2017-09-06T17:46:51.387017",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/083c0172-9d5c-4354-877a-04a3f4876770/download/emisiones-gei-por-pbi.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de la toma del dato",
+                            "title": "emisiones_gei_pbi_anio"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Emisiones de GEI totales por Producto Bruto Interno (PBI) por cada año de la serie, de 2004 a 2014",
+                            "title": "emisiones_gei_por_pbi"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Toneladas de dióxido de carbono equivalente/millones de pesos a 2004",
+                            "title": "emisiones_gei_por_pbi_unidad_medida"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/3bbd4bd6-f177-45f2-a22c-3fcf403279d6/download/emisiones-gei-por-unidad-de-energia.csv",
+                    "description": "Emisiones de GEI del sector “1.Energía” dividido por la Oferta Interna Total.",
+                    "title": "Emisiones de gases de efecto invernadero (GEI) por unidad de energía",
+                    "issued": "2017-09-06T17:57:16.994224",
+                    "format": "CSV",
+                    "modified": "2017-09-06T17:57:16.921895",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/3bbd4bd6-f177-45f2-a22c-3fcf403279d6/download/emisiones-gei-por-unidad-de-energia.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de la toma del dato",
+                            "title": "emisiones_gei_por_unidad_energia_anio"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Emisiones de GEI del sector “1.Energía” en relación con la oferta interna total para cada año de la serie",
+                            "title": "emisiones_gei_por_unidad_energia"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Toneladas de dióxido de carbono equivalente/tonelada equivalente de petróleo",
+                            "title": "emisiones_gei_por_unidad_energia_unidad_medida"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "CFC",
+                "CH4",
+                "CO2",
+                "Cambio Climático",
+                "Efecto invernadero",
+                "Emisiones",
+                "GEI",
+                "Gases",
+                "HFC",
+                "N2O",
+                "SF6"
+            ],
+            "accrualPeriodicity": "R/P2Y",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "https://inventariogei.ambiente.gob.ar/",
+            "identifier": "09924bea-0458-4777-ab54-e74cbc5d3e8e",
+            "contactPoint": {
+                "hasEmail": "mailto:cambioclimatico@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección Nacional de Cambio Climático"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "Javier Goldschtein",
+                "name": "Dirección de Educación Ambiental"
+            },
+            "accessLevel": "public",
+            "description": "Son  materiales didácticos y de comunicación en distintos formatos, de Educación Ambiental, desarrollados en el marco de la Estrategia de Educación Ambiental, para desarrollar acciones de educación ambiental, a través  de cuadernillos para el educador ambiental , secuencias didácticas, ilustraciones e infografías y para promover la interpretación de datos e información ambiental",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Material didáctico y de comunicación de Educación Ambiental",
+            "issued": "2017-09-06T17:47:04.386688",
+            "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-06T17:56:19.209450",
+            "language": "spa",
+            "theme": [
+                "Educación"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/62dccae6-041a-4b72-aa05-5325b39bbd36/resource/3fe4e8c6-d832-4e49-bdc4-e7bb369a1651/download/materiales-educcion-ambiental.csv",
+                    "description": "Son  materiales didácticos de Educación Ambiental, desarrollados en el marco de la Estrategia de Educación Ambiental, para desarrollar acciones de educación ambiental",
+                    "title": "Materiales de educación ambiental",
+                    "issued": "2017-09-06T17:51:32.202025",
+                    "format": "CSV",
+                    "modified": "2017-09-06T17:51:32.152270",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/62dccae6-041a-4b72-aa05-5325b39bbd36/resource/3fe4e8c6-d832-4e49-bdc4-e7bb369a1651/download/materiales-educcion-ambiental.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año en el cual se realiza la impresión del material didáctico",
+                            "title": "impresiones_anio"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de temáticas  de Educación Ambiental",
+                            "title": "impresiones_cantidad_de_temáticas"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Tipo de material didáctico ",
+                            "title": "impresiones_material_didáctico_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Formato del material didáctico ",
+                            "title": "impresiones_formato"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de impresiones hechas",
+                            "title": "impresiones_numero"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/62dccae6-041a-4b72-aa05-5325b39bbd36/resource/44d4af7b-6d5b-4d48-adbf-340ba9e0407d/download/materiales-comunicacion-ambiental.csv",
+                    "description": "Son materiales de comunicación en distintos formatos para promover la interpretación de datos e información ambiental y ampliar el conocimiento sobre el ambiente",
+                    "title": "Materiales de comunicación ambiental",
+                    "issued": "2017-09-06T17:56:19.243101",
+                    "format": "CSV",
+                    "modified": "2017-09-06T17:56:19.190963",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/62dccae6-041a-4b72-aa05-5325b39bbd36/resource/44d4af7b-6d5b-4d48-adbf-340ba9e0407d/download/materiales-comunicacion-ambiental.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año en el cual se realiza el material de comunicación",
+                            "title": "material_anio"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de material de comunicación de diferentes temáticas ambientales ",
+                            "title": "material_temas"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de material de comunicación ambiental",
+                            "title": "material_comunicación_tipo"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Educación ambiental",
+                "comunicación ambiental",
+                "didáctica ambiental",
+                "información ambiental",
+                "temáticas ambientales"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/material-didactico-y-de-comunicacion-de-educacion-ambiental",
+            "identifier": "62dccae6-041a-4b72-aa05-5325b39bbd36",
+            "contactPoint": {
+                "hasEmail": "Javier Goldschtein",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Educación Ambiental"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "jgoldschtein@ambiente.gob.ar",
                 "name": "Dirección de Educación Ambiental"
             },
@@ -18,7 +238,7 @@
             "title": "Encuentros y jornadas de educación ambiental",
             "issued": "2017-09-06T16:58:20.032556",
             "temporal": "2016-03-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
-            "modified": "2017-09-06T17:30:21.293365",
+            "modified": "2017-09-06T17:41:31.592852",
             "language": "spa",
             "theme": [
                 "Educación"
@@ -59,11 +279,49 @@
                             "title": "encuentro_destinatarios"
                         }
                     ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/resource/88702f60-1007-4182-b73d-c6b01dcb457f/download/capacitaciones-educacion-ambiental.csv",
+                    "description": "Son las capacitaciones de Educación Ambiental que contribuyen con los procesos de enseñanza y aprendizaje basados en la integración de contenidos ambientales.",
+                    "title": "Capacitaciones de educación ambiental",
+                    "issued": "2017-09-06T17:41:31.629104",
+                    "format": "CSV",
+                    "modified": "2017-09-06T17:41:31.575364",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/resource/88702f60-1007-4182-b73d-c6b01dcb457f/download/capacitaciones-educacion-ambiental.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año en el cual se realiza el curso o capacitación de educación ambiental",
+                            "title": "capacitacion_anio"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de cursos o capacitaciones en la temática ambiental en el año dado",
+                            "title": "capacitacion_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de participantes en los cursos o capacitaciones en la temática ambiental",
+                            "title": "capacitacion_participantes_numero"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de curso o capacitación de Educación Ambiental ",
+                            "title": "capacitación_tematica"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Destinatarios del curso o capacitación de Educación Ambiental",
+                            "title": "capacitación_destinatarios"
+                        }
+                    ]
                 }
             ],
             "keyword": [
+                "Agroecología",
                 "Educación ambiental",
                 "Estrategia Nacional",
+                "Ser Sustentable",
                 "encuentros",
                 "jornadas"
             ],
