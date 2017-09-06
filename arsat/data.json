@@ -160,6 +160,60 @@
                 "TECH"
             ],
             "keyword": [
+                "ARSAT"
+            ],
+            "title": "Fibra óptica en obra",
+            "issued": "2017-09-06T18:59:01",
+            "modified": "2017-09-06T18:59:08",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "plan-federal-de-internet"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/",
+                    "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
+                    "title": "Fibra óptica en obra",
+                    "issued": "2017-09-06T18:59:01",
+                    "format": "CSV",
+                    "modified": "2017-09-06T18:59:08",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/",
+                    "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
+                    "title": "Fibra óptica en obra",
+                    "issued": "2017-09-06T18:59:01",
+                    "format": "XLS",
+                    "modified": "2017-09-06T18:59:08",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/",
+                    "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
+                    "title": "Fibra óptica en obra",
+                    "issued": "2017-09-06T18:59:01",
+                    "format": "JSON",
+                    "modified": "2017-09-06T18:59:08",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "identifier": "FIBRA-OPTIC-PROXI-EN-OBRA",
+            "homepage": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/",
+            "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "PLAN FEDERAL DE INTERNET",
                 "ARSAT"
             ],
@@ -260,60 +314,6 @@
             "identifier": "TRAFI-DE-INTER",
             "homepage": "http://datos.arsat.com.ar/dataviews/241604/trafico-de-internet-entrante-y-saliente/",
             "description": "Promedios semanales de tráfico de Internet entrante y saliente en Gbit/s."
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ARSAT"
-            ],
-            "title": "Fibra óptica en obra",
-            "issued": "2017-09-01T18:26:43",
-            "modified": "2017-09-01T18:27:04",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "plan-federal-de-internet"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/",
-                    "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
-                    "title": "Fibra óptica en obra",
-                    "issued": "2017-09-01T18:26:43",
-                    "format": "CSV",
-                    "modified": "2017-09-01T18:27:04",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/",
-                    "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
-                    "title": "Fibra óptica en obra",
-                    "issued": "2017-09-01T18:26:43",
-                    "format": "XLS",
-                    "modified": "2017-09-01T18:27:04",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/",
-                    "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil",
-                    "title": "Fibra óptica en obra",
-                    "issued": "2017-09-01T18:26:43",
-                    "format": "JSON",
-                    "modified": "2017-09-01T18:27:04",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/FIBRA-OPTIC-PROXI-EN-OBRA/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "identifier": "FIBRA-OPTIC-PROXI-EN-OBRA",
-            "homepage": "http://datos.arsat.com.ar/dataviews/238756/fibra-optica-en-obra/",
-            "description": "Red de fibra óptica que actualmente se encuentra en construcción de obra civil"
         },
         {
             "publisher": {
