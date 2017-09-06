@@ -9,66 +9,86 @@
     "dataset": [
         {
             "publisher": {
-                "mbox": "jgoldschtein@ambiente.gob.ar",
-                "name": "Dirección de Educación Ambiental"
+                "mbox": "afrassetto@ambiente.gob.ar",
+                "name": "Dirección de Impacto Ambiental y Social"
             },
             "accessLevel": "public",
-            "description": "Son los eventos de Educación Ambiental destinados a niños, jóvenes y público en general con el fin de  que enseñar contenidos y educar en hábitos y valores en relación al ambiente",
+            "description": "El Registro de Consultores brinda información sobre aquellos Consultores Individuales o Firmas Consultoras que cumplen con las exigencias de las Resoluciones Nº60/96, y Nº 95/02.",
             "license": "Open Data Commons Open Database License (ODbL)",
-            "title": "Grandes eventos de Educación Ambiental",
-            "issued": "2017-09-06T19:19:01.217453",
-            "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
-            "modified": "2017-09-06T19:30:04.510106",
+            "title": "Registro de Consultores en Estudios de Impacto Ambiental",
+            "issued": "2017-09-06T19:48:15.921655",
+            "temporal": "1995-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-06T19:55:54.110552",
             "language": "spa",
             "theme": [
-                "Educación"
+                "Impacto ambiental"
             ],
             "distribution": [
                 {
-                    "accessURL": "http://datos.ambiente.gob.ar/dataset/3bde7244-fffa-4357-b7b1-2c6277098455/resource/3912f768-5667-4b5f-a345-8f736fede061/download/eventos-educacion-ambiental.csv",
-                    "description": "Son los eventos de Educación Ambiental destinados a niños, jóvenes y público en general con el fin de  que enseñar contenidos y educar en hábitos y valores en relación al ambiente",
-                    "title": "Eventos de educación ambiental",
-                    "issued": "2017-09-06T19:25:30.941064",
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd/resource/0df14811-7b62-4760-8875-5b835b2c199b/download/consultores-individuales.csv",
+                    "description": "Consultores individuales que cumplen con las exigencias de las Resoluciones Nº60/96, y Nº 95/02",
+                    "title": "Consultores individuales",
+                    "issued": "2017-09-06T19:55:53.768539",
                     "format": "CSV",
-                    "modified": "2017-09-06T19:30:04.494948",
-                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/3bde7244-fffa-4357-b7b1-2c6277098455/resource/3912f768-5667-4b5f-a345-8f736fede061/download/eventos-educacion-ambiental.csv",
+                    "modified": "2017-09-06T19:55:53.716340",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd/resource/0df14811-7b62-4760-8875-5b835b2c199b/download/consultores-individuales.csv",
                     "field": [
                         {
                             "type": "integer",
-                            "description": "Año en el cual se realiza el evento ",
-                            "title": "evento_anio"
+                            "description": "Número de certificado otorgado por el Registro al consultor",
+                            "title": "consultor_certificado"
                         },
                         {
                             "type": "string",
-                            "description": "Tipo de evento realizado ",
-                            "title": "evento_tipo"
+                            "description": "Apellido y nombre del consultor",
+                            "title": "consultor_nombre\t"
                         },
                         {
                             "type": "string",
-                            "description": "Destinatarios del evento",
-                            "title": "evento_destinatario"
+                            "description": "Provincia de residencia informada por el consultor",
+                            "title": "consultor_localizacion_provincia"
                         },
                         {
-                            "type": "integer",
-                            "description": "Cantidad de visitantes al evento",
-                            "title": "evento_visitantes_numero"
+                            "type": "string",
+                            "description": "Localidad de residencia informada por el consultor",
+                            "title": "consultor_localizacion_localidad"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Dirección de residencia informada por el consultor",
+                            "title": "consultor_contacto_dirección"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Correo electrónico informado por el consultor",
+                            "title": "consultor_contacto_correo_electronico"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Teléfono informado por el consultor",
+                            "title": "consultor_contacto_telefono"
                         }
                     ]
                 }
             ],
             "keyword": [
-                "Educación ambiental"
+                "Consultores Individuales",
+                "Estudio de Impacto Ambiental",
+                "Impacto Ambiental",
+                "RCEIA",
+                "Registro de Consultores",
+                "Registro de Consultores en Estudios de Impacto Ambiental"
             ],
             "accrualPeriodicity": "eventual",
             "superTheme": [
                 "ENVI"
             ],
-            "landingPage": "http://datos.ambiente.gob.ar/dataset/grandes-eventos-de-educacion-ambiental",
-            "identifier": "3bde7244-fffa-4357-b7b1-2c6277098455",
+            "landingPage": "https://www.argentina.gob.ar/inscribirse-en-el-registro-de-consultores-en-estudios-de-impacto-ambiental",
+            "identifier": "0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
             "contactPoint": {
-                "hasEmail": "mailto:jgoldschtein@ambiente.gob.ar",
+                "hasEmail": "mailto:afrassetto@ambiente.gob.ar",
                 "@type": "vcard:Contact",
-                "fn": "Dirección de Educación Ambiental"
+                "fn": "Dirección de Impacto Ambiental y Social"
             }
         },
         {
@@ -82,7 +102,7 @@
             "title": "Indicadores de emisiones de gases de efecto invernadero (GEI)",
             "issued": "2017-09-06T17:22:09.627565",
             "temporal": "1990-03-01T03:00:00.000Z/2014-12-31T03:00:00.000Z",
-            "modified": "2017-09-06T17:58:12.662764",
+            "modified": "2017-09-06T19:50:45.649804",
             "language": "spa",
             "theme": [
                 "Cambio climático"
@@ -165,6 +185,32 @@
                             "title": "emisiones_gei_por_unidad_energia_unidad_medida"
                         }
                     ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/5a0a2fcf-3335-464b-9e80-ee9455b57777/download/emisiones-gei-por-unidad-de-energia-electrica.csv",
+                    "description": "Emisiones de GEI de la categoría “1.A1.a – Producción de electricidad y calor como actividad principal” dividido por la generación total de energía eléctrica conectada a la red.",
+                    "title": "Emisiones de gases de efecto invernadero (GEI) por unidad de energia electrica",
+                    "issued": "2017-09-06T19:50:45.706879",
+                    "format": "CSV",
+                    "modified": "2017-09-06T19:50:45.625096",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/09924bea-0458-4777-ab54-e74cbc5d3e8e/resource/5a0a2fcf-3335-464b-9e80-ee9455b57777/download/emisiones-gei-por-unidad-de-energia-electrica.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de la toma de datos",
+                            "title": "emisiones_gei_unidad_energia_electrica_anio"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Emisiones de GEI por unidad de energía eléctrica producida en relación con la generación total para cada año de la serie",
+                            "title": "emisiones_gei_por_unidad_energia_electrica"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Toneladas de dióxido de carbono equivalente/Mega Watts hora",
+                            "title": "emisiones_gei_por_unidad_energia_electrica_unidad_medida"
+                        }
+                    ]
                 }
             ],
             "keyword": [
@@ -190,6 +236,70 @@
                 "hasEmail": "mailto:cambioclimatico@ambiente.gob.ar",
                 "@type": "vcard:Contact",
                 "fn": "Dirección Nacional de Cambio Climático"
+            }
+        },
+        {
+            "publisher": {
+                "mbox": "jgoldschtein@ambiente.gob.ar",
+                "name": "Dirección de Educación Ambiental"
+            },
+            "accessLevel": "public",
+            "description": "Son los eventos de Educación Ambiental destinados a niños, jóvenes y público en general con el fin de  que enseñar contenidos y educar en hábitos y valores en relación al ambiente",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Grandes eventos de Educación Ambiental",
+            "issued": "2017-09-06T19:19:01.217453",
+            "temporal": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-06T19:36:17.317894",
+            "language": "spa",
+            "theme": [
+                "Educación"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/3bde7244-fffa-4357-b7b1-2c6277098455/resource/3912f768-5667-4b5f-a345-8f736fede061/download/eventos-educacion-ambiental.csv",
+                    "description": "Son los eventos de Educación Ambiental destinados a niños, jóvenes y público en general con el fin de  que enseñar contenidos y educar en hábitos y valores en relación al ambiente",
+                    "title": "Eventos de educación ambiental",
+                    "issued": "2017-09-06T19:25:30.941064",
+                    "format": "CSV",
+                    "modified": "2017-09-06T19:36:17.301637",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/3bde7244-fffa-4357-b7b1-2c6277098455/resource/3912f768-5667-4b5f-a345-8f736fede061/download/eventos-educacion-ambiental.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año en el cual se realiza el evento ",
+                            "title": "evento_anio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de evento realizado ",
+                            "title": "evento_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Destinatarios del evento",
+                            "title": "evento_destinatario"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de visitantes al evento",
+                            "title": "evento_visitantes_numero"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Educación ambiental"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/grandes-eventos-de-educacion-ambiental",
+            "identifier": "3bde7244-fffa-4357-b7b1-2c6277098455",
+            "contactPoint": {
+                "hasEmail": "mailto:jgoldschtein@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Educación Ambiental"
             }
         },
         {
