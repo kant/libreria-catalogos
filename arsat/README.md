@@ -48,8 +48,8 @@
 ## Datasets federados
 
 - [Registro de Audiencias](None)
-- [Coordenadas de la red de fibra óptica en servicio](None)
 - [Fibra óptica en obra](None)
+- [Coordenadas de la red de fibra óptica en servicio](None)
 - [Fibra óptica planificada](None)
 - [Fibra óptica tendida](None)
 - [Datos de uso de la plataforma](None)
