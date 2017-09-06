@@ -18,7 +18,7 @@
             "title": "Extracciones de productos forestales de especies nativas",
             "issued": "2017-09-06T15:34:09.956648",
             "temporal": "1994-03-01T03:00:00.000Z/2016-12-30T03:00:00.000Z",
-            "modified": "2017-09-06T15:48:25.679857",
+            "modified": "2017-09-06T16:20:59.500353",
             "language": "spa",
             "theme": [
                 "Bosques"
@@ -56,6 +56,78 @@
                         {
                             "type": "string",
                             "description": "Unidad de medida en metros cúbicos del total  del producto forestal extraído por año",
+                            "title": "extraccion_productos_forestales_unidad_medida"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/d0ba52d3-59f8-40cf-8549-bebf0d2e1d50/download/extraccionesproductosforestales-parques-nacionales-tn.csv",
+                    "description": "Extracciones de productos forestales (Rollizos, Leña, Postes, Otros productos, Carbón y Durmientes) en Parques Nacionales expresado en toneladas.",
+                    "title": "Extraccione de productos forestales parques nacionales en toneladas",
+                    "issued": "2017-09-06T16:08:47.366293",
+                    "format": "CSV",
+                    "modified": "2017-09-06T16:08:47.298833",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/d0ba52d3-59f8-40cf-8549-bebf0d2e1d50/download/extraccionesproductosforestales-parques-nacionales-tn.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de la serie",
+                            "title": "extracciones_productos_forestales_anio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipos de productos forestales",
+                            "title": "extraccion_productos_forestales_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Denominación de la jurisdicción",
+                            "title": "extraccion_productos_forestales_jurisdiccion"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Total del  producto forestal extraído por año",
+                            "title": "extraccion_productos_forestales_numero"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Unidad de medida en toneladas del total del producto forestal extraído por año",
+                            "title": "extraccion_productos_forestales_unidad_medida"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/de4c7796-4f0d-477b-84db-93c91e365185/download/extracciones-productos-forestales-provincia-m3.csv",
+                    "description": "Extracciones de productos forestales (Rollizos, Leña, Postes, Otros productos, Carbón y Durmientes) en  las provincias expresado en metros cúbicos",
+                    "title": "Extracciones de productos forestales por provincia en m3",
+                    "issued": "2017-09-06T16:20:59.553824",
+                    "format": "CSV",
+                    "modified": "2017-09-06T16:20:59.479653",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/de4c7796-4f0d-477b-84db-93c91e365185/download/extracciones-productos-forestales-provincia-m3.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de la serie",
+                            "title": "extracciones_productos_forestales_anio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipos de productos forestales",
+                            "title": "extraccion_productos_forestales_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Provincia al cual corresponde el valor",
+                            "title": "extraccion_productos_forestales_provincia"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Total del producto forestal extraído por año en la provincia",
+                            "title": "extraccion_productos_forestales_numero"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Unidad de medida en metros cúbicos del total del producto forestal extraído por año y provincia",
                             "title": "extraccion_productos_forestales_unidad_medida"
                         }
                     ]
