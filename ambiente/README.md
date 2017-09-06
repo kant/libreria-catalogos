@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 20
-- **Cantidad Total de Distribuciones**: 39
+- **Cantidad Total de Datasets**: 21
+- **Cantidad Total de Distribuciones**: 40
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 20
+- **Cantidad de Datasets NO Federados**: 21
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,6 +28,7 @@
 
 ## Datasets no federados
 
+- [Extracciones de productos forestales de especies nativas](http://datos.ambiente.gob.ar/dataset/extracciones-de-productos-forestales-de-especies-nativas)
 - [Incendios forestales](http://datos.ambiente.gob.ar/dataset/incendios-forestales)
 - [Asignación presupuestaria para construcción de obras para tratamientos de residuos](http://observatoriorsu.ambiente.gob.ar)
 - [Grado de la degradación de tierras secas en Argentina](www.desertificacion.gob.ar)
