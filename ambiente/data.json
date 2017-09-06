@@ -9,6 +9,85 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "cannunziata@ambiente.gob.ar; nesper@ambiente.gob.ar",
+                "name": "Dirección de Bosques"
+            },
+            "accessLevel": "public",
+            "description": "Detalla las extracciones de productos forestales primarios y elaborados de especies nativas  como rollizos, leña, postes, otros productos (rodrigones, estacas, estacones, varillas, varejones, etc,) carbón y durmientes. Los otros productos varían de un año a otro y de un parque a otro, por ello no se puede sistematizar cuales son, solo se han indicado algunos de ellos.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Extracciones de productos forestales de especies nativas",
+            "issued": "2017-09-06T15:34:09.956648",
+            "temporal": "1994-03-01T03:00:00.000Z/2016-12-30T03:00:00.000Z",
+            "modified": "2017-09-06T15:48:25.679857",
+            "language": "spa",
+            "theme": [
+                "Bosques"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/027a0131-180d-4f38-a461-b085ea943f24/download/extracciones-productos-forestales-parques-nacionales-m3.csv",
+                    "description": "Extracciones de productos forestales (Rollizos, Leña, Postes, Otros productos, Carbón y Durmientes) en Parques Nacionales expresado en metros cúbicos",
+                    "title": "Extracciones de productos forestales en parques nacionales en m3",
+                    "issued": "2017-09-06T15:48:25.236395",
+                    "format": "CSV",
+                    "modified": "2017-09-06T15:48:25.113209",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/027a0131-180d-4f38-a461-b085ea943f24/download/extracciones-productos-forestales-parques-nacionales-m3.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de la serie",
+                            "title": "extracciones_productos_forestales_anio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipos de productos forestales",
+                            "title": "extraccion_productos_forestales_tipo"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Denominación de la jurisdicción",
+                            "title": "extraccion_productos_forestales_jurisdiccion"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Total del producto forestal extraído por año",
+                            "title": "extraccion_productos_forestales_numero"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Unidad de medida en metros cúbicos del total  del producto forestal extraído por año",
+                            "title": "extraccion_productos_forestales_unidad_medida"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Carbón",
+                "Durmientes",
+                "Especies nativas",
+                "Extracciones",
+                "Leña",
+                "Parques Nacionales",
+                "Postes",
+                "Productos forestales",
+                "Rollizos",
+                "elaborados",
+                "primarios"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/extracciones-de-productos-forestales-de-especies-nativas",
+            "identifier": "b45c63b4-5da5-426f-8e98-ac934807a510",
+            "contactPoint": {
+                "hasEmail": "mailto:cannunziata@ambiente.gob.ar; nesper@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Bosques"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "galcaire@ambiente.gob.ar; cannunziata@ambiente.gob.ar; nesper@ambiente.gob.ar",
                 "name": "Dirección de Bosques"
             },
