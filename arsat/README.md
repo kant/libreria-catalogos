@@ -48,6 +48,7 @@
 ## Datasets federados
 
 - [Registro de Audiencias](None)
+- [Coordenadas de la red de fibra óptica en servicio](None)
 - [Fibra óptica en obra](None)
 - [Fibra óptica planificada](None)
 - [Fibra óptica tendida](None)
@@ -55,7 +56,6 @@
 - [Declaraciones Juradas Patrimoniales - Directorio y Gerentes](None)
 - [Escuelas Conectadas con Tecnología Gillat](None)
 - [Futuros puntos de conexión al Plan Federal de Internet](None)
-- [Coordenadas de la red de fibra óptica en servicio](None)
 - [Personal por Gerencia](None)
 - [Promedios de edad y antigüedad del personal](None)
 - [Listado de Personal](None)
