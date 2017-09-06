@@ -18,7 +18,7 @@
             "title": "Incendios forestales",
             "issued": "2017-09-06T14:32:31.882477",
             "temporal": "1993-03-01T03:00:00.000Z/2016-12-30T03:00:00.000Z",
-            "modified": "2017-09-06T14:53:18.012422",
+            "modified": "2017-09-06T15:18:44.661206",
             "theme": [
                 "Bosques"
             ],
@@ -107,6 +107,103 @@
                             "type": "integer",
                             "description": "Cantidad de incendios cuya causa fue desconocida (fuego cuya causa es imposible determinar) para el año dado",
                             "title": "incendio_desconocida_numero"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/00cb98c3-993e-40c5-8ad7-e8a4262cf6bd/download/superficie-afectada-por-incendios-parques-nacionales-tipo-de-vegetacion.csv",
+                    "description": "Superficie  afectada por incendios en parques nacionales, según tipo de vegetación, por año y en hectáreas",
+                    "title": "Superficie afectada por incendios en parques nacionales por tipo de vegetación",
+                    "issued": "2017-09-06T15:08:57.114345",
+                    "format": "CSV",
+                    "modified": "2017-09-06T15:08:57.049936",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/00cb98c3-993e-40c5-8ad7-e8a4262cf6bd/download/superficie-afectada-por-incendios-parques-nacionales-tipo-de-vegetacion.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de la serie",
+                            "title": "superficie_afectada_por_incendios_total_anio"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie total afectada por incendios en Parques Nacionales, en hectáreas",
+                            "title": "superficie_afectada_por_incendios_total _hectareas"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie afectada por incendios en bosques nativos (bosque que ha evolucionado a partir de organismos que ya estaban en el lugar (predominio de especies autóctonas) y cuya cobertura es de al menos el 20% de la superficie y la altura de los árboles a la madurez es mayor o igual > o = a cuatro metros) para el año dado",
+                            "title": "superficie_afectada_por_incendios_bosque_nativo_hectareas"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie afectada por incendios en bosques cultivados (plantación forestal obtenida mediante la implantación de árboles o estacas) para el año dado",
+                            "title": "superficie_afectada_por_incendios_bosque_cultivado_hectareas"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie afectada por incendios en arbustales o matorrales (terreno con plantas que se diferencian de las hierbas por sus tallos persistentes y leñosos y de los bosques por su poca altura (hasta 4 metros) y su tendencia a ramificarse desde la base) para el año dado",
+                            "title": "superficie_afectada_por_incendios_arbustal_hectareas"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie afectada por incendios en pastizales (terreno de pastos, en el que el combustible principal es hierba, sin importar la altura) para el año dado",
+                            "title": "superficie_afectada_por_incendios_pastizal_hectareas"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie afectada por incendios en un tipo de vegetación que no se puede determinar",
+                            "title": "superficie_afectada_por_incendios_sin_determinar_hectareas"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/c7b70f96-5562-4673-9b61-6ead123a99f7/download/superficie-incendiada-provincias-tipo-de-vegetacion.csv",
+                    "description": "Superficie afectada por incendios por provincia, según tipo de vegetación y  año, en hectáreas",
+                    "title": "Superficie afectada por incendios por provincia y tipo de vegetación",
+                    "issued": "2017-09-06T15:18:44.707234",
+                    "format": "CSV",
+                    "modified": "2017-09-06T15:18:44.639636",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/c7b70f96-5562-4673-9b61-6ead123a99f7/download/superficie-incendiada-provincias-tipo-de-vegetacion.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de la serie",
+                            "title": "superficie_afectada_por_incendios_total_anio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Denominación de la provincia",
+                            "title": "superficie_afectada_por_incendios_provincia"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie total afectada por incendios en provincia en hectáreas",
+                            "title": "superficie_afectada_por_incendios_total_hectareas"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie afectada por incendios en bosques nativos( bosque que ha evolucionado a partir de organismos que ya estaban en el lugar (predominio de especies autóctonas) y cuya cobertura es de al menos el 20% de la superficie y la altura de los árboles a la madurez es mayor o igual > o = a cuatro metros)para el año dado",
+                            "title": "superficie_afectada_por_incendios _bosque_nativo_hectareas"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie afectada por incendios en bosques cultivados (plantación forestal obtenida mediante la implantación de árboles o estacas) para el año dado",
+                            "title": "superficie_afectada_por_incendios_bosque_cultivado_hectareas"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie afectada por incendios en arbustales o matorrales (terreno con plantas que se diferencian de las hierbas por sus tallos persistentes y leñosos y de los bosques por su poca altura (hasta 4 metros) y su tendencia a ramificarse desde la base) para el año dado",
+                            "title": "superficie_afectada_por_incendios_arbustal_hectareas"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie afectada por incendios en pastizales (terreno de pastos, en el que el combustible principal es hierbas, sin importar la altura) para el año dado",
+                            "title": "superficie_afectada_por_incendios_pastizal_hectareas"
+                        },
+                        {
+                            "type": "number",
+                            "description": "Superficie afectada por incendios en un tipo de vegetación que no se puede determinar",
+                            "title": "superficie_afectada_por_incendios_sin_determinar_hectareas"
                         }
                     ]
                 }
