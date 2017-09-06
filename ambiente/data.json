@@ -9,6 +9,132 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "galcaire@ambiente.gob.ar; cannunziata@ambiente.gob.ar; nesper@ambiente.gob.ar",
+                "name": "Dirección de Bosques"
+            },
+            "accessLevel": "public",
+            "description": "Se denomina Incendio forestal a cualquier fuego que se extiende sin control en terreno forestal afectando vegetación que no estaba destinada a arder",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Incendios forestales",
+            "issued": "2017-09-06T14:32:31.882477",
+            "temporal": "1993-03-01T03:00:00.000Z/2016-12-30T03:00:00.000Z",
+            "modified": "2017-09-06T14:53:18.012422",
+            "theme": [
+                "Bosques"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/6c3a726b-f2d0-43d4-81ac-72e55a84a6a3/download/incendios-cantidad-causas-parques-nacionales.csv",
+                    "description": "Cantidad de incendios ocurridos en los Parques Naciones según causas principales",
+                    "title": "Causas y cantidad de incendios en parques nacionales",
+                    "issued": "2017-09-06T14:41:05.212552",
+                    "format": "CSV",
+                    "modified": "2017-09-06T14:41:05.151429",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/6c3a726b-f2d0-43d4-81ac-72e55a84a6a3/download/incendios-cantidad-causas-parques-nacionales.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de la serie",
+                            "title": "incendio_anio"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de incendios ocurridos en el año dado",
+                            "title": "incendio_total_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de incendios producidos por negligencia (fuego provocado por descuido) para el año dado",
+                            "title": "incendio_negligencia_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de incendios cuya causa fue intencional (fuego provocado para obtener un beneficio) para el año dado",
+                            "title": "incendio_intencional_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de incendios cuya causa fue natural (fuego provocado por las sequias, altas temperaturas, tormentas eléctricas) para el año dado",
+                            "title": "incendio_natural_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de incendios cuya causa fue desconocida (fuego cuya causa es imposible determinar) para el año dado",
+                            "title": "incendio_desconocida_numero"
+                        }
+                    ]
+                },
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/93c2f293-9698-4457-92cf-e07856d8edb2/download/incendios-cantidad-causas-provincia.csv",
+                    "description": "Cantidad de incendios ocurridos por provincia según causas principales",
+                    "title": "Causas y cantidad de incendios por provincia",
+                    "issued": "2017-09-06T14:51:01.880477",
+                    "format": "CSV",
+                    "modified": "2017-09-06T14:53:17.994300",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/93c2f293-9698-4457-92cf-e07856d8edb2/download/incendios-cantidad-causas-provincia.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año de la serie",
+                            "title": "incendio_anio"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Denominación de la provincia",
+                            "title": "incendio_provincia"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de incendios ocurridos en el año dado",
+                            "title": "incendio_total_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de incendios cuya causa fue negligencia (fuego provocado por descuido) para el año dado",
+                            "title": "incendio_negligencia_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de incendios cuya causa fue intencional (fuego provocado para obtener un beneficio) para el año dado",
+                            "title": "incendio_intencional_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de incendios cuya causa fue natural (fuego provocado por las sequias, altas temperaturas, tormentas eléctricas) para el año dado",
+                            "title": "incendio_natural_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de incendios cuya causa fue desconocida (fuego cuya causa es imposible determinar) para el año dado",
+                            "title": "incendio_desconocida_numero"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Incendios",
+                "Incendios forestal",
+                "arbustal",
+                "bosque cultivado",
+                "bosque nativo",
+                "causas",
+                "parques nacionales",
+                "pastizal"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/incendios-forestales",
+            "identifier": "12f60bea-3225-4375-935c-1fb9ebe3ef57",
+            "contactPoint": {
+                "hasEmail": "mailto:galcaire@ambiente.gob.ar; cannunziata@ambiente.gob.ar; nesper@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Bosques"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "llehmann@ambiente.gob.ar",
                 "name": "Dirección Nacional de Gestión Integral de los Residuos"
             },
