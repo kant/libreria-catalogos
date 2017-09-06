@@ -9,6 +9,78 @@
     "dataset": [
         {
             "publisher": {
+                "mbox": "jgoldschtein@ambiente.gob.ar",
+                "name": "Dirección de Educación Ambiental"
+            },
+            "accessLevel": "public",
+            "description": "Las capacitaciones y cursos de Educación Ambiental contribuyen con los procesos de enseñanza y aprendizaje basados en la integración de contenidos ambientales y los encuentros de Educación Ambiental son realizados con el propósito de generar compromisos de acciones educativas articuladas  con diversos organismos estatales, instituciones y sectores sociales en el marco de la Estrategia Nacional de Educación Ambiental.",
+            "license": "Open Data Commons Open Database License (ODbL)",
+            "title": "Encuentros y jornadas de educación ambiental",
+            "issued": "2017-09-06T16:58:20.032556",
+            "temporal": "2016-03-01T03:00:00.000Z/2017-08-31T03:00:00.000Z",
+            "modified": "2017-09-06T17:30:21.293365",
+            "language": "spa",
+            "theme": [
+                "Educación"
+            ],
+            "distribution": [
+                {
+                    "accessURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/resource/0db23dc2-a196-42bd-a1b3-8a1036beffea/download/encuentro-educacion-ambiental.csv",
+                    "description": "Son los encuentros de educación ambiental realizados con el propósito de generar compromisos de acciones educativas articuladas  con diversos organismos estatales, instituciones y sectores sociales.",
+                    "title": "Encuentros de educación ambiental",
+                    "issued": "2017-09-06T17:07:49.317701",
+                    "format": "CSV",
+                    "modified": "2017-09-06T17:07:49.271370",
+                    "downloadURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/resource/0db23dc2-a196-42bd-a1b3-8a1036beffea/download/encuentro-educacion-ambiental.csv",
+                    "field": [
+                        {
+                            "type": "integer",
+                            "description": "Año en el cual se realiza el encuentro de Educación Ambiental",
+                            "title": "encuentro_anio"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de encuentros de temática ambiental en el año dado",
+                            "title": "encuentro_numero"
+                        },
+                        {
+                            "type": "integer",
+                            "description": "Cantidad de participantes en el encuentro de Educación Ambiental",
+                            "title": "encuentro_participantes"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Tipo de encuentro de Educación Ambiental",
+                            "title": "encuentro_tematica"
+                        },
+                        {
+                            "type": "string",
+                            "description": "Destinatarios del encuentro de Educación Ambiental",
+                            "title": "encuentro_destinatarios"
+                        }
+                    ]
+                }
+            ],
+            "keyword": [
+                "Educación ambiental",
+                "Estrategia Nacional",
+                "encuentros",
+                "jornadas"
+            ],
+            "accrualPeriodicity": "eventual",
+            "superTheme": [
+                "ENVI"
+            ],
+            "landingPage": "http://datos.ambiente.gob.ar/dataset/encuentros-y-jornadas-de-educacion-ambiental",
+            "identifier": "9a4a51ef-26e4-416c-b97d-7ea48dac04df",
+            "contactPoint": {
+                "hasEmail": "mailto:jgoldschtein@ambiente.gob.ar",
+                "@type": "vcard:Contact",
+                "fn": "Dirección de Educación Ambiental"
+            }
+        },
+        {
+            "publisher": {
                 "mbox": "cannunziata@ambiente.gob.ar; nesper@ambiente.gob.ar",
                 "name": "Dirección de Bosques"
             },
