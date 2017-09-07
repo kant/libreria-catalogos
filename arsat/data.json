@@ -160,6 +160,61 @@
                 "TECH"
             ],
             "keyword": [
+                "ARSAT",
+                "GESTION TRANSPARENTE"
+            ],
+            "title": "Honorarios de Directores",
+            "issued": "2017-09-07T13:25:53",
+            "modified": "2017-09-07T13:26:11",
+            "language": [
+                "spa"
+            ],
+            "theme": [
+                "gestion-transparente"
+            ],
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/",
+                    "description": "Honorarios de Directores de ARSAT",
+                    "title": "Honorarios de Directores",
+                    "issued": "2017-09-07T13:25:53",
+                    "format": "CSV",
+                    "modified": "2017-09-07T13:26:11",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/",
+                    "description": "Honorarios de Directores de ARSAT",
+                    "title": "Honorarios de Directores",
+                    "issued": "2017-09-07T13:25:53",
+                    "format": "XLS",
+                    "modified": "2017-09-07T13:26:11",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
+                },
+                {
+                    "accessURL": "http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/",
+                    "description": "Honorarios de Directores de ARSAT",
+                    "title": "Honorarios de Directores",
+                    "issued": "2017-09-07T13:25:53",
+                    "format": "JSON",
+                    "modified": "2017-09-07T13:26:11",
+                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
+                }
+            ],
+            "identifier": "HONOR-DE-DIREC",
+            "homepage": "http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/",
+            "description": "Honorarios de Directores de ARSAT"
+        },
+        {
+            "publisher": {
+                "mbox": "gcamporro@arsat.com.ar",
+                "name": "ARSAT"
+            },
+            "superTheme": [
+                "TECH"
+            ],
+            "keyword": [
                 "PLAN FEDERAL DE INTERNET",
                 "ARSAT"
             ],
@@ -1749,61 +1804,6 @@
             "identifier": "LISTA-DE-PROVE-79569",
             "homepage": "http://datos.arsat.com.ar/dataviews/237843/listado-de-proveedores/",
             "description": "El listado muestra los proveedores de Arsat que facturan más de $Ars 100.000 por año, y no incluye los contratos de locación de servicios"
-        },
-        {
-            "publisher": {
-                "mbox": "gcamporro@arsat.com.ar",
-                "name": "ARSAT"
-            },
-            "superTheme": [
-                "TECH"
-            ],
-            "keyword": [
-                "ARSAT",
-                "GESTION TRANSPARENTE"
-            ],
-            "title": "Honorarios de Directores",
-            "issued": "2017-06-14T19:41:11",
-            "modified": "2017-06-14T19:41:39",
-            "language": [
-                "spa"
-            ],
-            "theme": [
-                "gestion-transparente"
-            ],
-            "accrualPeriodicity": "R/P1Y",
-            "distribution": [
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/",
-                    "description": "Honorarios de Directores de ARSAT",
-                    "title": "Honorarios de Directores",
-                    "issued": "2017-06-14T19:41:11",
-                    "format": "CSV",
-                    "modified": "2017-06-14T19:41:39",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.csv?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/",
-                    "description": "Honorarios de Directores de ARSAT",
-                    "title": "Honorarios de Directores",
-                    "issued": "2017-06-14T19:41:11",
-                    "format": "XLS",
-                    "modified": "2017-06-14T19:41:39",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.xls?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff&download=1"
-                },
-                {
-                    "accessURL": "http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/",
-                    "description": "Honorarios de Directores de ARSAT",
-                    "title": "Honorarios de Directores",
-                    "issued": "2017-06-14T19:41:11",
-                    "format": "JSON",
-                    "modified": "2017-06-14T19:41:39",
-                    "downloadURL": "http://api.datos.arsat.com.ar/api/v2/datastreams/HONOR-DE-DIREC/data.json?auth_key=4b4d45f6f2b2805cad8cb6de5c8ef84dbb5febff"
-                }
-            ],
-            "identifier": "HONOR-DE-DIREC",
-            "homepage": "http://datos.arsat.com.ar/dataviews/238788/honorarios-de-directores/",
-            "description": "Honorarios de Directores de ARSAT"
         },
         {
             "publisher": {
