@@ -15,11 +15,11 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 26
-- **Cantidad Total de Distribuciones**: 56
+- **Cantidad Total de Datasets**: 27
+- **Cantidad Total de Distribuciones**: 57
 
 - **Cantidad de Datasets Federados**: 0
-- **Cantidad de Datasets NO Federados**: 26
+- **Cantidad de Datasets NO Federados**: 27
 - **Porcentaje de Datasets NO Federados**: 100.0%
 
 ## Datasets federados que fueron eliminados en el nodo original
@@ -28,9 +28,10 @@
 
 ## Datasets no federados
 
+- [Emisiones de gases de efecto invernadero (GEI)](https://inventariogei.ambiente.gob.ar/)
+- [Grandes eventos de educación ambiental](http://datos.ambiente.gob.ar/dataset/grandes-eventos-de-educacion-ambiental)
 - [Indicadores de emisiones de gases de efecto invernadero (GEI)](https://inventariogei.ambiente.gob.ar/)
 - [Registro de Consultores en Estudios de Impacto Ambiental](https://www.argentina.gob.ar/inscribirse-en-el-registro-de-consultores-en-estudios-de-impacto-ambiental)
-- [Grandes eventos de Educación Ambiental](http://datos.ambiente.gob.ar/dataset/grandes-eventos-de-educacion-ambiental)
 - [Material didáctico y de comunicación de Educación Ambiental](http://datos.ambiente.gob.ar/dataset/material-didactico-y-de-comunicacion-de-educacion-ambiental)
 - [Encuentros y jornadas de educación ambiental](http://datos.ambiente.gob.ar/dataset/encuentros-y-jornadas-de-educacion-ambiental)
 - [Extracciones de productos forestales de especies nativas](http://datos.ambiente.gob.ar/dataset/extracciones-de-productos-forestales-de-especies-nativas)
