@@ -48,6 +48,7 @@
 ## Datasets federados
 
 - [Registro de Audiencias](None)
+- [Honorarios de Directores](None)
 - [Coordenadas de la red de fibra óptica en servicio](None)
 - [Fibra óptica tendida](None)
 - [Fibra óptica en obra](None)
@@ -64,7 +65,6 @@
 - [Escuelas conectadas](None)
 - [Escuelas de próxima conexión](None)
 - [Listado de Proveedores](None)
-- [Honorarios de Directores](None)
 - [Categorías y escalas salariales](None)
 - [Áreas de cobertura de la televisión digital abierta](None)
 - [Fibra óptica de la empresa Transener](None)
