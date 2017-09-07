@@ -15,10 +15,10 @@
 
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
-- **Cantidad Total de Datasets**: 213
-- **Cantidad Total de Distribuciones**: 864
+- **Cantidad Total de Datasets**: 221
+- **Cantidad Total de Distribuciones**: 896
 
-- **Cantidad de Datasets Federados**: 213
+- **Cantidad de Datasets Federados**: 221
 - **Cantidad de Datasets NO Federados**: 0
 - **Porcentaje de Datasets NO Federados**: 0.0%
 
@@ -41,6 +41,7 @@
 - [Barrios Populares de Argentina](https://www.argentina.gob.ar/barriospopulares)
 - [Base Infoleg de Normativa Nacional](http://www.infoleg.gob.ar)
 - [Base SAIJ de Normativa Provincial]()
+- [Bienes secuestrados y decomisados durante el proceso penal]()
 - [Cálculo de Recursos y su Ejecución completo de la Administración Pública Nacional](http://sitiodelciudadano.mecon.gov.ar/sici/set_de_datos_vigente.html)
 - [Cantidad de usuarios de gas natural de red por segmento de calle]()
 - [Cantidad de usuarios  de redes de gas natural por provincia](http://www.enargas.gov.ar/secciones/transporte-y-distribucion/datos-operativos.php)
@@ -55,9 +56,11 @@
 - [Comercialización Hidrocarburos Combustibles Líquidos]()
 - [Compras de GLP]()
 - [Conectividad al servicio de Internet](None)
+- [Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ-]()
 - [Contratos de Alquiler del Estado Nacional como Locador]()
 - [Coordenadas de la red de fibra óptica en servicio](http://datos.arsat.com.ar/dataviews/236038/coordenadas-de-la-red-de-fibra-optica-en-servicio/)
 - [Crédito y Gasto completo del Presupuesto de la Administración Pública Nacional]()
+- [Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público]()
 - [Datos de las estaciones de transmisión en construcción o planificadas](http://datos.arsat.com.ar/dataviews/238760/datos-de-las-estaciones-de-transmision-en-construccion-o-planificadas/)
 - [Datos de las estaciones transmisoras](http://datos.arsat.com.ar/dataviews/236036/datos-de-las-estaciones-transmisoras/)
 - [Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América](http://datos.arsat.com.ar/dataviews/236043/datos-del-area-de-cobertura-de-la-banda-c-del-satelite-arsat-2-en-america/)
@@ -67,6 +70,7 @@
 - [Declaraciones Juradas Patrimoniales - Directorio y Gerentes](http://datos.arsat.com.ar/dataviews/237547/declaraciones-juradas-patrimoniales-directorio-y-gerentes/)
 - [Declaraciones Juradas Patrimoniales Integrales de carácter público](https://www2.jus.gov.ar/consultaddjj)
 - [Denuncias mensuales recibidas](None)
+- [Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional]()
 - [Disponibilidad de petróleo a fin de mes]()
 - [Distribución de gas natural - Concesiones de empresas distribuidoras]()
 - [Distribución de petróleo]()
@@ -142,6 +146,8 @@
 - [Licenciatarios TIC](None)
 - [Licitaciones](http://datos.arsat.com.ar/dataviews/237560/licitaciones/)
 - [Listado de estaciones repetidoras](None)
+- [Listado de mediaciones prejudiciales y judiciales. Ley 26.589]()
+- [Listado de mediadores]()
 - [Listado de Personal](http://datos.arsat.com.ar/dataviews/238682/listado-de-personal/)
 - [Listado de prestadores de telefonía](None)
 - [Listado de Proveedores](http://datos.arsat.com.ar/dataviews/237843/listado-de-proveedores/)
@@ -221,7 +227,9 @@
 - [Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional]()
 - [Registro Único de Audiencias de Gestión de Intereses](http://audiencias.jgm.gob.ar/registrodeaudiencias/searchjgm.php)
 - [Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-](http://www.jus.gob.ar/derechoshumanos/areas-tematicas/ruvte.aspx)
+- [Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional]()
 - [Resultados Electorales 2015](http://www.elecciones.gob.ar/articulo_princ.php?secc=2&sub_secc=8)
+- [Selección de magistrados del Poder Judicial y el Ministerio Público de la Nación]()
 - [Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.]()
 - [Sistema de Contrataciones Electrónicas  (Argentina Compra)](https://www.argentinacompra.gov.ar/contrataciones)
 - [Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP]()
