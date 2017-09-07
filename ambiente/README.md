@@ -16,7 +16,7 @@
 - **Estado metadatos globales**: ERROR
 - **Estado metadatos catálogo**: ERROR
 - **Cantidad Total de Datasets**: 27
-- **Cantidad Total de Distribuciones**: 57
+- **Cantidad Total de Distribuciones**: 60
 
 - **Cantidad de Datasets Federados**: 0
 - **Cantidad de Datasets NO Federados**: 27
@@ -28,9 +28,9 @@
 
 ## Datasets no federados
 
+- [Indicadores de emisiones de gases de efecto invernadero (GEI)](https://inventariogei.ambiente.gob.ar/)
 - [Emisiones de gases de efecto invernadero (GEI)](https://inventariogei.ambiente.gob.ar/)
 - [Grandes eventos de educación ambiental](http://datos.ambiente.gob.ar/dataset/grandes-eventos-de-educacion-ambiental)
-- [Indicadores de emisiones de gases de efecto invernadero (GEI)](https://inventariogei.ambiente.gob.ar/)
 - [Registro de Consultores en Estudios de Impacto Ambiental](https://www.argentina.gob.ar/inscribirse-en-el-registro-de-consultores-en-estudios-de-impacto-ambiental)
 - [Material didáctico y de comunicación de Educación Ambiental](http://datos.ambiente.gob.ar/dataset/material-didactico-y-de-comunicacion-de-educacion-ambiental)
 - [Encuentros y jornadas de educación ambiental](http://datos.ambiente.gob.ar/dataset/encuentros-y-jornadas-de-educacion-ambiental)
